@@ -1,0 +1,29 @@
+{
+  "english": "occur",
+  "phat_am": "[ə'kɜ:(r)]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xảy ra, xuất hiện, tìm thấy",
+          "list_en_vn": [
+            {
+              "full_en": "several misprints occur on the first page",
+              "full_vn": "nhiều lỗi in sai tìm thấy ở trang nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chợt nảy ra, loé lên (ý nghĩ)",
+          "list_en_vn": [
+            {
+              "full_en": "It occurs to me that",
+              "full_vn": "Tôi chợt nảy ra ý nghĩ là"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

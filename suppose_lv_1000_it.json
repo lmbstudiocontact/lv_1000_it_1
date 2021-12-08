@@ -1,0 +1,135 @@
+{
+  "english": "suppose",
+  "phat_am": "[sə'pouz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho là; tin rằng; nghĩ rằng",
+          "list_en_vn": [
+            {
+              "full_en": "She 'll be there today , I suppose",
+              "full_vn": "Tôi tin rằng hôm nay cô ta sẽ có mặt ở đó"
+            },
+            {
+              "full_en": "I suppose we shall be back in an hour",
+              "full_vn": "Tôi cho rằng một giờ nữa chúng tôi sẽ quay lại"
+            },
+            {
+              "full_en": "I don't suppose he will come",
+              "full_vn": "Tôi nghĩ rằng anh ấy sẽ không đến"
+            },
+            {
+              "full_en": "Will she agree with me ? - Yes , I suppose so",
+              "full_vn": "Cô ấy sẽ đồng ý với tôi chứ? - Vâng, tôi nghĩ là vậy"
+            },
+            {
+              "full_en": "It was generally supposed that such confusion would not happen again",
+              "full_vn": "Nói chung người ta cho rằng sẽ không có chuyện nhầm lẫn như vậy nữa"
+            },
+            {
+              "full_en": "Everyone supposed her (to be ) kind-hearted , but she is really quite cunning",
+              "full_vn": "Ai cũng cho rằng bà ấy tốt bụng, nhưng kỳ thực bà ấy rất quỷ quyệt"
+            },
+            {
+              "full_en": "It was widely supposed to have fallen into oblivion",
+              "full_vn": "Khắp nơi người ta đều cho rằng điều đó đã chìm vào quên lãng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giả định; cho rằng; giả sử; ví bằng",
+          "list_en_vn": [
+            {
+              "full_en": "Suppose (that ) the news is true: what then ?",
+              "full_vn": "Cứ cho rằng tin ấy là đúng, rồi sao nào?"
+            },
+            {
+              "full_en": "Suppose you won in a lottery - what would you do first ?",
+              "full_vn": "Giả sử anh trúng số, anh sẽ làm gì trước tiên?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ở thể mệnh lệnh) coi như một lời đề nghị",
+          "list_en_vn": [
+            {
+              "full_en": "Suppose we go for a swim !",
+              "full_vn": "Chúng ta đi bơi nhé!"
+            },
+            {
+              "full_en": "Suppose we try another",
+              "full_vn": "Đề nghị chúng ta cố một keo nữa; Hay là chúng ta thử một lần nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi; cần có (lý thuyết, kết quả...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be supposed to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "có nhiệm vụ/bổn phận phải làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You're supposed to finish it right now",
+                      "full_vn": "Anh phải làm xong việc đó ngay bây giờ"
+                    },
+                    {
+                      "full_en": "You're not supposed to play football in the classroom",
+                      "full_vn": "Các em không được đá banh trong lớp học"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be supposed to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "có nhiệm vụ/bổn phận phải làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You're supposed to finish it right now",
+                      "full_vn": "Anh phải làm xong việc đó ngay bây giờ"
+                    },
+                    {
+                      "full_en": "You're not supposed to play football in the classroom",
+                      "full_vn": "Các em không được đá banh trong lớp học"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be supposed to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "có nhiệm vụ/bổn phận phải làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You're supposed to finish it right now",
+                      "full_vn": "Anh phải làm xong việc đó ngay bây giờ"
+                    },
+                    {
+                      "full_en": "You're not supposed to play football in the classroom",
+                      "full_vn": "Các em không được đá banh trong lớp học"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "That supposes mechanism without flaws",
+              "full_vn": "Cái đó đòi hỏi máy móc phải thật tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "roundabout",
+  "phat_am": "['raundəbaut]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(không đi theo con đường ngắn nhất hoặc không nói thật ngắn gọn); theo đường vòng; quanh co",
+          "list_en_vn": [
+            {
+              "full_en": "to go by a roundabout route ; to take a roundabout route",
+              "full_vn": "đi bằng con đường vòng"
+            },
+            {
+              "full_en": "a roundabout way of saying something",
+              "full_vn": "lối nói quanh co về việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẫy đà; to béo; mập mạp"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ đường vòng (phải vòng qua bục công an... chứ không đi thẳng được); bùng binh (như) rotary , traffic-circle"
+        },
+        {
+          "m_full_vn": "sàn quay tròn có mô hình ngựa, xe... cho trẻ con chơi ở hội chợ; vòng ngựa gỗ (cũng) carousel , merry-go-round , whirligig"
+        }
+      ]
+    }
+  ]
+}

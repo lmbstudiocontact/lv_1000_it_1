@@ -1,0 +1,47 @@
+{
+  "english": "locate",
+  "phat_am": "[lou'keit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xác định vị trí, định vị",
+          "list_en_vn": [
+            {
+              "full_en": "to locate a fire",
+              "full_vn": "xác định nơi xảy ra đám cháy"
+            },
+            {
+              "full_en": "to locate a nation on the map",
+              "full_vn": "xác định vị trí một quốc gia trên bản đồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt vào vị trí",
+          "list_en_vn": [
+            {
+              "full_en": "that joint-venture company will be located on the way to Danang",
+              "full_vn": "công ty liên doanh ấy sẽ nằm trên đường đi Đà nẵng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có trụ sở ở, nằm ở",
+          "list_en_vn": [
+            {
+              "full_en": "the five-star hotel will locate on Thuy Van Beach",
+              "full_vn": "khách sạn năm sao sẽ nằm ở bãi biển Thùy Vân"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

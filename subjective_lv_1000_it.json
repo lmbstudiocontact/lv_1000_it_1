@@ -1,0 +1,48 @@
+{
+  "english": "subjective",
+  "phat_am": "[səb'dʒektiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(về ý kiến, cảm xúc....) tồn tại trong đầu, không phải do những cái bên ngoài tâm trí tạo ra; chủ quan",
+          "list_en_vn": [
+            {
+              "full_en": "a subjective impression , sensation",
+              "full_vn": "ấn tượng, cảm giác chủ quan"
+            },
+            {
+              "full_en": "our perception of things is often influenced by subjective factors , such as tiredness",
+              "full_vn": "nhận thức của chúng ta về thực tại thường chịu ảnh hưởng của những yếu tố chủ quan, chẳng hạn như sự mệt mỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dựa trên sở thích, quan điểm cá nhân...; chủ quan",
+          "list_en_vn": [
+            {
+              "full_en": "a very subjective judgement of the play",
+              "full_vn": "một nhận xét rất chủ quan về vở kịch"
+            },
+            {
+              "full_en": "a literary critic should not be subjective in his approach",
+              "full_vn": "một nhà phê bình văn học không nên quá chủ quan trong cách tiếp cận của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ) của chủ ngữ; (thuộc) chủ cách"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) chủ cách"
+        }
+      ]
+    }
+  ]
+}

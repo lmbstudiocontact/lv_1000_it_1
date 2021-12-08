@@ -1,0 +1,37 @@
+{
+  "english": "passionate",
+  "phat_am": "['pæ∫ənət]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "say đắm, nồng nàn; nồng nhiệt, thiết tha",
+          "list_en_vn": [
+            {
+              "full_en": "a passionate speech",
+              "full_vn": "một bài diễn văn đầy nhiệt tình"
+            },
+            {
+              "full_en": "a passionate nature",
+              "full_vn": "bản tính sôi nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sôi nổi, dễ cáu giận",
+          "list_en_vn": [
+            {
+              "full_en": "a passionate nature",
+              "full_vn": "một bản chất sôi nổi"
+            },
+            {
+              "full_en": "a passionate woman",
+              "full_vn": "một phụ nữ sôi nổi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "english": "round",
+  "phat_am": "[raund]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tròn",
+          "list_en_vn": [
+            {
+              "full_en": "round cheeks",
+              "full_vn": "má tròn trĩnh, má phính"
+            },
+            {
+              "full_en": "round hand",
+              "full_vn": "chữ rộng, chữ viết tròn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tròn, chẵn",
+          "list_en_vn": [
+            {
+              "full_en": "a round dozen",
+              "full_vn": "một tá tròn"
+            },
+            {
+              "full_en": "in round figures",
+              "full_vn": "tính theo số tròn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) khứ hồi",
+          "list_en_vn": [
+            {
+              "full_en": "a round trip",
+              "full_vn": "một cuộc hành trình khứ hồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo vòng tròn, vòng quanh",
+          "list_en_vn": [
+            {
+              "full_en": "a round voyage",
+              "full_vn": "một cuộc đi biển vòng quanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thẳng thắn, chân thật, nói không úp mở",
+          "list_en_vn": [
+            {
+              "full_en": "to be round with someone",
+              "full_vn": "(từ cổ,nghĩa cổ) nói thẳng thắn, không úp mở với ai"
+            },
+            {
+              "full_en": "a round unvarnished tale",
+              "full_vn": "sự thật nói thẳng ra không che đậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sang sảng, vang (giọng)",
+          "list_en_vn": [
+            {
+              "full_en": "a round voice",
+              "full_vn": "giọng sang sảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lưu loát, trôi chảy (văn)",
+          "list_en_vn": [
+            {
+              "full_en": "a round style",
+              "full_vn": "văn phong lưu loát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh, mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "at a round pace",
+              "full_vn": "đi nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khá lớn, đáng kể",
+          "list_en_vn": [
+            {
+              "full_en": "a good round gun",
+              "full_vn": "một số tiền khá lớn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật hình tròn, khoanh",
+          "list_en_vn": [
+            {
+              "full_en": "a round of toast",
+              "full_vn": "khoanh bánh mì nướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vòng tròn",
+          "list_en_vn": [
+            {
+              "full_en": "to dance in a round",
+              "full_vn": "nhảy vòng tròn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vòng, sự quay, vòng, sự tuần hoàn, chu kỳ",
+          "list_en_vn": [
+            {
+              "full_en": "the earth's yearly round",
+              "full_vn": "sự quay vòng hằng năm của trái đất"
+            },
+            {
+              "full_en": "the daily round",
+              "full_vn": "công việc lặp đi lặp lại hằng ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phạm vi, lĩnh vực",
+          "list_en_vn": [
+            {
+              "full_en": "in all the round of knowledge",
+              "full_vn": "trong mọi lĩnh vực hiểu biết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuần, chầu (mời rượu...)",
+          "list_en_vn": [
+            {
+              "full_en": "to stand a round of drinks",
+              "full_vn": "thết một chầu rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) hiệp (quyền Anh); vòng thi đấu (quần vợt...); (đánh bài) hội",
+          "list_en_vn": [
+            {
+              "full_en": "a fight of ten rounds",
+              "full_vn": "trận đấu mười hiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tràng, loạt",
+          "list_en_vn": [
+            {
+              "full_en": "round of applause",
+              "full_vn": "tràng vỗ tay"
+            },
+            {
+              "full_en": "a round of ten shots",
+              "full_vn": "một loạt mười phát súng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh thang (thanh ngang tròn của cái thang) (như) round of a ladder"
+        },
+        {
+          "m_full_vn": "(quân sự) phát (súng); viên đạn",
+          "list_en_vn": [
+            {
+              "full_en": "to have but ten rounds left each",
+              "full_vn": "mỗi người chỉ còn lại mười viên đạn"
+            },
+            {
+              "full_en": "he had not fired a single round",
+              "full_vn": "nó không bắn một phát nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) canông",
+          "list_one_mean": [
+            {
+              "id_full_en": "to show something in the round",
+              "list_im": [
+                {
+                  "im_full_vn": "nêu rõ tất cả những đường nét của một cái gì; nêu bật vấn đề gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do /go the rounds (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "đi một vòng; thăm lần lượt các chỗ; sự đi tuần tra/kinh lý; cuộc đi dạo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we did /went the rounds of all the pubs in town",
+                      "full_vn": "chúng tôi đi một vòng tất cả các quán rượu trong thành phố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do /go the rounds (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "đi một vòng; thăm lần lượt các chỗ; sự đi tuần tra/kinh lý; cuộc đi dạo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we did /went the rounds of all the pubs in town",
+                      "full_vn": "chúng tôi đi một vòng tất cả các quán rượu trong thành phố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go the round of something",
+              "list_im": [
+                {
+                  "im_full_vn": "lan truyền khắp nơi nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the news quickly went the round of the village",
+                      "full_vn": "tin tức nhanh chóng lan khắp làng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go the round of something",
+              "list_im": [
+                {
+                  "im_full_vn": "lan truyền khắp nơi nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the news quickly went the round of the village",
+                      "full_vn": "tin tức nhanh chóng lan khắp làng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's rounds",
+              "list_im": [
+                {
+                  "im_full_vn": "thực hiện các cuộc thăm viếng thường xuyên (nhất là để thanh tra)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the production manager making the rounds",
+                      "full_vn": "giám sát sản xuất đang đi kiểm tra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's rounds",
+              "list_im": [
+                {
+                  "im_full_vn": "thực hiện các cuộc thăm viếng thường xuyên (nhất là để thanh tra)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the production manager making the rounds",
+                      "full_vn": "giám sát sản xuất đang đi kiểm tra"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "quanh, vòng quanh, loanh quanh; xung quanh, tròn",
+          "list_en_vn": [
+            {
+              "full_en": "the wheel turns round",
+              "full_vn": "bánh xe quay tròn"
+            },
+            {
+              "full_en": "round and round",
+              "full_vn": "quanh quanh"
+            },
+            {
+              "full_en": "round about",
+              "full_vn": "quanh"
+            },
+            {
+              "full_en": "to go round",
+              "full_vn": "đi vòng quanh"
+            },
+            {
+              "full_en": "all the year round",
+              "full_vn": "quanh năm"
+            },
+            {
+              "full_en": "to sleep the clock round",
+              "full_vn": "ngủ suốt ngày, ngủ suốt ngày đêm"
+            },
+            {
+              "full_en": "tea was served round",
+              "full_vn": "người ta đưa mời một vòng quanh bàn"
+            },
+            {
+              "full_en": "there's not enough to go round",
+              "full_vn": "không có đủ để mời khắp lượt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở lại, quay trở lại",
+          "list_en_vn": [
+            {
+              "full_en": "spring comes round",
+              "full_vn": "xuân về, mùa xuân trở lại"
+            },
+            {
+              "full_en": "the other way round",
+              "full_vn": "xoay trở lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khắp cả",
+          "list_one_mean": [
+            {
+              "id_full_en": "to win somebody round",
+              "list_im": [
+                {
+                  "im_full_vn": "thuyết phục được ai theo ý kiến mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "round with paintings",
+              "full_vn": "gian phòng treo tranh tất cả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "quanh, xung quanh, vòng quanh",
+          "list_en_vn": [
+            {
+              "full_en": "to sit round the table",
+              "full_vn": "ngồi quanh bàn"
+            },
+            {
+              "full_en": "to travel round the world",
+              "full_vn": "đi du lịch vòng quanh thế giới"
+            },
+            {
+              "full_en": "to discuss round a subject",
+              "full_vn": "thảo luận xung quanh một vấn đề"
+            },
+            {
+              "full_en": "to argue round and round the subject",
+              "full_vn": "lý luận loanh quanh không đi thẳng vào vấn đề"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm tròn (số, góc)"
+        },
+        {
+          "m_full_vn": "cắt tròn, cắt cụt",
+          "list_en_vn": [
+            {
+              "full_en": "to round the dog's ears",
+              "full_vn": "cắt cụt tai chó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi vòng quanh mũi đất"
+        },
+        {
+          "m_full_vn": "đọc tròn môi",
+          "list_en_vn": [
+            {
+              "full_en": "to round a vowel",
+              "full_vn": "đọc tròn môi một nguyên âm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành tròn, trở nên tròn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to round off",
+              "list_im": [
+                {
+                  "im_full_vn": "làm tròn; làm cho trọn vẹn; làm cho cân đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to round off the evening with a dance",
+                      "full_vn": "kết thúc buổi dạ hội bằng một điệu nhảy"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gọt giũa (câu văn)"
+                },
+                {
+                  "im_full_vn": "xây dựng thành cơ ngơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round off",
+              "list_im": [
+                {
+                  "im_full_vn": "làm tròn; làm cho trọn vẹn; làm cho cân đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to round off the evening with a dance",
+                      "full_vn": "kết thúc buổi dạ hội bằng một điệu nhảy"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gọt giũa (câu văn)"
+                },
+                {
+                  "im_full_vn": "xây dựng thành cơ ngơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round off",
+              "list_im": [
+                {
+                  "im_full_vn": "làm tròn; làm cho trọn vẹn; làm cho cân đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to round off the evening with a dance",
+                      "full_vn": "kết thúc buổi dạ hội bằng một điệu nhảy"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gọt giũa (câu văn)"
+                },
+                {
+                  "im_full_vn": "xây dựng thành cơ ngơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round off",
+              "list_im": [
+                {
+                  "im_full_vn": "làm tròn; làm cho trọn vẹn; làm cho cân đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to round off the evening with a dance",
+                      "full_vn": "kết thúc buổi dạ hội bằng một điệu nhảy"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gọt giũa (câu văn)"
+                },
+                {
+                  "im_full_vn": "xây dựng thành cơ ngơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ hiếm,nghĩa hiếm) quay lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to round on one's heel to look at somebody",
+                      "full_vn": "quay gót lại nhìn ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bất ngờ đối đáp lại (ai), bất ngờ vặn lại (ai), bất ngờ tấn công lại (ai)"
+                },
+                {
+                  "im_full_vn": "(thông tục) làm chỉ điểm, tâu hót, tố giác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ hiếm,nghĩa hiếm) quay lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to round on one's heel to look at somebody",
+                      "full_vn": "quay gót lại nhìn ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bất ngờ đối đáp lại (ai), bất ngờ vặn lại (ai), bất ngờ tấn công lại (ai)"
+                },
+                {
+                  "im_full_vn": "(thông tục) làm chỉ điểm, tâu hót, tố giác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ hiếm,nghĩa hiếm) quay lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to round on one's heel to look at somebody",
+                      "full_vn": "quay gót lại nhìn ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bất ngờ đối đáp lại (ai), bất ngờ vặn lại (ai), bất ngờ tấn công lại (ai)"
+                },
+                {
+                  "im_full_vn": "(thông tục) làm chỉ điểm, tâu hót, tố giác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ hiếm,nghĩa hiếm) quay lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to round on one's heel to look at somebody",
+                      "full_vn": "quay gót lại nhìn ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bất ngờ đối đáp lại (ai), bất ngờ vặn lại (ai), bất ngờ tấn công lại (ai)"
+                },
+                {
+                  "im_full_vn": "(thông tục) làm chỉ điểm, tâu hót, tố giác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round out",
+              "list_im": [
+                {
+                  "im_full_vn": "tròn ra, mập ra, béo ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round to",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) lái theo chiều gió"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round up",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy vòng quanh để dồn (súc vật)"
+                },
+                {
+                  "im_full_vn": "vây bắt, bố ráp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to round up",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy vòng quanh để dồn (súc vật)"
+                },
+                {
+                  "im_full_vn": "vây bắt, bố ráp"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "one's form is rounding",
+              "full_vn": "thân hình tròn trĩnh ra"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

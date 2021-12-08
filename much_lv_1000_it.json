@@ -1,0 +1,466 @@
+{
+  "english": "much",
+  "phat_am": "[mʌt∫]",
+  "list_type": [
+    {
+      "type": "tính từ (dùng với danh từ không đếm được)",
+      "list_m": [
+        {
+          "m_full_vn": "một số lượng lớn (cái gì); nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "I haven't got much money",
+              "full_vn": "tôi chẳng có nhiều tiền"
+            },
+            {
+              "full_en": "there's never very much news on Sundays",
+              "full_vn": "chủ nhật không bao giờ có nhiều tin tức"
+            },
+            {
+              "full_en": "did you have much difficulty finding the house ?",
+              "full_vn": "anh tìm ra nhà có khó lắm không?"
+            },
+            {
+              "full_en": "how much petrol do you need ?",
+              "full_vn": "anh cần bao nhiêu xăng?"
+            },
+            {
+              "full_en": "take as much time as you like",
+              "full_vn": "anh cứ thong thả, bao lâu tùy anh"
+            },
+            {
+              "full_en": "there was so much traffic that we were stationary for half an hour",
+              "full_vn": "xe cộ đông đến nỗi chúng tôi phải đứng lại mất nửa giờ"
+            },
+            {
+              "full_en": "I've much pleasure in introducing our speaker",
+              "full_vn": "tôi rất vui mừng giới thiệu diễn giả của chúng ta"
+            },
+            {
+              "full_en": "after much applause , the audience went home",
+              "full_vn": "sau khi vỗ tay hoan nghênh hồi lâu, khán giả ra về"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhiều, lắm",
+          "list_one_mean": [
+            {
+              "id_full_en": "twice (three times ...) as much",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng hai (ba...) chừng nầy, gấp hai (ba...) thế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you can take twice as much",
+                      "full_vn": "anh có thể lấy gấp hai thế"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "twice (three times ...) as much",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng hai (ba...) chừng nầy, gấp hai (ba...) thế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you can take twice as much",
+                      "full_vn": "anh có thể lấy gấp hai thế"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as much",
+              "list_im": [
+                {
+                  "im_full_vn": "như nhau; bằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "please help me get this job - you know I would do as much for you",
+                      "full_vn": "làm ơn giúp tôi xin được việc làm đó - anh biết đấy, tôi sẽ làm y như vậy cho anh"
+                    },
+                    {
+                      "full_en": "I thought /said /knew as much",
+                      "full_vn": "tôi cũng nghĩ/nói/biết như vậy"
+                    },
+                    {
+                      "full_en": "that's as much as saying I'm a liar",
+                      "full_vn": "như thế chẳng khác gì bảo tôi là kẻ nói dối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as much",
+              "list_im": [
+                {
+                  "im_full_vn": "như nhau; bằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "please help me get this job - you know I would do as much for you",
+                      "full_vn": "làm ơn giúp tôi xin được việc làm đó - anh biết đấy, tôi sẽ làm y như vậy cho anh"
+                    },
+                    {
+                      "full_en": "I thought /said /knew as much",
+                      "full_vn": "tôi cũng nghĩ/nói/biết như vậy"
+                    },
+                    {
+                      "full_en": "that's as much as saying I'm a liar",
+                      "full_vn": "như thế chẳng khác gì bảo tôi là kẻ nói dối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as much",
+              "list_im": [
+                {
+                  "im_full_vn": "như nhau; bằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "please help me get this job - you know I would do as much for you",
+                      "full_vn": "làm ơn giúp tôi xin được việc làm đó - anh biết đấy, tôi sẽ làm y như vậy cho anh"
+                    },
+                    {
+                      "full_en": "I thought /said /knew as much",
+                      "full_vn": "tôi cũng nghĩ/nói/biết như vậy"
+                    },
+                    {
+                      "full_en": "that's as much as saying I'm a liar",
+                      "full_vn": "như thế chẳng khác gì bảo tôi là kẻ nói dối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as much",
+              "list_im": [
+                {
+                  "im_full_vn": "như nhau; bằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "please help me get this job - you know I would do as much for you",
+                      "full_vn": "làm ơn giúp tôi xin được việc làm đó - anh biết đấy, tôi sẽ làm y như vậy cho anh"
+                    },
+                    {
+                      "full_en": "I thought /said /knew as much",
+                      "full_vn": "tôi cũng nghĩ/nói/biết như vậy"
+                    },
+                    {
+                      "full_en": "that's as much as saying I'm a liar",
+                      "full_vn": "như thế chẳng khác gì bảo tôi là kẻ nói dối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as much as somebody can do",
+              "list_im": [
+                {
+                  "im_full_vn": "mức tối đa ai có thể làm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "much as",
+              "list_im": [
+                {
+                  "im_full_vn": "tuy rằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I won't have a pudding - it was as much as I could do to finish the very large first course",
+                      "full_vn": "tôi sẽ không ăn món puđinh - ăn hết món thứ nhất rất nhiều là hết sức tôi rồi"
+                    },
+                    {
+                      "full_en": "much as I would like to stay , I really must go home",
+                      "full_vn": "tuy tôi rất muốn ở lại, nhưng quả thật tôi phải về nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "much as",
+              "list_im": [
+                {
+                  "im_full_vn": "tuy rằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I won't have a pudding - it was as much as I could do to finish the very large first course",
+                      "full_vn": "tôi sẽ không ăn món puđinh - ăn hết món thứ nhất rất nhiều là hết sức tôi rồi"
+                    },
+                    {
+                      "full_en": "much as I would like to stay , I really must go home",
+                      "full_vn": "tuy tôi rất muốn ở lại, nhưng quả thật tôi phải về nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "much as",
+              "list_im": [
+                {
+                  "im_full_vn": "tuy rằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I won't have a pudding - it was as much as I could do to finish the very large first course",
+                      "full_vn": "tôi sẽ không ăn món puđinh - ăn hết món thứ nhất rất nhiều là hết sức tôi rồi"
+                    },
+                    {
+                      "full_en": "much as I would like to stay , I really must go home",
+                      "full_vn": "tuy tôi rất muốn ở lại, nhưng quả thật tôi phải về nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not much good at something",
+              "list_im": [
+                {
+                  "im_full_vn": "không giỏi lắm khi làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm not much good at tennis",
+                      "full_vn": "tôi chơi quần vợt không giỏi lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not much good at something",
+              "list_im": [
+                {
+                  "im_full_vn": "không giỏi lắm khi làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm not much good at tennis",
+                      "full_vn": "tôi chơi quần vợt không giỏi lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not so much something as something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem so"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she didn't enjoy the film (very ) much",
+              "full_vn": "cô ta không thích bộ phim này lắm"
+            },
+            {
+              "full_en": "he isn't in the office very much",
+              "full_vn": "anh ta không có mặt trong văn phòng nhiều (thường) hay vắng mặt"
+            },
+            {
+              "full_en": "I would very much like you to come to dinner next week",
+              "full_vn": "tôi rất mong tuần tới anh ở lại dùng bữa tối"
+            },
+            {
+              "full_en": "much to her surprise , he came back next day",
+              "full_vn": "cô ta rất ngạc nhiên thấy ngày hôm sau anh ta đã về"
+            },
+            {
+              "full_en": "I was very much frightened by the report",
+              "full_vn": "bản báo cáo khiến tôi rất hoảng sợ"
+            },
+            {
+              "full_en": "he was very much surprised to find us there",
+              "full_vn": "nó rất ngạc nhiên thấy chúng tôi ở đó"
+            },
+            {
+              "full_en": "I'm very much aware of the lack of food supplies",
+              "full_vn": "tôi biết rất rõ tình trạng thiếu lương thực"
+            },
+            {
+              "full_en": "much harder /faster /louder",
+              "full_vn": "cứng/nhanh/to hơn nhiều"
+            },
+            {
+              "full_en": "much more expensive",
+              "full_vn": "đắt tiền hơn nhiều"
+            },
+            {
+              "full_en": "much more confidently",
+              "full_vn": "một cách tự tin hơn nhiều"
+            },
+            {
+              "full_en": "that was much the best meal I've ever tasted",
+              "full_vn": "đó hầu như là bữa ăn ngon nhất xưa nay tôi từng được thưởng thức"
+            },
+            {
+              "full_en": "my favourite is usually much the most expensive",
+              "full_vn": "cái tôi thích hầu như thường là đắt tiền nhất"
+            },
+            {
+              "full_en": "I would never willingly go anywhere by boat , much less go on a cruise",
+              "full_vn": "tôi không bao giờ tự nguyện đi đâu bằng tàu bè, đi chơi biển lại càng không"
+            },
+            {
+              "full_en": "she's much better today",
+              "full_vn": "hôm nay bà ta khá hơn nhiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhiều lắm, phần nhiều, phần lớn",
+          "list_one_mean": [
+            {
+              "id_full_en": "not much of a",
+              "list_im": [
+                {
+                  "im_full_vn": "(cái gì) không tốt/không giỏi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be not much of a musician",
+              "list_im": [
+                {
+                  "im_full_vn": "là một nhạc sĩ chẳng có tài gì lắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm not much of a correspondent",
+                      "full_vn": "tôi không phải là người chăm viết thư lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be not much of a musician",
+              "list_im": [
+                {
+                  "im_full_vn": "là một nhạc sĩ chẳng có tài gì lắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm not much of a correspondent",
+                      "full_vn": "tôi không phải là người chăm viết thư lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "this much",
+              "list_im": [
+                {
+                  "im_full_vn": "cái tôi sắp nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I will say this much for him - he never leaves a piece of work unfinished",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi sẽ nói thế này về anh ta - anh ta không bao giờ bỏ dở công việc nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this much is certain , you will never walk again",
+                      "full_vn": "điều này là chắc chắn, anh sẽ không bao giờ đi bộ được nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "I will say this much for him - he never leaves a piece of work unfinished",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi sẽ nói thế này về anh ta - anh ta không bao giờ bỏ dở công việc nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this much is certain , you will never walk again",
+                      "full_vn": "điều này là chắc chắn, anh sẽ không bao giờ đi bộ được nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(with ) not /without so much as",
+              "list_im": [
+                {
+                  "im_full_vn": "xem so"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "much of what you say is true",
+              "full_vn": "phần lớn những điều anh nói là đúng sự thật"
+            },
+            {
+              "full_en": "he sat at his desk all morning but he didn't write much",
+              "full_vn": "anh ta ngồi ở bàn suốt buổi sáng nhưng chẳng viết được gì nhiều"
+            },
+            {
+              "full_en": "Is there any mail ? - Not (very ) much",
+              "full_vn": "Có thư gì không? - Không nhiều lắm"
+            },
+            {
+              "full_en": "she never eats much for breakfast",
+              "full_vn": "bữa điểm tâm không bao giờ cô ấy ăn nhiều"
+            },
+            {
+              "full_en": "did the President say much to you ?",
+              "full_vn": "Tổng thống có nói gì nhiều với ông không?"
+            },
+            {
+              "full_en": "how much is it ?",
+              "full_vn": "cái này giá bao nhiêu?"
+            },
+            {
+              "full_en": "eat as much as you can",
+              "full_vn": "anh ăn được bao nhiêu cứ ăn"
+            },
+            {
+              "full_en": "he drank too much last night",
+              "full_vn": "đếm qua ông ấy uống rượu quá nhiều"
+            },
+            {
+              "full_en": "you'll find you have much to learn in your new job",
+              "full_vn": "anh sẽ thấy rằng trong công việc mơi, anh phải học hỏi rất nhiều"
+            },
+            {
+              "full_en": "I lay awake much of the night",
+              "full_vn": "hầu như đêm qua tôi không ngủ được"
+            },
+            {
+              "full_en": "we have much to be thankful for",
+              "full_vn": "chúng tôi có nhiều điều để cám ơn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

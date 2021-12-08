@@ -1,0 +1,42 @@
+{
+  "english": "refit",
+  "phat_am": "[ri:'fit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sửa chữa; sự đổi mới lại, sự trang bị lại (máy móc của một con tàu..)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sửa chữa lại; trang bị lại, đổi mới lại",
+          "list_en_vn": [
+            {
+              "full_en": "to refit a ship",
+              "full_vn": "sửa chữa lại một chiếc tàu; trang bị lại một chiếc tàu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "được sửa chữa; được trang bị lại",
+          "list_en_vn": [
+            {
+              "full_en": "to put into port to refit",
+              "full_vn": "được đưa vào cảng để sửa chữa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

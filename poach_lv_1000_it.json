@@ -1,0 +1,70 @@
+{
+  "english": "poach",
+  "phat_am": "[pout∫]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kho, rim (cá, quả..); chần trứng (nước đang sôi lăn tăn)",
+          "list_en_vn": [
+            {
+              "full_en": "apricots poached in syrup",
+              "full_vn": "quả mơ rim sirô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + into ) thọc, đâm (gậy, ngón tay... vào cái gì)"
+        },
+        {
+          "m_full_vn": "giẫm chân lên (cỏ...) (ngựa...); ăn cắp, mua chuộc"
+        },
+        {
+          "m_full_vn": "săn trộm, câu trộm",
+          "list_en_vn": [
+            {
+              "full_en": "to poach hares",
+              "full_vn": "săn trộm thỏ rừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xâm phạm (tài sản người khác)",
+          "list_en_vn": [
+            {
+              "full_en": "to poach on a neighbour's land",
+              "full_vn": "xâm phạm đất đai của người bên cạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh (bóng quần vợt) lấn phần sân đồng đội"
+        },
+        {
+          "m_full_vn": "dở ngón ăn gian để đạt (thắng lợi trong cuộc đua...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị giẫm chân lên (đất)"
+        },
+        {
+          "m_full_vn": "săn trộm, câu trộm (ở khu vực cấm...)"
+        },
+        {
+          "m_full_vn": "xâm phạm"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh bóng lấn phần sân đồng đội (quần vợt)"
+        },
+        {
+          "m_full_vn": "dở ngón ăn gian (trong cuộc chạy đua...)"
+        }
+      ]
+    }
+  ]
+}

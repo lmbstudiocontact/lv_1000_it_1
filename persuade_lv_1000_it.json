@@ -1,0 +1,33 @@
+{
+  "english": "persuade",
+  "phat_am": "[pə'sweid]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuyết phục",
+          "list_en_vn": [
+            {
+              "full_en": "to persuade someone to do something (into doing something )",
+              "full_vn": "thuyết phục ai làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho tin",
+          "list_en_vn": [
+            {
+              "full_en": "to be persuaded that",
+              "full_vn": "tin chắc rằng"
+            },
+            {
+              "full_en": "to persuade someone of something",
+              "full_vn": "làm cho ai tin cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

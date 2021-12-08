@@ -1,0 +1,90 @@
+{
+  "english": "sneak",
+  "phat_am": "[sni:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) đứa hớt lẻo; kẻ ném đá giấu tay; kẻ hèn hạ; người lừa gạt một cách hèn hạ"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) bóng đi sát mặt đất ( crickê)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trốn, lén",
+          "list_en_vn": [
+            {
+              "full_en": "to sneak off (away )",
+              "full_vn": "trốn đi, lén đi"
+            },
+            {
+              "full_en": "to sneak in",
+              "full_vn": "lẻn vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on ) (thông tục) mách, mách lẻo (nhất là do trẻ em dùng)",
+          "list_en_vn": [
+            {
+              "full_en": "she sneaked on her best friend to the teacher",
+              "full_vn": "nó mách lẻo với thầy giáo về đứa bạn tốt nhất của nó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) ăn cắp, lấy trộm, xoáy, lén lấy (thường) không được phép",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sneak into , out of , past something ; sneak in , out , away , back , past",
+              "list_im": [
+                {
+                  "im_full_vn": "lẻn vào; ra khỏi; trốn đi; lủi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sneak up (on somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "ú oà (lặng lẽ lại gần, không để trông thấy cho đến phút cuối cùng)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sneak a chocolate from the box",
+              "full_vn": "lấy trộm một thanh sôcôla trong hộp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lén lút; giấu giếm",
+          "list_en_vn": [
+            {
+              "full_en": "a sneak look at a letter",
+              "full_vn": "lén đọc một lá thư"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

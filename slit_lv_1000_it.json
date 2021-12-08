@@ -1,0 +1,38 @@
+{
+  "english": "slit",
+  "phat_am": "[slit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường rạch, khe hở, kẽ hở",
+          "list_en_vn": [
+            {
+              "full_en": "to have slits of eyes",
+              "full_vn": "mắt ti hí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chẻ, cắt, rạch, rọc, xé toạc",
+          "list_en_vn": [
+            {
+              "full_en": "to slit sheet of metal into strips",
+              "full_vn": "cắt một tấm kim loại thành những dải nhỏ"
+            },
+            {
+              "full_en": "to threaten to slit someone's nose",
+              "full_vn": "doạ đánh giập mũi ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

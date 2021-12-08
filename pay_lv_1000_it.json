@@ -1,0 +1,430 @@
+{
+  "english": "pay",
+  "phat_am": "[pei]",
+  "list_type": [
+    {
+      "type": "động từ, động tính từ quá khứ là paid",
+      "list_m": [
+        {
+          "m_full_vn": "( to pay somebody ; to pay for something ; to pay something to somebody / for something ) trả (tiền lương...); nộp; thanh toán",
+          "list_en_vn": [
+            {
+              "full_en": "to pay a sum",
+              "full_vn": "trả một số tiền"
+            },
+            {
+              "full_en": "to pay one's debt",
+              "full_vn": "trả nợ, thanh toán nợ"
+            },
+            {
+              "full_en": "to pay taxes /rent",
+              "full_vn": "nộp thuế/tiền thuê nhà"
+            },
+            {
+              "full_en": "to pay a bill /fine /subscription",
+              "full_vn": "thanh toán hoá đơn/tiền phạt/tiền đặt mua dài hạn"
+            },
+            {
+              "full_en": "she paid the blackmailer a ransom for her personal papers",
+              "full_vn": "bà ta nộp tiền cho tên tống tiền để chuộc lại giấy tờ tùy thân của bà ta"
+            },
+            {
+              "full_en": "membership fees should be paid to the club secretary",
+              "full_vn": "hội phí phải nộp cho thư ký câu lạc bộ"
+            },
+            {
+              "full_en": "my firm pays well",
+              "full_vn": "hãng tôi trả lương khá"
+            },
+            {
+              "full_en": "to pay somebody by the hour /by the week /by the job",
+              "full_vn": "trả lương ai theo giờ/tuần/công việc"
+            },
+            {
+              "full_en": "are you paying in cash or by cheque ?",
+              "full_vn": "ông trả bằng tiền mặt hay ngân phiếu?"
+            },
+            {
+              "full_en": "they tried to leave the restaurant without paying (for their meal )",
+              "full_vn": "chúng nó định ra khỏi nhà hàng mà khỏi thanh toán (bữa ăn của chúng)"
+            },
+            {
+              "full_en": "her parents paid for her to go abroad",
+              "full_vn": "bố mẹ cô ta trả tiền cho chuyến đi nước ngoài của cô ta"
+            },
+            {
+              "full_en": "have you paid the news-dealer this week ?",
+              "full_vn": "ông trả tiền cho người bán báo tuần này chưa?"
+            },
+            {
+              "full_en": "how much did you pay for your house ?",
+              "full_vn": "ông đã chi (tốn) bao nhiêu cho ngôi nhà của ông?"
+            },
+            {
+              "full_en": "you haven't paid me the money you owe me",
+              "full_vn": "anh chưa trả món tiền anh nợ tôi"
+            },
+            {
+              "full_en": "you're not paid to sit around doing nothing",
+              "full_vn": "người ta trả lương anh không phải để anh ngồi loanh quanh chẳng làm gì cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dành cho; đến (thăm...); ngỏ (lời khen...)",
+          "list_en_vn": [
+            {
+              "full_en": "to pay a visit",
+              "full_vn": "đến thăm"
+            },
+            {
+              "full_en": "to pay one's respects to someone",
+              "full_vn": "đến chào ai"
+            },
+            {
+              "full_en": "to pay someone a compliment",
+              "full_vn": "ngỏ lời khen ngợi, ca tụng ai"
+            },
+            {
+              "full_en": "to pay heed /attention to something",
+              "full_vn": "chú ý tới điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho (lãi...), mang (lợi...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give /pay lip-service to something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem lip-service"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay court to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "ve vãn, tán tỉnh ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay dividends",
+              "list_im": [
+                {
+                  "im_full_vn": "có lợi, sinh lợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay something back",
+              "list_im": [
+                {
+                  "im_full_vn": "trả cái gì lại, hoàn cái gì lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay somebody back",
+              "list_im": [
+                {
+                  "im_full_vn": "trả nợ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay somebody back for something",
+              "list_im": [
+                {
+                  "im_full_vn": "trả thù ai về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay someone in his own coin ; to pay someone in the same coin",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn miếng trả miếng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay an old score",
+              "list_im": [
+                {
+                  "im_full_vn": "xem old"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put paid to something",
+              "list_im": [
+                {
+                  "im_full_vn": "chặn đứng; phá hủy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay the penalty for something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "đau khổ vì hành động sai trái, bất hạnh hoặc vì một sai lầm; gánh hậu quả tai hại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm paying the penalty for drinking too much last night ; I've got a splitting headache",
+                      "full_vn": "Tôi đang chịu hậu quả vì uống quá nhiều đêm qua; tôi nhức đầu như búa bổ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay the penalty for something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "đau khổ vì hành động sai trái, bất hạnh hoặc vì một sai lầm; gánh hậu quả tai hại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm paying the penalty for drinking too much last night ; I've got a splitting headache",
+                      "full_vn": "Tôi đang chịu hậu quả vì uống quá nhiều đêm qua; tôi nhức đầu như búa bổ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay a /the price (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu thua thiệt mất mát để đánh đổi cái gì đã giành được; trả giá",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "our troops recaptured the city , but they paid a heavy price for it",
+                      "full_vn": "quân ta đã chiếm lại thành phố, nhưng đã phải trả một giá nặng nề"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay a /the price (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu thua thiệt mất mát để đánh đổi cái gì đã giành được; trả giá",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "our troops recaptured the city , but they paid a heavy price for it",
+                      "full_vn": "quân ta đã chiếm lại thành phố, nhưng đã phải trả một giá nặng nề"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay dearly for something",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) trả giá đắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay through the nose (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "trả một giá quá đắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay tribute to somebody ; to pay tribute to something",
+              "list_im": [
+                {
+                  "im_full_vn": "kính trọng ai; ngưỡng mộ điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he who pays the piper calls the tune",
+              "list_im": [
+                {
+                  "im_full_vn": "ai trả tiền thì người ấy có quyền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay one's way",
+              "list_im": [
+                {
+                  "im_full_vn": "tự túc bằng tiền mình kiếm được; không mang công mắc nợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay for one's whistle",
+              "list_im": [
+                {
+                  "im_full_vn": "phải trả giá đắt về cái tính ngông cuồng của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rob Peter to pay Paul",
+              "list_im": [
+                {
+                  "im_full_vn": "xem rob"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there'll be the devil to pay",
+              "list_im": [
+                {
+                  "im_full_vn": "xem devil"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there will be /was hell to pay",
+              "list_im": [
+                {
+                  "im_full_vn": "xem hell"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay something in ; to pay something into something",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa (tiền) vào (một tài khoản ngân hàng); nộp vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay off",
+              "list_im": [
+                {
+                  "im_full_vn": "có hiệu lực, thành công (chính sách, kế hoạch...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay somebody off",
+              "list_im": [
+                {
+                  "im_full_vn": "trả hết tiền lương cho ai, rồi cho người đó thôi việc; hối lộ, đút lót"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay something off",
+              "list_im": [
+                {
+                  "im_full_vn": "trả đủ (tiền nợ về cái gì); thanh toán",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pay off one's debts /a loan /a mortgage",
+                      "full_vn": "trả hết nợ/khoản vay/khoản cầm cố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay something off",
+              "list_im": [
+                {
+                  "im_full_vn": "trả đủ (tiền nợ về cái gì); thanh toán",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pay off one's debts /a loan /a mortgage",
+                      "full_vn": "trả hết nợ/khoản vay/khoản cầm cố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay up",
+              "list_im": [
+                {
+                  "im_full_vn": "trả hết nợ, trang trải",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll take you to court unless you pay up immediately",
+                      "full_vn": "tôi sẽ đưa anh ra toà nếu anh không trả hết nợ ngay lập tức"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay up",
+              "list_im": [
+                {
+                  "im_full_vn": "trả hết nợ, trang trải",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll take you to court unless you pay up immediately",
+                      "full_vn": "tôi sẽ đưa anh ra toà nếu anh không trả hết nợ ngay lập tức"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it pays six per cent",
+              "full_vn": "món đó cho sáu phần trăm lãi"
+            },
+            {
+              "full_en": "the shop closed because it didn't pay",
+              "full_vn": "cửa hàng đóng cửa vì không có lời"
+            },
+            {
+              "full_en": "it's difficult to make sheep-farming pay here",
+              "full_vn": "chăn nuôi cừu ở đây khó sinh lợi"
+            },
+            {
+              "full_en": "crime doesn't pay",
+              "full_vn": "tội ác chẳng đem lại lợi lộc gì"
+            },
+            {
+              "full_en": "it would pay you to use an accountant",
+              "full_vn": "dùng một người kế toán thì có lợi cho anh"
+            },
+            {
+              "full_en": "it pays to be honest with the taxman",
+              "full_vn": "trung thực với người thu thuế là có lợi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiền lương",
+          "list_en_vn": [
+            {
+              "full_en": "an increase in pay /a pay increase",
+              "full_vn": "sự tăng lương"
+            },
+            {
+              "full_en": "what's the pay like in your job ?",
+              "full_vn": "công việc của anh tiền lương bao nhiêu?"
+            },
+            {
+              "full_en": "in the pay of somebody",
+              "full_vn": "ăn lương của ai; do ai trả lương"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

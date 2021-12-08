@@ -1,0 +1,29 @@
+{
+  "english": "reserved",
+  "phat_am": "[ri'zə:vd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đã dành trước; dành riêng",
+          "list_en_vn": [
+            {
+              "full_en": "reserved seat",
+              "full_vn": "ghế dành riêng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kín đáo; dè dặt; giữ gìn (về người, tính cách của người đó)",
+          "list_en_vn": [
+            {
+              "full_en": "a reserved disposition /manner",
+              "full_vn": "tính tình/lối cư xử dè dặt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

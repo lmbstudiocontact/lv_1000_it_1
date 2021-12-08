@@ -1,0 +1,116 @@
+{
+  "english": "then",
+  "phat_am": "[ðen]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "khi đó, lúc đó, hồi ấy, khi ấy",
+          "list_en_vn": [
+            {
+              "full_en": "he was a little boy then",
+              "full_vn": "hồi ấy nó còn là một cậu bé"
+            },
+            {
+              "full_en": "see you on Thursday - we'll be able to discuss it then",
+              "full_vn": "hẹn gặp lại ông vào ngày thứ năm - lúc ấy chúng ta sẽ thảo luận được việc này"
+            },
+            {
+              "full_en": "Jackie Kennedy, as she then was , was still in her twenties",
+              "full_vn": "Jackie Kennedy bấy giờ mới ngoài hai mươi tuổi thôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếp theo, sau đó, về sau, rồi thì",
+          "list_en_vn": [
+            {
+              "full_en": "what then ?",
+              "full_vn": "rồi sau đó thì sao?, rồi sao nữa?"
+            },
+            {
+              "full_en": "the liquid turned green and then brown",
+              "full_vn": "chất lỏng chuyển sang màu xanh lá cây rồi sang màu nâu"
+            },
+            {
+              "full_en": "we had a week in Rome and then went to Vienna",
+              "full_vn": "chúng tôi ở Rome một tuần rồi đi Vienna"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau một giới từ) thời điểm đó",
+          "list_en_vn": [
+            {
+              "full_en": "from then on he refused to talk about it",
+              "full_vn": "từ đó trở đi nó không chịu nhắc đến chuyện ấy nữa"
+            },
+            {
+              "full_en": "we'll have to manage without a TV until then",
+              "full_vn": "chúng ta đành chịu không có ti vi cho đến khi ấy"
+            },
+            {
+              "full_en": "she'll have retired by then",
+              "full_vn": "đến lúc ấy thì bà ta về hưu rồi"
+            },
+            {
+              "full_en": "since then",
+              "full_vn": "từ lúc ấy, từ đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vậy thì, như thế thì, rồi thì; trong trường hợp đó",
+          "list_en_vn": [
+            {
+              "full_en": "then why did you do it ?",
+              "full_vn": "vậy thì tại sao anh làm điều ấy?"
+            },
+            {
+              "full_en": "if it's not on the table , then it will be in the drawer",
+              "full_vn": "nó nó không có trên bànthi ở trong ngăn kéo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "và cũng",
+          "list_one_mean": [
+            {
+              "id_full_en": "(but ) then again",
+              "list_im": [
+                {
+                  "im_full_vn": "nhưng trái lại, nhưng ngược lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "There are vegetables to peel and the soup to heat . Then there's the table to lay and the wine to cool",
+              "full_vn": "Phải nhặt rau, hâm xúp. Lại còn phải bày bàn và ướp lạnh rượu nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở thời đó, ở thời ấy, ở hồi ấy, ở hồi đó",
+          "list_en_vn": [
+            {
+              "full_en": "the then rulers",
+              "full_vn": "bọn thống trị thời đó"
+            },
+            {
+              "full_en": "The then Prime Minister took her husband with her on all her travels",
+              "full_vn": "bà thủ tướng thời ấy đi đâu cũng đem chồng đi theo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

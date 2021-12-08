@@ -1,0 +1,33 @@
+{
+  "english": "protect",
+  "phat_am": "[prə'tekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to protect somebody / something against / from something ) bảo vệ, bảo hộ, che chở",
+          "list_en_vn": [
+            {
+              "full_en": "to protect someone from /against danger",
+              "full_vn": "che chở ai khỏi bị nguy hiểm"
+            },
+            {
+              "full_en": "you need warm clothes to protect yourself against /from the cold",
+              "full_vn": "anh phải mặc quần áo ấm để khỏi bị lạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bảo vệ, bảo hộ (nền (công nghiệp) trong nước chống lại sự cạnh tranh của hàng nước ngoài)",
+          "list_en_vn": [
+            {
+              "full_en": "The country's car industry is so strongly protected that foreign cars are rarely seen there",
+              "full_vn": "Công nghiệp xe ô tô trong nước được bảo hộ mạnh mẽ đến nỗi hiếm thấy xe nước ngoài ở đó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

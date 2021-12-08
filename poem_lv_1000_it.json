@@ -1,0 +1,33 @@
+{
+  "english": "poem",
+  "phat_am": "['pouim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài thơ",
+          "list_en_vn": [
+            {
+              "full_en": "write poems",
+              "full_vn": "làm thơ"
+            },
+            {
+              "full_en": "compose poems",
+              "full_vn": "sáng tác thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vật đẹp như bài thơ, cái nên thơ, cảnh đẹp như thơ",
+          "list_en_vn": [
+            {
+              "full_en": "the chalet is a poem in wood",
+              "full_vn": "ngôi nhà ván ấy là một kiến trúc bằng gỗ rất nên thơ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

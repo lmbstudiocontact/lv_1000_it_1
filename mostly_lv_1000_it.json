@@ -1,0 +1,24 @@
+{
+  "english": "mostly",
+  "phat_am": "['moustli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hầu hết, phần lớn; thường là, chủ yếu là",
+          "list_en_vn": [
+            {
+              "full_en": "the drink was mostly lemonade",
+              "full_vn": "đồ uống hầu hết là nước chanh"
+            },
+            {
+              "full_en": "we're mostly out on Sundays",
+              "full_vn": "chúng tôi thường đi chơi các ngày chủ nhật"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

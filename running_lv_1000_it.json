@@ -1,0 +1,163 @@
+{
+  "english": "running",
+  "phat_am": "['rʌniη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc chạy đua",
+          "list_en_vn": [
+            {
+              "full_en": "to take up the running ; to make the running",
+              "full_vn": "dẫn đầu cuộc chạy đua"
+            },
+            {
+              "full_en": "to be in the running",
+              "full_vn": "có cơ hội thắng (trong cuộc đấu, trong cuộc chạy đua...)"
+            },
+            {
+              "full_en": "to be out of the running",
+              "full_vn": "không có cơ hội thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chạy, sự vận hành (máy...); cách chạy, cách vận hành"
+        },
+        {
+          "m_full_vn": "sự chảy (chất lỏng, mủ...)"
+        },
+        {
+          "m_full_vn": "sự buôn lậu"
+        },
+        {
+          "m_full_vn": "sự phá vòng vây"
+        },
+        {
+          "m_full_vn": "sự quản lý, sự điều khiển (một nhà máy...)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được thực hiện trong khi chạy; tiến hành trong lúc chạy",
+          "list_en_vn": [
+            {
+              "full_en": "a running jump",
+              "full_vn": "một cú nhảy lấy đà"
+            },
+            {
+              "full_en": "a running flight",
+              "full_vn": "một cuộc chiến đấu săn đuổi nhau"
+            },
+            {
+              "full_en": "a running kick",
+              "full_vn": "cú đá có chạy lấy đà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đang chảy (về nước)",
+          "list_en_vn": [
+            {
+              "full_en": "running spring",
+              "full_vn": "dòng suối đang chảy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chảy nước, rỉ mủ (về vết thương..)",
+          "list_en_vn": [
+            {
+              "full_en": "running sore",
+              "full_vn": "vết thương đang rỉ mủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "di động trượt đi",
+          "list_en_vn": [
+            {
+              "full_en": "running block puli",
+              "full_vn": "di động"
+            },
+            {
+              "full_en": "running knot",
+              "full_vn": "nút dây thòng lọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đứng sau một con số, một danh từ số nhiều) kế tiếp nhau, liên tiếp, liền",
+          "list_en_vn": [
+            {
+              "full_en": "for several days running",
+              "full_vn": "trong nhiều ngày liền"
+            },
+            {
+              "full_en": "running number",
+              "full_vn": "số thứ tự"
+            },
+            {
+              "full_en": "win three times running",
+              "full_vn": "thắng ba lần liền"
+            },
+            {
+              "full_en": "running hand",
+              "full_vn": "chữ viết liền nét (không nhấc bút lên)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liên tục, không bị ngắt quãng",
+          "list_en_vn": [
+            {
+              "full_en": "a running battle for control of the party",
+              "full_vn": "một cuộc chiến đấu liên tục để giành quyền kiểm soát đảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiện nay, đương thời",
+          "list_one_mean": [
+            {
+              "id_full_en": "take a running jump",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy lấy đà để nhảy"
+                },
+                {
+                  "im_full_vn": "cút đi; đi đi (dùng làm mệnh lệnh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take a running jump",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy lấy đà để nhảy"
+                },
+                {
+                  "im_full_vn": "cút đi; đi đi (dùng làm mệnh lệnh)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "running account",
+              "full_vn": "số tiền hiện gửi"
+            },
+            {
+              "full_en": "a running commentary",
+              "full_vn": "bài tường thuật tại chỗ (trên đài phát thanh...)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

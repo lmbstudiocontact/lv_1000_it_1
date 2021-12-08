@@ -1,0 +1,22 @@
+{
+  "english": "suffix",
+  "phat_am": "['sʌfiks]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) hậu tố; tiếp vĩ ngữ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) thêm hậu tố; thêm tiếp vĩ ngữ"
+        }
+      ]
+    }
+  ]
+}

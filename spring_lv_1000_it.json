@@ -1,0 +1,206 @@
+{
+  "english": "spring",
+  "phat_am": "[spriη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhảy; cái nhảy",
+          "list_en_vn": [
+            {
+              "full_en": "to take a spring",
+              "full_vn": "nhảy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mùa xuân (đen & bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "the spring of one's life",
+              "full_vn": "mùa xuân của cuộc đời, lúc tuổi thanh xuân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "suối",
+          "list_en_vn": [
+            {
+              "full_en": "hot spring",
+              "full_vn": "suối nước nóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự co dãn; tính đàn hồi; sự bật lại"
+        },
+        {
+          "m_full_vn": "lò xo; nhíp (xe)"
+        },
+        {
+          "m_full_vn": "chỗ nhún (của ván nhảy...)"
+        },
+        {
+          "m_full_vn": "nguồn, gốc, căn nguyên"
+        },
+        {
+          "m_full_vn": "động cơ",
+          "list_en_vn": [
+            {
+              "full_en": "the springs of human action",
+              "full_vn": "những động cơ của hành động con người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ cong, đường cong"
+        },
+        {
+          "m_full_vn": "chỗ nứt, đường nứt (cột buồm...); sự rò, sự bị nước rỉ vào (thuyền...)"
+        },
+        {
+          "m_full_vn": "dây buộc thuyền vào bến"
+        },
+        {
+          "m_full_vn": "con nước"
+        },
+        {
+          "m_full_vn": "( Scốtlen) bài hát vui; điệu múa vui"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ sprang ; sprung",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + up , down , out , over , through , away , back... ) nhảy",
+          "list_en_vn": [
+            {
+              "full_en": "to spring out of bed",
+              "full_vn": "nhảy ra khỏi giường"
+            },
+            {
+              "full_en": "to spring at someone",
+              "full_vn": "nhảy xổ vào người nào"
+            },
+            {
+              "full_en": "to spring to one's feet",
+              "full_vn": "đứng phắt dậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bật mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "branch springs back",
+              "full_vn": "cành cây bật mạnh trở lại"
+            },
+            {
+              "full_en": "lid springs open",
+              "full_vn": "cái vung bật tung ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nổi lên, hiện ra, nảy ra, xuất hiện",
+          "list_en_vn": [
+            {
+              "full_en": "the wind springs up",
+              "full_vn": "gió nổi lên"
+            },
+            {
+              "full_en": "the buds are springing",
+              "full_vn": "nụ đang trổ"
+            },
+            {
+              "full_en": "many factories have sprung into existence in this area",
+              "full_vn": "nhiều nhà máy đã xuất hiện trong khu vực này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xuất phát; xuất thân",
+          "list_en_vn": [
+            {
+              "full_en": "his actions spring from goodwill",
+              "full_vn": "những hành động của anh ta xuất phát từ thiện ý"
+            },
+            {
+              "full_en": "to be sprung of a peasant stock",
+              "full_vn": "xuất thân từ thành phần nông dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nứt rạn; cong (gỗ)",
+          "list_en_vn": [
+            {
+              "full_en": "racket has sprung",
+              "full_vn": "cây vợt bị nứt; cậy vợt bị cong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nổ (mìn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho nhảy lên, làm cho bay lên",
+          "list_en_vn": [
+            {
+              "full_en": "to spring a covey of quail",
+              "full_vn": "làm cho một ổ chim cun cút bay lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhảy qua",
+          "list_en_vn": [
+            {
+              "full_en": "to spring a wall",
+              "full_vn": "nhảy qua tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm rạn, làm nứt, làm nẻ",
+          "list_en_vn": [
+            {
+              "full_en": "he has sprung my racket",
+              "full_vn": "anh ta làm nứt cái vợt của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nổ (mìn); làm bật lên, đề ra, đưa ra; (từ Mỹ,nghĩa Mỹ) bất ngờ tuyên bố, bất ngờ đưa ra (một tin)",
+          "list_en_vn": [
+            {
+              "full_en": "to spring a trap",
+              "full_vn": "làm bật bẫy"
+            },
+            {
+              "full_en": "he has sprung a new theory",
+              "full_vn": "anh ta đề ra một lý thuyết mới"
+            },
+            {
+              "full_en": "he loves to spring surprises on us",
+              "full_vn": "anh ta thích làm chúng tôi ngạc nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắp nhíp, lắp lò xo giảm xóc (vào xe)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đảm bảo cho (ai) được tha tù"
+        }
+      ]
+    }
+  ]
+}

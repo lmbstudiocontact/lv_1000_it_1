@@ -1,0 +1,26 @@
+{
+  "english": "painting",
+  "phat_am": "['peintiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sơn"
+        },
+        {
+          "m_full_vn": "hội hoạ"
+        },
+        {
+          "m_full_vn": "bức hoạ, bức tranh",
+          "list_en_vn": [
+            {
+              "full_en": "famous paintings",
+              "full_vn": "những bức tranh nổi tiếng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

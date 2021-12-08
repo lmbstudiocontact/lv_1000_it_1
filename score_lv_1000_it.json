@@ -1,0 +1,165 @@
+{
+  "english": "score",
+  "phat_am": "[skɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) điểm số; bàn thắng",
+          "list_en_vn": [
+            {
+              "full_en": "to make a good score",
+              "full_vn": "làm bàn nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỷ số (giữa hai đội)",
+          "list_en_vn": [
+            {
+              "full_en": "keep the score",
+              "full_vn": "giữ tỷ số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số điểm giành được trong cuộc kiểm tra (thi..)"
+        },
+        {
+          "m_full_vn": "vết cắt, vết cào, vết nạo; đường rạch",
+          "list_en_vn": [
+            {
+              "full_en": "deep scores on the rock",
+              "full_vn": "những vệt sâu trong đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) tiền nợ",
+          "list_en_vn": [
+            {
+              "full_en": "to pay one's score",
+              "full_vn": "trả hết nợ"
+            },
+            {
+              "full_en": "death pays (quits ) all scores",
+              "full_vn": "chết là hết nợ"
+            },
+            {
+              "full_en": "to pay off old scores",
+              "full_vn": "(nghĩa bóng) trả hết thù xưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( score ) ( số nhiều) hai chục (một bộ, một nhóm hai mươi)",
+          "list_en_vn": [
+            {
+              "full_en": "a score of people",
+              "full_vn": "hai chục người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( scores ) ( số nhiều) rất nhiều"
+        },
+        {
+          "m_full_vn": "( score ) ( số nhiều) (âm nhạc) bảng tổng phổ, bảng dản bè; phần nhạc cho phim (kịch..)"
+        },
+        {
+          "m_full_vn": "lý do, căn cứ",
+          "list_en_vn": [
+            {
+              "full_en": "the proposal was rejected on the score of absurdity",
+              "full_vn": "đề nghị ấy bị bác bỏ vì vô lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) điều may",
+          "list_en_vn": [
+            {
+              "full_en": "what a score !",
+              "full_vn": "thật là may mắn, thật là chó ngáp phải ruồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) hành động chơi trội; lời nói áp đảo"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) những sự thực, những thực tế của hoàn cảnh, những thực tế của cuộc sống",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go off at score",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu hết sức sôi nổi (tranh luận một vấn đề gì mình ưa thích)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đạt được (điểm, thắng lợi..); thành công",
+          "list_en_vn": [
+            {
+              "full_en": "to score a success",
+              "full_vn": "đạt được thắng lợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho điểm (người thi đấu..)"
+        },
+        {
+          "m_full_vn": "gạch bỏ, xoá"
+        },
+        {
+          "m_full_vn": "khắc, rạch khía"
+        },
+        {
+          "m_full_vn": "( + with ) giao hợp với một người bạn tình mới"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) chỉ trích, mắng mỏ"
+        },
+        {
+          "m_full_vn": "soạn (nhạc) cho dàn nhạc, viết bảng tổng phổ"
+        },
+        {
+          "m_full_vn": "áp đảo"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) làm bàn, đạt điểm thắng"
+        },
+        {
+          "m_full_vn": "đạt điểm (thi..)"
+        },
+        {
+          "m_full_vn": "ghi sổ nợ, đánh dấu nợ; (nghĩa bóng) ghi (một mối thù)"
+        },
+        {
+          "m_full_vn": "lợi thế, ăn may",
+          "list_en_vn": [
+            {
+              "full_en": "that is where he scores",
+              "full_vn": "đây là chỗ hắn ăn may"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "seven",
+  "phat_am": "['sevn]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bảy",
+          "list_en_vn": [
+            {
+              "full_en": "to be seven",
+              "full_vn": "lên bảy (tuổi)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số bảy ( 7)",
+          "list_en_vn": [
+            {
+              "full_en": "the seven wonders of the world",
+              "full_vn": "bảy kỳ quan trên thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong từ ghép) có bảy đơn vị trong vật được mô tả",
+          "list_en_vn": [
+            {
+              "full_en": "a seven-line poem",
+              "full_vn": "bài thơ bảy dòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm bảy người"
+        }
+      ]
+    }
+  ]
+}

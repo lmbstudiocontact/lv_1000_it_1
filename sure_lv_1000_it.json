@@ -1,0 +1,219 @@
+{
+  "english": "sure",
+  "phat_am": "[∫uə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + of/about , that , what ) chắc chắn; có thể tin được",
+          "list_en_vn": [
+            {
+              "full_en": "I think he's coming but I'm not quite sure",
+              "full_vn": "tôi nghĩ là anh ta sẽ đến, nhưng tôi không hoàn toàn tin chắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chắc, chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "you may be sure of his honesty",
+              "full_vn": "anh có thể chắc chắn rằng nó chân thật"
+            },
+            {
+              "full_en": "I'm sure I didn't mean to hurt your feelings",
+              "full_vn": "tôi thề là không có ý xúc phạm đến anh"
+            },
+            {
+              "full_en": "to put something in a sure place",
+              "full_vn": "để cái gì vào nơi chắc chắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cẩn thận",
+          "list_en_vn": [
+            {
+              "full_en": "to send something by a sure hand",
+              "full_vn": "nhờ một người cẩn thận chuyển hộ cái gì"
+            },
+            {
+              "full_en": "a sure shot",
+              "full_vn": "tay súng rất chắc, nhà thiện xạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thật, xác thực",
+          "list_en_vn": [
+            {
+              "full_en": "to be sure she is not pretty",
+              "full_vn": "thật ra mà nói, cô ta không xinh"
+            },
+            {
+              "full_en": "so it is , to be sure !",
+              "full_vn": "đấy, thật là như thế!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + to do something ) dứt khoát làm; chắc chắn làm; rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "It's sure to rain",
+              "full_vn": "chắc chắn trời sắp mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng tin cậy (đã được thử thách)",
+          "list_en_vn": [
+            {
+              "full_en": "no sure remedy for a cold",
+              "full_vn": "không có phương thuốc nào đáng tin cậy cho bệnh cảm lạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vững vàng và tự tin; không đi chệch, không nao núng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make sure",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc chắn"
+                },
+                {
+                  "im_full_vn": "nắm chắc, làm cho chắc chắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make sure",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc chắn"
+                },
+                {
+                  "im_full_vn": "nắm chắc, làm cho chắc chắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "show and sure",
+              "list_im": [
+                {
+                  "im_full_vn": "chậm mà chắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be sure to do something ; be sure and do something",
+              "list_im": [
+                {
+                  "im_full_vn": "đừng quên làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for sure",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chắc chắn; không nghi ngờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "make sure (of something /that ..)",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho rõ; nắm cho chắc"
+                },
+                {
+                  "im_full_vn": "làm cho chắc chắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "make sure (of something /that ..)",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho rõ; nắm cho chắc"
+                },
+                {
+                  "im_full_vn": "làm cho chắc chắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sure of oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "tự tin"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sure thing",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) vâng; dĩ nhiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be sure",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng là như thế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) một cách chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "it sure was cold",
+              "full_vn": "chắc chắn là rét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) tôi thừa nhận",
+          "list_one_mean": [
+            {
+              "id_full_en": "as sure as a gun",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chắc như đinh đóng cột, chắc như hai với hai là bốn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sure enough",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chắc chắn, không còn nghi ngờ gì nữa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "'tis pleasant , sure , to see one's name in print",
+              "full_vn": "tôi thừa nhận là thấy tên mình trên báo thì ai cũng thích"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

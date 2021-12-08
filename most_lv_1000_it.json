@@ -1,0 +1,245 @@
+{
+  "english": "most",
+  "phat_am": "[moust]",
+  "list_type": [
+    {
+      "type": "tính từ, cấp cao nhất của much & many",
+      "list_m": [
+        {
+          "m_full_vn": "lớn nhất về số lượng hay quy mô; nhiều nhất",
+          "list_en_vn": [
+            {
+              "full_en": "who do you think will get (the ) most votes ?",
+              "full_vn": "anh nghĩ là ai sẽ được nhiều phiếu nhất?"
+            },
+            {
+              "full_en": "Peter made the most mistakes of all the class",
+              "full_vn": "Peter mắc nhiều lỗi nhất lớp"
+            },
+            {
+              "full_en": "when we toured Italy , we spent most time in Rome",
+              "full_vn": "khi đi du lịch ở ý, chúng tôi dừng lưu nhất ở Roma"
+            },
+            {
+              "full_en": "most racial discrimination is based on ignorance",
+              "full_vn": "phần lớn tệ phân biệt chủng tộc là dựa trên sự ngu dốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiều hơn một nửa của ai/cái gì; phần lớn của ai/cái gì; đa số; hầu hết",
+          "list_one_mean": [
+            {
+              "id_full_en": "for the most part",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) part"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "most European countries are democracies",
+              "full_vn": "đa số các nước châu Âu theo chế độ dân chủ"
+            },
+            {
+              "full_en": "most classical music sends me to sleep",
+              "full_vn": "hầu hết nhạc cổ điển đều làm tôi buồn ngủ"
+            },
+            {
+              "full_en": "the new tax affects most people",
+              "full_vn": "thuế mới ảnh hưởng đến phần lớn dân chúng"
+            },
+            {
+              "full_en": "I like most vegetables",
+              "full_vn": "tôi thích hầu hết các loại rau"
+            },
+            {
+              "full_en": "most people think so",
+              "full_vn": "hầu hết mọi người đều nghĩ như vậy"
+            },
+            {
+              "full_en": "in most cases",
+              "full_vn": "trong hầu hết các trường hợp; thông thường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ (dùng để tạo nên cấp so sánh lớn nhất của tính từ hay phó từ có từ hai âm tiết trở lên)",
+      "list_m": [
+        {
+          "m_full_vn": "nhất, hơn cả",
+          "list_en_vn": [
+            {
+              "full_en": "the monkey is the most intelligent of all animals",
+              "full_vn": "trong tất cả các loại khỉ là thông minh nhất"
+            },
+            {
+              "full_en": "it was the most exciting holiday I've ever had",
+              "full_vn": "đó là ngày nghỉ thú vị nhất mà tôi từng có"
+            },
+            {
+              "full_en": "what most surprises me is that ...",
+              "full_vn": "điều làm cho tôi ngạc nhiên hơn cả là..."
+            },
+            {
+              "full_en": "what did you most enjoy ?",
+              "full_vn": "anh thích gì nhất?"
+            },
+            {
+              "full_en": "she helped me (the ) most when my parents retired",
+              "full_vn": "khì bố mẹ tôi về hưu, bà ấy giúp tôi nhiều nhất"
+            },
+            {
+              "full_en": "I saw her most when we were at university",
+              "full_vn": "khi chúng tôi còn ở trường đại học, tôi thường hay gặp cô ấy hơn cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắm, vô cùng, cực kỳ",
+          "list_en_vn": [
+            {
+              "full_en": "this is a most interesting book",
+              "full_vn": "đây là một cuốn sách hay lắm"
+            },
+            {
+              "full_en": "I received a most unusual present from my aunt",
+              "full_vn": "tôi nhận được một món quà vô cùng đặc biệt của cô tôi"
+            },
+            {
+              "full_en": "he spoke most bitterly of his experiences in prison",
+              "full_vn": "anh ta rất cay đắng nói về những gì mình đã trải qua trong nhà tù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuyệt đối, hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "Can we expect to see you at church ? - Most certainly",
+              "full_vn": "Chúng tôi có thể mong gặp anh ở nhà thờ? - Hoàn toàn chắc chắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hầu như, gần như",
+          "list_en_vn": [
+            {
+              "full_en": "I go to the shop most every day",
+              "full_vn": "hầu như ngày nào tôi cũng đến cửa hàng đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố (hợp với giới từ và tính từ chỉ vị trí tạo thành tính từ)"
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "hầu hết, phần lớn, phần nhiều, đa số, tối đa",
+          "list_one_mean": [
+            {
+              "id_full_en": "at (the) most",
+              "list_im": [
+                {
+                  "im_full_vn": "tối đa, không hơn được nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "at (the ) most I might earn 250 pounds a night",
+                      "full_vn": "tôi kiếm được tối đa 250 pao một đêm"
+                    },
+                    {
+                      "full_en": "there were 50 people there , at the very most",
+                      "full_vn": "ở đó có 50 người, không hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at (the) most",
+              "list_im": [
+                {
+                  "im_full_vn": "tối đa, không hơn được nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "at (the ) most I might earn 250 pounds a night",
+                      "full_vn": "tôi kiếm được tối đa 250 pao một đêm"
+                    },
+                    {
+                      "full_en": "there were 50 people there , at the very most",
+                      "full_vn": "ở đó có 50 người, không hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at (the) most",
+              "list_im": [
+                {
+                  "im_full_vn": "tối đa, không hơn được nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "at (the ) most I might earn 250 pounds a night",
+                      "full_vn": "tôi kiếm được tối đa 250 pao một đêm"
+                    },
+                    {
+                      "full_en": "there were 50 people there , at the very most",
+                      "full_vn": "ở đó có 50 người, không hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the most of something",
+              "list_im": [
+                {
+                  "im_full_vn": "tận dụng cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we all had some of the cake , I probably ate (the ) most",
+              "full_vn": "tất cả chúng ta đều đã ăn một số loại bánh, có lẽ tôi là người ăn nhiều nhất"
+            },
+            {
+              "full_en": "Harry got six points , Susan got eight points but Alison got most",
+              "full_vn": "Harry được 6 điểm, Susan 8 điểm nhưng Alison nhiều điểm nhất"
+            },
+            {
+              "full_en": "the person with the most to lose is the director",
+              "full_vn": "người mất mát nhiều nhất là ông giám đốc"
+            },
+            {
+              "full_en": "it rained for most of the summer",
+              "full_vn": "trời mưa gần hết cả mùa hè"
+            },
+            {
+              "full_en": "as most of you know , I've decided to resign",
+              "full_vn": "như hầu hết các bạn đều biết, tôi đã quyết định từ chức"
+            },
+            {
+              "full_en": "there are hundreds of verbs in English and most are regular",
+              "full_vn": "có tới hàng trăm động từ trong tiếng Anh và hầu hết là có quy tắc"
+            },
+            {
+              "full_en": "he spent most of his free time in the gardening",
+              "full_vn": "ông ta dành phần lớn thời giờ rảnh rỗi vào việc làm vườn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

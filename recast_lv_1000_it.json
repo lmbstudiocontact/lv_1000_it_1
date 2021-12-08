@@ -1,0 +1,64 @@
+{
+  "english": "recast",
+  "phat_am": "['ri:'kɑ:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đúc lại (một khẩu pháo...); vật đúc lại"
+        },
+        {
+          "m_full_vn": "sự viết lại (một chương)"
+        },
+        {
+          "m_full_vn": "sự tính lại (một cột số) số tính lại"
+        },
+        {
+          "m_full_vn": "(sân khấu) sự phân lại vai (trong một vở kịch); các vai phân lại"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ recast",
+      "list_m": [
+        {
+          "m_full_vn": "đúc lại",
+          "list_en_vn": [
+            {
+              "full_en": "to recast a gun",
+              "full_vn": "đúc lại một khẩu pháo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết lại",
+          "list_en_vn": [
+            {
+              "full_en": "to recast a chapter",
+              "full_vn": "viết lại một chương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỉnh lại",
+          "list_en_vn": [
+            {
+              "full_en": "to recast a column of figures",
+              "full_vn": "tính lại, (cộng lại) một cột số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phân lại vai",
+          "list_en_vn": [
+            {
+              "full_en": "to recast a play",
+              "full_vn": "phân lại vai trong một vở kịch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

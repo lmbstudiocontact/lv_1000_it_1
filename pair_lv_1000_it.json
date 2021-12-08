@@ -1,0 +1,205 @@
+{
+  "english": "pair",
+  "phat_am": "[peə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hai cái gì cùng loại và đi đôi với nhau; đôi; cặp",
+          "list_en_vn": [
+            {
+              "full_en": "a pair of gloves /shoes /socks /ear-rings",
+              "full_vn": "đôi găng tay/giày/bít tất/khuyên tai"
+            },
+            {
+              "full_en": "a huge pair of eyes",
+              "full_vn": "cặp mắt to thô lố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật gồm có hai phần gắn nối với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "a pair of spectacles /tights /scissors /compasses",
+              "full_vn": "cái kính đeo mắt/quần nịt/kéo/compa"
+            },
+            {
+              "full_en": "my spectacles are broken , I'll need to buy another pair",
+              "full_vn": "kính của tôi bị vỡ, tôi phải mua cái khác"
+            },
+            {
+              "full_en": "these trousers cost 30 dollars a pair",
+              "full_vn": "quần này giá 30 đô la một chiếc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hai người có quan hệ gần gũi hoặc cùng làm việc với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "the happy pair",
+              "full_vn": "đôi uyên ương (cặp vợ chồng mới lấy nhau)"
+            },
+            {
+              "full_en": "you've behaved very badly , the pair of you !",
+              "full_vn": "cả hai vợ chồng anh đều ăn ở không tốt!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "động vật đực và cái cùng loài kết đôi với nhau thành cặp; đôi",
+          "list_en_vn": [
+            {
+              "full_en": "a pair of swans nesting by the river",
+              "full_vn": "đôi thiên nga làm tổ ở ven sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hai con ngựa thắng với nhau để kéo chiếc xe ngựa",
+          "list_en_vn": [
+            {
+              "full_en": "a coach and pair",
+              "full_vn": "chiếc xe song mã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) (một trong) hai nghị sĩ ở hai đảng đối lập thoả thuận cùng không bỏ phiếu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in pairs",
+              "list_im": [
+                {
+                  "im_full_vn": "từng đôi, từng cặp; cả đôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "cuff-links are only sold in pairs",
+                      "full_vn": "khuy măng sét chỉ bán từng đôi mà thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in pairs",
+              "list_im": [
+                {
+                  "im_full_vn": "từng đôi, từng cặp; cả đôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "cuff-links are only sold in pairs",
+                      "full_vn": "khuy măng sét chỉ bán từng đôi mà thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "that is another pair of shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "đó lại là vấn đề khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "show a clean pair of heels",
+              "list_im": [
+                {
+                  "im_full_vn": "như show"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghép đôi, ghép cặp",
+          "list_en_vn": [
+            {
+              "full_en": "I've been paired with Bob in the next round of the competition",
+              "full_vn": "tôi được ghép đôi với Bob trong vòng thi đấu sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về động vật) kết đôi; sống thành cặp"
+        },
+        {
+          "m_full_vn": "( to pair A with B ) ( to pair with somebody ) (chính trị) liên minh, liên kết",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pair (somebody /something ) off (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "(làm cho ai) hình thành từng đôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The students had all paired off by the end of term",
+                      "full_vn": "Đến cuối học kỳ, tất cả các sinh viên đều kết thành từng đôi"
+                    },
+                    {
+                      "full_en": "Her parents tried to pair her off with a rich neighbour",
+                      "full_vn": "bố mẹ nàng đã ghép duyên nàng với một người hàng xóm giàu có"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pair (somebody /something ) off (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "(làm cho ai) hình thành từng đôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The students had all paired off by the end of term",
+                      "full_vn": "Đến cuối học kỳ, tất cả các sinh viên đều kết thành từng đôi"
+                    },
+                    {
+                      "full_en": "Her parents tried to pair her off with a rich neighbour",
+                      "full_vn": "bố mẹ nàng đã ghép duyên nàng với một người hàng xóm giàu có"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pair (somebody /something ) off (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "(làm cho ai) hình thành từng đôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The students had all paired off by the end of term",
+                      "full_vn": "Đến cuối học kỳ, tất cả các sinh viên đều kết thành từng đôi"
+                    },
+                    {
+                      "full_en": "Her parents tried to pair her off with a rich neighbour",
+                      "full_vn": "bố mẹ nàng đã ghép duyên nàng với một người hàng xóm giàu có"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pair up (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "hình thành một (nhiều) đôi để làm việc, thi đấu... với nhau; thành từng cặp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

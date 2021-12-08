@@ -1,0 +1,82 @@
+{
+  "english": "threaten",
+  "phat_am": "['θretn]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "doạ, đe doạ, hăm doạ; tìm cách ảnh hưởng đến ai bằng đe doạ"
+        },
+        {
+          "m_full_vn": "dùng (cái gì) để đe doạ",
+          "list_en_vn": [
+            {
+              "full_en": "he threatened legal action",
+              "full_vn": "nó đe sẽ kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh cáo, báo trước (về cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the clouds threatened rain",
+              "full_vn": "những đám mây báo hiệu trời sắp mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dường như có thể xảy ra; làm cái gì không được mong muốn",
+          "list_en_vn": [
+            {
+              "full_en": "under a threatening sky",
+              "full_vn": "dưới một bầu trời đe doạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là mối đe doạ đối với ( ai/cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the dangers that threaten us",
+              "full_vn": "những hiểm nguy đang đe doạ chúng tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cảnh cáo, báo trước",
+          "list_en_vn": [
+            {
+              "full_en": "it keeps threatening to rain",
+              "full_vn": "trời vẫn muốn mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dường như có thể xảy ra; làm cái gì không được mong muốn",
+          "list_en_vn": [
+            {
+              "full_en": "a mistake that threatens to be costly",
+              "full_vn": "một sai lầm có nguy cơ sẽ phải trả giá đắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là mối đe doạ",
+          "list_en_vn": [
+            {
+              "full_en": "a species threatened by /with extinction",
+              "full_vn": "một loài bị đe doạ tuyệt chủng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

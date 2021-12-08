@@ -1,0 +1,82 @@
+{
+  "english": "tidy",
+  "phat_am": "['taidi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sạch sẽ, ngăn nắp, gọn gàng, có trật tự",
+          "list_en_vn": [
+            {
+              "full_en": "a tidy room",
+              "full_vn": "một căn phòng ngăn nắp sạch sẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thói quen ngăn nắp, sạch sẽ",
+          "list_en_vn": [
+            {
+              "full_en": "a tidy boy",
+              "full_vn": "một cậu bé gọn gàng, ngăn nắp"
+            },
+            {
+              "full_en": "tidy habits",
+              "full_vn": "cách ăn ở sạch sẽ"
+            },
+            {
+              "full_en": "to have a tidy mind",
+              "full_vn": "có đầu óc minh mẫn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) khá nhiều, khá lớn; kha khá (nhất là về một số tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "a tidy sum of money",
+              "full_vn": "một số tiền kha khá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tiếng địa phương) khá khoẻ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + up ) làm cho sạch sẽ, dọn dẹp, sắp xếp gọn gàng, xếp sắp ngăn nắp"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up ) sắp xếp sửa sang cho gọn gàng, dọn dẹp cho sạch sẽ ngăn nắp"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thùng chứa vật linh tinh, cái đựng đồ vặt vãnh; giỏ rác",
+          "list_en_vn": [
+            {
+              "full_en": "street tidy",
+              "full_vn": "thùng rác đường phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vải phủ ghế (cho khỏi bẩn)"
+        }
+      ]
+    }
+  ]
+}

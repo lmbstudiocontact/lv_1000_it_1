@@ -1,0 +1,194 @@
+{
+  "english": "need",
+  "phat_am": "[ni:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cần thiết; nhu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "there's a great need for a new book on the subject",
+              "full_vn": "rất cần phải có một quyển sách mới về đề tài đó"
+            },
+            {
+              "full_en": "I feel a need to talk to you about it",
+              "full_vn": "tôi cảm thấy cần phải nói chuyện với anh về vụ đó"
+            },
+            {
+              "full_en": "there's no need for you to start yet",
+              "full_vn": "anh chưa cần phải bắt đầu ngay"
+            },
+            {
+              "full_en": "if need be",
+              "full_vn": "nếu cần thiết, khi cần"
+            },
+            {
+              "full_en": "there's always the food in the freezer if need be",
+              "full_vn": "nếu cần thì luôn có sẵn thức ăn trong tủ lạnh"
+            },
+            {
+              "full_en": "if need be , I can do extra work at the weekend",
+              "full_vn": "nếu cần, tôi có thể làm thêm vào ngày nghỉ cuối tuần"
+            },
+            {
+              "full_en": "in case of need",
+              "full_vn": "trong trường hợp cần thiết"
+            },
+            {
+              "full_en": "there is no need to hurry",
+              "full_vn": "không cần gì phải vội"
+            },
+            {
+              "full_en": "to have need of something ; to stand (to be ) in need of something",
+              "full_vn": "cần cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình cảnh túng thiếu; lúc khó khăn, lúc hoạn nạn",
+          "list_en_vn": [
+            {
+              "full_en": "he helped me in my hour of need",
+              "full_vn": "anh ta giúp tôi trong lúc khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự đi ỉa, sự đi đái",
+          "list_one_mean": [
+            {
+              "id_full_en": "your need is greater than mine",
+              "list_im": [
+                {
+                  "im_full_vn": "anh cần cái đó hơn tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a friend in need",
+              "list_im": [
+                {
+                  "im_full_vn": "xem friend"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to do one's needs",
+              "full_vn": "đi ỉa, đi đái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ, thể phủ định là need not (viết tắt) là needn't , chỉ dùng trong câu phủ định và câu hỏi, sau if và whether hoặc với hardly , scarcely , no one ...",
+      "list_m": [
+        {
+          "m_full_vn": "(chỉ sự bắt buộc) cần phải",
+          "list_en_vn": [
+            {
+              "full_en": "you needn't finish that work today",
+              "full_vn": "anh không cần phải làm xong việc đó hôm nay"
+            },
+            {
+              "full_en": "'Need you go yet ?' - 'No , I needn't",
+              "full_vn": "'Anh cần đi bây giờ không? ' - 'Không, tôi không cần'"
+            },
+            {
+              "full_en": "he wondered whether they need send a deposit",
+              "full_vn": "nó bâng khuâng không biết họ có cần gửi tiền đặt cọc hay không"
+            },
+            {
+              "full_en": "I need hardly tell you that the work is dangerous",
+              "full_vn": "tôi vẫn cứ phải nói anh rằng việc đó nguy hiểm"
+            },
+            {
+              "full_en": "nobody need be afraid of catching the disease",
+              "full_vn": "không ai phải sợ mắc bệnh đó cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với have + động tính từ quá khứ để chỉ rằng những hành động trong quá khứ là cần thiết hoặc không cần thiết)",
+          "list_en_vn": [
+            {
+              "full_en": "you needn't have hurried",
+              "full_vn": "lẽ ra anh không cần phải vội vàng"
+            },
+            {
+              "full_en": "she needn't have come in person - a letter would have been enough",
+              "full_vn": "lẽ ra cô ấy không cần phải đích thân đến - viết thư là được rồi"
+            },
+            {
+              "full_en": "need you have paid so much ?",
+              "full_vn": "anh có cần phải tốn tiền nhiều vậy không?"
+            },
+            {
+              "full_en": "need they have sold the farm ?",
+              "full_vn": "họ có cần phải bán trang trại đi không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(yêu cầu cái gì/ai); muốn; thiếu; cần",
+          "list_en_vn": [
+            {
+              "full_en": "do you need any help ?",
+              "full_vn": "anh có cần sự giúp đỡ không?"
+            },
+            {
+              "full_en": "this question needs a reply",
+              "full_vn": "câu hỏi này đòi hỏi phải được trả lời"
+            },
+            {
+              "full_en": "this house needs repair",
+              "full_vn": "cái nhà này cần sửa chữa"
+            },
+            {
+              "full_en": "I need to consult a dictionary",
+              "full_vn": "tôi cần phải tra từ điển"
+            },
+            {
+              "full_en": "every work needs to be done with care",
+              "full_vn": "mọi việc đều cần phải làm cẩn thận"
+            },
+            {
+              "full_en": "this plant needs to be watered twice a week ; this plant needs watering twice a week",
+              "full_vn": "cây này cần tưới mỗi tuần hai lần"
+            },
+            {
+              "full_en": "what that child needs is a good spanking",
+              "full_vn": "cái mà đứa bé ấy cần là phết vào đít một cái nên thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chỉ sự bắt buộc)",
+          "list_en_vn": [
+            {
+              "full_en": "she needs to have access to our files",
+              "full_vn": "cô ấy cần phải được quyền sử dụng hồ sơ tài liệu của chúng tôi"
+            },
+            {
+              "full_en": "I didn't need to go to the bank - I borrowed some money from Mary",
+              "full_vn": "tôi chẳng cần đi ngân hàng nữa - tôi đã mượn Mary một ít tiền rồi"
+            },
+            {
+              "full_en": "will we need to show our passports ?",
+              "full_vn": "chúng tôi có cần trình hộ chiếu hay không?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

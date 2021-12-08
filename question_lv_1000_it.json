@@ -1,0 +1,208 @@
+{
+  "english": "question",
+  "phat_am": "['kwest∫ən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "câu hỏi",
+          "list_en_vn": [
+            {
+              "full_en": "question and answer",
+              "full_vn": "hỏi và đáp"
+            },
+            {
+              "full_en": "to ask a lot of questions",
+              "full_vn": "đặt ra nhiều câu hỏi"
+            },
+            {
+              "full_en": "Question 3 is very enigmatic",
+              "full_vn": "Câu hỏi số 3 thật bí hiểm"
+            },
+            {
+              "full_en": "I'd like to put a question to the speaker",
+              "full_vn": "tôi muốn đặt một câu hỏi với diễn giả, tôi muốn hỏi diễn giả một câu"
+            },
+            {
+              "full_en": "to answer a question",
+              "full_vn": "trả lời một câu hỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vấn đề; điều bàn đến, điều nói đến",
+          "list_en_vn": [
+            {
+              "full_en": "a nice question",
+              "full_vn": "một vấn đề tế nhị"
+            },
+            {
+              "full_en": "what about the question of employment ?",
+              "full_vn": "vấn đề công ăn việc làm thì thế nào?"
+            },
+            {
+              "full_en": "we have to consider the question of where to park",
+              "full_vn": "chúng ta cần suy tính vấn đề đỗ xe ở đâu"
+            },
+            {
+              "full_en": "the question of choosing a representative has arisen",
+              "full_vn": "vấn đề chọn một đại biểu đã được nêu ra"
+            },
+            {
+              "full_en": "it is a question of ...",
+              "full_vn": "vấn đề là..."
+            },
+            {
+              "full_en": "It isn't a question of whether we can afford a holiday - I'm just too busy at the moment",
+              "full_vn": "Vấn đề không phải là chúng ta đủ khả năng đi nghỉ hay không, mà chỉ là lúc này tôi bận rộn quá"
+            },
+            {
+              "full_en": "She's so talented that her success can only be a question of time",
+              "full_vn": "cô ta rất có tài, nên thành công của cô ta chi còn là vấn đề thời gian thôi"
+            },
+            {
+              "full_en": "that is not the question",
+              "full_vn": "vấn đề không phải là thế, vấn đề không phải ở đó"
+            },
+            {
+              "full_en": "out of the question",
+              "full_vn": "không thể bàn đến; không thể được"
+            },
+            {
+              "full_en": "missing school to watch the football match is out of the question",
+              "full_vn": "trốn học để đi xem bóng đá là điều không thể được"
+            },
+            {
+              "full_en": "a new bicycle is out of the question - we can't afford",
+              "full_vn": "một chiếc xe đạp mới là không thể được - chúng ta không có khả năng mua"
+            },
+            {
+              "full_en": "the person in question",
+              "full_vn": "người đang được nói đến"
+            },
+            {
+              "full_en": "the matter in question",
+              "full_vn": "việc đang được bàn đến"
+            },
+            {
+              "full_en": "to bring something into question",
+              "full_vn": "đưa điều gì ra bàn bạc như một vấn đề quan trọng"
+            },
+            {
+              "full_en": "to come into question",
+              "full_vn": "được thảo luận bàn bạc; thành vấn đề thảo luận bàn bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nghi ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "her sincerity is beyond question",
+              "full_vn": "sự thành thật của cô ta là điều ai cũng biết (không nghi ngờ gì nữa)"
+            },
+            {
+              "full_en": "his suitability for the post is open to the question",
+              "full_vn": "anh ta có thích hợp với chức vụ này hay không, điều đó còn đáng xét lại"
+            },
+            {
+              "full_en": "to call something in /into question",
+              "full_vn": "nghi ngờ điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự tra tấn để bắt cung khai",
+          "list_one_mean": [
+            {
+              "id_full_en": "question !",
+              "list_im": [
+                {
+                  "im_full_vn": "xin đi vào đề! (trong hội nghị, nhắc người phát biểu nói lan man ngoài đề); có vấn đề đấy! (tỏ ý nghi ngờ sự việc do ai đang nói)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beg the question",
+              "list_im": [
+                {
+                  "im_full_vn": "xem beg"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pop the question",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pop"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a /the sixty-four thousand dollar question",
+              "list_im": [
+                {
+                  "im_full_vn": "xem dollar"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a moot point /question",
+              "list_im": [
+                {
+                  "im_full_vn": "xem moot"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is some /no question of",
+              "list_im": [
+                {
+                  "im_full_vn": "có/không có khả năng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be put to the question",
+              "full_vn": "bị tra tấn để bắt cung khai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hỏi ai một hoặc nhiều câu hỏi; chất vấn",
+          "list_en_vn": [
+            {
+              "full_en": "they questioned her closely about her friendship with the dead man",
+              "full_vn": "cô ta bị gặng hỏi về mối quan hệ bạn bè của cô ta với người chết"
+            },
+            {
+              "full_en": "I was questioned for six hours by the police",
+              "full_vn": "tôi bị cảnh sát hỏi cung suốt sáu tiếng đồng hồ"
+            },
+            {
+              "full_en": "I'd like to question you on your views about the housing problem",
+              "full_vn": "tôi muốn chất vấn ngài về quan điểnm của ngài đối với vấn đề nhà ở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghi ngờ; đặt thành vấn đề",
+          "list_en_vn": [
+            {
+              "full_en": "to question the honesty of somebody",
+              "full_vn": "nghi ngờ tính lương thiện (chân thật) của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

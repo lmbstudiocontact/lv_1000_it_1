@@ -1,0 +1,39 @@
+{
+  "english": "quart",
+  "phat_am": "[kwɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) qt lít Anh (bằng 1, 14 lít); 1 / 4 galông (đơn vị đo chất lỏng)"
+        },
+        {
+          "m_full_vn": "chai lít Anh, bình một lít Anh"
+        },
+        {
+          "m_full_vn": "thế các (một thể đánh gươm)",
+          "list_en_vn": [
+            {
+              "full_en": "to practises quart and tierce",
+              "full_vn": "tập đánh gươm, tập đánh kiếm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) bộ bốn cây liên tiếp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put a quart into a pint pot",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) (cố gắng) làm cái gì không thể làm được (nhất là đưa cái gì vào một không gian quá nhỏ đối với nó); lấy thúng úp voi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "remain",
+  "phat_am": "[ri'mein]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "còn lại",
+          "list_en_vn": [
+            {
+              "full_en": "much remains to be done",
+              "full_vn": "còn nhiều việc phải làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẫn, hoàn cảnh như cũ",
+          "list_en_vn": [
+            {
+              "full_en": "his ideas remain unchanged",
+              "full_vn": "tư tưởng của ông ta vẫn không hề thay đổi"
+            },
+            {
+              "full_en": "I remain yours sincerely",
+              "full_vn": "tôi luôn luôn vẫn là người bạn chân thành của anh (lời nói (thường) có ở cuối một thư)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còn để"
+        },
+        {
+          "m_full_vn": "ở lại chỗ cũ, ở lại; giữ nguyên (vị trí, tình trạng)"
+        }
+      ]
+    }
+  ]
+}

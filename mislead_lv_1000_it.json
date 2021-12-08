@@ -1,0 +1,42 @@
+{
+  "english": "mislead",
+  "phat_am": "[mis'li:d]",
+  "list_type": [
+    {
+      "type": "ngoại động từ, thì quá khứ và động tính từ quá khứ là misled",
+      "list_m": [
+        {
+          "m_full_vn": "( to mislead somebody about / as to something ) làm cho ai có một ý niệm hoặc ấn tượng sai về ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "you misled me as to your intentions",
+              "full_vn": "anh đã làm cho tôi nghĩ sai về những ý định của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho mê muội, làm cho lầm đường lạc lối",
+          "list_en_vn": [
+            {
+              "full_en": "we were misled by the guide",
+              "full_vn": "chúng tôi bị người hướng dẫn đưa đi nhầm đường"
+            },
+            {
+              "full_en": "misled by bad companions",
+              "full_vn": "bị bạn bè xấu làm cho lầm đường lạc lối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to mislead somebody into doing something ) khiến ai làm cái gì bằng cách lừa dối người đó",
+          "list_en_vn": [
+            {
+              "full_en": "he misled me into thinking he was rich",
+              "full_vn": "nó đánh lừa tôi khiến tôi tưởng nó giàu có"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

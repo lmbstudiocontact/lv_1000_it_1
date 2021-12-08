@@ -1,0 +1,87 @@
+{
+  "english": "loud",
+  "phat_am": "[laud]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "to, ầm ĩ, inh ỏi (tiếng)",
+          "list_en_vn": [
+            {
+              "full_en": "a loud cry",
+              "full_vn": "một tiếng kêu to"
+            },
+            {
+              "full_en": "a loud report",
+              "full_vn": "một tiếng nổ lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiệt liệt, kịch liệt",
+          "list_en_vn": [
+            {
+              "full_en": "to be loud in the praise of somebody",
+              "full_vn": "nhiệt liệt ca ngợi ai"
+            },
+            {
+              "full_en": "a loud protest",
+              "full_vn": "sự phản kháng kịch liệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sặc sỡ, loè loẹt (màu sắc)"
+        },
+        {
+          "m_full_vn": "thích ồn ào, thích nói to (người)"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "to, lớn (nói)",
+          "list_one_mean": [
+            {
+              "id_full_en": "actions speak louder than words",
+              "list_im": [
+                {
+                  "im_full_vn": "làm có ý nghĩa hơn nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for crying out loud",
+              "list_im": [
+                {
+                  "im_full_vn": "làm gì mà ầm ĩ thế?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out loud",
+              "list_im": [
+                {
+                  "im_full_vn": "to tiếng, lớn tiếng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "don't talk so loud",
+              "full_vn": "đừng nói to thế"
+            },
+            {
+              "full_en": "to laugh loud and long",
+              "full_vn": "cười to và lâu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

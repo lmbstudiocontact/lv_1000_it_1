@@ -1,0 +1,28 @@
+{
+  "english": "loyal",
+  "phat_am": "['lɔiəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trung thành, trung nghĩa, trung kiên",
+          "list_en_vn": [
+            {
+              "full_en": "these brave soldiers are always loyal to their ideal",
+              "full_vn": "những người lính dũng cảm này luôn trung thành với lý tưởng của họ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người trung nghĩa, người trung kiên"
+        }
+      ]
+    }
+  ]
+}

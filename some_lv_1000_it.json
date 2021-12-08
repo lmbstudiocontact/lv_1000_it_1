@@ -1,0 +1,174 @@
+{
+  "english": "some",
+  "phat_am": "[sʌm]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng với danh từ không đếm được) một lượng không xác định",
+          "list_en_vn": [
+            {
+              "full_en": "there's some ice in the fridge",
+              "full_vn": "có một ít đá trong tủ lạnh"
+            },
+            {
+              "full_en": "there's some mail for you this morning",
+              "full_vn": "sáng nay có mấy bức thư gửi cho ông"
+            },
+            {
+              "full_en": "you left some money on the table",
+              "full_vn": "cậu đã để quên một ít tiền trên bàn"
+            },
+            {
+              "full_en": "would you like some milk in your tea ?",
+              "full_vn": "anh muốn cho một tí sữa vào trà hay không?"
+            },
+            {
+              "full_en": "isn't there some (more ) wine in the cellar ?",
+              "full_vn": "còn tí rượu nào trong hầm hay không?"
+            },
+            {
+              "full_en": "if you save some money each week , we can go on holiday",
+              "full_vn": "nếu anh để dành mỗi tuần một ít tiền, chúng ta có thể đi nghỉ được đấy"
+            },
+            {
+              "full_en": "please have some cake",
+              "full_vn": "mời anh dùng một ít bánh"
+            },
+            {
+              "full_en": "some modern music sounds harsh and tuneless",
+              "full_vn": "một số nhạc hiện đại nghe chói tai và chẳng có điệu gì"
+            },
+            {
+              "full_en": "the headmistress spoke at some length",
+              "full_vn": "bà hiệu trưởng nói một hồi khá lâu"
+            },
+            {
+              "full_en": "that's some help to us",
+              "full_vn": "điều đó đã giúp chúng tôi kha khá"
+            },
+            {
+              "full_en": "I'll be gone (for ) some time",
+              "full_vn": "tôi sẽ đi vắng khá lâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với danh từ đếm được) một vài; vài ba",
+          "list_en_vn": [
+            {
+              "full_en": "some children were playing in the park",
+              "full_vn": "có vài ba đứa trẻ đang chơi trong công viên"
+            },
+            {
+              "full_en": "why don't you give her some flowers ?",
+              "full_vn": "tại sao anh không tặng cô ấy vài bông hoa?"
+            },
+            {
+              "full_en": "if you put some pictures on the wall , the room will look brighter",
+              "full_vn": "nếu anh đặt vài bức tranh trên tường, căn phòng sẽ sáng hơn"
+            },
+            {
+              "full_en": "we went some miles out of our way",
+              "full_vn": "chúng tôi đã đi trệch mấy dặm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người, chỗ hoặc vật không xác định",
+          "list_en_vn": [
+            {
+              "full_en": "some man at the door is asking to see you",
+              "full_vn": "có ông nào đó ở ngoài cửa đang xin gặp bà"
+            },
+            {
+              "full_en": "she won a competition in some newspaper or other",
+              "full_vn": "cô ta đã thằng cuộc thi trên tờ báo nào đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với các số) ước chừng",
+          "list_en_vn": [
+            {
+              "full_en": "he spent some twelve years of his life in Africa",
+              "full_vn": "ông ta đã sống khoảng 12 năm ở châu Phi"
+            },
+            {
+              "full_en": "some thirty people attended the funeral",
+              "full_vn": "có khoảng ba mươi người dự đám tang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "một vài, một ít (người, cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "some agree with us",
+              "full_vn": "một vài người đồng ý với chúng tôi"
+            },
+            {
+              "full_en": "some of his friends told him so",
+              "full_vn": "vài anh bạn của nó nói với nó như thế"
+            },
+            {
+              "full_en": "I like those roses , please give me some",
+              "full_vn": "tôi thích những bông hồng kia, anh làm ơn cho tôi xin một vài bông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) đến một chừng mực nào đó; một tí; hơi",
+          "list_en_vn": [
+            {
+              "full_en": "to be some angry",
+              "full_vn": "tức giận một tí, hơi giận"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố",
+      "list_m": [
+        {
+          "m_full_vn": "sản sinh ra",
+          "list_en_vn": [
+            {
+              "full_en": "fearsome",
+              "full_vn": "đáng sợ"
+            },
+            {
+              "full_en": "quarrelsome",
+              "full_vn": "hay sinh sự"
+            },
+            {
+              "full_en": "meddlesome",
+              "full_vn": "hay xen vào việc của người khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(với những số tạo thành danh từ) nhóm của một số xác định",
+          "list_en_vn": [
+            {
+              "full_en": "threesome",
+              "full_vn": "nhóm ba"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

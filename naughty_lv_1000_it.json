@@ -1,0 +1,37 @@
+{
+  "english": "naughty",
+  "phat_am": "['nɔ:ti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(người lớn dùng khi nói với hoặc về trẻ em) không vâng lời; hư; nghịch ngợm",
+          "list_en_vn": [
+            {
+              "full_en": "a naughty boy",
+              "full_vn": "thằng bé hư"
+            },
+            {
+              "full_en": "you were naughty to pull the cat's tail",
+              "full_vn": "cháu kéo đuôi con mèo thì đúng là nghịch quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thô tục, tục tĩu",
+          "list_en_vn": [
+            {
+              "full_en": "naughty words",
+              "full_vn": "những lời nói tục tĩu"
+            },
+            {
+              "full_en": "naughty books",
+              "full_vn": "sách nhảm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

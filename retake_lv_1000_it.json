@@ -1,0 +1,67 @@
+{
+  "english": "retake",
+  "phat_am": "[,ri:'teik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chụp lại, sự quay lại (một cảnh..)",
+          "list_en_vn": [
+            {
+              "full_en": "do several retakes",
+              "full_vn": "quay lại vài lần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh quay lại"
+        },
+        {
+          "m_full_vn": "sự bắt lại; người bị bắt lại"
+        },
+        {
+          "m_full_vn": "sự giành lại, sự chiếm lại, sự lấy lại; cái chiếm lại"
+        },
+        {
+          "m_full_vn": "sự thi lại; người thi lại"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ retook , retaken",
+      "list_m": [
+        {
+          "m_full_vn": "lấy lại, chiếm lại, giành lại (một đồn luỹ..)",
+          "list_en_vn": [
+            {
+              "full_en": "to retake a fortress",
+              "full_vn": "chiếm lại một toà thành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chụp ảnh lại, quay phim lại (một cảnh..)",
+          "list_en_vn": [
+            {
+              "full_en": "to retake a shot",
+              "full_vn": "chụp lại một kiểu ảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt lại (người tù)"
+        },
+        {
+          "m_full_vn": "dự (thi..) lại",
+          "list_en_vn": [
+            {
+              "full_en": "to retake the physics paper",
+              "full_vn": "thi lại môn vật lý"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

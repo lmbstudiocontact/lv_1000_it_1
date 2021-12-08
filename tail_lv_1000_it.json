@@ -1,0 +1,307 @@
+{
+  "english": "tail",
+  "phat_am": "[teil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đuôi (thú vật, chim, cá...)",
+          "list_en_vn": [
+            {
+              "full_en": "to wag the tail",
+              "full_vn": "vẫy đuôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đuôi, đoạn cuối, đoạn chót",
+          "list_en_vn": [
+            {
+              "full_en": "the tail of a kite",
+              "full_vn": "đuôi diều"
+            },
+            {
+              "full_en": "the tail of a comet",
+              "full_vn": "đuôi sao chuổi"
+            },
+            {
+              "full_en": "the tail of a coat",
+              "full_vn": "đuôi áo, vạt áo sau"
+            },
+            {
+              "full_en": "the tail of a procession",
+              "full_vn": "đuôi đám rước"
+            },
+            {
+              "full_en": "the tail of one's eye",
+              "full_vn": "đuôi mắt"
+            },
+            {
+              "full_en": "the tail of the class",
+              "full_vn": "học trò bét lớp"
+            },
+            {
+              "full_en": "the tail of a storm",
+              "full_vn": "rớt bão"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người đi theo ai, người theo dõi ai (không để người đó trông thấy)",
+          "list_en_vn": [
+            {
+              "full_en": "put a tail on somebody",
+              "full_vn": "cho người bám đuôi ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoàn tuỳ tùng"
+        },
+        {
+          "m_full_vn": "bím tóc bỏ xoã sau lưng"
+        },
+        {
+          "m_full_vn": "đít, đằng sau (xe...)",
+          "list_en_vn": [
+            {
+              "full_en": "to walk at the tail of a cart",
+              "full_vn": "theo sau xe bò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) mặt sấp (mặt không có hình đầu người của đồng tiền, ngửa lên khi chơi sấp ngửa)",
+          "list_en_vn": [
+            {
+              "full_en": "heads or tails ?",
+              "full_vn": "ngửa hay sấp?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) áo đuôi tôm (áo ngoài dài của đàn ông, vạt sau vuốt thon và xẻ đôi) (như) tail-coat",
+          "list_one_mean": [
+            {
+              "id_full_en": "to look at someone out of the tail of one's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "liếc ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put (have ) one's tail between one's legs",
+              "list_im": [
+                {
+                  "im_full_vn": "sợ cụp đuôi"
+                },
+                {
+                  "im_full_vn": "lấy làm xấu hổ, hổ thẹn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put (have ) one's tail between one's legs",
+              "list_im": [
+                {
+                  "im_full_vn": "sợ cụp đuôi"
+                },
+                {
+                  "im_full_vn": "lấy làm xấu hổ, hổ thẹn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn tail",
+              "list_im": [
+                {
+                  "im_full_vn": "chuồn mất, quay đít chạy mất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to twist someone's tail",
+              "list_im": [
+                {
+                  "im_full_vn": "quấy rầy ai, làm phiền ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have one's tail between one's legs",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thất bại hoàn toàn; thua cúp đuôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on somebody's tail",
+              "list_im": [
+                {
+                  "im_full_vn": "bám đuôi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo dõi, bám sát gót",
+          "list_en_vn": [
+            {
+              "full_en": "he tailed the spy to his hotel",
+              "full_vn": "nó bám theo tên gián điệp tới khách sạn của hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngắt cuống (trái cây..)",
+          "list_en_vn": [
+            {
+              "full_en": "top and tail gooseberries",
+              "full_vn": "bấm ngọn và ngắt cuống quả lý gai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + in ) đặt (xà nhà, rui, kèo) vào tường; cột vào"
+        },
+        {
+          "m_full_vn": "( + on to ) buộc vào, nối vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tail after",
+              "list_im": [
+                {
+                  "im_full_vn": "theo sát gót; theo đuôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tail up",
+              "list_im": [
+                {
+                  "im_full_vn": "cắm mũi xuống (máy bay); nổi đuôi lên (cá)"
+                },
+                {
+                  "im_full_vn": "nối đuôi nhau (đi vào)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tail up",
+              "list_im": [
+                {
+                  "im_full_vn": "cắm mũi xuống (máy bay); nổi đuôi lên (cá)"
+                },
+                {
+                  "im_full_vn": "nối đuôi nhau (đi vào)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tail to the tide",
+              "list_im": [
+                {
+                  "im_full_vn": "bập bềnh theo nước thuỷ triều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "tail away ; tail off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhỏ dần đi; ít đi; yếu đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the noise tailed away",
+                      "full_vn": "tiếng động nhỏ dần đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "ấp úng (lời nhận xét..)"
+                },
+                {
+                  "im_full_vn": "tụt lại đằng sau; tụt hậu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "tail away ; tail off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhỏ dần đi; ít đi; yếu đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the noise tailed away",
+                      "full_vn": "tiếng động nhỏ dần đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "ấp úng (lời nhận xét..)"
+                },
+                {
+                  "im_full_vn": "tụt lại đằng sau; tụt hậu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "tail away ; tail off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhỏ dần đi; ít đi; yếu đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the noise tailed away",
+                      "full_vn": "tiếng động nhỏ dần đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "ấp úng (lời nhận xét..)"
+                },
+                {
+                  "im_full_vn": "tụt lại đằng sau; tụt hậu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "tail away ; tail off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhỏ dần đi; ít đi; yếu đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the noise tailed away",
+                      "full_vn": "tiếng động nhỏ dần đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "ấp úng (lời nhận xét..)"
+                },
+                {
+                  "im_full_vn": "tụt lại đằng sau; tụt hậu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

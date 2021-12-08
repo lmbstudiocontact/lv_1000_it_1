@@ -1,0 +1,25 @@
+{
+  "english": "mirror",
+  "phat_am": "['mirə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gương"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hình ảnh trung thực (của cái gì)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phản chiếu, phản ánh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "similar",
+  "phat_am": "['similə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "giống nhau, như nhau, tương tự, cùng loại, cùng hình dáng"
+        },
+        {
+          "m_full_vn": "(toán học) đồng dạng",
+          "list_en_vn": [
+            {
+              "full_en": "similar triangles",
+              "full_vn": "tam giác đồng dạng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật giống, vật tương tự"
+        },
+        {
+          "m_full_vn": "( số nhiều) những vật giống nhau"
+        }
+      ]
+    }
+  ]
+}

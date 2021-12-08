@@ -1,0 +1,257 @@
+{
+  "english": "there",
+  "phat_am": "[ðeə]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở nơi đó, tại nơi đó, tới nơi đó",
+          "list_en_vn": [
+            {
+              "full_en": "here and there",
+              "full_vn": "đó đây"
+            },
+            {
+              "full_en": "there and then",
+              "full_vn": "tại chỗ ấy là lúc ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau một giới từ) chỗ đó, cái đó",
+          "list_en_vn": [
+            {
+              "full_en": "put the keys under there",
+              "full_vn": "để chìa khoá vào dưới chỗ đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở điểm đó, quy chiếu tới điểm đó (trong một câu chuyện, một loạt hành động, lý lẽ..)",
+          "list_en_vn": [
+            {
+              "full_en": "there I have to disagree with you , I'm afraid",
+              "full_vn": "tôi e rằng ở điểm đó tôi không thể đồng ý được với anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau that + danh từ để nhấn mạnh)",
+          "list_en_vn": [
+            {
+              "full_en": "that woman there is 103",
+              "full_vn": "cái bà phụ nữ đó 103 tuổi đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để nhấn mạnh lời gọi hoặc lời chào)",
+          "list_en_vn": [
+            {
+              "full_en": "you there ! come back !",
+              "full_vn": "này anh kia! hãy quay lại!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + to be ) (dùng để nhấn mạnh, không dịch)",
+          "list_one_mean": [
+            {
+              "id_full_en": "there and back",
+              "list_im": [
+                {
+                  "im_full_vn": "tới một nơi rồi trở lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there and then ; then and there",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay tại chỗ; ngay lúc ấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there you are",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng khi đưa cho ai cái gì anh ta muốn hoặc đã yêu cầu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there you are . I've brought your newspaper",
+                      "full_vn": "đây, tôi đã đem lại cho anh tờ báo"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(dùng để đoán chắc khi giải thích, chứng minh hoặc bình luận cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there you are ! I told you it was easy !",
+                      "full_vn": "đấy! tôi đã bảo anh là dễ mà!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "there you are",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng khi đưa cho ai cái gì anh ta muốn hoặc đã yêu cầu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there you are . I've brought your newspaper",
+                      "full_vn": "đây, tôi đã đem lại cho anh tờ báo"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(dùng để đoán chắc khi giải thích, chứng minh hoặc bình luận cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there you are ! I told you it was easy !",
+                      "full_vn": "đấy! tôi đã bảo anh là dễ mà!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "there you are",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng khi đưa cho ai cái gì anh ta muốn hoặc đã yêu cầu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there you are . I've brought your newspaper",
+                      "full_vn": "đây, tôi đã đem lại cho anh tờ báo"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(dùng để đoán chắc khi giải thích, chứng minh hoặc bình luận cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there you are ! I told you it was easy !",
+                      "full_vn": "đấy! tôi đã bảo anh là dễ mà!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "there you are",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng khi đưa cho ai cái gì anh ta muốn hoặc đã yêu cầu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there you are . I've brought your newspaper",
+                      "full_vn": "đây, tôi đã đem lại cho anh tờ báo"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(dùng để đoán chắc khi giải thích, chứng minh hoặc bình luận cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there you are ! I told you it was easy !",
+                      "full_vn": "đấy! tôi đã bảo anh là dễ mà!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there was nothing here",
+              "full_vn": "ở đây không có gì cả"
+            },
+            {
+              "full_en": "where there is oppression , there is struggle",
+              "full_vn": "ở đâu có áp bức, ở đó có đấu tranh"
+            },
+            {
+              "full_en": "you have only to turn the switch and there you are",
+              "full_vn": "anh chỉ việc xoay cái nút thì sẽ được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để bày tỏ sự đắc thắng, sự kinh hoàng, sự khuyến khích..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "there , there !",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để dỗ một đứa trẻ)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there , there , never mind , you'll soon feel better",
+                      "full_vn": "nào, nào! không sao đâu, rồi cháu sẽ cảm thấy dễ chịu ngay thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "there , there !",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để dỗ một đứa trẻ)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there , there , never mind , you'll soon feel better",
+                      "full_vn": "nào, nào! không sao đâu, rồi cháu sẽ cảm thấy dễ chịu ngay thôi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there ! that didn't hurt too much , did it ?",
+              "full_vn": "đó! không đau lắm, có phải không?"
+            },
+            {
+              "full_en": "there ! I have told you",
+              "full_vn": "đó! tôi đã bảo với anh rồi"
+            },
+            {
+              "full_en": "there ! take this chair",
+              "full_vn": "đấy, lấy cái ghế này đi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ đó, nơi đó, chỗ đấy",
+          "list_en_vn": [
+            {
+              "full_en": "he lives somewhere near there",
+              "full_vn": "nó ở quanh quẩn gần nơi đó"
+            },
+            {
+              "full_en": "tide comes up to there",
+              "full_vn": "nước thuỷ triều lên tới chỗ đó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

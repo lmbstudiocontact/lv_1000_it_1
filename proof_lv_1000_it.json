@@ -1,0 +1,180 @@
+{
+  "english": "proof",
+  "phat_am": "[pru:f]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứng cớ; bằng chứng",
+          "list_en_vn": [
+            {
+              "full_en": "this requires no proof",
+              "full_vn": "việc này không cần phải có bằng chứng gì cả"
+            },
+            {
+              "full_en": "what proofs have you that he is a swindler ?",
+              "full_vn": "anh có bằng chứng gì cho thấy nó là kẻ lừa đảo?"
+            },
+            {
+              "full_en": "has he any proof that he is related to me ?",
+              "full_vn": "nó có bằng chứng gì cho thấy nó bà con với tôi?"
+            },
+            {
+              "full_en": "written proof",
+              "full_vn": "bằng chứng thể hiện trên giấy tờ; bằng chứng viết"
+            },
+            {
+              "full_en": "documentary proof of her statement",
+              "full_vn": "tài liệu làm bằng chứng cho lời tuyên bố của cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kiểm chứng; sự chứng minh",
+          "list_en_vn": [
+            {
+              "full_en": "incapable of proof",
+              "full_vn": "không thể chứng minh được"
+            },
+            {
+              "full_en": "experimental proof",
+              "full_vn": "sự chứng minh bằng thực nghiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thử; sự thử thách",
+          "list_en_vn": [
+            {
+              "full_en": "to put something to the proof /test",
+              "full_vn": "đem thử cái gì"
+            },
+            {
+              "full_en": "to put somebody to the proof",
+              "full_vn": "thử thách ai"
+            },
+            {
+              "full_en": "to be brought to the proof",
+              "full_vn": "bị đem ra thử thách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nồng độ chuẩn của rượu cất"
+        },
+        {
+          "m_full_vn": "(quân sự) sự thử súng, sự thử chất nổ; nơi thử súng, nơi thử chất nổ"
+        },
+        {
+          "m_full_vn": "bản in thử (tài liệu, sách..); bản in thử một bức ảnh; giai đoạn in thử",
+          "list_en_vn": [
+            {
+              "full_en": "to check /correct /read the proofs of a picture-book",
+              "full_vn": "kiểm tra/sửa/đọc bản in thử của một quyển sách hình"
+            },
+            {
+              "full_en": "page proofs",
+              "full_vn": "những trang in thử"
+            },
+            {
+              "full_en": "a proof copy",
+              "full_vn": "một bản in thử"
+            },
+            {
+              "full_en": "check the proofs of a book",
+              "full_vn": "kiểm tra các bản in thử của một cuốn sách"
+            },
+            {
+              "full_en": "a proof copy",
+              "full_vn": "một bản in thử"
+            },
+            {
+              "full_en": "proofs of the wedding photos",
+              "full_vn": "những bản in thử ảnh chụp đám cưới"
+            },
+            {
+              "full_en": "I read the dictionary in proof",
+              "full_vn": "Tôi đọc cuốn từ điển khi in thử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) sự chứng minh (một mệnh đề..)",
+          "list_en_vn": [
+            {
+              "full_en": "the proof of a theorem",
+              "full_vn": "sự chứng minh một định lý (trong hình học)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) tính không xuyên qua được; tính chịu đựng",
+          "list_one_mean": [
+            {
+              "id_full_en": "the proof of the pudding is in the eating",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) có qua thử thách mới biết dở hay"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "armour of proof",
+              "full_vn": "áo giáp đạn không xuyên qua được; áo giáp đâm không thủng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( proof against something ) chịu đựng được; chống được; ngăn được (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "proof against any kind of bullet",
+              "full_vn": "có thể chống lại được với bất cứ loại đạn gì, đạn gì bắn cũng không thủng"
+            },
+            {
+              "full_en": "proof against temptation",
+              "full_vn": "có thể chống được sự cám dỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chống lại được (cái gì được nói rõ)",
+          "list_en_vn": [
+            {
+              "full_en": "leak-proof batteries",
+              "full_vn": "những bộ pin không thể rò rỉ"
+            },
+            {
+              "full_en": "a sound-proof room",
+              "full_vn": "một căn phòng cách âm"
+            },
+            {
+              "full_en": "waterproof clothing",
+              "full_vn": "quần áo không thấm nước"
+            },
+            {
+              "full_en": "bullet-proof glass",
+              "full_vn": "kính chắn đạn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho chống lại được (nước, đạn.. nhất là vải để không thấm nước)"
+        }
+      ]
+    }
+  ]
+}

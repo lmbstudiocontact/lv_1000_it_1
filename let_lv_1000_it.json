@@ -1,0 +1,882 @@
+{
+  "english": "let",
+  "phat_am": "[let]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự ngăn cản, sự cản trở",
+          "list_en_vn": [
+            {
+              "full_en": "without let or hindrance",
+              "full_vn": "(pháp lý) không có gì cản trở, hoàn toàn tự do"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quần vợt) quả giao bóng chạm lưới"
+        },
+        {
+          "m_full_vn": "sự cho thuê"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ let",
+      "list_m": [
+        {
+          "m_full_vn": "để cho, cho phép",
+          "list_en_vn": [
+            {
+              "full_en": "I let him try once more",
+              "full_vn": "tôi để cho nó thử một lần nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho thuê",
+          "list_one_mean": [
+            {
+              "id_full_en": "to let by",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho đi qua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let down",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ thấp xuống, buông thõng, bỏ rơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she lets down her hair",
+                      "full_vn": "cô ta bỏ xoã tóc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let down",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ thấp xuống, buông thõng, bỏ rơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she lets down her hair",
+                      "full_vn": "cô ta bỏ xoã tóc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let in",
+              "list_im": [
+                {
+                  "im_full_vn": "cho vào, đưa vào"
+                },
+                {
+                  "im_full_vn": "(từ lóng) lừa, bịp, đánh lừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let in",
+              "list_im": [
+                {
+                  "im_full_vn": "cho vào, đưa vào"
+                },
+                {
+                  "im_full_vn": "(từ lóng) lừa, bịp, đánh lừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let into",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let someone into some place",
+                      "full_vn": "cho ai vào nơi nào"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let someone into the secret",
+                      "full_vn": "để cho ai hiểu biết điều bí mật"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let into",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let someone into some place",
+                      "full_vn": "cho ai vào nơi nào"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let someone into the secret",
+                      "full_vn": "để cho ai hiểu biết điều bí mật"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let into",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let someone into some place",
+                      "full_vn": "cho ai vào nơi nào"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let someone into the secret",
+                      "full_vn": "để cho ai hiểu biết điều bí mật"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let into",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let someone into some place",
+                      "full_vn": "cho ai vào nơi nào"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let someone into the secret",
+                      "full_vn": "để cho ai hiểu biết điều bí mật"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let off",
+              "list_im": [
+                {
+                  "im_full_vn": "tha, không trừng phạt; phạt nhẹ; tha thứ"
+                },
+                {
+                  "im_full_vn": "bắn ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let off a gun",
+                      "full_vn": "nổ súng"
+                    },
+                    {
+                      "full_en": "to let off an arrow",
+                      "full_vn": "bắn một mũi tên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "để chảy mất, để bay mất (hơi...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let off",
+              "list_im": [
+                {
+                  "im_full_vn": "tha, không trừng phạt; phạt nhẹ; tha thứ"
+                },
+                {
+                  "im_full_vn": "bắn ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let off a gun",
+                      "full_vn": "nổ súng"
+                    },
+                    {
+                      "full_en": "to let off an arrow",
+                      "full_vn": "bắn một mũi tên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "để chảy mất, để bay mất (hơi...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let off",
+              "list_im": [
+                {
+                  "im_full_vn": "tha, không trừng phạt; phạt nhẹ; tha thứ"
+                },
+                {
+                  "im_full_vn": "bắn ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let off a gun",
+                      "full_vn": "nổ súng"
+                    },
+                    {
+                      "full_en": "to let off an arrow",
+                      "full_vn": "bắn một mũi tên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "để chảy mất, để bay mất (hơi...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let off",
+              "list_im": [
+                {
+                  "im_full_vn": "tha, không trừng phạt; phạt nhẹ; tha thứ"
+                },
+                {
+                  "im_full_vn": "bắn ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let off a gun",
+                      "full_vn": "nổ súng"
+                    },
+                    {
+                      "full_en": "to let off an arrow",
+                      "full_vn": "bắn một mũi tên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "để chảy mất, để bay mất (hơi...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let off",
+              "list_im": [
+                {
+                  "im_full_vn": "tha, không trừng phạt; phạt nhẹ; tha thứ"
+                },
+                {
+                  "im_full_vn": "bắn ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let off a gun",
+                      "full_vn": "nổ súng"
+                    },
+                    {
+                      "full_en": "to let off an arrow",
+                      "full_vn": "bắn một mũi tên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "để chảy mất, để bay mất (hơi...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) mách lẻo, để lộ bí mật"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) giả vờ, làm ra vẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) mách lẻo, để lộ bí mật"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) giả vờ, làm ra vẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let out",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let the water out of the bath-tub",
+                      "full_vn": "để cho nước ở bồn tắm chảy ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tiết lộ, để cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let out a secret",
+                      "full_vn": "tiết lộ điều bí mật"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nới rộng, làm cho rộng ra"
+                },
+                {
+                  "im_full_vn": "cho thuê rộng rãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let out",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let the water out of the bath-tub",
+                      "full_vn": "để cho nước ở bồn tắm chảy ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tiết lộ, để cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let out a secret",
+                      "full_vn": "tiết lộ điều bí mật"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nới rộng, làm cho rộng ra"
+                },
+                {
+                  "im_full_vn": "cho thuê rộng rãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let out",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let the water out of the bath-tub",
+                      "full_vn": "để cho nước ở bồn tắm chảy ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tiết lộ, để cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let out a secret",
+                      "full_vn": "tiết lộ điều bí mật"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nới rộng, làm cho rộng ra"
+                },
+                {
+                  "im_full_vn": "cho thuê rộng rãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let out",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let the water out of the bath-tub",
+                      "full_vn": "để cho nước ở bồn tắm chảy ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tiết lộ, để cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let out a secret",
+                      "full_vn": "tiết lộ điều bí mật"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nới rộng, làm cho rộng ra"
+                },
+                {
+                  "im_full_vn": "cho thuê rộng rãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let out",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let the water out of the bath-tub",
+                      "full_vn": "để cho nước ở bồn tắm chảy ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tiết lộ, để cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let out a secret",
+                      "full_vn": "tiết lộ điều bí mật"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nới rộng, làm cho rộng ra"
+                },
+                {
+                  "im_full_vn": "cho thuê rộng rãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let out",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let the water out of the bath-tub",
+                      "full_vn": "để cho nước ở bồn tắm chảy ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tiết lộ, để cho biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let out a secret",
+                      "full_vn": "tiết lộ điều bí mật"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nới rộng, làm cho rộng ra"
+                },
+                {
+                  "im_full_vn": "cho thuê rộng rãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let out at",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh đấm dữ, xỉ vả và chửi tục tằn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) dịu đi, bớt đi, yếu đi"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) ngừng lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) dịu đi, bớt đi, yếu đi"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) ngừng lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let alone",
+              "list_im": [
+                {
+                  "im_full_vn": "không nói đến, bỏ mặc, không dính vào, không đụng chạm đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let somebody alone to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "giao phó cho ai làm việc gì một mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let be",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ mặc, để mặc như vậy không dính vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "let me be",
+                      "full_vn": "kệ tôi, để mặc tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let be",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ mặc, để mặc như vậy không dính vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "let me be",
+                      "full_vn": "kệ tôi, để mặc tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let blood",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho máu chảy, trích máu; cắt tiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "let bygones be bygones",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bygone"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let the cat out of the bag",
+              "list_im": [
+                {
+                  "im_full_vn": "để lộ bí mật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let somebody down gently (easity )",
+              "list_im": [
+                {
+                  "im_full_vn": "khoan thứ với một người nào; không xỉ vả làm nhục ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let fall",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ xuống, buông xuống, ném xuống"
+                },
+                {
+                  "im_full_vn": "nói buông, nói vô tình, nói thiếu trách nhiệm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let fall a remark on someone",
+                      "full_vn": "buông ra một lời nhận xét về ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(toán học) kẻ (một đường thẳng góc) xuống (một cạnh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let fall",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ xuống, buông xuống, ném xuống"
+                },
+                {
+                  "im_full_vn": "nói buông, nói vô tình, nói thiếu trách nhiệm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let fall a remark on someone",
+                      "full_vn": "buông ra một lời nhận xét về ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(toán học) kẻ (một đường thẳng góc) xuống (một cạnh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let fall",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ xuống, buông xuống, ném xuống"
+                },
+                {
+                  "im_full_vn": "nói buông, nói vô tình, nói thiếu trách nhiệm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let fall a remark on someone",
+                      "full_vn": "buông ra một lời nhận xét về ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(toán học) kẻ (một đường thẳng góc) xuống (một cạnh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let fall",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ xuống, buông xuống, ném xuống"
+                },
+                {
+                  "im_full_vn": "nói buông, nói vô tình, nói thiếu trách nhiệm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let fall a remark on someone",
+                      "full_vn": "buông ra một lời nhận xét về ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(toán học) kẻ (một đường thẳng góc) xuống (một cạnh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let fly",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn (súng, tên lửa...)"
+                },
+                {
+                  "im_full_vn": "ném, văng ra, tung ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let fly a torrent of abuse",
+                      "full_vn": "văng ra những tràng chửi rủa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let fly",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn (súng, tên lửa...)"
+                },
+                {
+                  "im_full_vn": "ném, văng ra, tung ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let fly a torrent of abuse",
+                      "full_vn": "văng ra những tràng chửi rủa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let fly",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn (súng, tên lửa...)"
+                },
+                {
+                  "im_full_vn": "ném, văng ra, tung ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let fly a torrent of abuse",
+                      "full_vn": "văng ra những tràng chửi rủa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let go",
+              "list_im": [
+                {
+                  "im_full_vn": "buông ra, thả ra, bỏ lỏng ra, không nghĩ đến nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let oneself go",
+              "list_im": [
+                {
+                  "im_full_vn": "không tự kìm được, để cho tình cảm lôi cuốn đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let somebody know",
+              "list_im": [
+                {
+                  "im_full_vn": "bảo cho ai biết, báo cho ai biết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let loose",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) loose"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let loose the dogs of war",
+              "list_im": [
+                {
+                  "im_full_vn": "tung ra tất cả các lực lượng tàn phá của chiến tranh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let pass",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ qua, không để ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "let sleeping dogs lie",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) dog"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let slip",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho trốn thoát, bỏ lỡ, để mất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let slip an opportunity",
+                      "full_vn": "bỏ lỡ mất một cơ hội"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let slip",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho trốn thoát, bỏ lỡ, để mất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to let slip an opportunity",
+                      "full_vn": "bỏ lỡ mất một cơ hội"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let one's tongue run away with one",
+              "list_im": [
+                {
+                  "im_full_vn": "nói vong mạng, nói không suy nghĩ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "house to let",
+              "full_vn": "nhà cho thuê"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "trợ động từ ( lời mệnh lệnh)",
+      "list_m": [
+        {
+          "m_full_vn": "hãy, để, phải",
+          "list_one_mean": [
+            {
+              "id_full_en": "let us say",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng hạn, giả dụ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "let me see",
+              "full_vn": "để tôi xem"
+            },
+            {
+              "full_en": "let it be done at once",
+              "full_vn": "phải làm xong ngay việc này"
+            },
+            {
+              "full_en": "let us go to the cinema",
+              "full_vn": "chúng ta hãy đi xi nê"
+            },
+            {
+              "full_en": "let him go there right now",
+              "full_vn": "bảo nó đi đến đó ngay bây giờ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

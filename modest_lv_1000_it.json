@@ -1,0 +1,42 @@
+{
+  "english": "modest",
+  "phat_am": "['mɔdist]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khiêm tốn, nhún nhường, nhũn nhặn",
+          "list_en_vn": [
+            {
+              "full_en": "the hero was very modest about his great deals",
+              "full_vn": "người anh hùng rất khiêm tốn về những chiến công to lớn của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuỳ mị, nhu mì, e lệ",
+          "list_en_vn": [
+            {
+              "full_en": "a modest girl",
+              "full_vn": "một cô gái nhu mì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vừa phải, phải chăng, có mức độ; bình thường, giản dị",
+          "list_en_vn": [
+            {
+              "full_en": "my demands are quite modest",
+              "full_vn": "những yêu cầu của tôi rất là phải chăng"
+            },
+            {
+              "full_en": "a modest little house",
+              "full_vn": "một căn nhà nhỏ bé giản dị"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

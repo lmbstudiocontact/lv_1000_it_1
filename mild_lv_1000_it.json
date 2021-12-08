@@ -1,0 +1,71 @@
+{
+  "english": "mild",
+  "phat_am": "[maild]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "a mild punishment",
+              "full_vn": "một hình phạt nhẹ"
+            },
+            {
+              "full_en": "tuberculosis in a mild form",
+              "full_vn": "bệnh lao thể nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "êm dịu, không gắt, không xóc (thức ăn, thuốc lá, thuốc men...)",
+          "list_en_vn": [
+            {
+              "full_en": "mild ale",
+              "full_vn": "bia nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịu dàng, hoà nhã, ôn hoà",
+          "list_en_vn": [
+            {
+              "full_en": "mild temper",
+              "full_vn": "tính tình hoà nhã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ôn hoà, ấm áp (khí hậu, thời tiết...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "mild steel",
+              "list_im": [
+                {
+                  "im_full_vn": "thép mềm (ít cacbon)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "draw it mild",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đừng làm quá!, hãy ôn hoà!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bia nhẹ"
+        }
+      ]
+    }
+  ]
+}

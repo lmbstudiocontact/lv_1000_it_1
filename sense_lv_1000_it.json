@@ -1,0 +1,191 @@
+{
+  "english": "sense",
+  "phat_am": "[sens]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giác quan",
+          "list_en_vn": [
+            {
+              "full_en": "the five senses",
+              "full_vn": "ngũ quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tri giác, cảm giác",
+          "list_en_vn": [
+            {
+              "full_en": "errors of sense",
+              "full_vn": "những sự sai lầm của tri giác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý thức",
+          "list_en_vn": [
+            {
+              "full_en": "sense of responsibility",
+              "full_vn": "ý thức trách nhiệm"
+            },
+            {
+              "full_en": "to labour under a sense of wrong",
+              "full_vn": "bị giày vò vì biết mình có lỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng phán đoán, khả năng thưởng thức",
+          "list_en_vn": [
+            {
+              "full_en": "sense of beauty",
+              "full_vn": "khả năng thưởng thức cái đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khôn ngoan; sự thông minh",
+          "list_en_vn": [
+            {
+              "full_en": "good (common ) sense",
+              "full_vn": "lẽ thường; lương tri"
+            },
+            {
+              "full_en": "person of sense",
+              "full_vn": "người thông minh, người biết lẽ phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghĩa, ý nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "these sentences do not make sense",
+              "full_vn": "những câu này không có ý nghĩa gì cả"
+            },
+            {
+              "full_en": "what you say is true in a sense",
+              "full_vn": "về một ý nghĩa nào đó thì điều anh nói là đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý nghĩa, tình cảm chung",
+          "list_en_vn": [
+            {
+              "full_en": "to take the sense of a meeting",
+              "full_vn": "nắm ý nghĩ tình cảm chung của mọi người trong cuộc họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng, chiều",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be one's senses",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu óc minh mẫn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take leave of one's senses",
+              "list_im": [
+                {
+                  "im_full_vn": "điên, dại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring someone to his senses",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bring"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to frighten somebody out of his senses",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai sợ hết hồn hết vía"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's senses",
+              "list_im": [
+                {
+                  "im_full_vn": "mất trí khôn"
+                },
+                {
+                  "im_full_vn": "bất tỉnh nhân sự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to talk sense",
+                      "full_vn": "nói khôn, không nói vớ vẩn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's senses",
+              "list_im": [
+                {
+                  "im_full_vn": "mất trí khôn"
+                },
+                {
+                  "im_full_vn": "bất tỉnh nhân sự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to talk sense",
+                      "full_vn": "nói khôn, không nói vớ vẩn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's senses",
+              "list_im": [
+                {
+                  "im_full_vn": "mất trí khôn"
+                },
+                {
+                  "im_full_vn": "bất tỉnh nhân sự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to talk sense",
+                      "full_vn": "nói khôn, không nói vớ vẩn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "sense of a vector",
+              "full_vn": "chiều của vectơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thấy, cảm thấy, có cảm giác, có cảm tưởng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) hiểu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "english": "settle",
+  "phat_am": "['setl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghế tủ (ghế dài bằng gỗ cho hai người hoặc nhiều hơn, có lưng dựa cao và tay tựa, chỗ ngồi (thường) là mặt trên của cái tủ)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành ngôi nhà thường trú của mình (trong môt nước...) với tư cách là một người định cư đất mới; ổn định cuộc sống; định cư",
+          "list_en_vn": [
+            {
+              "full_en": "the Dutch settled in South Africa",
+              "full_vn": "người Hà lan đến định cư ở Nam Phi"
+            },
+            {
+              "full_en": "this area was settled by immigrants over a century ago",
+              "full_vn": "vùng đất này đã có dân nhập cư đến sinh sống hơn 100 năm nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "coi một nơi nào là quê nhà của mình",
+          "list_en_vn": [
+            {
+              "full_en": "to settle in London",
+              "full_vn": "sinh sống ở Luân đôn"
+            },
+            {
+              "full_en": "to settle near the coast",
+              "full_vn": "sinh sống ở gần bờ biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đọng, đậu; đến nghỉ trên cái gì, dừng lại trên cái gì trong một thời gian nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "clouds have settled over the mountain tops",
+              "full_vn": "mây đã tụ lại bên trên các đỉnh núi"
+            },
+            {
+              "full_en": "the cold has settled on my chest",
+              "full_vn": "khí lạnh đã nhiễm vào ngực tôi"
+            },
+            {
+              "full_en": "a tense silence had settled over the waiting crowd",
+              "full_vn": "sự im lặng căng thẳng đã bao trùm lên đám đông đang chờ đợi"
+            },
+            {
+              "full_en": "bird settles on trees",
+              "full_vn": "chim đậu trên cành cây"
+            },
+            {
+              "full_en": "to settle down to dinner",
+              "full_vn": "ngồi vào bàn ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm ăn, sinh sống; ổn định cuộc sống, an cư lạc nghiệp, định cư",
+          "list_en_vn": [
+            {
+              "full_en": "to marry and settle down",
+              "full_vn": "lấy vợ và ổn định cuộc sống"
+            },
+            {
+              "full_en": "to settle down to a married life",
+              "full_vn": "yên tâm làm ăn với cuộc sống gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắng xuống, đi vào nền nếp",
+          "list_en_vn": [
+            {
+              "full_en": "things will soon settle into shape",
+              "full_vn": "mọi việc sẽ đâu vào đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguội dần, dịu dần",
+          "list_en_vn": [
+            {
+              "full_en": "anger settles down",
+              "full_vn": "cơn giận nguôi dần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giải quyết, ổn định tư tưởng, dàn xếp, hoà giải",
+          "list_en_vn": [
+            {
+              "full_en": "to settle a dispute",
+              "full_vn": "dàn xếp một mối bất hoà"
+            },
+            {
+              "full_en": "to settle doubts",
+              "full_vn": "giải quyết những mối nghi ngờ"
+            },
+            {
+              "full_en": "to settle one's affairs",
+              "full_vn": "giải quyết công việc (thường) là làm chúc thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngồi; đậu",
+          "list_en_vn": [
+            {
+              "full_en": "to settle oneself in an armchair",
+              "full_vn": "ngồi vào ghế bành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để, bố trí",
+          "list_en_vn": [
+            {
+              "full_en": "to settle a unit in a village",
+              "full_vn": "bố trí đơn vị ở một làng"
+            },
+            {
+              "full_en": "to plant's root well down in ground",
+              "full_vn": "để rễ cây ăn sâu xuống đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiếm làm thuộc địa"
+        },
+        {
+          "m_full_vn": "để lắng, làm lắng xuống, làm chìm xuống; lắng xuống, lún xuống, chìm xuống",
+          "list_en_vn": [
+            {
+              "full_en": "the rain will settle the dust",
+              "full_vn": "mưa sẽ làm cho bụi lắng xuống"
+            },
+            {
+              "full_en": "ship settles",
+              "full_vn": "tàu bắt đầu chìm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết thúc (công việc), thanh toán, trả (số tiền mắc nợ..)",
+          "list_en_vn": [
+            {
+              "full_en": "I shall settle up with you next month",
+              "full_vn": "tháng sau tôi sẽ trả hết nợ cho anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để lại cho, chuyển cho",
+          "list_en_vn": [
+            {
+              "full_en": "to settle one's property on somebody",
+              "full_vn": "để của cải cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) định vị, khu trú (vào một bộ phận trong cơ thể) (bệnh)"
+        },
+        {
+          "m_full_vn": "làm cho thoải mái trong một tư thế mới",
+          "list_en_vn": [
+            {
+              "full_en": "he settled himself on the sofa to watch TV",
+              "full_vn": "cậu ấy ngả người thoải mái xuống ghế sô pha để xem tivi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm lắng dịu, làm nguôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to settle someone's hash (business )",
+              "list_im": [
+                {
+                  "im_full_vn": "trị cho ai một trận, sửa cho ai một trận; thịt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cannot settle to anything",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể yên tâm kiên trì làm một việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that settles the matter (question )",
+              "list_im": [
+                {
+                  "im_full_vn": "thôi thế là xong (không cần phải nói thêm nữa)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the thunderstorm may settle the weather",
+              "full_vn": "cơn bão có thể làm thời tiết dịu đi"
+            },
+            {
+              "full_en": "this pill will help to settle your nerves",
+              "full_vn": "viên thuốc này sẽ làm cho thần kinh của anh thư giãn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

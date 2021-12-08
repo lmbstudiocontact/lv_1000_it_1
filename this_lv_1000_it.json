@@ -1,0 +1,99 @@
+{
+  "english": "this",
+  "phat_am": "[ðis]",
+  "list_type": [
+    {
+      "type": "tính từ chỉ định, số nhiều these",
+      "list_m": [
+        {
+          "m_full_vn": "này",
+          "list_en_vn": [
+            {
+              "full_en": "this box",
+              "full_vn": "cái hộp này"
+            },
+            {
+              "full_en": "this way",
+              "full_vn": "lối này"
+            },
+            {
+              "full_en": "by this time",
+              "full_vn": "bây giờ, hiện nay, lúc này"
+            },
+            {
+              "full_en": "this he has been ill these two months",
+              "full_vn": "anh ấy ốm hai tháng nay"
+            },
+            {
+              "full_en": "this day last year",
+              "full_vn": "ngày này năm ngoái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ chỉ định, số nhiều these",
+      "list_m": [
+        {
+          "m_full_vn": "cái này, điều này, việc này",
+          "list_en_vn": [
+            {
+              "full_en": "I don't like this",
+              "full_vn": "tôi không thích cái này"
+            },
+            {
+              "full_en": "will you have this or that ?",
+              "full_vn": "anh muốn cái này hay cái kia?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thế này",
+          "list_one_mean": [
+            {
+              "id_full_en": "by this",
+              "list_im": [
+                {
+                  "im_full_vn": "bây giờ, hiện nay, lúc này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with this ; at this",
+              "list_im": [
+                {
+                  "im_full_vn": "như thế này, cơ sự đã thế này, vào lúc sự việc thế này"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "do it like this",
+              "full_vn": "hãy làm việc dó như thế này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "tới mức độ này, đến như thế này",
+          "list_en_vn": [
+            {
+              "full_en": "this far",
+              "full_vn": "xa thế này; tới bây giờ"
+            },
+            {
+              "full_en": "it was this big",
+              "full_vn": "nó to như thế này"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

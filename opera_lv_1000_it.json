@@ -1,0 +1,33 @@
+{
+  "english": "opera",
+  "phat_am": "['ɔprə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều của opus"
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhạc kịch, ô-pê-ra"
+        },
+        {
+          "m_full_vn": "( the opera ) nghệ thuật ô-pê-ra"
+        },
+        {
+          "m_full_vn": "đoàn biễu diễn ô-pê-ra",
+          "list_en_vn": [
+            {
+              "full_en": "tickets for the opera",
+              "full_vn": "vé đi xem ô-pê-ra"
+            },
+            {
+              "full_en": "the Vienna State Opera",
+              "full_vn": "đoàn ô-pê-ra quốc gia Vienna"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

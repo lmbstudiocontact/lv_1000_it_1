@@ -1,0 +1,38 @@
+{
+  "english": "overshoot",
+  "phat_am": "[,ouvə'∫u:t]",
+  "list_type": [
+    {
+      "type": "ngoại động từ overshot",
+      "list_m": [
+        {
+          "m_full_vn": "quá đích (bắn xa hơn, vượt xa hơn điểm định đến)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to overshoot oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "cường điệu, phóng đại"
+                },
+                {
+                  "im_full_vn": "làm quá, vượt quá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to overshoot oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "cường điệu, phóng đại"
+                },
+                {
+                  "im_full_vn": "làm quá, vượt quá"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

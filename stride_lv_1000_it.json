@@ -1,0 +1,98 @@
+{
+  "english": "stride",
+  "phat_am": "[straid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bước dài, sải chân",
+          "list_en_vn": [
+            {
+              "full_en": "to walk with vigorous stride",
+              "full_vn": "bước những bước dài mạnh mẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dáng đi; cách đi của một người"
+        },
+        {
+          "m_full_vn": "khoảng cách một bước dài"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) sự tiến bộ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get into one's stride",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) ổn định trong công việc của mình, vào nền nếp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take obstacle in one's stride",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt qua chướng ngại một cách dễ dàng (đen & bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make great , rapid ... strides",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến bộ tốt, nhanh..; cải tiến nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take something in one's stride",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt qua dễ dàng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ strode ; stridden",
+      "list_m": [
+        {
+          "m_full_vn": "sải bước, đi dài bước",
+          "list_en_vn": [
+            {
+              "full_en": "to stride up to somebody",
+              "full_vn": "đi dài bước tới ai"
+            },
+            {
+              "full_en": "to stride along the road",
+              "full_vn": "sải bước đi trên đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứng dang chân"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + across/over ) vượt qua, bước qua (con đường...) bằng một bước dài",
+          "list_en_vn": [
+            {
+              "full_en": "to stride over a ditch",
+              "full_vn": "bước qua một cái rãnh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

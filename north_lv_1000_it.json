@@ -1,0 +1,74 @@
+{
+  "english": "north",
+  "phat_am": "[nɔ:θ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hướng bắc, phương bắc, phía bắc",
+          "list_en_vn": [
+            {
+              "full_en": "in the north",
+              "full_vn": "ở phương bắc"
+            },
+            {
+              "full_en": "to the north of",
+              "full_vn": "ở phía bắc của"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miền bắc"
+        },
+        {
+          "m_full_vn": "gió bấc"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắc, bấc",
+          "list_en_vn": [
+            {
+              "full_en": "the north pole",
+              "full_vn": "Bắc cực"
+            },
+            {
+              "full_en": "the north wind",
+              "full_vn": "gió bấc"
+            },
+            {
+              "full_en": "the North star",
+              "full_vn": "sao Bắc đẩu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "về hướng bắc, ở phía bắc",
+          "list_en_vn": [
+            {
+              "full_en": "going north",
+              "full_vn": "đi về phía bắc"
+            },
+            {
+              "full_en": "lying north",
+              "full_vn": "ở phía bắc"
+            },
+            {
+              "full_en": "north and south",
+              "full_vn": "từ bắc chí nam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

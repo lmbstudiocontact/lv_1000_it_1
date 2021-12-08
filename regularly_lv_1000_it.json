@@ -1,0 +1,29 @@
+{
+  "english": "regularly",
+  "phat_am": "['regjuləri]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở những quãng cách hoặc thời gian đều đặn; cách đều nhau",
+          "list_en_vn": [
+            {
+              "full_en": "the post arrives regularly at eight every morning",
+              "full_vn": "mỗi buổi sáng thư từ đến đều đặn vào lúc tám giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một cách cân đối",
+          "list_en_vn": [
+            {
+              "full_en": "a garden laid out regularly",
+              "full_vn": "một khu vườn có bố cục cân đối"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

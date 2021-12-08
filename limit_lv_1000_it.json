@@ -1,0 +1,73 @@
+{
+  "english": "limit",
+  "phat_am": "['limit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giới hạn, ranh giới, hạn định",
+          "list_en_vn": [
+            {
+              "full_en": "there is no limit to his impudence",
+              "full_vn": "sự hỗn xược của nó thật không còn giới hạn nào"
+            },
+            {
+              "full_en": "speed limit",
+              "full_vn": "tốc độ tối đa quy định cho xe cộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ( the limit ) người quá quắc; điều quá quắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "off limits",
+              "list_im": [
+                {
+                  "im_full_vn": "ngoài giới hạn, ngoài phạm vi đã được quy định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "without limit",
+              "list_im": [
+                {
+                  "im_full_vn": "tha hồ, bao nhiêu cũng được, không có giới hạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "within limit",
+              "list_im": [
+                {
+                  "im_full_vn": "trong hạn định, trong phạm vi quy định"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "You really are the (absolute ) limit",
+              "full_vn": "Anh (chị) thật là quá quắt!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giới hạn, hạn chế",
+          "list_en_vn": [
+            {
+              "full_en": "to limit the number of winners",
+              "full_vn": "hạn chế số người thắng cuộc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

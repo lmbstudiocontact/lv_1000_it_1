@@ -1,0 +1,63 @@
+{
+  "english": "purple",
+  "phat_am": "['pə:pl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu tía",
+          "list_en_vn": [
+            {
+              "full_en": "dressed in purple",
+              "full_vn": "mặc quần áo màu đỏ tía"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the purple ) áo màu tía (của vua chúa, giáo chủ..)",
+          "list_en_vn": [
+            {
+              "full_en": "to be born of the purple",
+              "full_vn": "là dòng dõi vương giả"
+            },
+            {
+              "full_en": "to be born to the purple",
+              "full_vn": "được tôn làm giáo chủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (y học) ban xuất huyết"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tía, có màu tía (màu đỏ và màu lam trộn với nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "to be purple with rage",
+              "full_vn": "giận đỏ mặt tía tai"
+            },
+            {
+              "full_en": "a purple folwer",
+              "full_vn": "một bông hoa màu tía"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoa mỹ, văn hoa (về văn chương)",
+          "list_en_vn": [
+            {
+              "full_en": "a purple passage",
+              "full_vn": "một đoạn văn hoa mỹ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

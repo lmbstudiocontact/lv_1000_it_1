@@ -1,0 +1,37 @@
+{
+  "english": "landslide",
+  "phat_am": "['lændslaid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lở đất"
+        },
+        {
+          "m_full_vn": "(chính trị) sự thắng phiếu lớn (của một đảng phái trong kỳ bầu cử)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thắng lợi long trời lở đất",
+          "list_en_vn": [
+            {
+              "full_en": "a landslide victory",
+              "full_vn": "thắng lợi long trời lở đất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lở (như) đá rơi từ trên núi xuống"
+        },
+        {
+          "m_full_vn": "thắng phiếu lớn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "english": "seed",
+  "phat_am": "[si:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hạt, hạt giống",
+          "list_en_vn": [
+            {
+              "full_en": "to be kept for seed",
+              "full_vn": "giữ làm hạt giống"
+            },
+            {
+              "full_en": "a tiny poppy seed",
+              "full_vn": "hạt giống li ti của cây thuốc phiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh dịch"
+        },
+        {
+          "m_full_vn": "(kinh thánh) con cháu, hậu thế",
+          "list_en_vn": [
+            {
+              "full_en": "to raise up seed",
+              "full_vn": "sinh con đẻ cái"
+            },
+            {
+              "full_en": "the seed of Abraham",
+              "full_vn": "người Do thái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) (thông tục) đấu thủ hạt giống (nhất là trông môn quần vợt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "go /run to seed",
+              "list_im": [
+                {
+                  "im_full_vn": "ngừng ra hoa vì đã kết hạt (về cây)"
+                },
+                {
+                  "im_full_vn": "bắt đầu trông tiều tụy, trở nên kém năng lực, kém hiệu quả (về người..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go /run to seed",
+              "list_im": [
+                {
+                  "im_full_vn": "ngừng ra hoa vì đã kết hạt (về cây)"
+                },
+                {
+                  "im_full_vn": "bắt đầu trông tiều tụy, trở nên kém năng lực, kém hiệu quả (về người..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the seeds of something",
+              "list_im": [
+                {
+                  "im_full_vn": "mầm mống; nguyên nhân, nguồn gốc của cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to sow the seeds of discord",
+                      "full_vn": "gieo rắc mầm mống bất hoà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the seeds of something",
+              "list_im": [
+                {
+                  "im_full_vn": "mầm mống; nguyên nhân, nguồn gốc của cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to sow the seeds of discord",
+                      "full_vn": "gieo rắc mầm mống bất hoà"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết thành hạt, sinh ra hạt (về cây)"
+        },
+        {
+          "m_full_vn": "rắc hạt, gieo giống"
+        },
+        {
+          "m_full_vn": "lấy hạt, tỉa lấy hạt"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) lựa chọn đấu thủ hạt giống (để đấu sau cùng); coi (một đấu thủ) là đấu thủ hạt giống"
+        }
+      ]
+    }
+  ]
+}

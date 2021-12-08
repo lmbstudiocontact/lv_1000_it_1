@@ -1,0 +1,93 @@
+{
+  "english": "though",
+  "phat_am": "[ðou]",
+  "list_type": [
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng ở đầu câu biểu thị sự trang trọng) dù, dù cho, mặc dù, dẫu cho",
+          "list_en_vn": [
+            {
+              "full_en": "though it was late , we decided to go",
+              "full_vn": "mặc dù đã muộn, chúng tôi vẫn quyết định đi"
+            },
+            {
+              "full_en": "she won first prize , though none of us had expected it",
+              "full_vn": "cô ta đoạt giải nhất, dù không ai trong chúng tôi dám nghĩ đến chuyện đó"
+            },
+            {
+              "full_en": "strange though it may seem",
+              "full_vn": "dù rằng điều đó có thể là kỳ quặc"
+            },
+            {
+              "full_en": "though they lack official support , they continue their struggle",
+              "full_vn": "dù không được chính quyền ủng hộ, họ vẫn tiếp tục đấu tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để đưa ra một mệnh đề ở cuối một câu) tuy vậy, thế nhưng",
+          "list_one_mean": [
+            {
+              "id_full_en": "as though",
+              "list_im": [
+                {
+                  "im_full_vn": "dường như, như thể là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he ran as though the devil were after him",
+                      "full_vn": "nó chạy như thể có ma đuổi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as though",
+              "list_im": [
+                {
+                  "im_full_vn": "dường như, như thể là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he ran as though the devil were after him",
+                      "full_vn": "nó chạy như thể có ma đuổi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I'll try to come , though I doubt if I'll be there on time",
+              "full_vn": "tôi sẽ cố gắng đến, tuy tôi e rằng không biết tôi có đến kịp giờ hay không"
+            },
+            {
+              "full_en": "he'll probably say no , though it's worth trying",
+              "full_vn": "co thể nó sẽ trả lời không, tuy vậy vẫn nên thử xem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) mặc dù, tuy nhiên, tuy thế, tuy vậy; thế nhưng",
+          "list_en_vn": [
+            {
+              "full_en": "I expect you're right - I'll ask him , though",
+              "full_vn": "tôi hy vọng là anh nói đúng, thế nhưng tôi sẽ hỏi nó"
+            },
+            {
+              "full_en": "She promised to phone . I heard nothing , though",
+              "full_vn": "Cô ta hứa sẽ gọi điện thoại. Thế nhưng tôi chẳng nghe thấy gì cả"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

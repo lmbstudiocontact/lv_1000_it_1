@@ -1,0 +1,28 @@
+{
+  "english": "overhang",
+  "phat_am": "[,ouvə'hæη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần nhô ra ở trên"
+        },
+        {
+          "m_full_vn": "độ nhô ra (của mái nhà)"
+        }
+      ]
+    },
+    {
+      "type": "động từ overhung",
+      "list_m": [
+        {
+          "m_full_vn": "nhô ra ở trên"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) treo lơ lửng (một cách đe doạ)"
+        }
+      ]
+    }
+  ]
+}

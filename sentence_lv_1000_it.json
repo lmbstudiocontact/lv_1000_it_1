@@ -1,0 +1,83 @@
+{
+  "english": "sentence",
+  "phat_am": "['sentəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) câu",
+          "list_en_vn": [
+            {
+              "full_en": "simple sentence",
+              "full_vn": "câu đơn"
+            },
+            {
+              "full_en": "compound sentence",
+              "full_vn": "câu gồm hai hoặc nhiều mệnh đề kết hợp với nhau (nối liền nhau bằng các liên từ 'và', 'hoặc', 'nhưng'...); câu ghép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) lời tuyên án; bản án",
+          "list_en_vn": [
+            {
+              "full_en": "to be under sentence of death",
+              "full_vn": "bị kết án tử hình"
+            },
+            {
+              "full_en": "the judge passed /pronounced sentence on the prisoner",
+              "full_vn": "quan toà tuyên án người tù"
+            },
+            {
+              "full_en": "death sentence was commuted to life imprisonment .",
+              "full_vn": "án tử hình đã được giảm xuống còn chung thân."
+            },
+            {
+              "full_en": "she has served her sentence and will now be released",
+              "full_vn": "cô ấy đã thụ án xong và nay được thả"
+            },
+            {
+              "full_en": "a sentence of ten years' imprisonment",
+              "full_vn": "bản án mười năm tù giam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý kiến (tán thành, chống đối)",
+          "list_en_vn": [
+            {
+              "full_en": "our sentence is against war",
+              "full_vn": "ý kiến chúng tôi là chống chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) châm ngôn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to sentence somebody to something ) kết án, tuyên án",
+          "list_en_vn": [
+            {
+              "full_en": "to sentence someone to a year's imprisonment",
+              "full_vn": "kết án ai một năm tù giam"
+            },
+            {
+              "full_en": "he has been sentenced to pay a fine of 10000 dollars",
+              "full_vn": "anh ấy bị xử nộp phạt 10000 đô la"
+            },
+            {
+              "full_en": "a scrippling disease which sentenced him to a lifetime in a wheel-chair",
+              "full_vn": "chứng tê liệt buộc anh ấy phải ngồi xe lăn suốt đời"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

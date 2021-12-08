@@ -1,0 +1,38 @@
+{
+  "english": "outrun",
+  "phat_am": "[aut'rʌn]",
+  "list_type": [
+    {
+      "type": "ngoại động từ outran , outrun",
+      "list_m": [
+        {
+          "m_full_vn": "chạy nhanh hơn hoặc giỏi hơn ai/cái gì; vượt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to outrun the constable",
+              "list_im": [
+                {
+                  "im_full_vn": "xem constable"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "The favorite easily outran the other horses in the field",
+              "full_vn": "Con ngựa được nhiều người ưa thích đã vượt qua các con ngựa đua khác"
+            },
+            {
+              "full_en": "Imagination outruns facts",
+              "full_vn": "Trí tưởng tượng vượt quá sự việc"
+            },
+            {
+              "full_en": "His ambition outran his ability",
+              "full_vn": "Tham vọng của nó vượt quá năng lực của nó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

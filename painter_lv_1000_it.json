@@ -1,0 +1,36 @@
+{
+  "english": "painter",
+  "phat_am": "['peintə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thợ sơn"
+        },
+        {
+          "m_full_vn": "hoạ sĩ",
+          "list_en_vn": [
+            {
+              "full_en": "a famous painter",
+              "full_vn": "hoạ sĩ nổi tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dây neo (thuyền tàu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cut the painter",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) cắt đứt, đoạn tuyệt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "english": "livable",
+  "phat_am": "['livəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sống được",
+          "list_en_vn": [
+            {
+              "full_en": "a livable baby",
+              "full_vn": "đứa bé sống được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể chung sống được"
+        }
+      ]
+    }
+  ]
+}

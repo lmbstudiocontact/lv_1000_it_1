@@ -1,0 +1,75 @@
+{
+  "english": "possess",
+  "phat_am": "[pə'zes]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có, chiếm hữu",
+          "list_en_vn": [
+            {
+              "full_en": "to possess good qualities",
+              "full_vn": "có những đức tính tốt"
+            },
+            {
+              "full_en": "to possess oneself of",
+              "full_vn": "chiếm, chiếm đoạt, chiếm lấy, chiếm hữu"
+            },
+            {
+              "full_en": "to possess oneself od someone's fortune",
+              "full_vn": "chiếm đoạt tài sản của ai"
+            },
+            {
+              "full_en": "to possess oneself",
+              "full_vn": "tự chủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ám ảnh (ma quỷ...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "like one possessed",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) hết sức hăng hái, hết sức sôi nổi; như phát rồ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to possess one's soul (one's mind )",
+              "list_im": [
+                {
+                  "im_full_vn": "tự chủ được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be possessed of something",
+              "list_im": [
+                {
+                  "im_full_vn": "có (đức tính)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be possessed with (by ) a devil",
+              "full_vn": "bị ma quỷ ám ảnh"
+            },
+            {
+              "full_en": "to be possessed with (by ) and idea",
+              "full_vn": "bị một ý nghĩ ám ảnh"
+            },
+            {
+              "full_en": "what possesses you to do such as a thing ?",
+              "full_vn": "cái gì đã ám ảnh anh khiến anh làm điều đó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

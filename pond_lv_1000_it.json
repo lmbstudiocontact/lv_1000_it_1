@@ -1,0 +1,43 @@
+{
+  "english": "pond",
+  "phat_am": "[pɔnd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ao (nước)",
+          "list_en_vn": [
+            {
+              "full_en": "a fish pond",
+              "full_vn": "ao cá"
+            },
+            {
+              "full_en": "pond life",
+              "full_vn": "(thuộc ngữ) cuộc sống trong ao (của các động vật sống ở ao)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) biển"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + back , up ) ngăn, be bờ (dòng nước...) để giữ nước"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành ao, thành vũng"
+        }
+      ]
+    }
+  ]
+}

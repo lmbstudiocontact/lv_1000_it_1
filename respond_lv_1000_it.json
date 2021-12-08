@@ -1,0 +1,45 @@
+{
+  "english": "respond",
+  "phat_am": "[ri'spɔnd]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phản ứng lại",
+          "list_en_vn": [
+            {
+              "full_en": "to respond with a blow",
+              "full_vn": "phản ứng lại bằng một đòn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trả lời (nói hoặc viết)",
+          "list_en_vn": [
+            {
+              "full_en": "she respond to my letter with aphone call",
+              "full_vn": "cô ấy trả lời thư của tôi bằng một cú điện thoại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáp lại; đối phó lại (hành vi, cách cư xử.. của ai); hưởng ứng",
+          "list_en_vn": [
+            {
+              "full_en": "to respond to the appeal",
+              "full_vn": "hưởng ứng lời kêu gọi"
+            },
+            {
+              "full_en": "to respond to someone's kindness",
+              "full_vn": "đáp lại lòng tốt của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáp lại với linh mục (nói hoặc hát; về những người trong buổi lễ nhà thờ)"
+        }
+      ]
+    }
+  ]
+}

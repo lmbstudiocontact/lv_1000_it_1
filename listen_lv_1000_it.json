@@ -1,0 +1,53 @@
+{
+  "english": "listen",
+  "phat_am": "['lisn]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghe, lắng nghe",
+          "list_en_vn": [
+            {
+              "full_en": "listen to me !",
+              "full_vn": "hãy nghe tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghe theo, tuân theo, vâng lời",
+          "list_one_mean": [
+            {
+              "id_full_en": "to listen in",
+              "list_im": [
+                {
+                  "im_full_vn": "nghe đài"
+                },
+                {
+                  "im_full_vn": "nghe trộm điện thoại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to listen in",
+              "list_im": [
+                {
+                  "im_full_vn": "nghe đài"
+                },
+                {
+                  "im_full_vn": "nghe trộm điện thoại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to listen to reason",
+              "full_vn": "nghe theo lẽ phải"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

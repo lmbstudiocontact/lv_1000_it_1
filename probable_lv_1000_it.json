@@ -1,0 +1,50 @@
+{
+  "english": "probable",
+  "phat_am": "['prɔbəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể xảy ra hoặc có thể là như thế; chắc hẳn",
+          "list_en_vn": [
+            {
+              "full_en": "a probable result",
+              "full_vn": "một kết quả có thể có"
+            },
+            {
+              "full_en": "a probable winner",
+              "full_vn": "một người có nhiều khả năng thắng"
+            },
+            {
+              "full_en": "rain is possible but not probable this evening",
+              "full_vn": "tối nay có thể mưa nhưng không chắc chắn"
+            },
+            {
+              "full_en": "it seems probable that he will arrive before dusk",
+              "full_vn": "rất có thể nó sẽ đến trước khi trời tối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( probable for something ) người hoặc cái rất có thể được chọn",
+          "list_en_vn": [
+            {
+              "full_en": "he's a probable for the national team",
+              "full_vn": "anh ta là người có khả năng được chọn vào đội tuyển quốc gia"
+            },
+            {
+              "full_en": "the book is a probable for the prize",
+              "full_vn": "cuốn sách này rất có khả năng đoạt giải"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

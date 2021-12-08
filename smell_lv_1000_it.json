@@ -1,0 +1,169 @@
+{
+  "english": "smell",
+  "phat_am": "[smel]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khứu giác; khả năng có thể ngửi",
+          "list_en_vn": [
+            {
+              "full_en": "a fine sense of smell",
+              "full_vn": "mũi thính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngửi, sự hít",
+          "list_en_vn": [
+            {
+              "full_en": "to have a smell at something",
+              "full_vn": "ngửi cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mùi; cái được ngửi thấy; phẩm chất làm cho cái gì được ngửi thấy",
+          "list_en_vn": [
+            {
+              "full_en": "the smell of roses",
+              "full_vn": "mùi hoa hồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mùi thối, mùi ôi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ smelt , (từ hiếm,nghĩa hiếm) smelled",
+      "list_m": [
+        {
+          "m_full_vn": "ngửi, ngửi thấy, đánh hơi thấy; hít",
+          "list_en_vn": [
+            {
+              "full_en": "I am sure I smell gas",
+              "full_vn": "tôi cam đoan có mùi hơi đốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm thấy, đoán được",
+          "list_en_vn": [
+            {
+              "full_en": "do you smell anything unusual ?",
+              "full_vn": "anh có cảm thấy có điều gì không bình thường không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(bóng) khám phá, phát hiện, đánh hơi (thấy dấu vết tội phạm..)",
+          "list_en_vn": [
+            {
+              "full_en": "to smell out a plot",
+              "full_vn": "khám phá ra một âm mưu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có mùi, toả mùi như thế nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "these flowers smell sweet",
+              "full_vn": "những hoa này có mùi thơm dịu"
+            },
+            {
+              "full_en": "to smell of garlic",
+              "full_vn": "có mùi tỏi"
+            },
+            {
+              "full_en": "this milk smells sour",
+              "full_vn": "sữa này có mùi chua"
+            },
+            {
+              "full_en": "to smell of jobberyd",
+              "full_vn": "sặc mùi xoay xở"
+            },
+            {
+              "full_en": "his talk smells of war",
+              "full_vn": "bài nói của hắn sặc mùi chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không dùng trong các thì tiếp diễn) có thể ngửi được",
+          "list_en_vn": [
+            {
+              "full_en": "can fish smell ?",
+              "full_vn": "cá có thể ngửi được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không dùng trong các thì tiếp diễn) có mùi khó chịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to smell about",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh hơi"
+                },
+                {
+                  "im_full_vn": "quen hơi (quen với một mùi gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smell about",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh hơi"
+                },
+                {
+                  "im_full_vn": "quen hơi (quen với một mùi gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smell up",
+              "list_im": [
+                {
+                  "im_full_vn": "sặc mùi thối, sặc mùi ôi; làm nồng nặc mùi hôi thối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smell of the shop",
+              "list_im": [
+                {
+                  "im_full_vn": "quá nặng tính chất chuyên môn, quá nặng tính chất kỹ thuật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smell a rat",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nghi ngờ có âm mưu, nghi ngờ có sự dối trá"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "your breath smells",
+              "full_vn": "hơi thở của anh có mùi hôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "english": "outgrow",
+  "phat_am": "[aut'grou]",
+  "list_type": [
+    {
+      "type": "ngoại động từ outgrew , outgrown",
+      "list_m": [
+        {
+          "m_full_vn": "lớn hơn, mọc cao hơn, mọc mau hơn, phát triển nhanh hơn"
+        },
+        {
+          "m_full_vn": "bỏ được (tật xấu...) khi lớn lên",
+          "list_en_vn": [
+            {
+              "full_en": "to outgrow one's shyness",
+              "full_vn": "bỏ được tính e thẹn khi lớn lên"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

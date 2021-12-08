@@ -1,0 +1,239 @@
+{
+  "english": "nod",
+  "phat_am": "[nɔd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái gật đầu; sự gật đầu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be gone to the land of Nod",
+              "list_im": [
+                {
+                  "im_full_vn": "buồn ngủ díp mắt lại; ngủ gà ngủ gật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the nod",
+              "list_im": [
+                {
+                  "im_full_vn": "không cần bàn cãi"
+                },
+                {
+                  "im_full_vn": "thiếu, chịu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the proposal went through on the nod",
+                      "full_vn": "lời đề nghị được thông qua ngay"
+                    },
+                    {
+                      "full_en": "to buy something on the nod",
+                      "full_vn": "mua chịu cái gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the nod",
+              "list_im": [
+                {
+                  "im_full_vn": "không cần bàn cãi"
+                },
+                {
+                  "im_full_vn": "thiếu, chịu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the proposal went through on the nod",
+                      "full_vn": "lời đề nghị được thông qua ngay"
+                    },
+                    {
+                      "full_en": "to buy something on the nod",
+                      "full_vn": "mua chịu cái gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the nod",
+              "list_im": [
+                {
+                  "im_full_vn": "không cần bàn cãi"
+                },
+                {
+                  "im_full_vn": "thiếu, chịu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the proposal went through on the nod",
+                      "full_vn": "lời đề nghị được thông qua ngay"
+                    },
+                    {
+                      "full_en": "to buy something on the nod",
+                      "full_vn": "mua chịu cái gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the nod",
+              "list_im": [
+                {
+                  "im_full_vn": "không cần bàn cãi"
+                },
+                {
+                  "im_full_vn": "thiếu, chịu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the proposal went through on the nod",
+                      "full_vn": "lời đề nghị được thông qua ngay"
+                    },
+                    {
+                      "full_en": "to buy something on the nod",
+                      "full_vn": "mua chịu cái gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a nod is as good as a wink (to a blind horse )",
+              "list_im": [
+                {
+                  "im_full_vn": "một lời bóng gió, một lời gợi ý... có thể được hiểu rõ mà không cần nói trắng ra; nói ít hiểu nhiều"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to give a nod of assent",
+              "full_vn": "gật đầu bằng lòng (tán thành)"
+            },
+            {
+              "full_en": "to answer with a nod",
+              "full_vn": "trả lời bằng một cái gật đầu"
+            },
+            {
+              "full_en": "she gave me a nod as she passed",
+              "full_vn": "khi đi qua, cô ấy gật đầu chào tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to nod to / at somebody ) cúi đầu xuống rồi ngẩng lên nhanh để tỏ sự đồng ý, để chào hoặc ra lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "he nodded to show that he understood",
+              "full_vn": "anh ta gật đầu ra ý hiểu"
+            },
+            {
+              "full_en": "the teacher nodded in agreement",
+              "full_vn": "thầy giáo gật đầu đồng ý"
+            },
+            {
+              "full_en": "I asked her if she wanted to come and she nodded",
+              "full_vn": "tôi hỏi cô ấy xem có muốn đến không, và cô ấy gật đầu (đồng ý)"
+            },
+            {
+              "full_en": "she nodded to me as she passed ; she nodded me a welcome as she passed ; she nodded a welcome to me as she passed",
+              "full_vn": "cô ấy gật đầu chào tôi khi cô ấy đi qua"
+            },
+            {
+              "full_en": "why are you nodding (your head ) if you disagree ?",
+              "full_vn": "tại sao anh lại gật đầu khi anh không tán thành?"
+            },
+            {
+              "full_en": "to nod someone to go",
+              "full_vn": "ra hiệu cho ai đi đi"
+            },
+            {
+              "full_en": "he nodded to me to leave the room",
+              "full_vn": "anh ta gật đầu ra hiệu cho tôi ra khỏi phòng"
+            },
+            {
+              "full_en": "she nodded assent ; she nodded her approval",
+              "full_vn": "cô ta gật đầu bằng lòng (tán thành, đồng ý)"
+            },
+            {
+              "full_en": "to have a nodding acquaintance with someone",
+              "full_vn": "quen biết ai sơ sơ"
+            },
+            {
+              "full_en": "I have no more than a nodding acquaintance with his detective films",
+              "full_vn": "Tôi chỉ biết sơ sơ (chút ít) về những cuốn phim trinh thám của ông ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để đầu mình ngả về phía trước khi buồn ngủ hoặc đang ngủ gật; gà gật",
+          "list_en_vn": [
+            {
+              "full_en": "the old lady sat nodding by the fire",
+              "full_vn": "bà cụ ngồi gà gật bên lò sưởi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về hoa) rũ xuống và đu đưa",
+          "list_en_vn": [
+            {
+              "full_en": "nodding pansies",
+              "full_vn": "những đoá hoa păng xê ngả xuống đu đưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô ý phạm sai lầm",
+          "list_one_mean": [
+            {
+              "id_full_en": "Homer sometimes nods",
+              "list_im": [
+                {
+                  "im_full_vn": "Thánh cũng có khi nhầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to nod off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I often nod off for a little while after lunch",
+                      "full_vn": "sau bữa trưa tôi hay ngủ một lát"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to nod off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I often nod off for a little while after lunch",
+                      "full_vn": "sau bữa trưa tôi hay ngủ một lát"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

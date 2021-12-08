@@ -1,0 +1,162 @@
+{
+  "english": "south",
+  "phat_am": "[sauθ]",
+  "list_type": [
+    {
+      "type": "danh từ, viết tắt là S hoặc So",
+      "list_m": [
+        {
+          "m_full_vn": "một trong bốn điểm chính của la bàn, nằm về phía tay phải của một người ngoảnh mặt nhìn về phía mặt trời đang mọc; phương Nam",
+          "list_en_vn": [
+            {
+              "full_en": "South is opposite North on a compass",
+              "full_vn": "Phương Nam là phương đối lại với phương Bắc trên la bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng Nam",
+          "list_en_vn": [
+            {
+              "full_en": "the window faces south",
+              "full_vn": "cửa sổ nhìn về hướng nam"
+            },
+            {
+              "full_en": "the wind is in the south today",
+              "full_vn": "hôm nay có gió nam"
+            },
+            {
+              "full_en": "the town is to the south of London",
+              "full_vn": "thành phố đó ở về phía nam của Luân Đôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the South ) miền Nam",
+          "list_en_vn": [
+            {
+              "full_en": "to have a holiday in the South of France",
+              "full_vn": "đi nghỉ ở miền Nam nước Pháp"
+            },
+            {
+              "full_en": "he came to the South to look for a job",
+              "full_vn": "anh ta đi về miền Nam để tìm việc làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những bang ở miền đông nam nước Mỹ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ (cũng) South",
+      "list_m": [
+        {
+          "m_full_vn": "ở trong, gần, về phía hoặc ở phía nam",
+          "list_en_vn": [
+            {
+              "full_en": "South Wales",
+              "full_vn": "miền Nam xứ Wales"
+            },
+            {
+              "full_en": "South America",
+              "full_vn": "Nam Mỹ"
+            },
+            {
+              "full_en": "to grow roses on a south wall",
+              "full_vn": "trồng hoa hồng trên tường phía nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về gió) từ phương nam đến",
+          "list_en_vn": [
+            {
+              "full_en": "south wind",
+              "full_vn": "gió nam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "về hoặc hướng về phía nam",
+          "list_one_mean": [
+            {
+              "id_full_en": "down south",
+              "list_im": [
+                {
+                  "im_full_vn": "về hoặc ở phương nam",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to go down south for a few days",
+                      "full_vn": "đi xuống miền nam ít ngày"
+                    },
+                    {
+                      "full_en": "they used to live in Scotland but they moved down south",
+                      "full_vn": "họ vốn sống ở Xcốtlen nhưng đã chuyển xuống miền Nam"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "down south",
+              "list_im": [
+                {
+                  "im_full_vn": "về hoặc ở phương nam",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to go down south for a few days",
+                      "full_vn": "đi xuống miền nam ít ngày"
+                    },
+                    {
+                      "full_en": "they used to live in Scotland but they moved down south",
+                      "full_vn": "họ vốn sống ở Xcốtlen nhưng đã chuyển xuống miền Nam"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "down south",
+              "list_im": [
+                {
+                  "im_full_vn": "về hoặc ở phương nam",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to go down south for a few days",
+                      "full_vn": "đi xuống miền nam ít ngày"
+                    },
+                    {
+                      "full_en": "they used to live in Scotland but they moved down south",
+                      "full_vn": "họ vốn sống ở Xcốtlen nhưng đã chuyển xuống miền Nam"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to go south out of town",
+              "full_vn": "đi ra phía nam thành phố"
+            },
+            {
+              "full_en": "birds flying south for winter",
+              "full_vn": "chim bay về phương nam để tránh mùa đông"
+            },
+            {
+              "full_en": "the ship was sailing due south",
+              "full_vn": "con tàu chạy đúng hướng nam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

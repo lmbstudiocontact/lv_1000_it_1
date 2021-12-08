@@ -1,0 +1,185 @@
+{
+  "english": "say",
+  "phat_am": "[sei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) vải chéo"
+        },
+        {
+          "m_full_vn": "lời nói, tiếng nói; dịp nói; quyền ăn nói (quyền tham gia quyết định về một vấn đề)",
+          "list_en_vn": [
+            {
+              "full_en": "to say the lesson",
+              "full_vn": "đọc bài"
+            },
+            {
+              "full_en": "to say grace",
+              "full_vn": "cầu kinh"
+            },
+            {
+              "full_en": "to say no more",
+              "full_vn": "thôi nói, ngừng nói"
+            },
+            {
+              "full_en": "to say something",
+              "full_vn": "nói một vài lời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuyên bố; hứa hẹn; tiên đoán",
+          "list_en_vn": [
+            {
+              "full_en": "the Declaration of Independence of the United State of America says that all men are created equal",
+              "full_vn": "bản tuyên ngôn độc lập của nước Mỹ tuyên bố tất cả mọi người sinh ra đều có quyền bình đẳng"
+            },
+            {
+              "full_en": "you said you would do it",
+              "full_vn": "anh đã hứa anh sẽ làm việc đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồn",
+          "list_en_vn": [
+            {
+              "full_en": "it is said that ...; they said that ...",
+              "full_vn": "người ta đồn rằng..."
+            },
+            {
+              "full_en": "to hear say",
+              "full_vn": "nghe đồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diễn đạt",
+          "list_en_vn": [
+            {
+              "full_en": "that was very well said",
+              "full_vn": "diễn đạt như thế rất hay, nói cách như thế rất hay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viện ta làm lý lẽ; đưa làm chứng cớ",
+          "list_en_vn": [
+            {
+              "full_en": "there is not much to be said on that side",
+              "full_vn": "bên phía bên kia không đưa ra được nhiều lý lẽ đâu"
+            },
+            {
+              "full_en": "have you anything to say for yourself ?",
+              "full_vn": "anh có điều gì để viện ra làm lý lẽ bênh vực cho mình không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho ý kiến về, quyết định về",
+          "list_en_vn": [
+            {
+              "full_en": "there is no saying (it is hard to say ) who will win",
+              "full_vn": "không thể (khó mà) cho biết ý kiến là ai sẽ thắng"
+            },
+            {
+              "full_en": "what do you say to a walk ?",
+              "full_vn": "anh cho biết ý kiến ta có nên đi chơi không?; ta đi chơi nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy, chọn (làm ví dụ)",
+          "list_en_vn": [
+            {
+              "full_en": "let us say China",
+              "full_vn": "ta lấy Trung quốc làm ví dụ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( said )",
+      "list_m": [
+        {
+          "m_full_vn": "that is to say tức là, nói một cách khác; hay là, ít nhất thì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to say on",
+              "list_im": [
+                {
+                  "im_full_vn": "tục nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say out",
+              "list_im": [
+                {
+                  "im_full_vn": "nói thật, nói hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say no",
+              "list_im": [
+                {
+                  "im_full_vn": "từ chối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say yes",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say someone nay",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say the word",
+              "list_im": [
+                {
+                  "im_full_vn": "ra lệnh nói lên ý muốn của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it goes without saying",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) go"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you may well say so",
+              "list_im": [
+                {
+                  "im_full_vn": "điều anh nói hoàn toàn có căn cứ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "North America , that is to say the USA and Canada",
+              "full_vn": "bắc châu Mỹ, tức là nước Mỹ và Ca-na-đa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

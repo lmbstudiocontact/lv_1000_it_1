@@ -1,0 +1,42 @@
+{
+  "english": "rid",
+  "phat_am": "[rid]",
+  "list_type": [
+    {
+      "type": "ngoại động từ rid ; rid",
+      "list_m": [
+        {
+          "m_full_vn": "( + of ) giải thoát (cho ai khỏi...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "be /get rid of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "giũ sạch; tống khứ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to rid the world of famine",
+              "full_vn": "giải thoát thế giới khỏi nạn đói"
+            },
+            {
+              "full_en": "to rid oneself of debt",
+              "full_vn": "thoát khỏi nợ nần, giũ sạch nợ nần"
+            },
+            {
+              "full_en": "to get rid of someone (something )",
+              "full_vn": "tống khứ được ai (cái gì) đi"
+            },
+            {
+              "full_en": "article hard to get rid of",
+              "full_vn": "món hàng khó tiêu thụ, món hàng khó bán"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

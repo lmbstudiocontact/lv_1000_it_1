@@ -1,0 +1,27 @@
+{
+  "english": "rely",
+  "phat_am": "[ri'lai]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + on , upon ) tin vào, tin cậy vào, tin tưởng vào",
+          "list_en_vn": [
+            {
+              "full_en": "to rely upon someone",
+              "full_vn": "tin cậy vào ai"
+            },
+            {
+              "full_en": "to rely upon something",
+              "full_vn": "tin cậy vào cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dựa vào, cậy vào, nhờ vào"
+        }
+      ]
+    }
+  ]
+}

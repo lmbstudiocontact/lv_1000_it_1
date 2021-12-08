@@ -1,0 +1,58 @@
+{
+  "english": "resolve",
+  "phat_am": "[ri'zɔlv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyết tâm, ý kiên quyết",
+          "list_en_vn": [
+            {
+              "full_en": "to take a great resolve to shrink from no difficulty",
+              "full_vn": "kiên quyết không lùi bước trước một khó khăn nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiên quyết (làm gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to be resolved",
+              "full_vn": "kiên quyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định"
+        },
+        {
+          "m_full_vn": "giải quyết (khó khăn, vấn đề, mối nghi ngờ...)"
+        },
+        {
+          "m_full_vn": "(hoá học) phân giải, phân tích, chuyển (sang một trạng thái khác)",
+          "list_en_vn": [
+            {
+              "full_en": "water may be resolved into oxygen and hydrogen",
+              "full_vn": "nước có thể phân tích thành ôxy và hyđro"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiêu độc, tiêu tan"
+        },
+        {
+          "m_full_vn": "(âm nhạc) chuyển sang thuận tai"
+        },
+        {
+          "m_full_vn": "(toán học) giải (bài toán...)"
+        }
+      ]
+    }
+  ]
+}

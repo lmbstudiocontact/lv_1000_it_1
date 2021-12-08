@@ -1,0 +1,146 @@
+{
+  "english": "ship",
+  "phat_am": "[∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tàu, tàu thủy",
+          "list_en_vn": [
+            {
+              "full_en": "to take ship",
+              "full_vn": "xuống tàu"
+            },
+            {
+              "full_en": "a warship",
+              "full_vn": "tàu chiến, chiến hạm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) tàu vũ trụ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) máy bay, phi cơ"
+        },
+        {
+          "m_full_vn": "(từ lóng) thuyền (đua)"
+        },
+        {
+          "m_full_vn": "(trong danh từ ghép) tình trạng, địa vị, nghề nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "friendship",
+              "full_vn": "tình bạn, tình hữu nghị"
+            },
+            {
+              "full_en": "ownership",
+              "full_vn": "sự sở hữu, quyền sở hữu"
+            },
+            {
+              "full_en": "professorship",
+              "full_vn": "chức giáo sư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong danh từ ghép) khả năng, tài nghệ",
+          "list_one_mean": [
+            {
+              "id_full_en": "the ship of the desert",
+              "list_im": [
+                {
+                  "im_full_vn": "con lạc đà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "when one's ship comes home /in",
+              "list_im": [
+                {
+                  "im_full_vn": "khi người ta đã trở nên thành đạt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "musicianship",
+              "full_vn": "tài nhạc sĩ"
+            },
+            {
+              "full_en": "scholarship",
+              "full_vn": "sự uyên bác, học rộng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyên chở, vận chuyển; gửi (hàng hoá, hành khách..) bằng đường biển"
+        },
+        {
+          "m_full_vn": "gác mái chèo",
+          "list_en_vn": [
+            {
+              "full_en": "we shipped (the ) oars and moored alongside the bank",
+              "full_vn": "chúng tôi gác mái chèo và cột thuyền dọc theo bờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị (nước) tràn qua mạn (nhất là thuyền trong cơn bão)",
+          "list_en_vn": [
+            {
+              "full_en": "the waves were very high and tha boat began to ship water",
+              "full_vn": "sóng rất cao và con thuyền bắt đầu bị tràn nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) gửi bằng xe lửa, chở bằng xe lửa; gửi bằng máy bay, chở bằng máy bay"
+        },
+        {
+          "m_full_vn": "thuê (người) làm trên tàu thuỷ"
+        },
+        {
+          "m_full_vn": "gắn vào tàu, lắp vào thuyền",
+          "list_en_vn": [
+            {
+              "full_en": "to ship the oar",
+              "full_vn": "lắp mái chèo vào thuyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đuổi đi, tống khứ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi tàu, xuống tàu"
+        },
+        {
+          "m_full_vn": "làm việc trên tàu, trở thành thành viên của một đội thủy thủ",
+          "list_one_mean": [
+            {
+              "id_full_en": "ship somebody /something off",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) gửi ai/cái gì đi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

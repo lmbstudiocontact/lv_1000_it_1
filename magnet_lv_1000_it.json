@@ -1,0 +1,31 @@
+{
+  "english": "magnet",
+  "phat_am": "['mægnit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nam châm",
+          "list_en_vn": [
+            {
+              "full_en": "field magnet",
+              "full_vn": "nam châm tạo trường"
+            },
+            {
+              "full_en": "molecular magnet",
+              "full_vn": "nam châm phân tử"
+            },
+            {
+              "full_en": "permanent magnet",
+              "full_vn": "nam châm vĩnh cửu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người có sức lôi cuốn mạnh, vật có sức hấp dẫn mạnh"
+        }
+      ]
+    }
+  ]
+}

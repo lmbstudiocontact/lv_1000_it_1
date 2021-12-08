@@ -1,0 +1,42 @@
+{
+  "english": "perfectly",
+  "phat_am": "['pə:fiktli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "một cách hoàn toàn, một cách hoàn hảo",
+          "list_en_vn": [
+            {
+              "full_en": "the trousers fit perfectly",
+              "full_vn": "cái quần này hoàn toàn vừa vặn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn, hết sức",
+          "list_en_vn": [
+            {
+              "full_en": "perfectly well",
+              "full_vn": "hết sức tốt"
+            },
+            {
+              "full_en": "perfectly happy",
+              "full_vn": "hết sức sung sướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cực kỳ, tuyệt đối",
+          "list_en_vn": [
+            {
+              "full_en": "a perfectly delicious cake",
+              "full_vn": "một cái bánh cực kỳ ngon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "patient",
+  "phat_am": "['pei∫nt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiên nhẫn, nhẫn nại, bền chí",
+          "list_one_mean": [
+            {
+              "id_full_en": "patient of",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu đựng một cách kiên nhẫn"
+                },
+                {
+                  "im_full_vn": "có thể nhận, phù hợp với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the facts are patient of two interpretations",
+                      "full_vn": "những sự việc đó có thể có hai cách giải thích"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "patient of",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu đựng một cách kiên nhẫn"
+                },
+                {
+                  "im_full_vn": "có thể nhận, phù hợp với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the facts are patient of two interpretations",
+                      "full_vn": "những sự việc đó có thể có hai cách giải thích"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "patient of",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu đựng một cách kiên nhẫn"
+                },
+                {
+                  "im_full_vn": "có thể nhận, phù hợp với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the facts are patient of two interpretations",
+                      "full_vn": "những sự việc đó có thể có hai cách giải thích"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bệnh nhân; người bệnh"
+        },
+        {
+          "m_full_vn": "bệnh nhân đăng ký chữa trị lâu dài với bác sĩ"
+        }
+      ]
+    }
+  ]
+}

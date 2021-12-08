@@ -1,0 +1,155 @@
+{
+  "english": "now",
+  "phat_am": "[nau]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "bây giờ, lúc này, giờ đây, hiện nay, ngày nay",
+          "list_en_vn": [
+            {
+              "full_en": "just (even , but ) now",
+              "full_vn": "đúng lúc này; vừa mới xong, ngay vừa rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngay bây giờ, ngay tức khắc, lập tức",
+          "list_en_vn": [
+            {
+              "full_en": "do it now !",
+              "full_vn": "hãy làm cái đó ngay tức khắc!"
+            },
+            {
+              "full_en": "now or never",
+              "full_vn": "ngay bây giờ hoặc không bao giờ hết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lúc ấy, lúc đó, lúc bấy giờ (trong lúc kể chuyện)",
+          "list_en_vn": [
+            {
+              "full_en": "he was now crossing the mountain",
+              "full_vn": "lúc bấy giờ anh ta cũng đang vượt qua núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong tình trạng đó, trong hoàn cảnh ấy, trong tình thế ấy"
+        },
+        {
+          "m_full_vn": "nay, mà, vậy thì (ở đầu câu)",
+          "list_en_vn": [
+            {
+              "full_en": "now it was so dark that night",
+              "full_vn": "mà đêm hôm đó trời tối lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hả, hãy... mà, nào; thế nào, này, hử",
+          "list_one_mean": [
+            {
+              "id_full_en": "now ..., now ...",
+              "list_im": [
+                {
+                  "im_full_vn": "khi thì..., khi thì.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they are now lazy , now hard-working",
+                      "full_vn": "lúc thì họ lười, lúc thì họ lại làm việc tích cực"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "now ..., now ...",
+              "list_im": [
+                {
+                  "im_full_vn": "khi thì..., khi thì.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they are now lazy , now hard-working",
+                      "full_vn": "lúc thì họ lười, lúc thì họ lại làm việc tích cực"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "now and then / now and again",
+              "list_im": [
+                {
+                  "im_full_vn": "thỉnh thoảng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "now for sth /sb",
+              "list_im": [
+                {
+                  "im_full_vn": "giờ thì đến lượt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "now for market information",
+                      "full_vn": "giờ thì đến thông tin về thị trường"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "now for sth /sb",
+              "list_im": [
+                {
+                  "im_full_vn": "giờ thì đến lượt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "now for market information",
+                      "full_vn": "giờ thì đến thông tin về thị trường"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "now listen to me !",
+              "full_vn": "này hãy nghe tôi mà!"
+            },
+            {
+              "full_en": "come now !",
+              "full_vn": "này!, này!"
+            },
+            {
+              "full_en": "now then , what are you doing ?",
+              "full_vn": "cậu đang làm gì thế hử?"
+            },
+            {
+              "full_en": "no nonsense now",
+              "full_vn": "thôi đừng nói bậy nào!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "bởi chưng, xét vì, vì rằng",
+          "list_en_vn": [
+            {
+              "full_en": "now (that ) the weather is warmer , you can go out",
+              "full_vn": "vì thời tiết đã ấm hơn, anh có thể ra đi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

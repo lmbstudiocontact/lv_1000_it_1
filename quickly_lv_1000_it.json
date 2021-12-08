@@ -1,0 +1,24 @@
+{
+  "english": "quickly",
+  "phat_am": "['kwikli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhanh, nhanh chóng",
+          "list_en_vn": [
+            {
+              "full_en": "speak very quickly",
+              "full_vn": "nói rất nhanh"
+            },
+            {
+              "full_en": "run very quickly",
+              "full_vn": "chạy rất nhanh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

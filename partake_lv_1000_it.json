@@ -1,0 +1,50 @@
+{
+  "english": "partake",
+  "phat_am": "[pɑ:'teik]",
+  "list_type": [
+    {
+      "type": "ngoại động từ partook , partaken",
+      "list_m": [
+        {
+          "m_full_vn": "tham dự, cùng có phần, cùng hưởng, cùng chia xẻ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + in , of , with ) cùng tham dự, cùng có phần, cùng hưởng, cùng chia sẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to partake in (of ) something",
+              "full_vn": "cùng có phần cái gì, cùng hưởng cái gì"
+            },
+            {
+              "full_en": "to partake with somebody",
+              "full_vn": "cùng tham dự với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + of ) ăn uống (một phần cái gì); (thông tục) hết cả cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "he partook of our lowly fare",
+              "full_vn": "anh ta cũng cùng ăn những thứ ăn nghèo nàn đạm bạc của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có phần nào",
+          "list_en_vn": [
+            {
+              "full_en": "his manner partakes of insolence",
+              "full_vn": "thái độ của hắn có phần nào láo xược"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

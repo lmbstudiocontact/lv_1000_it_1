@@ -1,0 +1,220 @@
+{
+  "english": "red",
+  "phat_am": "[red]",
+  "list_type": [
+    {
+      "type": "tính từ (so sánh)",
+      "list_m": [
+        {
+          "m_full_vn": "đỏ (đồ vật)",
+          "list_en_vn": [
+            {
+              "full_en": "red ink",
+              "full_vn": "mực đỏ"
+            },
+            {
+              "full_en": "a red sky",
+              "full_vn": "trời ráng đỏ"
+            },
+            {
+              "full_en": "a red car",
+              "full_vn": "chiếc xe hơi màu đỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỏ bừng vì thẹn, giận dữ.. (về khuôn mặt)",
+          "list_en_vn": [
+            {
+              "full_en": "to become red in the face",
+              "full_vn": "đỏ mặt"
+            },
+            {
+              "full_en": "red cheeks",
+              "full_vn": "má đỏ"
+            },
+            {
+              "full_en": "to turn red",
+              "full_vn": "đỏ mặt; hoá đỏ"
+            },
+            {
+              "full_en": "red with anger",
+              "full_vn": "giận đỏ mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỏ hoe, viền đỏ (về mắt)",
+          "list_en_vn": [
+            {
+              "full_en": "red with weeping",
+              "full_vn": "đỏ hoe vì khóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hung hung đỏ, hoe hoe, có màu nâu đỏ (về tóc, lông thú)",
+          "list_en_vn": [
+            {
+              "full_en": "red deer",
+              "full_vn": "hươu hung"
+            },
+            {
+              "full_en": "red squirrels",
+              "full_vn": "sóc hung"
+            },
+            {
+              "full_en": "red hair",
+              "full_vn": "tóc hung hung đỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẫm máu, ác liệt",
+          "list_en_vn": [
+            {
+              "full_en": "red hands",
+              "full_vn": "những bàn tay đẫm máu"
+            },
+            {
+              "full_en": "red battle",
+              "full_vn": "cuộc quyết chiến, cuộc chiến đấu ác liệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Red ) Xô Viết, Nga",
+          "list_en_vn": [
+            {
+              "full_en": "the Red Army",
+              "full_vn": "Hồng quân (tức quân đội Liên Xô cũ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách mạng, cộng sản; cực tả",
+          "list_one_mean": [
+            {
+              "id_full_en": "to see red",
+              "list_im": [
+                {
+                  "im_full_vn": "bừng bừng nổi giận, nổi xung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not (be ) worth a red cent",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) không đáng đồng xu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not give a red cent for something",
+              "list_im": [
+                {
+                  "im_full_vn": "không đáng đồng xu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as red as a beetroot",
+              "list_im": [
+                {
+                  "im_full_vn": "đỏ như gấc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "red flag",
+              "full_vn": "cờ đỏ, cờ cách mạng"
+            },
+            {
+              "full_en": "red ideas",
+              "full_vn": "những tư tưởng cách mạng, những tư tưởng cộng sản"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu đỏ",
+          "list_en_vn": [
+            {
+              "full_en": "light red",
+              "full_vn": "màu đỏ sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the reds ) (từ Mỹ,nghĩa Mỹ), ( số nhiều) những người da đỏ"
+        },
+        {
+          "m_full_vn": "hòn bi a đỏ"
+        },
+        {
+          "m_full_vn": "ô đỏ (bàn rulet đánh bạc)"
+        },
+        {
+          "m_full_vn": "quần áo màu đỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to be dressed in red",
+              "full_vn": "mặc quần áo đỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Reds ) những người cách mạng, những người cộng sản"
+        },
+        {
+          "m_full_vn": "( Red ) (thông tục) người ủng hộ cách mạng, người ủng hộ các chính sách cấp tiến"
+        },
+        {
+          "m_full_vn": "(thông tục) vàng"
+        },
+        {
+          "m_full_vn": "(kế toán) bên nợ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go into the red",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) bị hụt tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the red",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc nợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be in the red ; get (somebody ) into the red",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) có nhiều nợ hơn tài sản có; (làm cho ai phải) nợ tiền"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in the red",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) bị thiếu hụt, bị hụt tiền"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "solution",
+  "phat_am": "[sə'lu:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hoà tan",
+          "list_en_vn": [
+            {
+              "full_en": "the solution of sugar in tea",
+              "full_vn": "sự hoà tan đường trong nước chè"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dung dịch; trạng thái được hoà tan",
+          "list_en_vn": [
+            {
+              "full_en": "a solution of salt in water",
+              "full_vn": "dung dịch muối trong nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giải quyết; giải pháp, cách giải quyết; lời giải, bài giải (một vấn đề, câu hỏi, khó khăn..)",
+          "list_en_vn": [
+            {
+              "full_en": "she can find no solution to her financial troubles",
+              "full_vn": "bà ta không tìm được cách giải quyết những khó khăn về tài chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáp án"
+        },
+        {
+          "m_full_vn": "sự phân tán, tình trạng phân tán"
+        },
+        {
+          "m_full_vn": "cao su hoà tan (như) rubber solution"
+        },
+        {
+          "m_full_vn": "(y học) thuốc nước",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in solution",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trong tình trạng không ổn định (ý kiến...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phủ một lớp cao su hoà tan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "personally",
+  "phat_am": "['pə:sənəli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "đích thân, với tư cách cá nhân (không đại diện bởi người khác)",
+          "list_en_vn": [
+            {
+              "full_en": "she presented the prizes personally",
+              "full_vn": "bà ta đích thân trao tặng giải thưởng"
+            },
+            {
+              "full_en": "the plans were personally inspected by the minister",
+              "full_vn": "các kế hoạch do bộ trưởng đích thân kiểm tra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như một con người; bản thân",
+          "list_en_vn": [
+            {
+              "full_en": "I don't know him personally , but I've read his books",
+              "full_vn": "tôi không biết bản thân ông ấy, nhưng đã từng đọc sách của ông ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về phần tôi, đối với tôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "take something personally",
+              "list_im": [
+                {
+                  "im_full_vn": "cho cái gì chĩa vào mình, bị xúc phạm vì việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm afraid he took your remarks personally",
+                      "full_vn": "tôi e rằng hắn cho những ý kiến của anh chĩa vào hắn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "take something personally",
+              "list_im": [
+                {
+                  "im_full_vn": "cho cái gì chĩa vào mình, bị xúc phạm vì việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm afraid he took your remarks personally",
+                      "full_vn": "tôi e rằng hắn cho những ý kiến của anh chĩa vào hắn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "personally speaking /speaking personally , I don't like him at all",
+              "full_vn": "về phần tôi, tôi không thích anh ta chút nào"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

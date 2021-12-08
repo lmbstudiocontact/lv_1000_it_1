@@ -1,0 +1,128 @@
+{
+  "english": "plead",
+  "phat_am": "[pli:d]",
+  "list_type": [
+    {
+      "type": "nội động từ, động tính từ quá khứ và thì quá khứ là pleaded hoặc pled",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) bào chữa, biện hộ, cãi",
+          "list_en_vn": [
+            {
+              "full_en": "to plead for somebody",
+              "full_vn": "biện hộ cho ai, bênh vực ai"
+            },
+            {
+              "full_en": "to plead against somebody",
+              "full_vn": "cãi chống lại ai"
+            },
+            {
+              "full_en": "his past conduct pleads for him",
+              "full_vn": "(nghĩa bóng) tư cách đạo đức của anh ta trong quá khứ là lời biện hộ cho anh ta"
+            },
+            {
+              "full_en": "to plead for the modernization of the city's public transport",
+              "full_vn": "bênh vực việc hiện đại hoá hệ thống chuyên chở công cộng của thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to plead with somebody / for something )) cầu xin, nài xin",
+          "list_en_vn": [
+            {
+              "full_en": "to plead for mercy",
+              "full_vn": "xin rủ lòng thương, xin khoan dung"
+            },
+            {
+              "full_en": "he pleaded with his parents for a more understanding attitude",
+              "full_vn": "anh ta cầu xin bố mẹ có thái độ thông cảm hơn"
+            },
+            {
+              "full_en": "she pleaded with him not to leave her alone",
+              "full_vn": "cô ta van xin hắn đừng bỏ rơi cô ta"
+            },
+            {
+              "full_en": "the boy pleaded to be allowed to ride on the tractor",
+              "full_vn": "cậu bé nài xin được lái chiếc máy kéo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa ra cái gì như lời giải thích hoặc lời xin lỗi (nhất là vì đã làm điều gì sai hoặc đã không làm điều gì); lấy cớ, tạ sự",
+          "list_en_vn": [
+            {
+              "full_en": "they asked him to pay for the damage , but he pleaded poverty",
+              "full_vn": "họ đòi anh ta bồi thường thiệt hại, nhưng anh ta tạ sự là mình rất nghèo"
+            },
+            {
+              "full_en": "to plead inexperience",
+              "full_vn": "lấy cớ là không có kinh nghiệm"
+            },
+            {
+              "full_en": "to plead the difficulties of the task",
+              "full_vn": "lấy cớ là công việc có nhiều khó khăn"
+            },
+            {
+              "full_en": "he apologized for not coming to the party , pleading pressure of work",
+              "full_vn": "anh ta xin lỗi về việc không đến dự tiệc, tạ sự là quá bận việc"
+            },
+            {
+              "full_en": "pleading ignorance of the law won't help you if you are caught",
+              "full_vn": "viện cớ là không biết luật cũng không có lợi gì cho anh khi anh bị bắt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa (một vụ kiện) ra trước toà án",
+          "list_en_vn": [
+            {
+              "full_en": "they employed the best lawyer they could get to plead their case",
+              "full_vn": "họ thuê luật sư giỏi nhất mà họ có thể kiếm được để cãi cho họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa ra cái gì làm cơ sở cho một vụ kiện ở toà án (thay mặt cho ai)",
+          "list_en_vn": [
+            {
+              "full_en": "counsel for the accused said that he intended to plead insanity",
+              "full_vn": "luật sư của bị cáo nói rằng ông ta muốn chứng minh là bị cáo mất trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lập luận để bênh vực cái gì; biện hộ bằng lý lẽ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to plead guilty",
+              "list_im": [
+                {
+                  "im_full_vn": "thú nhận tội lỗi của mình; nhận tội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to plead not guilty",
+              "list_im": [
+                {
+                  "im_full_vn": "không nhận tội"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to plead the cause of political prisoners",
+              "full_vn": "biện hộ cho các tù nhân chính trị"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

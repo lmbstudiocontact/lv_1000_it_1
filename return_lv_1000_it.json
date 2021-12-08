@@ -1,0 +1,222 @@
+{
+  "english": "return",
+  "phat_am": "[ri'tə:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trở lại, sự trở về, sự quay trở lại",
+          "list_en_vn": [
+            {
+              "full_en": "to reply by return of post",
+              "full_vn": "trả lời qua chuyến thư về"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vé khứ hồi (cũng) round trip"
+        },
+        {
+          "m_full_vn": "sự gửi trả lại, sự trả lại (một vật gì); vật được trả lại"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) hàng hoá gửi trả lại; sách báo ế; hàng ế (trong kinh doanh)"
+        },
+        {
+          "m_full_vn": "sự thưởng; sự đền đáp; sư trao đổi",
+          "list_en_vn": [
+            {
+              "full_en": "in return for someone's kindness",
+              "full_vn": "để đền đáp lại lòng tốt của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dội lại (của âm thanh)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) quả bóng đánh trả lại (quần vợt)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) trận lượt về, trận đấu gỡ (như) return match"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) miếng đấm trả (đấu gươm)"
+        },
+        {
+          "m_full_vn": "sự để lại chỗ cũ"
+        },
+        {
+          "m_full_vn": "(kiến trúc) phần thụt vào (tường, mặt nhà)"
+        },
+        {
+          "m_full_vn": "(điện học) dây về, đường về"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) tiền thu vào; tiền lời, tiền lãi"
+        },
+        {
+          "m_full_vn": "bản liệt kê, bản thống kê (do cấp trên đòi)",
+          "list_en_vn": [
+            {
+              "full_en": "return of the killed and wounded",
+              "full_vn": "bản thống kê những người chết và bị thương"
+            },
+            {
+              "full_en": "official returns",
+              "full_vn": "bản thống kê chính thức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc bầu (một đại biểu quốc hội); việc công bố kết quả bầu cử"
+        },
+        {
+          "m_full_vn": "( số nhiều) thuốc lá để hút tẩu loại nhẹ",
+          "list_one_mean": [
+            {
+              "id_full_en": "many happy returns of the day",
+              "list_im": [
+                {
+                  "im_full_vn": "chúc mạnh khoẻ sống lâu (lời chúc mừng ngày sinh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "small profits and quick returns",
+              "list_im": [
+                {
+                  "im_full_vn": "năng nhặt chặt bị (trong kinh doanh)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở lại, trở về",
+          "list_en_vn": [
+            {
+              "full_en": "to return home",
+              "full_vn": "trở về nhà"
+            },
+            {
+              "full_en": "let us return to the subject",
+              "full_vn": "ta hãy trở lại vấn đề"
+            },
+            {
+              "full_en": "to return to one's old habits",
+              "full_vn": "lại trở lại những thói quen cũ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trả lại, hoàn lại",
+          "list_en_vn": [
+            {
+              "full_en": "to return a sum of money",
+              "full_vn": "trả lại một số tiền"
+            },
+            {
+              "full_en": "to return a borrowed book",
+              "full_vn": "trả lại một quyển sách đã mượn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gửi trả",
+          "list_en_vn": [
+            {
+              "full_en": "his manuscript was returned to him",
+              "full_vn": "người ta đã gửi trả bản thảo cho ông ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dội lại (âm thanh); chiếu lại (ánh sáng); đánh trả (quả bóng)"
+        },
+        {
+          "m_full_vn": "đáp lại (một sự thăm hỏi)",
+          "list_en_vn": [
+            {
+              "full_en": "to return a visit",
+              "full_vn": "đi thăm đáp lễ"
+            },
+            {
+              "full_en": "to return a bow (someone's greeting )",
+              "full_vn": "chào đáp lại một người nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trả lời, đối lại, đáp lại"
+        },
+        {
+          "m_full_vn": "để lại chỗ cũ",
+          "list_en_vn": [
+            {
+              "full_en": "to return a book to the shelf",
+              "full_vn": "để một cuốn sách vào chỗ cũ ở trên giá"
+            },
+            {
+              "full_en": "return swords !",
+              "full_vn": "(quân sự) hãy tra kiếm vào vỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngỏ lời; tuyên (án)",
+          "list_en_vn": [
+            {
+              "full_en": "to return thanks to someone",
+              "full_vn": "ngỏ lời cảm ơn người nào"
+            },
+            {
+              "full_en": "to return a verdice",
+              "full_vn": "tuyên án"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khai báo (hàng tồn kho)",
+          "list_en_vn": [
+            {
+              "full_en": "the total stocks are returned at 2,000 tons",
+              "full_vn": "bản thống kê cho biết tổng số hàng tồn kho là 2000 tấn"
+            },
+            {
+              "full_en": "to the result of an election",
+              "full_vn": "làm báo cáo chính thức về kết quả của một cuộc bầu cử"
+            },
+            {
+              "full_en": "returning officer",
+              "full_vn": "người kiểm phiếu (có nhiệm vụ công bố tên người trúng cử)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bầu (đại biểu) vào quốc hội"
+        },
+        {
+          "m_full_vn": "(đánh bài) đánh theo (quân cùng hoa với người cùng phe)",
+          "list_en_vn": [
+            {
+              "full_en": "to return clubs",
+              "full_vn": "đánh theo quân bài nhép"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

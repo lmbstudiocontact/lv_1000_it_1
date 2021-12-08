@@ -1,0 +1,56 @@
+{
+  "english": "nor",
+  "phat_am": "[nɔ:]",
+  "list_type": [
+    {
+      "type": "liên từ & phó từ (sau neither hoặc not )",
+      "list_m": [
+        {
+          "m_full_vn": "cũng không; và cũng không",
+          "list_en_vn": [
+            {
+              "full_en": "neither good nor bad",
+              "full_vn": "không tốt mà cũng không xấu"
+            },
+            {
+              "full_en": "he has neither talent nor the desire to learn",
+              "full_vn": "anh ta chẳng có tài ba gì và cũng không muốn học"
+            },
+            {
+              "full_en": "not a leaf nor an insect stirred",
+              "full_vn": "không một chiếc lá và cũng không một con sâu nào lay động"
+            },
+            {
+              "full_en": "she has neither phoned nor written us",
+              "full_vn": "cô ấy không gọi điện thoại và cũng không viết thư cho tôi"
+            },
+            {
+              "full_en": "he is neither able nor willing to come here",
+              "full_vn": "nó không thể và cũng không muốn đến đây"
+            },
+            {
+              "full_en": "he can't see , nor could he hear until a month ago",
+              "full_vn": "anh ta không thể nhìn và cũng không thể nghe đã một tháng nay"
+            },
+            {
+              "full_en": "he can't do it , nor can I , nor can you , nor can anybody",
+              "full_vn": "nó không làm được cái đó, mà cả tôi, cả anh hay bất cứ một người nào cũng không làm được"
+            },
+            {
+              "full_en": "she isn't rich , nor do I imagine that she ever will be",
+              "full_vn": "cô ta không giàu, và tôi cũng không hình dung được là bao giờ cô ta sẽ giàu"
+            },
+            {
+              "full_en": "It won't arrive today . Nor tomorrow",
+              "full_vn": "hôm nay việc ấy sẽ không xảy ra, và mai cũng vậy"
+            },
+            {
+              "full_en": "nor am I aware that anyone else knows the secret",
+              "full_vn": "và tôi cũng không biết là còn ai biết được điều bí mật ấy nữa hay không"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

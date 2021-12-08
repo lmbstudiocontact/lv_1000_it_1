@@ -1,0 +1,30 @@
+{
+  "english": "passenger",
+  "phat_am": "['pæsindʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành khách (đi tàu xe...)"
+        },
+        {
+          "m_full_vn": "(thông tục) thành viên không có khả năng làm được trò trống gì; thành viên kém kém hiệu quả (của tổ, đội...)"
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) hành khách; để chở hành khách",
+          "list_en_vn": [
+            {
+              "full_en": "a passenger boat",
+              "full_vn": "tàu thuỷ chở hành khách"
+            },
+            {
+              "full_en": "a passenger train",
+              "full_vn": "xe lửa chở hành khách"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

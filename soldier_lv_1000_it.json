@@ -1,0 +1,75 @@
+{
+  "english": "soldier",
+  "phat_am": "['souldʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người lính, quân nhân",
+          "list_en_vn": [
+            {
+              "full_en": "the Unknown Soldier",
+              "full_vn": "chiến sĩ vô danh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người chỉ huy có tài, nhà quân sự có tài",
+          "list_en_vn": [
+            {
+              "full_en": "a great soldier",
+              "full_vn": "nhà quân sự vĩ đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải), (từ lóng) thuỷ thủ lười biếng; thuỷ thủ hay trốn việc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come the old soldier over",
+              "list_im": [
+                {
+                  "im_full_vn": "lên mặt ta đây là bậc đàn anh để ra lệnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "soldier's wind",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) gió xuôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a soldier of fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "lính đánh thuê"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi lính, làm lính",
+          "list_en_vn": [
+            {
+              "full_en": "to go soldiering",
+              "full_vn": "đi lính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải), (từ lóng) trốn việc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "english": "rather",
+  "phat_am": "['rɑ:ðə]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúng hơn, hơn là",
+          "list_en_vn": [
+            {
+              "full_en": "we got home late last night , or rather , early this morning",
+              "full_vn": "chúng tôi về đến nhà khuya đêm qua, hay đúng ra là sáng sớm hôm nay"
+            },
+            {
+              "full_en": "it is derived rather from imagination than reason",
+              "full_vn": "điều đó xuất phát từ tưởng tượng hơn là từ lý trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần nào, hơi, khá",
+          "list_en_vn": [
+            {
+              "full_en": "the performance was rather a failure",
+              "full_vn": "buổi biểu diễn thất bại phần nào"
+            },
+            {
+              "full_en": "he felt rather tired at the end of the long climb",
+              "full_vn": "sau cuộc trèo núi lâu, anh cảm thấy hơi mệt"
+            },
+            {
+              "full_en": "we're having rather cold weather for June",
+              "full_vn": "tháng sáu mà thời tiết vẫn còn khá rét"
+            },
+            {
+              "full_en": "the book is rather long",
+              "full_vn": "quyển sách khá dài"
+            },
+            {
+              "full_en": "you've done rather badly in the test",
+              "full_vn": "anh làm bài kiểm tra hơi kém đấy"
+            },
+            {
+              "full_en": "For an Englishman , he speaks French rather well",
+              "full_vn": "Người Anh mà nói tiếng Pháp như vậy là khá đấy"
+            },
+            {
+              "full_en": "this hotel is rather more expensive than that",
+              "full_vn": "khách sạn này có phần nào đắt hơn khách sạn kia"
+            },
+            {
+              "full_en": "it seems rather a good idea",
+              "full_vn": "dường như đó là một ý kiến khá hay"
+            },
+            {
+              "full_en": "I rather suspect we're making a big mistake",
+              "full_vn": "tôi có phần nghi là chúng ta đang phạm một sai lầm lớn"
+            },
+            {
+              "full_en": "the weather rather spoiled our trip to the seaside",
+              "full_vn": "thời tiết đã làm hỏng phần nào chuyến đi chơi biển của chúng tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "dĩ nhiên là có; có chứ (nhấn mạnh trong khi trả lời)",
+          "list_one_mean": [
+            {
+              "id_full_en": "would rather ... (than ); had rather ... (than )",
+              "list_im": [
+                {
+                  "im_full_vn": "thích hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we would rather die than be slaves",
+                      "full_vn": "chúng ta thà chết còn hơn làm nô lệ"
+                    },
+                    {
+                      "full_en": "I'd rather walk than take a bus",
+                      "full_vn": "tôi thích đi bộ hơn là đi xe búyt"
+                    },
+                    {
+                      "full_en": "she'd rather die than lose her children",
+                      "full_vn": "bà ta thà chết còn hơn là mất con"
+                    },
+                    {
+                      "full_en": "Some more wine ? - Thank you , I'd rather not . I've to drive home",
+                      "full_vn": "Anh dùng tí rượu nữa nhé? - Cám ơn, tôi xin thôi. Tôi còn phải lái xe về nhà!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "would rather ... (than ); had rather ... (than )",
+              "list_im": [
+                {
+                  "im_full_vn": "thích hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we would rather die than be slaves",
+                      "full_vn": "chúng ta thà chết còn hơn làm nô lệ"
+                    },
+                    {
+                      "full_en": "I'd rather walk than take a bus",
+                      "full_vn": "tôi thích đi bộ hơn là đi xe búyt"
+                    },
+                    {
+                      "full_en": "she'd rather die than lose her children",
+                      "full_vn": "bà ta thà chết còn hơn là mất con"
+                    },
+                    {
+                      "full_en": "Some more wine ? - Thank you , I'd rather not . I've to drive home",
+                      "full_vn": "Anh dùng tí rượu nữa nhé? - Cám ơn, tôi xin thôi. Tôi còn phải lái xe về nhà!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "would rather ... (than ); had rather ... (than )",
+              "list_im": [
+                {
+                  "im_full_vn": "thích hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we would rather die than be slaves",
+                      "full_vn": "chúng ta thà chết còn hơn làm nô lệ"
+                    },
+                    {
+                      "full_en": "I'd rather walk than take a bus",
+                      "full_vn": "tôi thích đi bộ hơn là đi xe búyt"
+                    },
+                    {
+                      "full_en": "she'd rather die than lose her children",
+                      "full_vn": "bà ta thà chết còn hơn là mất con"
+                    },
+                    {
+                      "full_en": "Some more wine ? - Thank you , I'd rather not . I've to drive home",
+                      "full_vn": "Anh dùng tí rượu nữa nhé? - Cám ơn, tôi xin thôi. Tôi còn phải lái xe về nhà!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "would rather ... (than ); had rather ... (than )",
+              "list_im": [
+                {
+                  "im_full_vn": "thích hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we would rather die than be slaves",
+                      "full_vn": "chúng ta thà chết còn hơn làm nô lệ"
+                    },
+                    {
+                      "full_en": "I'd rather walk than take a bus",
+                      "full_vn": "tôi thích đi bộ hơn là đi xe búyt"
+                    },
+                    {
+                      "full_en": "she'd rather die than lose her children",
+                      "full_vn": "bà ta thà chết còn hơn là mất con"
+                    },
+                    {
+                      "full_en": "Some more wine ? - Thank you , I'd rather not . I've to drive home",
+                      "full_vn": "Anh dùng tí rượu nữa nhé? - Cám ơn, tôi xin thôi. Tôi còn phải lái xe về nhà!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "would rather ... (than ); had rather ... (than )",
+              "list_im": [
+                {
+                  "im_full_vn": "thích hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we would rather die than be slaves",
+                      "full_vn": "chúng ta thà chết còn hơn làm nô lệ"
+                    },
+                    {
+                      "full_en": "I'd rather walk than take a bus",
+                      "full_vn": "tôi thích đi bộ hơn là đi xe búyt"
+                    },
+                    {
+                      "full_en": "she'd rather die than lose her children",
+                      "full_vn": "bà ta thà chết còn hơn là mất con"
+                    },
+                    {
+                      "full_en": "Some more wine ? - Thank you , I'd rather not . I've to drive home",
+                      "full_vn": "Anh dùng tí rượu nữa nhé? - Cám ơn, tôi xin thôi. Tôi còn phải lái xe về nhà!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "do you know him ? - rather !",
+              "full_vn": "anh có biết anh đó không? có chứ!"
+            },
+            {
+              "full_en": "have you been here before ? - rather !",
+              "full_vn": "trước đây anh có ở đây không? dĩ nhiên là có!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

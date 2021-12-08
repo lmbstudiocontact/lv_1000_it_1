@@ -1,0 +1,35 @@
+{
+  "english": "rerun",
+  "phat_am": "['ri:rʌn]",
+  "list_type": [
+    {
+      "type": "ngoại động từ ( reran , rerun )",
+      "list_m": [
+        {
+          "m_full_vn": "chiếu lại (phim), phát thanh lại (chương trình), mở lại (một cuộn băng)"
+        },
+        {
+          "m_full_vn": "chạy đua lại (một cuộc đua)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phim được chiếu lại, chương trình được phát thanh lại, cuộn băng được mở lại; sự lặp lại",
+          "list_en_vn": [
+            {
+              "full_en": "a rerun of a popular play",
+              "full_vn": "sự diễn lại một vở kịch nổi tiếng"
+            },
+            {
+              "full_en": "a rerun of a popular series",
+              "full_vn": "sự chiếu lại một bộ phim nhiều tập nổi tiếng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

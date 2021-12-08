@@ -1,0 +1,62 @@
+{
+  "english": "ocean",
+  "phat_am": "['əʊ∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đại dương, biển",
+          "list_en_vn": [
+            {
+              "full_en": "an ocean voyage",
+              "full_vn": "cuộc hành trình trên đại dương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng mênh mông (cỏ...)"
+        },
+        {
+          "m_full_vn": "một trong những khu vực chính phân chia khối nước đó",
+          "list_one_mean": [
+            {
+              "id_full_en": "ocean of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "vô vàn, vô khối, vô thiên lủng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't worry - we've got oceans of time",
+                      "full_vn": "đừng lo - chúng ta còn khối thời gian"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "ocean of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "vô vàn, vô khối, vô thiên lủng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't worry - we've got oceans of time",
+                      "full_vn": "đừng lo - chúng ta còn khối thời gian"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the Atlantic /Pacific ..ocean",
+              "full_vn": "Đại Tây Dương, Thái Bình Dương.."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

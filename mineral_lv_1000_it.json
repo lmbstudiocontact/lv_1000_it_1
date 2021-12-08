@@ -1,0 +1,48 @@
+{
+  "english": "mineral",
+  "phat_am": "['minərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoáng",
+          "list_en_vn": [
+            {
+              "full_en": "mineral salts",
+              "full_vn": "muối khoáng"
+            },
+            {
+              "full_en": "the mineral kingdom",
+              "full_vn": "giới khoáng vật"
+            },
+            {
+              "full_en": "mineral oil",
+              "full_vn": "dầu thô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) vô cơ",
+          "list_en_vn": [
+            {
+              "full_en": "mineral acid",
+              "full_vn": "axit vô cơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoáng vật; khoáng sản"
+        },
+        {
+          "m_full_vn": "nước khoáng"
+        }
+      ]
+    }
+  ]
+}

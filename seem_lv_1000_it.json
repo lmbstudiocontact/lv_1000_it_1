@@ -1,0 +1,106 @@
+{
+  "english": "seem",
+  "phat_am": "[si:m]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to seem to somebody ) ( to seem to be something ) ( to seem like something ) có vẻ như, dường như, coi bộ",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to seem to ...",
+              "list_im": [
+                {
+                  "im_full_vn": "vì một lý do nào đó (nên) không...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he does not seem to like his job",
+                      "full_vn": "vì một lý do nào đó anh ta không thích công việc của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to seem to ...",
+              "list_im": [
+                {
+                  "im_full_vn": "vì một lý do nào đó (nên) không...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he does not seem to like his job",
+                      "full_vn": "vì một lý do nào đó anh ta không thích công việc của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to seem good to someone",
+              "list_im": [
+                {
+                  "im_full_vn": "được ai cho là giải pháp tốt nhất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this course of action seems good to me",
+                      "full_vn": "tôi cho đường lối hành động ấy là tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to seem good to someone",
+              "list_im": [
+                {
+                  "im_full_vn": "được ai cho là giải pháp tốt nhất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this course of action seems good to me",
+                      "full_vn": "tôi cho đường lối hành động ấy là tốt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he seems to be a good fellow",
+              "full_vn": "anh ta có vẻ là người tốt"
+            },
+            {
+              "full_en": "he seems disappointed to me",
+              "full_vn": "(tôi thấy) anh ta có vẻ thất vọng"
+            },
+            {
+              "full_en": "do whatever seems reasonable",
+              "full_vn": "hãy làm bất cứ điều gì xem ra là có lý"
+            },
+            {
+              "full_en": "it seems that he does not understand",
+              "full_vn": "coi bộ nó không hiểu"
+            },
+            {
+              "full_en": "I can't seem to bear his insolence",
+              "full_vn": "Coi bộ tôi không chịu nổi cái thói láo xược của nó"
+            },
+            {
+              "full_en": "there seems to be some misunderstanding",
+              "full_vn": "hình như có sự hiểu lầm"
+            },
+            {
+              "full_en": "she seems to sympathize with my friend",
+              "full_vn": "dường như cô ta có cảm tình với bạn tôi"
+            },
+            {
+              "full_en": "Their father is now seventy years old - So it seems",
+              "full_vn": "Bố họ năm nay 70 tuổi - Hình như vậy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

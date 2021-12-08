@@ -1,0 +1,248 @@
+{
+  "english": "made",
+  "phat_am": "[meid]",
+  "list_type": [
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của make"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) huấn luyện công phu",
+          "list_en_vn": [
+            {
+              "full_en": "a made horse",
+              "full_vn": "con ngựa huấn luyện công phu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giả tạo",
+          "list_one_mean": [
+            {
+              "id_full_en": "made for",
+              "list_im": [
+                {
+                  "im_full_vn": "thích hợp cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a night made for love",
+                      "full_vn": "một đêm thích hợp cho tình yêu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "made for",
+              "list_im": [
+                {
+                  "im_full_vn": "thích hợp cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a night made for love",
+                      "full_vn": "một đêm thích hợp cho tình yêu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what somebody is made of",
+              "list_im": [
+                {
+                  "im_full_vn": "bản lĩnh của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I will show you what I am made of",
+                      "full_vn": "Tôi sẽ cho anh thấy bản lĩnh của tôi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được làm; được chế tạo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "factory-made",
+                      "full_vn": "chế tạo ở xưởng"
+                    },
+                    {
+                      "full_en": "ready-made",
+                      "full_vn": "làm sẵn"
+                    },
+                    {
+                      "full_en": "locally made",
+                      "full_vn": "chế tạo ở địa phương"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what somebody is made of",
+              "list_im": [
+                {
+                  "im_full_vn": "bản lĩnh của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I will show you what I am made of",
+                      "full_vn": "Tôi sẽ cho anh thấy bản lĩnh của tôi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được làm; được chế tạo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "factory-made",
+                      "full_vn": "chế tạo ở xưởng"
+                    },
+                    {
+                      "full_en": "ready-made",
+                      "full_vn": "làm sẵn"
+                    },
+                    {
+                      "full_en": "locally made",
+                      "full_vn": "chế tạo ở địa phương"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what somebody is made of",
+              "list_im": [
+                {
+                  "im_full_vn": "bản lĩnh của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I will show you what I am made of",
+                      "full_vn": "Tôi sẽ cho anh thấy bản lĩnh của tôi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được làm; được chế tạo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "factory-made",
+                      "full_vn": "chế tạo ở xưởng"
+                    },
+                    {
+                      "full_en": "ready-made",
+                      "full_vn": "làm sẵn"
+                    },
+                    {
+                      "full_en": "locally made",
+                      "full_vn": "chế tạo ở địa phương"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what somebody is made of",
+              "list_im": [
+                {
+                  "im_full_vn": "bản lĩnh của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I will show you what I am made of",
+                      "full_vn": "Tôi sẽ cho anh thấy bản lĩnh của tôi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được làm; được chế tạo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "factory-made",
+                      "full_vn": "chế tạo ở xưởng"
+                    },
+                    {
+                      "full_en": "ready-made",
+                      "full_vn": "làm sẵn"
+                    },
+                    {
+                      "full_en": "locally made",
+                      "full_vn": "chế tạo ở địa phương"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what somebody is made of",
+              "list_im": [
+                {
+                  "im_full_vn": "bản lĩnh của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I will show you what I am made of",
+                      "full_vn": "Tôi sẽ cho anh thấy bản lĩnh của tôi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được làm; được chế tạo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "factory-made",
+                      "full_vn": "chế tạo ở xưởng"
+                    },
+                    {
+                      "full_en": "ready-made",
+                      "full_vn": "làm sẵn"
+                    },
+                    {
+                      "full_en": "locally made",
+                      "full_vn": "chế tạo ở địa phương"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what somebody is made of",
+              "list_im": [
+                {
+                  "im_full_vn": "bản lĩnh của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I will show you what I am made of",
+                      "full_vn": "Tôi sẽ cho anh thấy bản lĩnh của tôi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "được làm; được chế tạo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "factory-made",
+                      "full_vn": "chế tạo ở xưởng"
+                    },
+                    {
+                      "full_en": "ready-made",
+                      "full_vn": "làm sẵn"
+                    },
+                    {
+                      "full_en": "locally made",
+                      "full_vn": "chế tạo ở địa phương"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a made excuse",
+              "full_vn": "lời xin lỗi giả tạo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

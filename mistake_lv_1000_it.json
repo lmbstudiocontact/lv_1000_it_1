@@ -1,0 +1,187 @@
+{
+  "english": "mistake",
+  "phat_am": "[mis'teik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỗi, sai lầm, lỗi lầm",
+          "list_one_mean": [
+            {
+              "id_full_en": "and no mistake",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không còn nghi ngờ gì nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's hot today and no mistake",
+                      "full_vn": "không còn nghi ngờ gì nữa hôm nay trời nóng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "and no mistake",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không còn nghi ngờ gì nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's hot today and no mistake",
+                      "full_vn": "không còn nghi ngờ gì nữa hôm nay trời nóng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "by mistake",
+              "list_im": [
+                {
+                  "im_full_vn": "do sơ suất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I took your bag instead of mine by mistake !",
+                      "full_vn": "Do sơ suất, tôi đã cầm cái túi của ông thay vì cái túi của tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "by mistake",
+              "list_im": [
+                {
+                  "im_full_vn": "do sơ suất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I took your bag instead of mine by mistake !",
+                      "full_vn": "Do sơ suất, tôi đã cầm cái túi của ông thay vì cái túi của tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "make no mistake about something",
+              "list_im": [
+                {
+                  "im_full_vn": "đừng có lầm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Sue seems very quiet , but make no mistake about it , she has a terrible temper !",
+                      "full_vn": "Sue có vẻ rất trầm lặng, nhưng chớ có lầm nhé, cô ta nóng nảy lắm đấy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "make no mistake about something",
+              "list_im": [
+                {
+                  "im_full_vn": "đừng có lầm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Sue seems very quiet , but make no mistake about it , she has a terrible temper !",
+                      "full_vn": "Sue có vẻ rất trầm lặng, nhưng chớ có lầm nhé, cô ta nóng nảy lắm đấy!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "You can't arrest me ! There must be some mistake !",
+              "full_vn": "Các ông không được bắt tôi! Chắc chắn là có sự nhầm lẫn rồi!"
+            },
+            {
+              "full_en": "The waiter made a mistake over the bill",
+              "full_vn": "Người hầu bàn có một chỗ nhầm lẫn trong hoá đơn"
+            },
+            {
+              "full_en": "to learn by one's mistakes",
+              "full_vn": "Học hỏi qua những sai lầm của mình"
+            },
+            {
+              "full_en": "Spelling mistakes",
+              "full_vn": "Những lỗi chính tả"
+            },
+            {
+              "full_en": "It was a big mistake to leave my umbrella at home",
+              "full_vn": "Tôi thật sai lầm tai hại khi bỏ quên cái ô ở nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ, thì quá khứ là mistook , động tính từ quá khứ là mistaken",
+      "list_m": [
+        {
+          "m_full_vn": "phạm sai lầm hoặc có ý kiến sai về ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I must have mistaken your meaning /what you meant",
+              "full_vn": "Hẳn là tôi đã hiểu nhầm ý kiến ông"
+            },
+            {
+              "full_en": "Don't mistake me ; I mean what I say",
+              "full_vn": "Đừng hiểu lầm tôi, tôi nói nghiêm túc đấy"
+            },
+            {
+              "full_en": "We've mistaken the house",
+              "full_vn": "Chúng tôi đã nhầm nhà (đến không đúng nhà)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhầm ai/cái gì là ai/cái gì khác; nhầm",
+          "list_one_mean": [
+            {
+              "id_full_en": "there's no mistaking somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể nào nhầm được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "There's no mistaking what ought to be done",
+                      "full_vn": "Không thể nào nhầm lẫn được về điều cần phải làm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's no mistaking somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể nào nhầm được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "There's no mistaking what ought to be done",
+                      "full_vn": "Không thể nào nhầm lẫn được về điều cần phải làm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "To mistake a toadstool for a mushroom",
+              "full_vn": "Nhầm nấm mũ độc là nấm ăn được"
+            },
+            {
+              "full_en": "She is often mistaken for her twin sister",
+              "full_vn": "Người ta thường nhầm cô ấy với em gái sinh đôi của cô ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

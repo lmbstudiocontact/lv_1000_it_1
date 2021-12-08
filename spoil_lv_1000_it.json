@@ -1,0 +1,112 @@
+{
+  "english": "spoil",
+  "phat_am": "[spɔil]",
+  "list_type": [
+    {
+      "type": "danh từ (như) spoils",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều) chiến lợi phẩm"
+        },
+        {
+          "m_full_vn": "lợi lộc, quyền lợi (sau khi chiến thắng)"
+        },
+        {
+          "m_full_vn": "(đùa cợt) bổng lộc, lương lậu"
+        },
+        {
+          "m_full_vn": "(đánh bài) sự hoà"
+        },
+        {
+          "m_full_vn": "đất đá đào lên, đất bùn nạo vét lên"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ spoiled , spoilt",
+      "list_m": [
+        {
+          "m_full_vn": "cướp phá, tước đoạt, cướp đoạt"
+        },
+        {
+          "m_full_vn": "làm hư hỏng, làm đổ nát (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "holidays spoilt by bad weather",
+              "full_vn": "thời tiết xấu đã làm hỏng những ngày nghỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hư, làm hại tính cách (một đứa bé..) do thiếu kỷ luật..",
+          "list_en_vn": [
+            {
+              "full_en": "the performance was spoilt by the rain",
+              "full_vn": "mưa làm hỏng cả cuộc biểu diễn"
+            },
+            {
+              "full_en": "the news spoilt his dinner",
+              "full_vn": "tin đó làm cho anh ta ăn cơm mất ngon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hư (một đứa trẻ)",
+          "list_en_vn": [
+            {
+              "full_en": "a spoilt child",
+              "full_vn": "một đứa trẻ hư (vì nuông chiều)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) chặt chân tay (ai); giết, khử"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thối, ươn (quả, cá...)",
+          "list_en_vn": [
+            {
+              "full_en": "these fruit will not spoil with keeping",
+              "full_vn": "những quả này để lâu không thối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mất hay, mất thú (câu chuyện đùa)"
+        },
+        {
+          "m_full_vn": "(chỉ động tính từ hiện tại) hăm hở, hậm hực muốn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be spoiling for something",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ chực muốn, rất hăm hở về (đánh nhau, tranh cãi..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be spoilt for choice",
+              "list_im": [
+                {
+                  "im_full_vn": "lúng túng trong việc lựa chọn (vì có quá nhiều thứ để chọn); tha hồ lựa chọn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be spoiling for a fight",
+              "full_vn": "hậm hực muốn đánh nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

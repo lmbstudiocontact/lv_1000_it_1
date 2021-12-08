@@ -1,0 +1,498 @@
+{
+  "english": "miss",
+  "phat_am": "[mis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) cô gái trẻ hoặc nữ sinh; phụ nữ trẻ chưa chồng",
+          "list_en_vn": [
+            {
+              "full_en": "she's a saucy little miss !",
+              "full_vn": "nó là một con bé bẳn tính!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự không trúng; sự trượt",
+          "list_one_mean": [
+            {
+              "id_full_en": "a miss is as good as a mile",
+              "list_im": [
+                {
+                  "im_full_vn": "thoát khỏi nguy hiểm trong đường tơ kẽ tóc"
+                },
+                {
+                  "im_full_vn": "đã trượt thì cách một ly hay một dặm cũng vẫn là trượt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a miss is as good as a mile",
+              "list_im": [
+                {
+                  "im_full_vn": "thoát khỏi nguy hiểm trong đường tơ kẽ tóc"
+                },
+                {
+                  "im_full_vn": "đã trượt thì cách một ly hay một dặm cũng vẫn là trượt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a near miss",
+              "list_im": [
+                {
+                  "im_full_vn": "xem near"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody /something a miss",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ qua ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I think I'll give the fish course a miss",
+                      "full_vn": "tôi nghĩ rằng tôi sẽ bỏ qua món cá"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "không làm cái gì, không đi đâu đó, không gặp ai... như thường lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "give yoga , the cinema , my boy-friend a miss tonight",
+                      "full_vn": "tối nay nghỉ tập yoga, thôi không đi xem chiếu bóng, không đi gặp bạn trai của tôi nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody /something a miss",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ qua ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I think I'll give the fish course a miss",
+                      "full_vn": "tôi nghĩ rằng tôi sẽ bỏ qua món cá"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "không làm cái gì, không đi đâu đó, không gặp ai... như thường lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "give yoga , the cinema , my boy-friend a miss tonight",
+                      "full_vn": "tối nay nghỉ tập yoga, thôi không đi xem chiếu bóng, không đi gặp bạn trai của tôi nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody /something a miss",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ qua ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I think I'll give the fish course a miss",
+                      "full_vn": "tôi nghĩ rằng tôi sẽ bỏ qua món cá"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "không làm cái gì, không đi đâu đó, không gặp ai... như thường lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "give yoga , the cinema , my boy-friend a miss tonight",
+                      "full_vn": "tối nay nghỉ tập yoga, thôi không đi xem chiếu bóng, không đi gặp bạn trai của tôi nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody /something a miss",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ qua ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I think I'll give the fish course a miss",
+                      "full_vn": "tôi nghĩ rằng tôi sẽ bỏ qua món cá"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "không làm cái gì, không đi đâu đó, không gặp ai... như thường lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "give yoga , the cinema , my boy-friend a miss tonight",
+                      "full_vn": "tối nay nghỉ tập yoga, thôi không đi xem chiếu bóng, không đi gặp bạn trai của tôi nữa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to score ten hits and one miss",
+              "full_vn": "bắn mười phát trúng và một phát trượt"
+            },
+            {
+              "full_en": "the ball's gone right past him - that was a bad miss",
+              "full_vn": "quả bóng đi qua ngay chỗ nó - thật là một cú trượt tồi tệ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trượt; chệch",
+          "list_en_vn": [
+            {
+              "full_en": "he shot at the bird but missed",
+              "full_vn": "anh ta bắn con chim nhưng trượt"
+            },
+            {
+              "full_en": "to miss the target /mark /goal",
+              "full_vn": "không trúng đích/chệch mục tiêu/trượt ra ngoài khung thành"
+            },
+            {
+              "full_en": "the goalkeeper just missed (stopping ) the ball",
+              "full_vn": "thủ môn bắt hụt quả bóng"
+            },
+            {
+              "full_en": "to miss one's footing",
+              "full_vn": "trượt chân (ngã khi leo núi chẳng hạn)"
+            },
+            {
+              "full_en": "the plane missed the runway by several yards",
+              "full_vn": "máy bay đã chệch khỏi đường băng vài yard"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có mặt ở cái gì, đến quá muộn cho cái gì; lỡ; nhỡ",
+          "list_en_vn": [
+            {
+              "full_en": "to miss the 9:30 train",
+              "full_vn": "lỡ chuyến xe lửa 9 giờ 30"
+            },
+            {
+              "full_en": "to miss a meeting /a class /an appointment",
+              "full_vn": "lỡ một cuộc họp/một buổi học/một cuộc hẹn"
+            },
+            {
+              "full_en": "we only missed (seeing ) each other by five minutes",
+              "full_vn": "chúng tôi chỉ lỡ có năm phút mà không gặp nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không lợi dụng được cái gì; bỏ lỡ",
+          "list_en_vn": [
+            {
+              "full_en": "an opportunity not to be missed",
+              "full_vn": "một cơ hội không nên bỏ lỡ"
+            },
+            {
+              "full_en": "to miss the chance /opportunity of doing something",
+              "full_vn": "bỏ lỡ cơ hội/dịp làm điều gì"
+            },
+            {
+              "full_en": "don't miss our bargain offers",
+              "full_vn": "đừng bỏ lỡ những đề nghị rất hời của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhận biết sự vắng mặt hoặc mất ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "when did you miss your purse ?",
+              "full_vn": "vào lúc nào anh nhận ra mình mất ví?"
+            },
+            {
+              "full_en": "he's so rich that he wouldn't miss 100 dollars",
+              "full_vn": "ông ta giàu đến nỗi mất 100 đô la mà không hề biết"
+            },
+            {
+              "full_en": "we seem to be missing two chairs",
+              "full_vn": "dường như chúng ta thiếu hai cái ghế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không nghe thấy, không trông thấy, không hiểu ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "you cannot miss the house when going across the street",
+              "full_vn": "khi đi ngang qua phố anh không thể không trông thấy căn nhà"
+            },
+            {
+              "full_en": "I'm sorry , I missed what you said",
+              "full_vn": "xin lỗi, tôi không hiểu ông nói gì"
+            },
+            {
+              "full_en": "he missed the point of my joke",
+              "full_vn": "nó không hiểu điểm lý thú trong câu chuyện đùa của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm thấy tiếc sự không có mặt hoặc mất ai/cái gì; nhớ; thiếu",
+          "list_en_vn": [
+            {
+              "full_en": "to miss somebody very much",
+              "full_vn": "nhớ ai lắm"
+            },
+            {
+              "full_en": "Old Smith won't be missed",
+              "full_vn": "sẽ không có ai nhớ đến ông già Smith (khi ông ta về hưu, chết...)"
+            },
+            {
+              "full_en": "I miss you bringing me cups of tea in the morning !",
+              "full_vn": "tôi cảm thấy nhớ em sáng sáng đem trà cho tôi uống!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tránh hoặc thoát khỏi cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "if you go early , you'll miss the heavy traffic",
+              "full_vn": "nếu anh đi sớm thì sẽ tránh được xe cộ đi lại đông đúc"
+            },
+            {
+              "full_en": "we only just missed having a nasty accident",
+              "full_vn": "chúng tôi vừa thoát khỏi một tai nạn hiểm nghèo (chúng tôi súyt bị một tai nạn hiểm nghèo)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về động cơ) không nổ; tắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hit /miss the mark",
+              "list_im": [
+                {
+                  "im_full_vn": "xem mark"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss the boat /bus",
+              "list_im": [
+                {
+                  "im_full_vn": "quá chậm chạp để lỡ một cơ hội",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if we don't offer a good price for the house now , we'll probably miss the boat altogether",
+                      "full_vn": "nếu bây giờ chúng ta không trả giá cao cho ngôi nhà này thì co lẽ chúng ta sẽ để lỡ cơ hội"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss the boat /bus",
+              "list_im": [
+                {
+                  "im_full_vn": "quá chậm chạp để lỡ một cơ hội",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if we don't offer a good price for the house now , we'll probably miss the boat altogether",
+                      "full_vn": "nếu bây giờ chúng ta không trả giá cao cho ngôi nhà này thì co lẽ chúng ta sẽ để lỡ cơ hội"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to miss much ; not to miss a trick",
+              "list_im": [
+                {
+                  "im_full_vn": "rất tỉnh táo hoặc cảnh giác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Jill will find out your secret - she never misses a trick",
+                      "full_vn": "Jill sẽ khám phá ra bí mật của nah - cô ta tinh lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to miss much ; not to miss a trick",
+              "list_im": [
+                {
+                  "im_full_vn": "rất tỉnh táo hoặc cảnh giác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Jill will find out your secret - she never misses a trick",
+                      "full_vn": "Jill sẽ khám phá ra bí mật của nah - cô ta tinh lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be too good to miss",
+              "list_im": [
+                {
+                  "im_full_vn": "hấp dẫn đến nỗi không thể bỏ qua được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the offer of a year abroad with all expenses paid seemed too good to miss",
+                      "full_vn": "đề nghị một năm ở nước ngoài mà không tốn xu nào có vẻ hấp dẫn quá"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be too good to miss",
+              "list_im": [
+                {
+                  "im_full_vn": "hấp dẫn đến nỗi không thể bỏ qua được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the offer of a year abroad with all expenses paid seemed too good to miss",
+                      "full_vn": "đề nghị một năm ở nước ngoài mà không tốn xu nào có vẻ hấp dẫn quá"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss somebody /something out",
+              "list_im": [
+                {
+                  "im_full_vn": "không bao gồm ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll miss out the sweet course",
+                      "full_vn": "tôi sẽ không ăn món ngọt"
+                    },
+                    {
+                      "full_en": "we'll miss out the last two verses",
+                      "full_vn": "chúng ta sẽ bỏ qua (không ngâm) hai câu thơ sau cùng"
+                    },
+                    {
+                      "full_en": "the printers have missed out a whole line here",
+                      "full_vn": "thợ in đã bỏ sót cả một dòng ở chỗ này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss somebody /something out",
+              "list_im": [
+                {
+                  "im_full_vn": "không bao gồm ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll miss out the sweet course",
+                      "full_vn": "tôi sẽ không ăn món ngọt"
+                    },
+                    {
+                      "full_en": "we'll miss out the last two verses",
+                      "full_vn": "chúng ta sẽ bỏ qua (không ngâm) hai câu thơ sau cùng"
+                    },
+                    {
+                      "full_en": "the printers have missed out a whole line here",
+                      "full_vn": "thợ in đã bỏ sót cả một dòng ở chỗ này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss somebody /something out",
+              "list_im": [
+                {
+                  "im_full_vn": "không bao gồm ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll miss out the sweet course",
+                      "full_vn": "tôi sẽ không ăn món ngọt"
+                    },
+                    {
+                      "full_en": "we'll miss out the last two verses",
+                      "full_vn": "chúng ta sẽ bỏ qua (không ngâm) hai câu thơ sau cùng"
+                    },
+                    {
+                      "full_en": "the printers have missed out a whole line here",
+                      "full_vn": "thợ in đã bỏ sót cả một dòng ở chỗ này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss somebody /something out",
+              "list_im": [
+                {
+                  "im_full_vn": "không bao gồm ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll miss out the sweet course",
+                      "full_vn": "tôi sẽ không ăn món ngọt"
+                    },
+                    {
+                      "full_en": "we'll miss out the last two verses",
+                      "full_vn": "chúng ta sẽ bỏ qua (không ngâm) hai câu thơ sau cùng"
+                    },
+                    {
+                      "full_en": "the printers have missed out a whole line here",
+                      "full_vn": "thợ in đã bỏ sót cả một dòng ở chỗ này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss out (on something )",
+              "list_im": [
+                {
+                  "im_full_vn": "mất một cơ hội được lợi từ cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if I don't go to the party , I'll feel I'm missing out",
+                      "full_vn": "nếu tôi không đến dự cuộc liên hoan, tôi sẽ cảm thấy thiệt thòi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss out (on something )",
+              "list_im": [
+                {
+                  "im_full_vn": "mất một cơ hội được lợi từ cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if I don't go to the party , I'll feel I'm missing out",
+                      "full_vn": "nếu tôi không đến dự cuộc liên hoan, tôi sẽ cảm thấy thiệt thòi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

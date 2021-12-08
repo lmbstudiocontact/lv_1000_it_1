@@ -1,0 +1,102 @@
+{
+  "english": "strange",
+  "phat_am": "[streindʒ]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lạ, xa lạ, không quen biết",
+          "list_en_vn": [
+            {
+              "full_en": "strange land",
+              "full_vn": "đất lạ, đất người"
+            },
+            {
+              "full_en": "a strange country",
+              "full_vn": "một nước xa lạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỳ lạ; lạ thường; gây ngạc nhiên; lập dị",
+          "list_en_vn": [
+            {
+              "full_en": "a strange story",
+              "full_vn": "một câu chuyện kỳ lạ"
+            },
+            {
+              "full_en": "he is very strange in his manner",
+              "full_vn": "thái độ của nó rất kỳ quặc; nó có vẻ điên điên khùng khùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mới, chưa quen",
+          "list_one_mean": [
+            {
+              "id_full_en": "to feel strange",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy trong người khang khác, thấy choáng váng"
+                },
+                {
+                  "im_full_vn": "thấy lạ, cảm thấy xa lạ, cảm thấy không được thoải mái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel strange",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy trong người khang khác, thấy choáng váng"
+                },
+                {
+                  "im_full_vn": "thấy lạ, cảm thấy xa lạ, cảm thấy không được thoải mái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "strange to relate /say ..",
+              "list_im": [
+                {
+                  "im_full_vn": "có điều là lạ..",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "strange to say , he won !",
+                      "full_vn": "có điều lạ là anh đã thắng!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "strange to relate /say ..",
+              "list_im": [
+                {
+                  "im_full_vn": "có điều là lạ..",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "strange to say , he won !",
+                      "full_vn": "có điều lạ là anh đã thắng!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I am strange to the work",
+              "full_vn": "công việc đối với tôi rất mới"
+            },
+            {
+              "full_en": "I am quite strange here",
+              "full_vn": "tôi không phải người vùng này"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

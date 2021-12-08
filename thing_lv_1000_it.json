@@ -1,0 +1,376 @@
+{
+  "english": "thing",
+  "phat_am": "[θiη]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều things",
+      "list_m": [
+        {
+          "m_full_vn": "cái, đồ, vật, thứ, thức, điều, sự, việc, món",
+          "list_en_vn": [
+            {
+              "full_en": "expensive things",
+              "full_vn": "những thứ đắt tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đồ dùng, dụng cụ...",
+          "list_en_vn": [
+            {
+              "full_en": "my painting things",
+              "full_vn": "bộ đồ vẽ của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đồ đạc, quần áo... của riêng cá nhân",
+          "list_en_vn": [
+            {
+              "full_en": "put your things on and come for a walk",
+              "full_vn": "anh hãy mặc quần áo vào rồi đi chơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hoàn cảnh, tình hình",
+          "list_en_vn": [
+            {
+              "full_en": "things are going from bad to worse",
+              "full_vn": "tình hình đang xấu thêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (có một tính từ theo sau) tất cả những gì có thể được mô tả",
+          "list_en_vn": [
+            {
+              "full_en": "interested in things Japanese",
+              "full_vn": "thích thú những gì của Nhật bản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (pháp lý) tài sản, của cải"
+        },
+        {
+          "m_full_vn": "nhiệm vụ, quá trình hành động..",
+          "list_en_vn": [
+            {
+              "full_en": "a difficult thing to do",
+              "full_vn": "một việc khó làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vấn đề, điều, công việc, sự việc, chuyện",
+          "list_en_vn": [
+            {
+              "full_en": "there's another thing I want to ask you about",
+              "full_vn": "còn một vấn đề nữa tôi muốn hỏi anh"
+            },
+            {
+              "full_en": "that only makes things worse",
+              "full_vn": "cái đó chỉ làm cho tình hình xấu hơn, cái đó chỉ làm cho sự việc rắc rối hơn"
+            },
+            {
+              "full_en": "you take things too seriously",
+              "full_vn": "anh quá quan trọng hoá vấn đề"
+            },
+            {
+              "full_en": "the best thing to do is ...",
+              "full_vn": "điều tốt nhất để làm đó là..."
+            },
+            {
+              "full_en": "that is quite a different thing",
+              "full_vn": "đó là một việc hoàn toàn khác"
+            },
+            {
+              "full_en": "I have a lot of things to do",
+              "full_vn": "tôi có một lô công việc phải làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để nói về một người hoặc con vật, bày tỏ sự trìu mến, lòng thương hại, khinh bỉ..)",
+          "list_en_vn": [
+            {
+              "full_en": "what a sweet little thing your daughter is !",
+              "full_vn": "con gái bà mới dễ thương làm sao!"
+            },
+            {
+              "full_en": "you stupid thing !",
+              "full_vn": "đồ ngu!"
+            },
+            {
+              "full_en": "you silly thing !",
+              "full_vn": "cậu thật là ngốc"
+            },
+            {
+              "full_en": "dumb things",
+              "full_vn": "thú vật, súc vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu, vật mẫu, thứ, kiểu",
+          "list_en_vn": [
+            {
+              "full_en": "it is the newest thing out",
+              "full_vn": "đây là kiểu (thứ) mới nhất"
+            },
+            {
+              "full_en": "it's quite the thing",
+              "full_vn": "thật đúng kiểu, thật đúng mốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the thing ) cái thích đáng nhất, cái thích hợp nhất, cái quan trọng nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "above all things",
+              "list_im": [
+                {
+                  "im_full_vn": "trên hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all things considered",
+              "list_im": [
+                {
+                  "im_full_vn": "sau khi cân nhắc kỹ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all things considered , we're doing quite well",
+                      "full_vn": "sau khi cân nhắc kỹ thì thấy chúng ta đã làm khá tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all things considered",
+              "list_im": [
+                {
+                  "im_full_vn": "sau khi cân nhắc kỹ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all things considered , we're doing quite well",
+                      "full_vn": "sau khi cân nhắc kỹ thì thấy chúng ta đã làm khá tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as a general thing",
+              "list_im": [
+                {
+                  "im_full_vn": "thường thường, nói chung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know a thing or two",
+              "list_im": [
+                {
+                  "im_full_vn": "có kinh nghiệm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look (feel ) quite the thing",
+              "list_im": [
+                {
+                  "im_full_vn": "trông ra vẻ (cảm thấy) khoẻ mạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a good thing out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "kiếm chác được ở cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as things stand",
+              "list_im": [
+                {
+                  "im_full_vn": "trong hoàn cảnh hiện nay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be a good thing (that )..",
+              "list_im": [
+                {
+                  "im_full_vn": "may mắn rằng..",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It's a good thing we brought the umbrella",
+                      "full_vn": "thật may là chúng ta đã đem theo dù"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "be a good thing (that )..",
+              "list_im": [
+                {
+                  "im_full_vn": "may mắn rằng..",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It's a good thing we brought the umbrella",
+                      "full_vn": "thật may là chúng ta đã đem theo dù"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a close /near thing",
+              "list_im": [
+                {
+                  "im_full_vn": "sát nút; súyt thua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do one's own thing",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) độc lập; theo lợi ích riêng của mình, theo sở thích riêng của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first /last thing",
+              "list_im": [
+                {
+                  "im_full_vn": "sáng sớm/khuya"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for one thing",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để đưa ra một lý do về cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "for one thing , I've no money ; and for another I'm too busy",
+                      "full_vn": "trước hết là tôi không có tiền; sau nữa là tôi quá bận"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for one thing",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để đưa ra một lý do về cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "for one thing , I've no money ; and for another I'm too busy",
+                      "full_vn": "trước hết là tôi không có tiền; sau nữa là tôi quá bận"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a thing about somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bị ai/cái gì ám ảnh"
+                },
+                {
+                  "im_full_vn": "(thông tục) có định kiến với ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a thing about somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bị ai/cái gì ám ảnh"
+                },
+                {
+                  "im_full_vn": "(thông tục) có định kiến với ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a thing of something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm om sòm về cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one (damned ..) thing after another",
+              "list_im": [
+                {
+                  "im_full_vn": "hoạ vô đơn chí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "taking one thing with another",
+              "list_im": [
+                {
+                  "im_full_vn": "xem xét mọi khía cạnh của tình hình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the thing is",
+              "list_im": [
+                {
+                  "im_full_vn": "vấn đề cần xem xét là.."
+                }
+              ]
+            },
+            {
+              "id_full_en": "a thing of the past",
+              "list_im": [
+                {
+                  "im_full_vn": "cái đã lỗi thời, cái không còn hợp thời thượng nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "things that go bump in the night",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) những tiếng động kỳ lạ (kinh sợ..)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a holiday will be just the thing for you",
+              "full_vn": "một chuyến đi nghỉ chính là cái thích hợp nhất cho anh"
+            },
+            {
+              "full_en": "to say the right thing",
+              "full_vn": "nói cái đúng"
+            },
+            {
+              "full_en": "to say the wrong thing",
+              "full_vn": "nói cái sai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

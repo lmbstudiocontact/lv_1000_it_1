@@ -1,0 +1,40 @@
+{
+  "english": "symbol",
+  "phat_am": "['simbəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "biểu tượng; vật tượng trưng",
+          "list_en_vn": [
+            {
+              "full_en": "white is the symbol of purity",
+              "full_vn": "màu trắng tượng trưng cho sự trong trắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + for something ) ký hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "chemical symbol",
+              "full_vn": "ký hiệu hoá học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) biểu hiện, tượng trưng"
+        },
+        {
+          "m_full_vn": "diễn đạt bằng tượng trưng"
+        }
+      ]
+    }
+  ]
+}

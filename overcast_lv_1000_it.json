@@ -1,0 +1,37 @@
+{
+  "english": "overcast",
+  "phat_am": "[,ouvə'kɑ:st]",
+  "list_type": [
+    {
+      "type": "ngoại động từ overcast",
+      "list_m": [
+        {
+          "m_full_vn": "làm u ám, phủ mây (bầu trời)"
+        },
+        {
+          "m_full_vn": "vắt sổ (khâu)"
+        },
+        {
+          "m_full_vn": "quăng quá xa (lưới đánh cá, dây câu)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị phủ đầy, bị che kín"
+        },
+        {
+          "m_full_vn": "tối sầm, u ám",
+          "list_en_vn": [
+            {
+              "full_en": "a dark , overcast day",
+              "full_vn": "một ngày u ám, đầy mây"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "succeed",
+  "phat_am": "[sək'si:d]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nối tiếp; kế tục; kế tiếp, tiếp theo",
+          "list_en_vn": [
+            {
+              "full_en": "winter succeeds autumn",
+              "full_vn": "mùa đông tiếp theo mùa thu"
+            },
+            {
+              "full_en": "Who succeeded Churchill (as Prime Minister )?",
+              "full_vn": "Ai kế tục Churchill (làm Thủ tướng)?"
+            },
+            {
+              "full_en": "the silence was succeeded by the striking of a clock",
+              "full_vn": "tiếp theo sự im lặng là tiếng chuông đồng hồ điểm giờ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to succeed to something ) kế nghiệp; nối ngôi; kế vị",
+          "list_en_vn": [
+            {
+              "full_en": "to succeed to the throne",
+              "full_vn": "nối ngôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to succeed in something / doing something ) thành công; thịnh vượng",
+          "list_one_mean": [
+            {
+              "id_full_en": "nothing succeeds like success",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) thành công này thường dẫn đến những thành công khác"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the plan succeeds",
+              "full_vn": "kế hoạch thành công"
+            },
+            {
+              "full_en": "to succeed in convincing the strikers",
+              "full_vn": "thành công trong việc thuyết phục những người đình công"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

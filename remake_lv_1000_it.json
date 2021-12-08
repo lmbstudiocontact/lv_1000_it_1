@@ -1,0 +1,28 @@
+{
+  "english": "remake",
+  "phat_am": "[,ri:'meik]",
+  "list_type": [
+    {
+      "type": "ngoại động từ remade",
+      "list_m": [
+        {
+          "m_full_vn": "làm lại, làm khác đi (nhất là một bộ phim)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thứ được làm lại, thứ được làm khác đi",
+          "list_en_vn": [
+            {
+              "full_en": "produce a remake of the 1932 original",
+              "full_vn": "sản xuất lại một bộ phim từ bản gốc năm 1932"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

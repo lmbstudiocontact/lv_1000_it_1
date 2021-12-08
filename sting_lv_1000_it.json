@@ -1,0 +1,139 @@
+{
+  "english": "sting",
+  "phat_am": "[stiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngòi, vòi (ong, muỗi); răng độc (rắn)"
+        },
+        {
+          "m_full_vn": "lông ngứa (cây tầm ma..)"
+        },
+        {
+          "m_full_vn": "sự đốt; sự châm; nốt đốt (ong, rắn); nọc (đen & bóng)"
+        },
+        {
+          "m_full_vn": "sự sâu sắc, sự sắc sảo; sự chua chát (câu nói)"
+        },
+        {
+          "m_full_vn": "sự đau nhói, sự đau quặn; sự day dứt",
+          "list_one_mean": [
+            {
+              "id_full_en": "a sting in the tail",
+              "list_im": [
+                {
+                  "im_full_vn": "điểm khó chịu chỉ trở nên rõ ràng vào lúc cuối"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the sting of hunger",
+              "full_vn": "sự đau quặn của cơn đói"
+            },
+            {
+              "full_en": "the stings of remorse",
+              "full_vn": "sự day dứt của hối hận"
+            },
+            {
+              "full_en": "the sting of the wind",
+              "full_vn": "sự lạnh buốt của cơn gió"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ stung",
+      "list_m": [
+        {
+          "m_full_vn": "châm, chích, đốt"
+        },
+        {
+          "m_full_vn": "làm đau nhói; làm cay",
+          "list_en_vn": [
+            {
+              "full_en": "pepper stings one's tongue",
+              "full_vn": "hạt tiêu làm cay lưỡi"
+            },
+            {
+              "full_en": "smoke stings the eyes",
+              "full_vn": "khói làm cay mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chọc tức; xúc phạm",
+          "list_en_vn": [
+            {
+              "full_en": "her insult stung him into making a rude reply",
+              "full_vn": "lời xúc phạm của cô ấy đã kích anh ấy có câu trả lời thô bỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắn rứt, day dứt",
+          "list_en_vn": [
+            {
+              "full_en": "his conscience stung him",
+              "full_vn": "lương tâm day dứt ai ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) bán đắt cho ai, bóp ai; lừa bịp ai",
+          "list_en_vn": [
+            {
+              "full_en": "he got stung on that deal",
+              "full_vn": "hắn bị bịp trong việc mua bán đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cảm thấy đau nhói, đau nhức (một bộ phận cơ thể)",
+          "list_en_vn": [
+            {
+              "full_en": "tooth stings",
+              "full_vn": "răng đau nhức"
+            },
+            {
+              "full_en": "my eyes are stinging from the smoke",
+              "full_vn": "mắt tôi đang cay xè vì khói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đốt, châm",
+          "list_one_mean": [
+            {
+              "id_full_en": "nothing stings like the truth",
+              "list_im": [
+                {
+                  "im_full_vn": "nói thật mất lòng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "some bees do not sting",
+              "full_vn": "có những thứ ong không đốt"
+            },
+            {
+              "full_en": "a stinging wind",
+              "full_vn": "gió buốt như kim châm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

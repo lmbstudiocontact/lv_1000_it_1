@@ -1,0 +1,122 @@
+{
+  "english": "particular",
+  "phat_am": "[pə'tikjulə(r)]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "liên quan đến một người, một vật hơn là với những người hoặc vật khác; riêng biệt; cá biệt",
+          "list_en_vn": [
+            {
+              "full_en": "in this particular case",
+              "full_vn": "riêng trong trường hợp này"
+            },
+            {
+              "full_en": "his particular problems",
+              "full_vn": "những vấn đề riêng biệt của ông ta"
+            },
+            {
+              "full_en": "is there particular colour you would prefer ?",
+              "full_vn": "có màu đặc biệt nào anh thích không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hơn thông thường; đặc biệt; ngoại lệ",
+          "list_en_vn": [
+            {
+              "full_en": "a matter of particular importance",
+              "full_vn": "một vấn đề đặc biệt quan trọng"
+            },
+            {
+              "full_en": "of no particular importance",
+              "full_vn": "không có tầm quan trọng đặc biệt"
+            },
+            {
+              "full_en": "for no particular reason",
+              "full_vn": "không vì lý do gì đặc biệt"
+            },
+            {
+              "full_en": "she took particular care not to overcook the meat",
+              "full_vn": "cô ấy đặc biệt thận trọng để không nấu quá lửa món thịt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( particular over / about something ) câu nệ đến từng chi tiết; kỹ lưỡng; cầu kỳ; khó chiều",
+          "list_one_mean": [
+            {
+              "id_full_en": "in particular",
+              "list_im": [
+                {
+                  "im_full_vn": "nói cụ thể, nói riêng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the whole meal was good but the wine in particular was excellent",
+                      "full_vn": "toàn bộ bữa ăn là ngon, riêng món rượu thì tuyệt hảo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in particular",
+              "list_im": [
+                {
+                  "im_full_vn": "nói cụ thể, nói riêng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the whole meal was good but the wine in particular was excellent",
+                      "full_vn": "toàn bộ bữa ăn là ngon, riêng món rượu thì tuyệt hảo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she's very particular about what she wears",
+              "full_vn": "cô ta rất cầu kỳ trong cách ăn mặc"
+            },
+            {
+              "full_en": "she's a very particular person",
+              "full_vn": "cô ấy là người rất khó chiều"
+            },
+            {
+              "full_en": "particular about cleanliness , money matters , one's appearance",
+              "full_vn": "cầu kỳ trong sự sạch sẽ, trong chuyện tiền nong, trong hình thức bề ngoài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mẩu tin, chi tiết, sự kiện",
+          "list_en_vn": [
+            {
+              "full_en": "to go (enter ) into particulars",
+              "full_vn": "đi sâu vào chi tiết"
+            },
+            {
+              "full_en": "her account is correct in every particular /all particulars",
+              "full_vn": "bản báo cáo của bà ấy đúng trong mọi chi tiết"
+            },
+            {
+              "full_en": "he gave full particulars of the stolen property",
+              "full_vn": "ông ấy nêu đầy đủ chi tiết về tài sản bị mất trộm"
+            },
+            {
+              "full_en": "the policewoman wrote down his particulars",
+              "full_vn": "nữ cảnh sát viên ghi những điều cần thiết về cá nhân anh ta (tên, địa chỉ...)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

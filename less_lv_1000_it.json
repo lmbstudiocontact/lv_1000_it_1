@@ -1,0 +1,474 @@
+{
+  "english": "less",
+  "phat_am": "[les]",
+  "list_type": [
+    {
+      "type": "tính từ, cấp so sánh của little",
+      "list_m": [
+        {
+          "m_full_vn": "bớt đi, ít hơn, kém",
+          "list_one_mean": [
+            {
+              "id_full_en": "may you never be less",
+              "list_im": [
+                {
+                  "im_full_vn": "mong anh không gầy đi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "less butter /sugar /time /significance",
+              "full_vn": "ít bơ/đường/thời gian/ý nghĩa hơn"
+            },
+            {
+              "full_en": "less coffee than tea",
+              "full_vn": "ít cà phê hơn là chè"
+            },
+            {
+              "full_en": "I received less money than the others did",
+              "full_vn": "tôi lãnh ít tiền hơn những người khác"
+            },
+            {
+              "full_en": "you ought to smoke fewer cigarettes and drink less beer",
+              "full_vn": "anh nên bớt hút thuốc và uống ít bia hơn"
+            },
+            {
+              "full_en": "less noise , please !",
+              "full_vn": "ồn vừa chứ!"
+            },
+            {
+              "full_en": "of less value",
+              "full_vn": "kém giá trị hơn"
+            },
+            {
+              "full_en": "of less importance",
+              "full_vn": "kém quan trọng hơn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở mức độ nhỏ hơn, không nhiều bằng",
+          "list_one_mean": [
+            {
+              "id_full_en": "in less than no time",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay tức khắc, ngay tức thời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "even /much /still less",
+              "list_im": [
+                {
+                  "im_full_vn": "lại càng không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they don't know English , still less know Chinese",
+                      "full_vn": "họ không biết tiếng Anh, lại càng không biết tiếng Trung Hoa"
+                    },
+                    {
+                      "full_en": "he's too shy to ask a stranger the time , even less speak to a room full of people",
+                      "full_vn": "anh ta nhút nhát đến nỗi không dám hỏi người lạ xem mấy giờ rồi, lại càng không dám nói với một phòng đông người"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "even /much /still less",
+              "list_im": [
+                {
+                  "im_full_vn": "lại càng không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they don't know English , still less know Chinese",
+                      "full_vn": "họ không biết tiếng Anh, lại càng không biết tiếng Trung Hoa"
+                    },
+                    {
+                      "full_en": "he's too shy to ask a stranger the time , even less speak to a room full of people",
+                      "full_vn": "anh ta nhút nhát đến nỗi không dám hỏi người lạ xem mấy giờ rồi, lại càng không dám nói với một phòng đông người"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "even /much /still less",
+              "list_im": [
+                {
+                  "im_full_vn": "lại càng không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they don't know English , still less know Chinese",
+                      "full_vn": "họ không biết tiếng Anh, lại càng không biết tiếng Trung Hoa"
+                    },
+                    {
+                      "full_en": "he's too shy to ask a stranger the time , even less speak to a room full of people",
+                      "full_vn": "anh ta nhút nhát đến nỗi không dám hỏi người lạ xem mấy giờ rồi, lại càng không dám nói với một phòng đông người"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "any (the ) less (dùng sau not )",
+              "list_im": [
+                {
+                  "im_full_vn": "ở mức độ nhỏ hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she wasn't any (the ) less happy for being on her own",
+                      "full_vn": "cô ta đã không kém phần sung sướng vì được sống độc lập"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "any (the ) less (dùng sau not )",
+              "list_im": [
+                {
+                  "im_full_vn": "ở mức độ nhỏ hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she wasn't any (the ) less happy for being on her own",
+                      "full_vn": "cô ta đã không kém phần sung sướng vì được sống độc lập"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "less and less",
+              "list_im": [
+                {
+                  "im_full_vn": "càng ngày càng ít đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she found the job less and less attractive",
+                      "full_vn": "cô ta thấy công việc ngàycang kém hấp dẫn"
+                    },
+                    {
+                      "full_en": "he eats less and less as he gets thin",
+                      "full_vn": "càng gầy, anh ta càng ít ăn"
+                    },
+                    {
+                      "full_en": "he played the piano less and less as he grew older",
+                      "full_vn": "càng lớn nó càng ít chơi pianô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "less and less",
+              "list_im": [
+                {
+                  "im_full_vn": "càng ngày càng ít đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she found the job less and less attractive",
+                      "full_vn": "cô ta thấy công việc ngàycang kém hấp dẫn"
+                    },
+                    {
+                      "full_en": "he eats less and less as he gets thin",
+                      "full_vn": "càng gầy, anh ta càng ít ăn"
+                    },
+                    {
+                      "full_en": "he played the piano less and less as he grew older",
+                      "full_vn": "càng lớn nó càng ít chơi pianô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "less and less",
+              "list_im": [
+                {
+                  "im_full_vn": "càng ngày càng ít đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she found the job less and less attractive",
+                      "full_vn": "cô ta thấy công việc ngàycang kém hấp dẫn"
+                    },
+                    {
+                      "full_en": "he eats less and less as he gets thin",
+                      "full_vn": "càng gầy, anh ta càng ít ăn"
+                    },
+                    {
+                      "full_en": "he played the piano less and less as he grew older",
+                      "full_vn": "càng lớn nó càng ít chơi pianô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "less and less",
+              "list_im": [
+                {
+                  "im_full_vn": "càng ngày càng ít đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she found the job less and less attractive",
+                      "full_vn": "cô ta thấy công việc ngàycang kém hấp dẫn"
+                    },
+                    {
+                      "full_en": "he eats less and less as he gets thin",
+                      "full_vn": "càng gầy, anh ta càng ít ăn"
+                    },
+                    {
+                      "full_en": "he played the piano less and less as he grew older",
+                      "full_vn": "càng lớn nó càng ít chơi pianô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no less than ....",
+              "list_im": [
+                {
+                  "im_full_vn": "không ít hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "no less than 200 soldiers were dead and missing in that battle",
+                      "full_vn": "không ít hơn hai trăm binh sĩ bị tử vong và mất tích trong trận ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no less than ....",
+              "list_im": [
+                {
+                  "im_full_vn": "không ít hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "no less than 200 soldiers were dead and missing in that battle",
+                      "full_vn": "không ít hơn hai trăm binh sĩ bị tử vong và mất tích trong trận ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the less ...., the less ...",
+              "list_im": [
+                {
+                  "im_full_vn": "càng ít...., càng ít....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the less said about the whole affair , the happier I'll be",
+                      "full_vn": "càng ít nói về toàn bộ vụ đó, tôi càng sung sướng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the less ...., the less ...",
+              "list_im": [
+                {
+                  "im_full_vn": "càng ít...., càng ít....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the less said about the whole affair , the happier I'll be",
+                      "full_vn": "càng ít nói về toàn bộ vụ đó, tôi càng sung sướng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the more ..., the less ...",
+              "list_im": [
+                {
+                  "im_full_vn": "càng nhiều..., càng ít......",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the less you know about him , the less disappointed you are",
+                      "full_vn": "càng ít biết về hắn, anh càng đỡ thất vọng"
+                    },
+                    {
+                      "full_en": "the more you know about her , the less you respect her",
+                      "full_vn": "càng biết nhiều về bà ấy, anh càng ít kính trọng bà ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the more ..., the less ...",
+              "list_im": [
+                {
+                  "im_full_vn": "càng nhiều..., càng ít......",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the less you know about him , the less disappointed you are",
+                      "full_vn": "càng ít biết về hắn, anh càng đỡ thất vọng"
+                    },
+                    {
+                      "full_en": "the more you know about her , the less you respect her",
+                      "full_vn": "càng biết nhiều về bà ấy, anh càng ít kính trọng bà ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the more ..., the less ...",
+              "list_im": [
+                {
+                  "im_full_vn": "càng nhiều..., càng ít......",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the less you know about him , the less disappointed you are",
+                      "full_vn": "càng ít biết về hắn, anh càng đỡ thất vọng"
+                    },
+                    {
+                      "full_en": "the more you know about her , the less you respect her",
+                      "full_vn": "càng biết nhiều về bà ấy, anh càng ít kính trọng bà ấy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "less colourful /hungry /tired",
+              "full_vn": "ít sặc sỡ/đói/mệt hơn"
+            },
+            {
+              "full_en": "less awkwardly /enthusiastically /often",
+              "full_vn": "ít vụng về/nhiệt tình/thường xuyên hơn"
+            },
+            {
+              "full_en": "speak less and listen more",
+              "full_vn": "hãy nói ít lại và nghe nhiều hơn"
+            },
+            {
+              "full_en": "I read less now than I did at school",
+              "full_vn": "bây giờ tôi ít đọc sách hơn thời đi học"
+            },
+            {
+              "full_en": "it rains less in London than in Manchester",
+              "full_vn": "ở Luân Đôn ít mưa hơn Manchester"
+            },
+            {
+              "full_en": "less clever than ...",
+              "full_vn": "không thông minh bằng..."
+            },
+            {
+              "full_en": "less hurt than frightened",
+              "full_vn": "sợ nhiều hơn là đau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "số lượng ít hơn, số lượng không bằng, số lượng không đầy",
+          "list_one_mean": [
+            {
+              "id_full_en": "less of your lip !",
+              "list_im": [
+                {
+                  "im_full_vn": "hỗn vừa vừa chứ!"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it seems less of a threat than I'd expected",
+              "full_vn": "dường như ít đe doạ hơn là tôi nghĩ"
+            },
+            {
+              "full_en": "there's less to do in this job than the last",
+              "full_vn": "cống việc này có ít điều cần làm hơn công việc trước"
+            },
+            {
+              "full_en": "You must have paid 5000 francs for this machine - No , (it was ) less",
+              "full_vn": "Hẳn là ông đã phải chi 5000 frăng cho cái máy này - Không, ít hơn (rẻ hơn)"
+            },
+            {
+              "full_en": "It's not far - it'll take less than an hour to get there",
+              "full_vn": "không xa đâu - từ đây đến đó non một giờ đồng hồ thôi"
+            },
+            {
+              "full_en": "less than twenty of them remain now",
+              "full_vn": "bây giờ trong bọn họ còn lại không đầy hai mươi người"
+            },
+            {
+              "full_en": "I cannot take less",
+              "full_vn": "tôi không thể lấy ít hơn"
+            },
+            {
+              "full_en": "in less than a year",
+              "full_vn": "trong chưa đầy một năm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "trước khi trừ cái gì; trừ",
+          "list_en_vn": [
+            {
+              "full_en": "a year less two months",
+              "full_vn": "một năm kém hai tháng"
+            },
+            {
+              "full_en": "a monthly salary of 8000 francs , less tax and national insurance",
+              "full_vn": "lương tháng 8000 frăng, chưa trừ tiền thuế và bảo hiểm quốc gia"
+            },
+            {
+              "full_en": "to send a cheque for the catalogue price , less 10% discount",
+              "full_vn": "gửi séc theo giá ở catalô, trừ đi 10 % tiền chiết khấu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố",
+      "list_m": [
+        {
+          "m_full_vn": "không có",
+          "list_en_vn": [
+            {
+              "full_en": "treeless",
+              "full_vn": "không có cây cối"
+            },
+            {
+              "full_en": "hopeless",
+              "full_vn": "không có hy vọng"
+            },
+            {
+              "full_en": "meaningless",
+              "full_vn": "vô nghĩa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

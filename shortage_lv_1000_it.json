@@ -1,0 +1,24 @@
+{
+  "english": "shortage",
+  "phat_am": "['∫ɔ:tidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thiếu; số lượng thiếu",
+          "list_en_vn": [
+            {
+              "full_en": "food shortages",
+              "full_vn": "sự thiếu lương thực"
+            },
+            {
+              "full_en": "a shortage of rice",
+              "full_vn": "sự thiếu gạo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

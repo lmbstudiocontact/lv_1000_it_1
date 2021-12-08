@@ -1,0 +1,38 @@
+{
+  "english": "they",
+  "phat_am": "[ðei]",
+  "list_type": [
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "chúng, chúng nó, họ; những cái ấy",
+          "list_en_vn": [
+            {
+              "full_en": "they go on the bottom shelf",
+              "full_vn": "chúng rơi xuống dưới đáy kệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(được dùng một cách thân mật thay cho he hoặc she )",
+          "list_en_vn": [
+            {
+              "full_en": "If anyone arrives late they'll have to wait outside",
+              "full_vn": "nếu có ai đến muộn, họ sẽ phải đợi bên ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người ta nói chung",
+          "list_en_vn": [
+            {
+              "full_en": "they say that ...",
+              "full_vn": "người ta nói rằng..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

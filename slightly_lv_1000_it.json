@@ -1,0 +1,33 @@
+{
+  "english": "slightly",
+  "phat_am": "['slaitli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhỏ; ở một mức độ không đáng kể",
+          "list_en_vn": [
+            {
+              "full_en": "a slightly bigger house",
+              "full_vn": "một ngôi nhà hơi lớn hơn"
+            },
+            {
+              "full_en": "the patient is slightly better today",
+              "full_vn": "hôm nay người bệnh đã hơi khá hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mảnh khảnh, mảnh dẻ; mỏng mảnh, yếu ớt",
+          "list_en_vn": [
+            {
+              "full_en": "a slightly built boy",
+              "full_vn": "đứa bé thể chất yếu ớt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

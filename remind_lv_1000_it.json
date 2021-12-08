@@ -1,0 +1,45 @@
+{
+  "english": "remind",
+  "phat_am": "[ri'maind]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhắc nhở (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "do I have to remind you yet again ?",
+              "full_vn": "tôi có cần nhắc nhở anh nữa không?"
+            },
+            {
+              "full_en": "travellers are reminded that malaria tablets are advisable",
+              "full_vn": "du khách được nhắc nhở rằng nên mang theo thuốc chống sốt rét"
+            },
+            {
+              "full_en": "I reminded her how much the fare was",
+              "full_vn": "tôi đã nhắc cô ấy về giá vé"
+            },
+            {
+              "full_en": "remind me to ạnswer that letter",
+              "full_vn": "hãy nhắc tôi trả lời bức thư đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to remind somebody of somebody / something ) làm cho ai nhớ hoặc biết về ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "this song reminds me of France",
+              "full_vn": "bài hát này làm tôi nhớ về nước Pháp"
+            },
+            {
+              "full_en": "he reminds me of his brother",
+              "full_vn": "ông ấy làm tôi nhớ đến người em trai của ông ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

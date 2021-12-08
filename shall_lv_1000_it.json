@@ -1,0 +1,51 @@
+{
+  "english": "shall",
+  "phat_am": "[∫æl, ∫əl]",
+  "list_type": [
+    {
+      "type": "trợ động từ should",
+      "list_m": [
+        {
+          "m_full_vn": "(chỉ các dự đoán tương lai)",
+          "list_en_vn": [
+            {
+              "full_en": "we shall hear more about it",
+              "full_vn": "chúng ta sẽ nghe thêm về vấn đề này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chỉ ý chí, sự quyết tâm)",
+          "list_en_vn": [
+            {
+              "full_en": "you shall have a new dress for your birthday",
+              "full_vn": "em sẽ có một bộ áo mới cho ngày sinh nhật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chỉ những lời đề nghị, lời gợi ý)",
+          "list_en_vn": [
+            {
+              "full_en": "what shall we do this weekend ?",
+              "full_vn": "chúng ta sẽ làm gì vào dịp nghĩ cuối tuần này?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chỉ mệnh lệnh hoặc lời hướng dẫn)",
+          "list_en_vn": [
+            {
+              "full_en": "you shall have my book tomorrow",
+              "full_vn": "thế nào ngày mai anh cũng có quyển sách của tôi"
+            },
+            {
+              "full_en": "he shall be punished",
+              "full_vn": "nó nhất định sẽ bị phạt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

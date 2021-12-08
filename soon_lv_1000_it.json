@@ -1,0 +1,521 @@
+{
+  "english": "soon",
+  "phat_am": "[su:n]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "chẳng bao lâu nữa, chẳng mấy chốc, sắp; ngay",
+          "list_en_vn": [
+            {
+              "full_en": "we shall soon know the result",
+              "full_vn": "tí nữa chúng ta sẽ biết kết quả"
+            },
+            {
+              "full_en": "we shall soon be home ; we shall be home quite soon now",
+              "full_vn": "chúng ta sắp về đến nhà; chẳng mấy chốc nữa chúng ta sẽ có mặt ở nhà"
+            },
+            {
+              "full_en": "he'll be here very soon",
+              "full_vn": "anh ta sẽ đến đây trong chốc lát"
+            },
+            {
+              "full_en": "it will soon be five years since we became friends",
+              "full_vn": "chẳng mấy chốc mà sắp được năm năm từ ngày chúng ta làm bạn với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sớm, nhanh",
+          "list_one_mean": [
+            {
+              "id_full_en": "as soon as",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay khi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he left as soon as he heard the news",
+                      "full_vn": "nó ra đi ngay khi nghe tin"
+                    },
+                    {
+                      "full_en": "I'll tell him as soon as I see him",
+                      "full_vn": "tôi sẽ nói cho nó biết ngay khi tôi gặp nó"
+                    },
+                    {
+                      "full_en": "he didn't arrive as soon as we'd hoped",
+                      "full_vn": "anh ta không đến đúng vào lúc chúng ta hy vọng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as soon as",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay khi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he left as soon as he heard the news",
+                      "full_vn": "nó ra đi ngay khi nghe tin"
+                    },
+                    {
+                      "full_en": "I'll tell him as soon as I see him",
+                      "full_vn": "tôi sẽ nói cho nó biết ngay khi tôi gặp nó"
+                    },
+                    {
+                      "full_en": "he didn't arrive as soon as we'd hoped",
+                      "full_vn": "anh ta không đến đúng vào lúc chúng ta hy vọng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as soon as",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay khi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he left as soon as he heard the news",
+                      "full_vn": "nó ra đi ngay khi nghe tin"
+                    },
+                    {
+                      "full_en": "I'll tell him as soon as I see him",
+                      "full_vn": "tôi sẽ nói cho nó biết ngay khi tôi gặp nó"
+                    },
+                    {
+                      "full_en": "he didn't arrive as soon as we'd hoped",
+                      "full_vn": "anh ta không đến đúng vào lúc chúng ta hy vọng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as soon as",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay khi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he left as soon as he heard the news",
+                      "full_vn": "nó ra đi ngay khi nghe tin"
+                    },
+                    {
+                      "full_en": "I'll tell him as soon as I see him",
+                      "full_vn": "tôi sẽ nói cho nó biết ngay khi tôi gặp nó"
+                    },
+                    {
+                      "full_en": "he didn't arrive as soon as we'd hoped",
+                      "full_vn": "anh ta không đến đúng vào lúc chúng ta hy vọng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the sooner the better",
+              "list_im": [
+                {
+                  "im_full_vn": "càng sớm càng tốt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "When should I go there ? - The sooner the better",
+                      "full_vn": "Khi nào tôi nên đến đó? - Càng sớm càng tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the sooner the better",
+              "list_im": [
+                {
+                  "im_full_vn": "càng sớm càng tốt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "When should I go there ? - The sooner the better",
+                      "full_vn": "Khi nào tôi nên đến đó? - Càng sớm càng tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as soon as possible (viết tắt là ASAP )",
+              "list_im": [
+                {
+                  "im_full_vn": "càng sớm càng tốt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "come there as soon as possible",
+                      "full_vn": "hãy đến đó càng sớm càng tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as soon as possible (viết tắt là ASAP )",
+              "list_im": [
+                {
+                  "im_full_vn": "càng sớm càng tốt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "come there as soon as possible",
+                      "full_vn": "hãy đến đó càng sớm càng tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(just ) as soon do something (as do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn hoặc sẵn sàng như nhau (để)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'd (just ) as soon stay at home as go for a walk",
+                      "full_vn": "mình sẵn sàng ở nhà cũng được đi chơi cũng được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(just ) as soon do something (as do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn hoặc sẵn sàng như nhau (để)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'd (just ) as soon stay at home as go for a walk",
+                      "full_vn": "mình sẵn sàng ở nhà cũng được đi chơi cũng được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sooner or later",
+              "list_im": [
+                {
+                  "im_full_vn": "sớm muộn rồi, chẳng chóng thì chầy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you should tell her , because she'll find out sooner or later",
+                      "full_vn": "anh nên kể cho cô ấy nghe, vì sớm muộn rồi cô ấy cũng khám phá ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sooner or later",
+              "list_im": [
+                {
+                  "im_full_vn": "sớm muộn rồi, chẳng chóng thì chầy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you should tell her , because she'll find out sooner or later",
+                      "full_vn": "anh nên kể cho cô ấy nghe, vì sớm muộn rồi cô ấy cũng khám phá ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sooner do something (than do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "hơn là làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she would sooner resign than take part in such dishonest business deals",
+                      "full_vn": "cô ta nên từ chức hơn là tham gia vào những vụ làm ăn bất lương như thế"
+                    },
+                    {
+                      "full_en": "Go back there ? I'd sooner emigrate",
+                      "full_vn": "Trở lại đó ư? Thà tôi đi di cư còn hơn"
+                    },
+                    {
+                      "full_en": "will you tell him , or would you sooner I did ?",
+                      "full_vn": "anh nói với nó hay anh muốn tôi làm điều đó hơn?"
+                    },
+                    {
+                      "full_en": "I would sooner stay at home",
+                      "full_vn": "tôi thà ở nhà còn hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sooner do something (than do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "hơn là làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she would sooner resign than take part in such dishonest business deals",
+                      "full_vn": "cô ta nên từ chức hơn là tham gia vào những vụ làm ăn bất lương như thế"
+                    },
+                    {
+                      "full_en": "Go back there ? I'd sooner emigrate",
+                      "full_vn": "Trở lại đó ư? Thà tôi đi di cư còn hơn"
+                    },
+                    {
+                      "full_en": "will you tell him , or would you sooner I did ?",
+                      "full_vn": "anh nói với nó hay anh muốn tôi làm điều đó hơn?"
+                    },
+                    {
+                      "full_en": "I would sooner stay at home",
+                      "full_vn": "tôi thà ở nhà còn hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sooner do something (than do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "hơn là làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she would sooner resign than take part in such dishonest business deals",
+                      "full_vn": "cô ta nên từ chức hơn là tham gia vào những vụ làm ăn bất lương như thế"
+                    },
+                    {
+                      "full_en": "Go back there ? I'd sooner emigrate",
+                      "full_vn": "Trở lại đó ư? Thà tôi đi di cư còn hơn"
+                    },
+                    {
+                      "full_en": "will you tell him , or would you sooner I did ?",
+                      "full_vn": "anh nói với nó hay anh muốn tôi làm điều đó hơn?"
+                    },
+                    {
+                      "full_en": "I would sooner stay at home",
+                      "full_vn": "tôi thà ở nhà còn hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sooner do something (than do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "hơn là làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she would sooner resign than take part in such dishonest business deals",
+                      "full_vn": "cô ta nên từ chức hơn là tham gia vào những vụ làm ăn bất lương như thế"
+                    },
+                    {
+                      "full_en": "Go back there ? I'd sooner emigrate",
+                      "full_vn": "Trở lại đó ư? Thà tôi đi di cư còn hơn"
+                    },
+                    {
+                      "full_en": "will you tell him , or would you sooner I did ?",
+                      "full_vn": "anh nói với nó hay anh muốn tôi làm điều đó hơn?"
+                    },
+                    {
+                      "full_en": "I would sooner stay at home",
+                      "full_vn": "tôi thà ở nhà còn hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sooner do something (than do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "hơn là làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she would sooner resign than take part in such dishonest business deals",
+                      "full_vn": "cô ta nên từ chức hơn là tham gia vào những vụ làm ăn bất lương như thế"
+                    },
+                    {
+                      "full_en": "Go back there ? I'd sooner emigrate",
+                      "full_vn": "Trở lại đó ư? Thà tôi đi di cư còn hơn"
+                    },
+                    {
+                      "full_en": "will you tell him , or would you sooner I did ?",
+                      "full_vn": "anh nói với nó hay anh muốn tôi làm điều đó hơn?"
+                    },
+                    {
+                      "full_en": "I would sooner stay at home",
+                      "full_vn": "tôi thà ở nhà còn hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "least said soonest mended",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) least"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no sooner said than done",
+              "list_im": [
+                {
+                  "im_full_vn": "(về lời hứa, câu hỏi...) được tiến hành, hoàn tất ngay...; nói xong là làm ngay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no sooner ...than",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay lúc, ngay sau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He had no sooner /No sooner had he arrived than he was asked to leave again",
+                      "full_vn": "anh ta vừa mới đến lại được yêu cầu lên đường ngay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no sooner ...than",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay lúc, ngay sau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He had no sooner /No sooner had he arrived than he was asked to leave again",
+                      "full_vn": "anh ta vừa mới đến lại được yêu cầu lên đường ngay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "soon after",
+              "list_im": [
+                {
+                  "im_full_vn": "sau một tí",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he arrived soon after three",
+                      "full_vn": "ông ta đến sau ba giờ một tí"
+                    },
+                    {
+                      "full_en": "they left soon after we did",
+                      "full_vn": "họ đi sau (khi) chúng tôi (đi) một tí"
+                    },
+                    {
+                      "full_en": "I rang for a taxi and it arrived soon after",
+                      "full_vn": "tôi gọi điện cho tắc xi và một lúc sau nó đã đến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "soon after",
+              "list_im": [
+                {
+                  "im_full_vn": "sau một tí",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he arrived soon after three",
+                      "full_vn": "ông ta đến sau ba giờ một tí"
+                    },
+                    {
+                      "full_en": "they left soon after we did",
+                      "full_vn": "họ đi sau (khi) chúng tôi (đi) một tí"
+                    },
+                    {
+                      "full_en": "I rang for a taxi and it arrived soon after",
+                      "full_vn": "tôi gọi điện cho tắc xi và một lúc sau nó đã đến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "soon after",
+              "list_im": [
+                {
+                  "im_full_vn": "sau một tí",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he arrived soon after three",
+                      "full_vn": "ông ta đến sau ba giờ một tí"
+                    },
+                    {
+                      "full_en": "they left soon after we did",
+                      "full_vn": "họ đi sau (khi) chúng tôi (đi) một tí"
+                    },
+                    {
+                      "full_en": "I rang for a taxi and it arrived soon after",
+                      "full_vn": "tôi gọi điện cho tắc xi và một lúc sau nó đã đến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "soon after",
+              "list_im": [
+                {
+                  "im_full_vn": "sau một tí",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he arrived soon after three",
+                      "full_vn": "ông ta đến sau ba giờ một tí"
+                    },
+                    {
+                      "full_en": "they left soon after we did",
+                      "full_vn": "họ đi sau (khi) chúng tôi (đi) một tí"
+                    },
+                    {
+                      "full_en": "I rang for a taxi and it arrived soon after",
+                      "full_vn": "tôi gọi điện cho tắc xi và một lúc sau nó đã đến"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "how soon can you be ready ?",
+              "full_vn": "anh có thể xong sớm được bao lâu?"
+            },
+            {
+              "full_en": "must you leave so soon ?",
+              "full_vn": "anh phải đi sớm như vậy sao?"
+            },
+            {
+              "full_en": "she will be here sooner than you expect",
+              "full_vn": "cô ta sẽ đến đây nhanh hơn là ông dự kiến"
+            },
+            {
+              "full_en": "the sooner you begin , the sooner you finish",
+              "full_vn": "bắt đầu càng sớm thì càng xong sớm"
+            },
+            {
+              "full_en": "the sooner you leave , the sooner you'll be home",
+              "full_vn": "anh càng ra về sớm thì càng sớm đến nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

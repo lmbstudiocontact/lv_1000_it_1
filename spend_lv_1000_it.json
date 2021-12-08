@@ -1,0 +1,117 @@
+{
+  "english": "spend",
+  "phat_am": "[spend]",
+  "list_type": [
+    {
+      "type": "ngoại động từ spent",
+      "list_m": [
+        {
+          "m_full_vn": "tiêu, chi tiêu (tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "she's spent all her money",
+              "full_vn": "bà ta đã tiêu hết sạch tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sử dụng (thời gian...) vào một mục đích",
+          "list_en_vn": [
+            {
+              "full_en": "to spend time in reading",
+              "full_vn": "dùng thời giờ vào việc đọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sử dụng cái gì đến cùng kiệt; làm kiệt quệ cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I've spent all my energy on this",
+              "full_vn": "tôi đã bỏ hết công sức vào việc này"
+            },
+            {
+              "full_en": "they went on firing until they had spent all thier ammunition",
+              "full_vn": "họ tiếp tục bắn cho đến khi hết đạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiêu thời gian, dùng thời giờ, trải qua, sống qua (một khoảng thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "to spend the holidays by the seaside",
+              "full_vn": "qua những ngày nghỉ ở bờ biển"
+            },
+            {
+              "full_en": "to spend a sleepless night",
+              "full_vn": "qua một đêm không ngủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm dịu đi, làm nguôi đi, làm hết đà; làm hết, làm kiệt, tiêu phí",
+          "list_en_vn": [
+            {
+              "full_en": "his fury was spent",
+              "full_vn": "cơn giận của hắn đã nguôi"
+            },
+            {
+              "full_en": "anger spends itself",
+              "full_vn": "cơn giận nguôi đi"
+            },
+            {
+              "full_en": "the storm has spent itself",
+              "full_vn": "cơn bão đã dịu đi"
+            },
+            {
+              "full_en": "to spend one's energy",
+              "full_vn": "tiêu phí nghị lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) gãy; mất (cột buồm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "spend the night with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đêm với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "spend a penny",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) vào nhà vệ sinh; đi giải"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiêu pha, tiêu tiền"
+        },
+        {
+          "m_full_vn": "tàn, hết",
+          "list_en_vn": [
+            {
+              "full_en": "candles spend fast in draught",
+              "full_vn": "nến đốt ở chỗ gió lùa chóng hết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẻ trứng (cá)"
+        }
+      ]
+    }
+  ]
+}

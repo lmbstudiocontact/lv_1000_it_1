@@ -1,0 +1,28 @@
+{
+  "english": "photographer",
+  "phat_am": "[fə'tɔgrəfə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chụp ảnh; nhà nhiếp ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "one of the best photographers in the world",
+              "full_vn": "một trong những nhà nhiếp ảnh nổi tiếng nhất thế giới"
+            },
+            {
+              "full_en": "the competition is open to both amateur and professional photographers",
+              "full_vn": "cuộc thi dành cho các nhà nhiếp ảnh nghiệp dư lẫn chuyên nghiệp"
+            },
+            {
+              "full_en": "a newspaper photographer",
+              "full_vn": "nhà nhiếp ảnh báo chí"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

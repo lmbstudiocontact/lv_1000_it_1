@@ -1,0 +1,39 @@
+{
+  "english": "realize",
+  "phat_am": "['riəlaiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực hiện, thực hành (kế hoạch hy vọng...)"
+        },
+        {
+          "m_full_vn": "thấy rõ, hiểu rõ, nhận thức rõ (việc gì...)"
+        },
+        {
+          "m_full_vn": "tả đúng như thật; hình dung (việc gì...) đúng như thật",
+          "list_en_vn": [
+            {
+              "full_en": "these details help to realize the scene",
+              "full_vn": "những chi tiết ấy giúp cho việc mô tả cảnh đó đúng như thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bán được, thu được",
+          "list_en_vn": [
+            {
+              "full_en": "to realize high prices",
+              "full_vn": "bán được giá cao"
+            },
+            {
+              "full_en": "to realize a profit",
+              "full_vn": "thu được lãi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "rend",
+  "phat_am": "[rend]",
+  "list_type": [
+    {
+      "type": "ngoại động từ, thời quá khứ và động tính từ quá khứ là rent",
+      "list_m": [
+        {
+          "m_full_vn": "xé, xé nát",
+          "list_en_vn": [
+            {
+              "full_en": "to rend a piece of cloth in twain",
+              "full_vn": "xé miếng vải ra làm đôi"
+            },
+            {
+              "full_en": "to rend something asunder (apart )",
+              "full_vn": "xé nát vật gì"
+            },
+            {
+              "full_en": "loud shouts rend the air",
+              "full_vn": "những tiếng thét to xé không khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm đau đớn, giày vò",
+          "list_en_vn": [
+            {
+              "full_en": "to rend someone's heart",
+              "full_vn": "làm đau lòng ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bứt, chia rẽ, chẻ ra (lạt, thanh mỏng)",
+          "list_en_vn": [
+            {
+              "full_en": "to rend one's hair",
+              "full_vn": "bứt tóc, bứt tai"
+            },
+            {
+              "full_en": "to rend laths",
+              "full_vn": "chẻ lạt, chẻ thành những thanh mỏng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vung ra khỏi, giằng ra khỏi",
+          "list_en_vn": [
+            {
+              "full_en": "to rend from somebody's arms",
+              "full_vn": "vùng ra khỏi tay ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nứt ra, nẻ ra"
+        }
+      ]
+    }
+  ]
+}

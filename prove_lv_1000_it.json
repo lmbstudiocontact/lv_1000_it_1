@@ -1,0 +1,130 @@
+{
+  "english": "prove",
+  "phat_am": "[pru:v]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to prove something to somebody ) chứng tỏ; chứng minh",
+          "list_en_vn": [
+            {
+              "full_en": "to prove the truth",
+              "full_vn": "chứng minh sự thật"
+            },
+            {
+              "full_en": "to prove one's goodwill",
+              "full_vn": "chứng tỏ thiện chí của mình"
+            },
+            {
+              "full_en": "to prove somebody's guilt /that somebody is guilty",
+              "full_vn": "chứng minh tội lỗi của ai/chứng minh rằng ai có tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xác nhận; chứng thực (cũng) probate",
+          "list_en_vn": [
+            {
+              "full_en": "the will has to be proved before we can inherit",
+              "full_vn": "chúc thư phải được chứng thực thì chúng ta mới có thể hưởng di sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to prove ( oneself ) something ) tỏ ra",
+          "list_en_vn": [
+            {
+              "full_en": "the old methods proved best after all",
+              "full_vn": "các phương pháp cũ rốt cuộc tỏ ra là tốt nhất"
+            },
+            {
+              "full_en": "the task proved (to be ) more difficult than we'd thought",
+              "full_vn": "công việc tỏ ra là khó khăn hơn chúng ta tưởng"
+            },
+            {
+              "full_en": "she always proved herself (to be) a beauty-queen",
+              "full_vn": "cô ta luôn tự cho mình là một hoa hậu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thử (súng...); (toán học) thử (một bài toán); (ngành in) in thử (một bản khắc...)"
+        },
+        {
+          "m_full_vn": "(từ cổ, nghĩa cổ) thử thách",
+          "list_en_vn": [
+            {
+              "full_en": "to prove the courage of somebody",
+              "full_vn": "thử thách lòng can đảm của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về bột nhào) nở phồng ra do tác dụng của men",
+          "list_one_mean": [
+            {
+              "id_full_en": "to prove one's /the case /point",
+              "list_im": [
+                {
+                  "im_full_vn": "chứng minh trường hợp/quan điểm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he quoted figures to prove his case",
+                      "full_vn": "anh ta viện dẫn các số liệu để chứng minh trường hợp của mình"
+                    },
+                    {
+                      "full_en": "she claimed that money had been wasted and our financial difficulties seemed to prove her point",
+                      "full_vn": "bà ấy cho là tiền bạc bị phung phí và dường như các khó khăn về tài chính của chúng tôi chứng minh quan điểm đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to prove one's /the case /point",
+              "list_im": [
+                {
+                  "im_full_vn": "chứng minh trường hợp/quan điểm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he quoted figures to prove his case",
+                      "full_vn": "anh ta viện dẫn các số liệu để chứng minh trường hợp của mình"
+                    },
+                    {
+                      "full_en": "she claimed that money had been wasted and our financial difficulties seemed to prove her point",
+                      "full_vn": "bà ấy cho là tiền bạc bị phung phí và dường như các khó khăn về tài chính của chúng tôi chứng minh quan điểm đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to prove one's /the case /point",
+              "list_im": [
+                {
+                  "im_full_vn": "chứng minh trường hợp/quan điểm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he quoted figures to prove his case",
+                      "full_vn": "anh ta viện dẫn các số liệu để chứng minh trường hợp của mình"
+                    },
+                    {
+                      "full_en": "she claimed that money had been wasted and our financial difficulties seemed to prove her point",
+                      "full_vn": "bà ấy cho là tiền bạc bị phung phí và dường như các khó khăn về tài chính của chúng tôi chứng minh quan điểm đó"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

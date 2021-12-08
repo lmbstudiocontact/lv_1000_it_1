@@ -1,0 +1,249 @@
+{
+  "english": "through",
+  "phat_am": "[θru:]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "qua, xuyên qua, suốt",
+          "list_en_vn": [
+            {
+              "full_en": "to walk through a wood",
+              "full_vn": "đi xuyên qua rừng"
+            },
+            {
+              "full_en": "to look through the window",
+              "full_vn": "nhìn qua cửa sổ"
+            },
+            {
+              "full_en": "to get through an examination",
+              "full_vn": "thi đỗ, thi đậu"
+            },
+            {
+              "full_en": "to see through someone",
+              "full_vn": "nhìn thấu ý nghĩ của ai, đi guốc vào bụng ai"
+            },
+            {
+              "full_en": "through the night",
+              "full_vn": "suốt đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đến cùng; hết; từ đầu đến cuối",
+          "list_en_vn": [
+            {
+              "full_en": "he will not live through the night",
+              "full_vn": "nó sẽ không sống được qua đêm nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) cho tới và gồm cả; cho đến",
+          "list_en_vn": [
+            {
+              "full_en": "to stay in London Tuesday through Friday",
+              "full_vn": "ở lại London (từ) thứ ba cho đến hết thứ sáu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhờ, bởi, qua (chỉ ra tác nhân, phương tiện)",
+          "list_en_vn": [
+            {
+              "full_en": "It was through you that we were able to meet again",
+              "full_vn": "chính nhờ có anh mà chúng tôi có thể gặp lại nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do, vì (chỉ ra nguyên nhân, lý do)",
+          "list_en_vn": [
+            {
+              "full_en": "through whom did you learn that ?",
+              "full_vn": "do ai mà anh biết điều đó?"
+            },
+            {
+              "full_en": "through ignorance",
+              "full_vn": "do (vì) dốt nát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lọt, lẻn; đi qua (một hàng rào chắn), né tránh (một sự kiểm soát do pháp luật đặt ra)",
+          "list_en_vn": [
+            {
+              "full_en": "he drove through a red light and a policeman saw him",
+              "full_vn": "nó đã lái ô tô vượt qua đèn đỏ và một cảnh sát đã trông thấy nó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ bên này tới bên kia của cái gì"
+        },
+        {
+          "m_full_vn": "qua, xuyên qua, suốt, từ đầu đến cuối",
+          "list_en_vn": [
+            {
+              "full_en": "the crowd was so dense that I could not get through",
+              "full_vn": "đám đông dày đặc quá tôi không sao đi qua được"
+            },
+            {
+              "full_en": "to sleep the whole night through",
+              "full_vn": "ngủ suốt cả đêm"
+            },
+            {
+              "full_en": "to read a book through",
+              "full_vn": "đọc cuốn sách từ đầu đến cuối"
+            },
+            {
+              "full_en": "the train runs through to Hanoi",
+              "full_vn": "xe lửa chạy suốt tới Hà nội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi qua một hàng rào chắn, né tránh một sự kiểm soát do pháp luật đặt ra"
+        },
+        {
+          "m_full_vn": "suốt",
+          "list_en_vn": [
+            {
+              "full_en": "this train goes straight through",
+              "full_vn": "chuyến tàu này chạy suốt (tức là không dừng lại các ga lẻ)"
+            },
+            {
+              "full_en": "no through road",
+              "full_vn": "đường cụt (tức là kín ở một đầu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có liên lạc qua dây nói",
+          "list_en_vn": [
+            {
+              "full_en": "you're through now",
+              "full_vn": "bây giờ anh có thể nói chuyện được rồi (tức là đường dây đã thông)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) nói xong (sẵn sàng chấm dứt một cuộc nói chuyện điện thoại)",
+          "list_en_vn": [
+            {
+              "full_en": "how soon will you be through ?",
+              "full_vn": "bao giờ nữa thì ông sẽ nói chuyện (điện thoại) xong?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đến cùng, hết",
+          "list_one_mean": [
+            {
+              "id_full_en": "all through",
+              "list_im": [
+                {
+                  "im_full_vn": "suốt từ đầu đến cuối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I knew that all through",
+                      "full_vn": "tôi biết cái đó từ đầu đến cuối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all through",
+              "list_im": [
+                {
+                  "im_full_vn": "suốt từ đầu đến cuối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I knew that all through",
+                      "full_vn": "tôi biết cái đó từ đầu đến cuối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be through with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chấm dứt (tình bạn) với ai; dứt bỏ (thói quen)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "through and through",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He's an Englishman through and through",
+                      "full_vn": "ông ta là người Anh chính cống"
+                    },
+                    {
+                      "full_en": "we've been friends so long I know you through and through",
+                      "full_vn": "chúng ta thân nhau đã lâu, nên tôi biết anh rất rõ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "through and through",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He's an Englishman through and through",
+                      "full_vn": "ông ta là người Anh chính cống"
+                    },
+                    {
+                      "full_en": "we've been friends so long I know you through and through",
+                      "full_vn": "chúng ta thân nhau đã lâu, nên tôi biết anh rất rõ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "through and through",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He's an Englishman through and through",
+                      "full_vn": "ông ta là người Anh chính cống"
+                    },
+                    {
+                      "full_en": "we've been friends so long I know you through and through",
+                      "full_vn": "chúng ta thân nhau đã lâu, nên tôi biết anh rất rõ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to go through with some work",
+              "full_vn": "hoàn thành công việc gì đến cùng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

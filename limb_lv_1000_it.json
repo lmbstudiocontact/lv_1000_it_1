@@ -1,0 +1,79 @@
+{
+  "english": "limb",
+  "phat_am": "[lim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thiên văn học) quầng (ở quanh thiên thể)"
+        },
+        {
+          "m_full_vn": "bờ, rìa"
+        },
+        {
+          "m_full_vn": "(thực vật học) phiến lá; phiến cánh hoa; phiến lá đài"
+        },
+        {
+          "m_full_vn": "(giải phẫu) chi"
+        },
+        {
+          "m_full_vn": "cành cây to"
+        },
+        {
+          "m_full_vn": "núi ngang, hoành sơn",
+          "list_one_mean": [
+            {
+              "id_full_en": "the limb of the law",
+              "list_im": [
+                {
+                  "im_full_vn": "người đại diện cho luật pháp (luật sư, cảnh sát, công an)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of a limb",
+              "list_im": [
+                {
+                  "im_full_vn": "chơ vơ, chơi vơi, không bấu víu vào đâu được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "life and limb",
+              "list_im": [
+                {
+                  "im_full_vn": "xem life"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be sound in wind and limb",
+              "list_im": [
+                {
+                  "im_full_vn": "sung sức, tráng kiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear sb limb from limb",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh túi bụi, đánh tới tấp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chặt chân tay, làm cho tàn phế"
+        }
+      ]
+    }
+  ]
+}

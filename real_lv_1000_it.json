@@ -1,0 +1,285 @@
+{
+  "english": "real",
+  "phat_am": "[riəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực, thực tế, có thực",
+          "list_en_vn": [
+            {
+              "full_en": "a real object andf its image",
+              "full_vn": "vật thực là hình ảnh của nó"
+            },
+            {
+              "full_en": "in real life",
+              "full_vn": "trong đời sống thực tế"
+            },
+            {
+              "full_en": "the real value of things",
+              "full_vn": "giá trị thực tế của các vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thật (không phải giả, không phải nhân tạo)",
+          "list_en_vn": [
+            {
+              "full_en": "real gold",
+              "full_vn": "vàng thật"
+            },
+            {
+              "full_en": "is that real hair or a wig ?",
+              "full_vn": "đó là tóc thật hay giả?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chân chính, đúng, xứng đáng với tên gọi",
+          "list_en_vn": [
+            {
+              "full_en": "a real friend",
+              "full_vn": "một người bạn chân chính"
+            },
+            {
+              "full_en": "a real man",
+              "full_vn": "một con người chân chính, một con người xứng đáng là người"
+            },
+            {
+              "full_en": "the real thing",
+              "full_vn": "điều thực đúng, cái thực đúng, cái chính cống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) bất động",
+          "list_one_mean": [
+            {
+              "id_full_en": "for real",
+              "list_im": [
+                {
+                  "im_full_vn": "nghiêm chỉnh, đúng đắn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "This isn't a practice game : We're playing for real",
+                      "full_vn": "Đây không phải là trận đấu luyện tập : Chúng tôi đang thi đấu thực sự"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thành thật; chân thực",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't think her tears were for real",
+                      "full_vn": "Tôi cho rằng những giọt nước mắt của bà ấy là không chân thực"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for real",
+              "list_im": [
+                {
+                  "im_full_vn": "nghiêm chỉnh, đúng đắn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "This isn't a practice game : We're playing for real",
+                      "full_vn": "Đây không phải là trận đấu luyện tập : Chúng tôi đang thi đấu thực sự"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thành thật; chân thực",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't think her tears were for real",
+                      "full_vn": "Tôi cho rằng những giọt nước mắt của bà ấy là không chân thực"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for real",
+              "list_im": [
+                {
+                  "im_full_vn": "nghiêm chỉnh, đúng đắn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "This isn't a practice game : We're playing for real",
+                      "full_vn": "Đây không phải là trận đấu luyện tập : Chúng tôi đang thi đấu thực sự"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thành thật; chân thực",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't think her tears were for real",
+                      "full_vn": "Tôi cho rằng những giọt nước mắt của bà ấy là không chân thực"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for real",
+              "list_im": [
+                {
+                  "im_full_vn": "nghiêm chỉnh, đúng đắn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "This isn't a practice game : We're playing for real",
+                      "full_vn": "Đây không phải là trận đấu luyện tập : Chúng tôi đang thi đấu thực sự"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thành thật; chân thực",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't think her tears were for real",
+                      "full_vn": "Tôi cho rằng những giọt nước mắt của bà ấy là không chân thực"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the real thing /Mc Coy",
+              "list_im": [
+                {
+                  "im_full_vn": "kinh nghiệm, thành tựu cao nhất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Marathons are the real Mc Coy - these little jogs are no challenge at all",
+                      "full_vn": "Chạy maratông mới là môn thể thao đích thực, chứ các trò chạy dưỡng sinh kia thì ăn nhằm gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "loại đích thực, loại chính hiệu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Bottled lemon juice is no good - you must use the real thing",
+                      "full_vn": "Nước chanh đóng chai có ra gì đâu, anh phải dùng loại nước chanh quả thật cơ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the real thing /Mc Coy",
+              "list_im": [
+                {
+                  "im_full_vn": "kinh nghiệm, thành tựu cao nhất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Marathons are the real Mc Coy - these little jogs are no challenge at all",
+                      "full_vn": "Chạy maratông mới là môn thể thao đích thực, chứ các trò chạy dưỡng sinh kia thì ăn nhằm gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "loại đích thực, loại chính hiệu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Bottled lemon juice is no good - you must use the real thing",
+                      "full_vn": "Nước chanh đóng chai có ra gì đâu, anh phải dùng loại nước chanh quả thật cơ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the real thing /Mc Coy",
+              "list_im": [
+                {
+                  "im_full_vn": "kinh nghiệm, thành tựu cao nhất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Marathons are the real Mc Coy - these little jogs are no challenge at all",
+                      "full_vn": "Chạy maratông mới là môn thể thao đích thực, chứ các trò chạy dưỡng sinh kia thì ăn nhằm gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "loại đích thực, loại chính hiệu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Bottled lemon juice is no good - you must use the real thing",
+                      "full_vn": "Nước chanh đóng chai có ra gì đâu, anh phải dùng loại nước chanh quả thật cơ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the real thing /Mc Coy",
+              "list_im": [
+                {
+                  "im_full_vn": "kinh nghiệm, thành tựu cao nhất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Marathons are the real Mc Coy - these little jogs are no challenge at all",
+                      "full_vn": "Chạy maratông mới là môn thể thao đích thực, chứ các trò chạy dưỡng sinh kia thì ăn nhằm gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "loại đích thực, loại chính hiệu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Bottled lemon juice is no good - you must use the real thing",
+                      "full_vn": "Nước chanh đóng chai có ra gì đâu, anh phải dùng loại nước chanh quả thật cơ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "real estate ; real property",
+              "full_vn": "bất động sản"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "rất; thực sự",
+          "list_en_vn": [
+            {
+              "full_en": "I'm real sorry",
+              "full_vn": "Tôi thực sự lấy làm tiếc"
+            },
+            {
+              "full_en": "to have a real fine time , a real good laugh",
+              "full_vn": "vui chơi thật thoả thích, cười thật thoải mái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực tế",
+          "list_en_vn": [
+            {
+              "full_en": "the real and the ideal",
+              "full_vn": "thực tế và lý tưởng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

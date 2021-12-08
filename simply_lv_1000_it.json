@@ -1,0 +1,47 @@
+{
+  "english": "simply",
+  "phat_am": "['simpli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "một cách dễ dàng",
+          "list_en_vn": [
+            {
+              "full_en": "to solved quite simply",
+              "full_vn": "được giải quyết rất dễ dàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giản dị, mộc mạc, một cách giản dị, không cầu kỳ, không kiểu cách",
+          "list_en_vn": [
+            {
+              "full_en": "dress simply",
+              "full_vn": "ăn mặc giản dị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn, tuyệt đối",
+          "list_en_vn": [
+            {
+              "full_en": "I simply refuse to go !",
+              "full_vn": "tôi hoàn toàn từ chối không đi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ là; thường là",
+          "list_en_vn": [
+            {
+              "full_en": "I bought the house simply because it was large",
+              "full_vn": "tôi mua ngôi nhà chỉ vì nó rộng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

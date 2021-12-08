@@ -1,0 +1,98 @@
+{
+  "english": "pure",
+  "phat_am": "[pjuə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguyên chất, tinh khiết; trong lành, thanh khiết",
+          "list_en_vn": [
+            {
+              "full_en": "pure air",
+              "full_vn": "không khí trong lành"
+            },
+            {
+              "full_en": "pure water",
+              "full_vn": "nước tinh khiết"
+            },
+            {
+              "full_en": "pure alcohol",
+              "full_vn": "rượu nguyên chất (không pha trộn)"
+            },
+            {
+              "full_en": "pure gold",
+              "full_vn": "vàng nguyên chất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không lai, thuần chủng (ngựa...)"
+        },
+        {
+          "m_full_vn": "trong trẻo, rõ ràng, không run rẩy (về âm thanh), trong sáng, rõ ràng, mạch lạc (về cách hành văn...)"
+        },
+        {
+          "m_full_vn": "trong trắng, trinh bạch, đức hạnh (nhất là về tình dục)",
+          "list_en_vn": [
+            {
+              "full_en": "pure conscience",
+              "full_vn": "lương tâm trong trắng"
+            },
+            {
+              "full_en": "a pure girl",
+              "full_vn": "một cô gái trinh bạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuần tuý",
+          "list_en_vn": [
+            {
+              "full_en": "pure mathematics",
+              "full_vn": "toán học thuần tuý"
+            },
+            {
+              "full_en": "pure physics",
+              "full_vn": "lý học thuần tuý (đối với thực hành)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn, chỉ là",
+          "list_en_vn": [
+            {
+              "full_en": "it's pure hypocrisy",
+              "full_vn": "chỉ là đạo đức giả"
+            },
+            {
+              "full_en": "pure accident",
+              "full_vn": "chuyện hoàn toàn ngẫu nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) có một nguyên âm đứng trước (nguyên âm); tận cùng bằng một nguyên âm (gốc từ); không có phụ âm khác kèm theo sau (phụ âm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "as pure as the driven snow",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức trong trắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pure and simple",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chỉ có thế thôi, không có gì khác; hoàn toàn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

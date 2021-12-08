@@ -1,0 +1,23 @@
+{
+  "english": "quietly",
+  "phat_am": "['kwiətli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "yên lặng, yên tĩnh, êm ả"
+        },
+        {
+          "m_full_vn": "yên ổn, thanh bình, thanh thản",
+          "list_en_vn": [
+            {
+              "full_en": "she died quietly in her bed",
+              "full_vn": "bà ta đã thanh thản chết trên giừơng bệnh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

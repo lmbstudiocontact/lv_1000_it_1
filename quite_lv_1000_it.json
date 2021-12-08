@@ -1,0 +1,281 @@
+{
+  "english": "quite",
+  "phat_am": "[kwait]",
+  "list_type": [
+    {
+      "type": "phó từ, không dùng với một từ phủ định",
+      "list_m": [
+        {
+          "m_full_vn": "không nhiều lắm, khá",
+          "list_en_vn": [
+            {
+              "full_en": "quite big /small /good /cold /warm /interesting",
+              "full_vn": "khá to/nhỏ/tốt/lạnh/ấm/lý thú"
+            },
+            {
+              "full_en": "the girl sang quite a long song",
+              "full_vn": "cô gái hát một bài khá dài"
+            },
+            {
+              "full_en": "he plays quite well",
+              "full_vn": "nó chơi khá tốt"
+            },
+            {
+              "full_en": "I quite like some opera music",
+              "full_vn": "tôi khá thích nhạc ôpêra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn, hết sức, đúng là",
+          "list_en_vn": [
+            {
+              "full_en": "quite awful /delicious /amazing /empty /unique /enough",
+              "full_vn": "hết sức kinh khủng/ngon ngọt/kinh ngạc/rỗng tuếch/độc đáo/đầy đủ"
+            },
+            {
+              "full_en": "a quite extraordinary experience",
+              "full_vn": "một kinh nghiệm đúng là phi thường"
+            },
+            {
+              "full_en": "that was quite the nicest meal I've ever had",
+              "full_vn": "đây đúng là bữa ăn ngon nhất tôi đã được ăn từ trước đến giờ"
+            },
+            {
+              "full_en": "the theatre was not quite full",
+              "full_vn": "rạp chưa hẳn đã đông hết chỗ"
+            },
+            {
+              "full_en": "cheer up , it's not quite hopeless yet",
+              "full_vn": "cố lên, chưa hẳn hết hy vọng đâu!"
+            },
+            {
+              "full_en": "he has quite recovered from his illness",
+              "full_vn": "nó đã hoàn toàn bình phục sau trận ốm"
+            },
+            {
+              "full_en": "I quite agree /understand",
+              "full_vn": "tôi hoàn toàn đồng ý/hiểu"
+            },
+            {
+              "full_en": "taking on the telephone for quite two hours",
+              "full_vn": "nói chuyện điện thoại đủ hai giờ đồng hồ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúng, đồng ý, phải (trong câu đáp)",
+          "list_one_mean": [
+            {
+              "id_full_en": "quite a few ; quite a lot (of )",
+              "list_im": [
+                {
+                  "im_full_vn": "kha khá, khá nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "quite a few people came to the lecture",
+                      "full_vn": "có khá nhiều người đến dự buổi thuyết trình"
+                    },
+                    {
+                      "full_en": "we drank quite a lot of wine",
+                      "full_vn": "chúng tôi đã uống khá nhiều rượu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite a few ; quite a lot (of )",
+              "list_im": [
+                {
+                  "im_full_vn": "kha khá, khá nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "quite a few people came to the lecture",
+                      "full_vn": "có khá nhiều người đến dự buổi thuyết trình"
+                    },
+                    {
+                      "full_en": "we drank quite a lot of wine",
+                      "full_vn": "chúng tôi đã uống khá nhiều rượu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite a few ; quite a lot (of )",
+              "list_im": [
+                {
+                  "im_full_vn": "kha khá, khá nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "quite a few people came to the lecture",
+                      "full_vn": "có khá nhiều người đến dự buổi thuyết trình"
+                    },
+                    {
+                      "full_en": "we drank quite a lot of wine",
+                      "full_vn": "chúng tôi đã uống khá nhiều rượu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite some time",
+              "list_im": [
+                {
+                  "im_full_vn": "có độ dài đáng kể về thời gian; khá lâu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it happened quite some time ago",
+                      "full_vn": "chuyện đó xảy ra cách nay khá lâu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite some time",
+              "list_im": [
+                {
+                  "im_full_vn": "có độ dài đáng kể về thời gian; khá lâu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it happened quite some time ago",
+                      "full_vn": "chuyện đó xảy ra cách nay khá lâu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite a ; quite some",
+              "list_im": [
+                {
+                  "im_full_vn": "(cho biết người hoặc vật nào đó là khác (thường))",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it must be quite some car",
+                      "full_vn": "chắc rằng đó phải là một chiếc ô tô khác thường"
+                    },
+                    {
+                      "full_en": "we had quite a party",
+                      "full_vn": "chúng tôi đã có một buổi liên hoan ra trò"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite a ; quite some",
+              "list_im": [
+                {
+                  "im_full_vn": "(cho biết người hoặc vật nào đó là khác (thường))",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it must be quite some car",
+                      "full_vn": "chắc rằng đó phải là một chiếc ô tô khác thường"
+                    },
+                    {
+                      "full_en": "we had quite a party",
+                      "full_vn": "chúng tôi đã có một buổi liên hoan ra trò"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite a ; quite some",
+              "list_im": [
+                {
+                  "im_full_vn": "(cho biết người hoặc vật nào đó là khác (thường))",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it must be quite some car",
+                      "full_vn": "chắc rằng đó phải là một chiếc ô tô khác thường"
+                    },
+                    {
+                      "full_en": "we had quite a party",
+                      "full_vn": "chúng tôi đã có một buổi liên hoan ra trò"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "quite so",
+              "full_vn": "đúng vậy; đúng thế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "từ hạn định",
+      "list_m": [
+        {
+          "m_full_vn": "dùng trước a / the + danh từ hoặc trước một tên riêng để nhấn mạnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "(not ) quite the (done ) thing",
+              "list_im": [
+                {
+                  "im_full_vn": "(không) được xã hội chấp nhận",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it wasn't quite the done thing for women to drink in pubs in those days",
+                      "full_vn": "thời đó, đàn bà vào quán uống rượu là điều không thể chấp nhận được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(not ) quite the (done ) thing",
+              "list_im": [
+                {
+                  "im_full_vn": "(không) được xã hội chấp nhận",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it wasn't quite the done thing for women to drink in pubs in those days",
+                      "full_vn": "thời đó, đàn bà vào quán uống rượu là điều không thể chấp nhận được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite the fashion /rage",
+              "list_im": [
+                {
+                  "im_full_vn": "rất được ưa chuộng, rất hợp thời trang"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "quite a beauty /hero /swimmer",
+              "full_vn": "đúng là một người đẹp/anh hùng/tay bơi giỏi"
+            },
+            {
+              "full_en": "we found it quite a change when we moved to London",
+              "full_vn": "khi dọn đến London, chúng tôi thấy có quá nhiều thay đổi"
+            },
+            {
+              "full_en": "it's not quite Lake District but the countryside's very pretty",
+              "full_vn": "đây không được như Lake District, nhưng vùng nông thôn này cũng rất đẹp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

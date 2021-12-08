@@ -1,0 +1,45 @@
+{
+  "english": "morning",
+  "phat_am": "['mɔ:niη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "buổi sáng",
+          "list_en_vn": [
+            {
+              "full_en": "good morning",
+              "full_vn": "chào (buổi sáng)"
+            },
+            {
+              "full_en": "tomorrow morning",
+              "full_vn": "sáng mai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) buổi bình minh",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the morning of life",
+              "list_im": [
+                {
+                  "im_full_vn": "vào buổi bình minh của cuộc đời; lúc tuổi thanh xuân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the morning after (the night before )",
+              "list_im": [
+                {
+                  "im_full_vn": "dư vị khó chịu sau một đêm nhậu nhẹt chè chén"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

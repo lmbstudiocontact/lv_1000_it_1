@@ -1,0 +1,78 @@
+{
+  "english": "tend",
+  "phat_am": "[tend]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trông nom, săn sóc, chăm sóc; giữ gìn",
+          "list_en_vn": [
+            {
+              "full_en": "to tend a patient",
+              "full_vn": "chăm sóc người bệnh"
+            },
+            {
+              "full_en": "to tend a garden",
+              "full_vn": "chăm nom khu vườn"
+            },
+            {
+              "full_en": "to tend a machine",
+              "full_vn": "giữ gìn máy móc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) phục vụ",
+          "list_en_vn": [
+            {
+              "full_en": "to tend the store",
+              "full_vn": "phục vụ cửa hàng; bán hàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + on , upon ) theo, theo hầu, hầu hạ, phục vụ",
+          "list_en_vn": [
+            {
+              "full_en": "to tend upon someone",
+              "full_vn": "phục vụ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có khuynh hướng; hay",
+          "list_en_vn": [
+            {
+              "full_en": "women tend to live longer than men",
+              "full_vn": "phụ nữ có chiều hướng sống lâu hơn nam giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + to/towards ) quay về, hướng về",
+          "list_en_vn": [
+            {
+              "full_en": "the track tends upwards",
+              "full_vn": "con đường hẻm hướng đi lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng tới, nhắm tới",
+          "list_en_vn": [
+            {
+              "full_en": "all their efforts tend to the same object",
+              "full_vn": "tất cả những cố gắng của chúng đều cùng nhằm tới một mục đích"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

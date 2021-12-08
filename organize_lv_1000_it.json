@@ -1,0 +1,44 @@
+{
+  "english": "organize",
+  "phat_am": "['ɔ:gənaiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tổ chức, cấu tạo, thiết lập"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lập thành nghiệp đoàn, đưa vào nghiệp đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "organize a picnic",
+              "full_vn": "tổ chức một cuộc đi chơi ngoài trời"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành lập tổ chức"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thành lập nghiệp đoàn, gia nhập nghiệp đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "organize a club",
+              "full_vn": "thành lập một câu lạc bộ"
+            },
+            {
+              "full_en": "organize a Government",
+              "full_vn": "tổ chức một chính phủ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

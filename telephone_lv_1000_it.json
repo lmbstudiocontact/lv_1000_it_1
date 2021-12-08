@@ -1,0 +1,137 @@
+{
+  "english": "telephone",
+  "phat_am": "['telifoun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hệ thống truyền tiếng nói con người đi xa bằng dây thép hoặc rađiô; điện thoại; dây nói",
+          "list_en_vn": [
+            {
+              "full_en": "you can always reach me by telephone",
+              "full_vn": "lúc nào anh cũng có thể tiếp xúc với tôi bằng điện thoại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy điện thoại",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the telephone",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc điện thoại, có liên lạc với hệ thống điện thoại"
+                },
+                {
+                  "im_full_vn": "đang dùng điện thoại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she has been on the telephone for a full hour",
+                      "full_vn": "bà ta nói chuyện điện thoại trọn một tiếng đồng hồ rồi"
+                    },
+                    {
+                      "full_en": "Hurry up ! You're wanted on the telephone",
+                      "full_vn": "Nhanh lên! Có người muốn nói chuyện điện thoại với anh đấy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the telephone",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc điện thoại, có liên lạc với hệ thống điện thoại"
+                },
+                {
+                  "im_full_vn": "đang dùng điện thoại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she has been on the telephone for a full hour",
+                      "full_vn": "bà ta nói chuyện điện thoại trọn một tiếng đồng hồ rồi"
+                    },
+                    {
+                      "full_en": "Hurry up ! You're wanted on the telephone",
+                      "full_vn": "Nhanh lên! Có người muốn nói chuyện điện thoại với anh đấy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the telephone",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc điện thoại, có liên lạc với hệ thống điện thoại"
+                },
+                {
+                  "im_full_vn": "đang dùng điện thoại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she has been on the telephone for a full hour",
+                      "full_vn": "bà ta nói chuyện điện thoại trọn một tiếng đồng hồ rồi"
+                    },
+                    {
+                      "full_en": "Hurry up ! You're wanted on the telephone",
+                      "full_vn": "Nhanh lên! Có người muốn nói chuyện điện thoại với anh đấy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the telephone",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc điện thoại, có liên lạc với hệ thống điện thoại"
+                },
+                {
+                  "im_full_vn": "đang dùng điện thoại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she has been on the telephone for a full hour",
+                      "full_vn": "bà ta nói chuyện điện thoại trọn một tiếng đồng hồ rồi"
+                    },
+                    {
+                      "full_en": "Hurry up ! You're wanted on the telephone",
+                      "full_vn": "Nhanh lên! Có người muốn nói chuyện điện thoại với anh đấy!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to answer the telephone",
+              "full_vn": "trả lời điện thoại (nhấc máy nghe lên để nhận thông tin gọi đến)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gọi điện thoại; nói chuyện điện thoại",
+          "list_en_vn": [
+            {
+              "full_en": "Shall I write or telephone ?",
+              "full_vn": "Tôi sẽ viết thư hay gọi điện thoại?"
+            },
+            {
+              "full_en": "We must telephone our congratulations (to the happy couple )",
+              "full_vn": "Chúng tôi phải gọi điện chúc mừng (cặp vợ chồng mới)"
+            },
+            {
+              "full_en": "He telephoned (his wife ) to say he'd be late",
+              "full_vn": "nó gọi điện (cho vợ) báo tin là nó sẽ về muộn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "rational",
+  "phat_am": "['ræ∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có lý trí, dựa trên lý trí",
+          "list_en_vn": [
+            {
+              "full_en": "a rational being",
+              "full_vn": "một sinh vật có lý trí"
+            },
+            {
+              "full_en": "to be quite rational",
+              "full_vn": "hoàn toàn có lý trí; có đầy đủ lý trí"
+            },
+            {
+              "full_en": "a rational confidence",
+              "full_vn": "một sự tin tưởng dựa trên lý trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có lý, phải lẽ; vừa phải, có chừng mực",
+          "list_en_vn": [
+            {
+              "full_en": "a rational explanation",
+              "full_vn": "một lời giải thích có lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) hữu tỷ",
+          "list_one_mean": [
+            {
+              "id_full_en": "a rational dress",
+              "list_im": [
+                {
+                  "im_full_vn": "quần đàn bà bó ở đầu gối"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "rational algebraic fraction",
+              "full_vn": "phân thức đại số hữu tỷ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

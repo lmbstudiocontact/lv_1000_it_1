@@ -1,0 +1,85 @@
+{
+  "english": "thousand",
+  "phat_am": "['θauz(ə)nd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mười trăm, một nghìn"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con số một nghìn; con số mười trăm ( 1000)"
+        },
+        {
+          "m_full_vn": "rất nhiều, hàng nghìn",
+          "list_one_mean": [
+            {
+              "id_full_en": "a thousand and one",
+              "list_im": [
+                {
+                  "im_full_vn": "một nghìn lẻ một, vô số",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make a thousand and one excuses",
+                      "full_vn": "hết lời xin lỗi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a thousand and one",
+              "list_im": [
+                {
+                  "im_full_vn": "một nghìn lẻ một, vô số",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make a thousand and one excuses",
+                      "full_vn": "hết lời xin lỗi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "one in a thousand",
+              "list_im": [
+                {
+                  "im_full_vn": "trong muôn một, nghìn năm có một"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Thousand Island dressing",
+              "list_im": [
+                {
+                  "im_full_vn": "cách trộn xa-lát bằng xốt mayone với nước xốt cà chua và dưa góp thái nhỏ..."
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "thousands of people",
+              "full_vn": "hàng nghìn người"
+            },
+            {
+              "full_en": "a thousand thanks",
+              "full_vn": "cảm ơn rất nhiều"
+            },
+            {
+              "full_en": "a thousand pardons (apologies )",
+              "full_vn": "xin lỗi rất nhiều"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

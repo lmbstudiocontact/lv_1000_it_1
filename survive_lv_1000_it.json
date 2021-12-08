@@ -1,0 +1,59 @@
+{
+  "english": "survive",
+  "phat_am": "[sə'vaiv]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sống lâu hơn ai; vẫn còn sống sau ai",
+          "list_en_vn": [
+            {
+              "full_en": "to survive one's contemporaries",
+              "full_vn": "sống lâu hơn những người cùng thời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sống qua được; qua khỏi được",
+          "list_en_vn": [
+            {
+              "full_en": "to survive all perils",
+              "full_vn": "sống qua mọi sự nguy hiểm"
+            },
+            {
+              "full_en": "to survive an earthquake , shipwreck",
+              "full_vn": "sống sót sau một trận động đất, vụ đắm tàu"
+            },
+            {
+              "full_en": "few buildings survived the bombing raids intact",
+              "full_vn": "ít có toà nhà nào còn nguyên vẹn sau các trận ném bom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to survive from / on something ) tiếp tục sống, tiếp tục tồn tại; sống sót; còn lại",
+          "list_en_vn": [
+            {
+              "full_en": "the last surviving member of the family",
+              "full_vn": "thành viên cuối cùng còn lại của gia đình"
+            },
+            {
+              "full_en": "how could he survive on such starvation wages ?",
+              "full_vn": "làm sao ông ta sống được với đồng lương chết đói như thế?"
+            },
+            {
+              "full_en": "many strange customs have survived from earlier times",
+              "full_vn": "không ít phong tục kỳ lạ từ thời xưa vẫn còn sót lại cho đến nay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

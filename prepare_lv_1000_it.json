@@ -1,0 +1,169 @@
+{
+  "english": "prepare",
+  "phat_am": "[pri'peə]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to prepare somebody / something for somebody / something ) chuẩn bị",
+          "list_en_vn": [
+            {
+              "full_en": "to prepare a meal",
+              "full_vn": "chuẩn bị bữa ăn"
+            },
+            {
+              "full_en": "to prepare students for the finals",
+              "full_vn": "chuẩn bị cho các sinh viên đi thi tốt nghiệp"
+            },
+            {
+              "full_en": "the troops were being prepared for battle /to go into battle",
+              "full_vn": "quân lính đã được chuẩn bị cho trận đánh/bước vào trận đánh"
+            },
+            {
+              "full_en": "to have everything prepared beforehand",
+              "full_vn": "cho chuẩn bị sẵn mọi thứ"
+            },
+            {
+              "full_en": "I have no time in which to prepare",
+              "full_vn": "tôi không có thời giờ để chuẩn bị"
+            },
+            {
+              "full_en": "to prepare for trouble",
+              "full_vn": "chuẩn bị đối phó với chuyện rắc rối"
+            },
+            {
+              "full_en": "to prepare for an exam",
+              "full_vn": "chuẩn bị đi thi"
+            },
+            {
+              "full_en": "to prepare for a journey",
+              "full_vn": "chuẩn bị cho một cuộc hành trình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to prepare somebody for something ) bắt ai phải chờ đợi cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be prepared to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng làm việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm prepared to help you if you are reasonable",
+                      "full_vn": "Tôi sẵn sàng giúp anh nếu anh biết điều"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be prepared to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng làm việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm prepared to help you if you are reasonable",
+                      "full_vn": "Tôi sẵn sàng giúp anh nếu anh biết điều"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to prepare the ground (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt nền móng cho cái gì; dọn đường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "early experiments with military rockets prepared the ground for space travel",
+                      "full_vn": "những cuộc thử nghiệm ban đầu đã đặt nền móng cho công cuộc du hành vũ trụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to prepare the ground (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt nền móng cho cái gì; dọn đường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "early experiments with military rockets prepared the ground for space travel",
+                      "full_vn": "những cuộc thử nghiệm ban đầu đã đặt nền móng cho công cuộc du hành vũ trụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be prepared for something",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng cho cái gì (nhất là cái gì khó chịu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was hardly prepared for this sad news (to hear this sad news )",
+                      "full_vn": "anh ta hầu như không được chuẩn bị tư tưởng gì để nghe tin buồn này"
+                    },
+                    {
+                      "full_en": "she was prepared for anything to happen",
+                      "full_vn": "cô ta sẵn sàng đón nhận bất cứ điều gì xảy ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be prepared for something",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng cho cái gì (nhất là cái gì khó chịu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was hardly prepared for this sad news (to hear this sad news )",
+                      "full_vn": "anh ta hầu như không được chuẩn bị tư tưởng gì để nghe tin buồn này"
+                    },
+                    {
+                      "full_en": "she was prepared for anything to happen",
+                      "full_vn": "cô ta sẵn sàng đón nhận bất cứ điều gì xảy ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be prepared for something",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng cho cái gì (nhất là cái gì khó chịu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was hardly prepared for this sad news (to hear this sad news )",
+                      "full_vn": "anh ta hầu như không được chuẩn bị tư tưởng gì để nghe tin buồn này"
+                    },
+                    {
+                      "full_en": "she was prepared for anything to happen",
+                      "full_vn": "cô ta sẵn sàng đón nhận bất cứ điều gì xảy ra"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "prepare yourself for uninvited guests",
+              "full_vn": "hãy chuẩn bị tinh thần để đón những người khách không mời mà đến"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

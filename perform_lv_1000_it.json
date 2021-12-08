@@ -1,0 +1,58 @@
+{
+  "english": "perform",
+  "phat_am": "[pə'fɔ:m]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thi hành; thực hiện; cử hành (nghi lễ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to perform a task , one's duty , a miracle",
+              "full_vn": "thực hiện một nhiệm vụ, bổn phận, phép màu"
+            },
+            {
+              "full_en": "to perform an operation to save his life",
+              "full_vn": "thực hiện một ca mổ để cứu mạng anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biểu diễn, trình diễn (kịch, điệu nhảy...)",
+          "list_en_vn": [
+            {
+              "full_en": "they are performing his play tonight",
+              "full_vn": "tối nay họ sẽ trình diễn vở kịch của ông ta"
+            },
+            {
+              "full_en": "to watch somebody perform",
+              "full_vn": "xem ai biểu diễn, xem ai diễn xuất"
+            },
+            {
+              "full_en": "to perform skilfully on the flute",
+              "full_vn": "biểu diễn sáo giỏi"
+            },
+            {
+              "full_en": "to perform live on TV",
+              "full_vn": "biểu diễn trực tiếp trên truyền hình"
+            },
+            {
+              "full_en": "to perform seals in a circus",
+              "full_vn": "trình diễn hải cẩu trong rạp xiếc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy, hoạt động (máy..)",
+          "list_en_vn": [
+            {
+              "full_en": "how is your new washing-machine performing ?",
+              "full_vn": "cái máy giặt mới của anh chạy như thế nào?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

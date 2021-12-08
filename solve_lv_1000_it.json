@@ -1,0 +1,29 @@
+{
+  "english": "solve",
+  "phat_am": "[sɔlv]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giải, giải thích, làm sáng tỏ (một vấn đề); phá (án)"
+        },
+        {
+          "m_full_vn": "(toán học) tìm ra lời giải (một phương trình)",
+          "list_en_vn": [
+            {
+              "full_en": "to solve an equation",
+              "full_vn": "giải một phương trình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giải quyết (khó khăn..)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) tháo gỡ (nút...)"
+        }
+      ]
+    }
+  ]
+}

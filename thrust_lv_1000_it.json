@@ -1,0 +1,238 @@
+{
+  "english": "thrust",
+  "phat_am": "[θrʌst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đẩy mạnh, sự xô đẩy",
+          "list_en_vn": [
+            {
+              "full_en": "to give a thrust",
+              "full_vn": "đẩy mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhát đâm (dao găm, mũi kiếm)"
+        },
+        {
+          "m_full_vn": "(quân sự) cuộc tấn công mạnh (để chọc thủng phòng tuyến), sự đột phá, sự thọc sâu"
+        },
+        {
+          "m_full_vn": "sự công kích (trong cuộc tranh luận)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự tấn công thình lình"
+        },
+        {
+          "m_full_vn": "sức đè, sức ép (giữa các bộ phận trong một cơ cấu)"
+        },
+        {
+          "m_full_vn": "sự đè gãy (cột chống trong mỏ than)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ thrust",
+      "list_m": [
+        {
+          "m_full_vn": "đẩy, ấn mạnh, tống, thọc",
+          "list_en_vn": [
+            {
+              "full_en": "to thrust the hands into the pockets",
+              "full_vn": "thọc tay vào túi"
+            },
+            {
+              "full_en": "to thrust the needle of the syringe into the arm",
+              "full_vn": "thọc kim tiêm vào cánh tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhét, giúi cái gì vào tay ai"
+        },
+        {
+          "m_full_vn": "bắt phải theo, bắt nhận",
+          "list_en_vn": [
+            {
+              "full_en": "to thrust one's opinion upon someone",
+              "full_vn": "bắt ai theo ý kiến mình"
+            },
+            {
+              "full_en": "to thrust something upon someone",
+              "full_vn": "bắt ai phải nhận một cái gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xô đẩy, đẩy mạnh, ấn mạnh"
+        },
+        {
+          "m_full_vn": "( + into , through... ) chui, len"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đâm một nhát",
+          "list_one_mean": [
+            {
+              "id_full_en": "to thrust at",
+              "list_im": [
+                {
+                  "im_full_vn": "đâm một nhát, đâm một mũi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust back",
+              "list_im": [
+                {
+                  "im_full_vn": "đẩy lùi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust down",
+              "list_im": [
+                {
+                  "im_full_vn": "đẩy xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust forward",
+              "list_im": [
+                {
+                  "im_full_vn": "đẩy tới trước, xô ra trước"
+                },
+                {
+                  "im_full_vn": "đưa (tay) tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust forward",
+              "list_im": [
+                {
+                  "im_full_vn": "đẩy tới trước, xô ra trước"
+                },
+                {
+                  "im_full_vn": "đưa (tay) tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust in",
+              "list_im": [
+                {
+                  "im_full_vn": "thọc vào, giúi vào, nhét"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust on",
+              "list_im": [
+                {
+                  "im_full_vn": "lao, xông tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust out",
+              "list_im": [
+                {
+                  "im_full_vn": "duỗi (chân); lè (lưỡi); ưỡn (ngực)"
+                },
+                {
+                  "im_full_vn": "đuổi ra, tống ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust out",
+              "list_im": [
+                {
+                  "im_full_vn": "duỗi (chân); lè (lưỡi); ưỡn (ngực)"
+                },
+                {
+                  "im_full_vn": "đuổi ra, tống ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust past",
+              "list_im": [
+                {
+                  "im_full_vn": "xô ra để đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust through",
+              "list_im": [
+                {
+                  "im_full_vn": "đâm qua, chọc qua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to thrust one's way through the crowd",
+                      "full_vn": "len qua đám đông"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust through",
+              "list_im": [
+                {
+                  "im_full_vn": "đâm qua, chọc qua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to thrust one's way through the crowd",
+                      "full_vn": "len qua đám đông"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust and parry",
+              "list_im": [
+                {
+                  "im_full_vn": "đấu tài đấu trí, tranh khôn tranh khéo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust oneself forward",
+              "list_im": [
+                {
+                  "im_full_vn": "len vào, chen để đi"
+                },
+                {
+                  "im_full_vn": "làm cho người ta để ý đến mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thrust oneself forward",
+              "list_im": [
+                {
+                  "im_full_vn": "len vào, chen để đi"
+                },
+                {
+                  "im_full_vn": "làm cho người ta để ý đến mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

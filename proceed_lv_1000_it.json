@@ -1,0 +1,57 @@
+{
+  "english": "proceed",
+  "phat_am": "[prə'si:d]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to proceed to something ) tiến lên; đi đến",
+          "list_en_vn": [
+            {
+              "full_en": "to proceed to London",
+              "full_vn": "đi Luân-đôn"
+            },
+            {
+              "full_en": "he was allowed to proceed to an MA",
+              "full_vn": "anh ta được phép học tiếp để tiến lên học vị thạc sĩ ngữ văn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to proceed with something ) bắt đầu hoặc tiếp tục cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the story proceeds as follows",
+              "full_vn": "câu chuyện tiếp diễn như sau"
+            },
+            {
+              "full_en": "proceed with your work !",
+              "full_vn": "cứ làm tiếp việc của anh đi!"
+            },
+            {
+              "full_en": "let's proceed to the next subject",
+              "full_vn": "chúng ta hãy chuyển sang vấn đề tiếp theo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to proceed from something ) xuất phát, bắt nguồn từ",
+          "list_en_vn": [
+            {
+              "full_en": "our plan proceeded from the new development of the situation",
+              "full_vn": "kế hoạch của chúng ta xuất phát từ sự phát triển mới của tình hình"
+            },
+            {
+              "full_en": "sobs heard to proceed from the next room",
+              "full_vn": "tiếng khóc nghe từ phòng bên đưa lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to proceed against somebody ) kiện ai, khởi tố ai"
+        }
+      ]
+    }
+  ]
+}

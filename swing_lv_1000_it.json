@@ -1,0 +1,322 @@
+{
+  "english": "swing",
+  "phat_am": "[swiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "động tác hoặc hành động hoặc nhịp điệu nhún nhảy",
+          "list_en_vn": [
+            {
+              "full_en": "the golfer took a swing at the ball",
+              "full_vn": "người chơi gôn bạt quả bóng"
+            },
+            {
+              "full_en": "the swing of a pendulum , pointer , needle",
+              "full_vn": "sự đu đưa của quả lắc, sự lúc lắc của cái kim trên mặt cân, sự di động nhịp nhàng của cái kim khâu"
+            },
+            {
+              "full_en": "the swing of her hips as she walked",
+              "full_vn": "hông cô ta nhún nhảy khi cô ta bước đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ ngồi treo bằng thứng hoặc xích (để đánh đu); cái đu",
+          "list_en_vn": [
+            {
+              "full_en": "children riding on the swings",
+              "full_vn": "bọn trẻ con cưỡi trên những cái đu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động đánh đu trên cái đu; chầu đu",
+          "list_en_vn": [
+            {
+              "full_en": "to give the children a swing",
+              "full_vn": "cho trẻ con đánh đu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại nhạc jazz êm dịu nhún nhảy (nhất là do những dàn nhạc nhảy lớn chơi trong những năm 1930); nhạc xuynh (cũng) swing music"
+        },
+        {
+          "m_full_vn": "mức thay đổi từ ý kiến này sang ý kiến khác",
+          "list_en_vn": [
+            {
+              "full_en": "voting showed a 10% swing to the Opposition",
+              "full_vn": "cuộc bỏ phiếu có 10 % chuyển sang phe đối lập"
+            },
+            {
+              "full_en": "he is liable to abrupt swing in mood",
+              "full_vn": "nó dễ có thể thay đổi tâm tính đột ngột (từ sung sướng sang tuyệt vọng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cú đấm bạt, cú xuynh (quyền Anh)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the swing of the pendulum",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) khuynh hướng xen kẽ, khuynh hướng muốn để các đảng lần lượt lên nắm chính quyền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get in the swing (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thích nghi với một thói thường.."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go with a swing",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) có một nhịp điệu mạnh mẽ (thơ, (âm nhạc)..)"
+                },
+                {
+                  "im_full_vn": "sôi nổi, vui vẻ (giải trí..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the party went with a swing",
+                      "full_vn": "cuộc liên hoan diễn ra vui vẻ sôi nổi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go with a swing",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) có một nhịp điệu mạnh mẽ (thơ, (âm nhạc)..)"
+                },
+                {
+                  "im_full_vn": "sôi nổi, vui vẻ (giải trí..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the party went with a swing",
+                      "full_vn": "cuộc liên hoan diễn ra vui vẻ sôi nổi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go with a swing",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) có một nhịp điệu mạnh mẽ (thơ, (âm nhạc)..)"
+                },
+                {
+                  "im_full_vn": "sôi nổi, vui vẻ (giải trí..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the party went with a swing",
+                      "full_vn": "cuộc liên hoan diễn ra vui vẻ sôi nổi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "swing and roundabouts",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) vấn đề cân bằng lỗ lãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the swing of the pendulum",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thay đổi của dư luận công chúng từ cực này sang cực khác"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ, thì quá khứ và động tính từ quá khứ là swung",
+      "list_m": [
+        {
+          "m_full_vn": "(làm cho cái gì) đu đưa qua lại",
+          "list_en_vn": [
+            {
+              "full_en": "to swing a lamp on the ceiling",
+              "full_vn": "treo lủng lẳng cái đèn lên trần nhà"
+            },
+            {
+              "full_en": "to swing a hammock",
+              "full_vn": "mắc cái võng"
+            },
+            {
+              "full_en": "the lamp swings from the ceiling",
+              "full_vn": "đèn treo lủng lẳng trên trần nhà"
+            },
+            {
+              "full_en": "His arms swung /He swung his arms as he walked",
+              "full_vn": "Khi đi, hai cánh tay nó vung vẩy/nó vung vẩy hai cánh tay"
+            },
+            {
+              "full_en": "the bucket swung from the end of a rope",
+              "full_vn": "cái xô lúc lắc ở đầu dây"
+            },
+            {
+              "full_en": "the gymnast swung on the parallel bars",
+              "full_vn": "vận động viên thể dục đu đưa trên xà kép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh đu",
+          "list_en_vn": [
+            {
+              "full_en": "the ape swung (along ) from branch to branch",
+              "full_vn": "con khỉ chuyền từ cành này sang cành khác"
+            },
+            {
+              "full_en": "to swing into the saddle",
+              "full_vn": "đu mình lên yên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi nhún nhảy",
+          "list_en_vn": [
+            {
+              "full_en": "to swing out of the room",
+              "full_vn": "đi nhún nhảy ra khỏi phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(làm cho cái gì) di chuyển theo một đường cong; ngoặt",
+          "list_en_vn": [
+            {
+              "full_en": "she swung the rucksack (up ) onto her back",
+              "full_vn": "cô tá xốc cái ba lọ lên lưng"
+            },
+            {
+              "full_en": "to swing the telescope through 180 degrees",
+              "full_vn": "quay chiếc kính viễn vọng 180 độ"
+            },
+            {
+              "full_en": "the car swung sharply round the corner",
+              "full_vn": "chiếc xe hơi ngoặt gấp ở góc phố"
+            },
+            {
+              "full_en": "to swing to starboard",
+              "full_vn": "(hàng hải) quay ngoặt sang bên phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to swing around / round ) quay ngoắt lại"
+        },
+        {
+          "m_full_vn": "(âm nhạc) phổ thành nhạc xuynh"
+        },
+        {
+          "m_full_vn": "( to swing somebody from something to something ) (làm cho ai) thay đổi đột ngột từ ý kiến hoặc tâm trạng này sang ý kiến hoặc tâm trạng khác",
+          "list_en_vn": [
+            {
+              "full_en": "Voters have /Voting has swung to the left",
+              "full_vn": "Cử tri/Cuộc bỏ phiếu đã quay ngoắt sang tả"
+            },
+            {
+              "full_en": "He swings from wild optimism to total despair",
+              "full_vn": "Từ lạc quan điên cuồng, nó đã chuyển sang thất vọng hoàn toàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có một cảm giác hoặc chuyển động nhịp nhàng, nhún nhảy",
+          "list_en_vn": [
+            {
+              "full_en": "he can write music that really swings",
+              "full_vn": "ông ta có thể sáng tác âm nhạc thực sự có nhịp điệu nhún nhảy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành công trong việc giành được hoặc thực hiện cái gì, nhất là bằng những biện pháp không ngay thẳng; quanh co; xoay xở",
+          "list_one_mean": [
+            {
+              "id_full_en": "room to swing a cat",
+              "list_im": [
+                {
+                  "im_full_vn": "xem room"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swing into action",
+              "list_im": [
+                {
+                  "im_full_vn": "hành động mau lẹ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swing the lead",
+              "list_im": [
+                {
+                  "im_full_vn": "giả vờ đau ốm để trốn việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swing for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "bị treo cổ vì đã giết ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "That wretched child - I'll swing for him one of these days !",
+                      "full_vn": "Cái thằng ranh con khốn nạn - ắt phải có ngày tôi bị treo cổ vì nó!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swing for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "bị treo cổ vì đã giết ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "That wretched child - I'll swing for him one of these days !",
+                      "full_vn": "Cái thằng ranh con khốn nạn - ắt phải có ngày tôi bị treo cổ vì nó!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "can you swing it for me so that I get the job ?",
+              "full_vn": "anh có thể xoay xở thế nào để giúp tôi có được việc làm hay không?"
+            },
+            {
+              "full_en": "she managed to swing an interview with the Prince",
+              "full_vn": "cô ta đã xoay xở để được phỏng vấn Hoàng tử"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

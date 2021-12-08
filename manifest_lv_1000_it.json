@@ -1,0 +1,55 @@
+{
+  "english": "manifest",
+  "phat_am": "['mænifest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản kê khai hàng hoá chở trên tàu (để nộp sở thuế quan)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rõ ràng, hiển nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "a manifest truth",
+              "full_vn": "một sự thật hiển nhiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "biểu lộ, biểu thị, bày tỏ, chứng tỏ, chứng minh",
+          "list_en_vn": [
+            {
+              "full_en": "to manifest firm determination to fight to final victory",
+              "full_vn": "biểu lộ ý chí kiên quyết chiến đấu cho đến thắng lợi cuối cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kê khai vào bản kê khai (hàng hoá chở trên tàu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to manifest itself /themselves",
+              "list_im": [
+                {
+                  "im_full_vn": "hiện ra (ma)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

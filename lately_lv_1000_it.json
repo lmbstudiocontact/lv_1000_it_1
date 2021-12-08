@@ -1,0 +1,28 @@
+{
+  "english": "lately",
+  "phat_am": "['leitli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "vào thời gian gần đây; mới đây",
+          "list_en_vn": [
+            {
+              "full_en": "have you seen her lately ?",
+              "full_vn": "gần đây anh có gặp cô ta không?"
+            },
+            {
+              "full_en": "it's only lately that she's been well enough to go out",
+              "full_vn": "chỉ mới đây bà ta mới đủ sức khoẻ để ra khỏi nhà được"
+            },
+            {
+              "full_en": "we've been doing a lot of gardening lately",
+              "full_vn": "gần đây chúng tôi làm vườn rất nhiều"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

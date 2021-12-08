@@ -1,0 +1,265 @@
+{
+  "english": "over",
+  "phat_am": "['ouvə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể thao) sự giao bóng; cú giao bóng"
+        },
+        {
+          "m_full_vn": "(quân sự) phát đạn nổ quá mục tiêu"
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "lên; lên trên",
+          "list_en_vn": [
+            {
+              "full_en": "to put a rug over the sleeping child",
+              "full_vn": "đắp chăn lên đứa bé đang ngủ"
+            },
+            {
+              "full_en": "to spread a map over the table",
+              "full_vn": "trải bản đồ lên bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bên trên",
+          "list_en_vn": [
+            {
+              "full_en": "a lamp over our heads",
+              "full_vn": "một ngọn đèn trên đầu chúng tôi"
+            },
+            {
+              "full_en": "we have a roof over us",
+              "full_vn": "chúng tôi có một mái nhà ở trên đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khắp; trên khắp",
+          "list_en_vn": [
+            {
+              "full_en": "over the whole country",
+              "full_vn": "trên khắp đất nước"
+            },
+            {
+              "full_en": "all over the world",
+              "full_vn": "khắp thế giới; khắp hoàn cầu"
+            },
+            {
+              "full_en": "peace reigns over the land",
+              "full_vn": "hoà bình ngự trị trên khắp đất nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bên kia (sông...)",
+          "list_en_vn": [
+            {
+              "full_en": "a village over the river",
+              "full_vn": "một làng bên kia sông"
+            },
+            {
+              "full_en": "he lives over the way",
+              "full_vn": "nó sống bên kia đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngang qua; vượt qua",
+          "list_en_vn": [
+            {
+              "full_en": "a bridge over the river",
+              "full_vn": "cái cầu bắc ngang qua sông"
+            },
+            {
+              "full_en": "he jumps over the ditch",
+              "full_vn": "nó nhảy ngang qua hố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối với (theo nghĩa 'có ảnh hưởng đến')",
+          "list_en_vn": [
+            {
+              "full_en": "the Chinese father has great authority over his family",
+              "full_vn": "người cha Trung quốc có uy quyền lớn đối với gia đình mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hơn (ưu thế về số lượng, tuổi tác...)",
+          "list_en_vn": [
+            {
+              "full_en": "she is over fifty",
+              "full_vn": "bà ấy ngoài năm mươi tuổi"
+            },
+            {
+              "full_en": "he stays over two years",
+              "full_vn": "ông ta ở lại hơn hai năm"
+            },
+            {
+              "full_en": "over two million inhabitants",
+              "full_vn": "hơn hai triệu dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bằng; qua (nhờ một môi giới trung gian)",
+          "list_en_vn": [
+            {
+              "full_en": "I heard it over the radio",
+              "full_vn": "tôi nghe điều ấy qua đài phát thanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về (nói về)",
+          "list_en_vn": [
+            {
+              "full_en": "to talk over the matter",
+              "full_vn": "nói về vấn đề ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bận vào",
+          "list_en_vn": [
+            {
+              "full_en": "she is over her tea",
+              "full_vn": "cô ấy đang bận uống trà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "qua; sang",
+          "list_en_vn": [
+            {
+              "full_en": "to swim over",
+              "full_vn": "bơi qua"
+            },
+            {
+              "full_en": "to jump over",
+              "full_vn": "nhảy qua"
+            },
+            {
+              "full_en": "to turn over the next page",
+              "full_vn": "lật sang trang kế tiếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khắp; toàn bộ",
+          "list_en_vn": [
+            {
+              "full_en": "covered with dust all over",
+              "full_vn": "phủ đầy bụi khắp người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hết; xong (chỉ sự kết thúc)",
+          "list_en_vn": [
+            {
+              "full_en": "to read the story over",
+              "full_vn": "đọc hết câu chuyện"
+            },
+            {
+              "full_en": "to think over",
+              "full_vn": "suy nghĩ chu đáo"
+            },
+            {
+              "full_en": "the meeting is over",
+              "full_vn": "cuộc họp đã kết thúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lại; một lần nữa",
+          "list_en_vn": [
+            {
+              "full_en": "the work is badly done , it must be done over",
+              "full_vn": "công việc làm tồi, phải làm lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còn thừa; còn lại",
+          "list_en_vn": [
+            {
+              "full_en": "there was not much over",
+              "full_vn": "không còn lại nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngược lại",
+          "list_en_vn": [
+            {
+              "full_en": "to bend something over",
+              "full_vn": "bẻ ngược cái gì"
+            },
+            {
+              "full_en": "turn the meat over !",
+              "full_vn": "hãy lật miếng thịt lại!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "bên trên; phía ngoài; ngang qua",
+          "list_en_vn": [
+            {
+              "full_en": "to overwrite",
+              "full_vn": "viết đè lên; ghi đè lên"
+            },
+            {
+              "full_en": "overhead",
+              "full_vn": "ở trên đầu"
+            },
+            {
+              "full_en": "overcoat",
+              "full_vn": "áo khoác ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt quá; quá nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "over-tension",
+              "full_vn": "sự căng thẳng quá mức"
+            },
+            {
+              "full_en": "to overeat",
+              "full_vn": "ăn quá no"
+            },
+            {
+              "full_en": "to oversleep",
+              "full_vn": "ngủ quá giấc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thành ngữ"
+    }
+  ]
+}

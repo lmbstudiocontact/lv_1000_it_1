@@ -1,0 +1,81 @@
+{
+  "english": "relate",
+  "phat_am": "[ri'leit]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to relate something to somebody ) kể lại, thuật lại",
+          "list_en_vn": [
+            {
+              "full_en": "to relate a story",
+              "full_vn": "kể lại một câu chuyện"
+            },
+            {
+              "full_en": "please relate the events of the last week",
+              "full_vn": "xin vui lòng thuật lại những sự việc tuần rồi"
+            },
+            {
+              "full_en": "she related (to them ) how it happened",
+              "full_vn": "cô ta kể lại (cho họ biết) sự việc đã xảy ra như thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to relate something to / with something ) liên hệ, liên kết",
+          "list_en_vn": [
+            {
+              "full_en": "we cannot relate these phenomena with anything we know",
+              "full_vn": "chúng tôi không thể liên hệ những hiện tượng này với những cái chúng tôi biết"
+            },
+            {
+              "full_en": "it's difficult to relate cause and effect in this case",
+              "full_vn": "trong trường hợp này thật khó có thể liên hệ nhân với quả"
+            },
+            {
+              "full_en": "the report relates high wages with /to labour shortages",
+              "full_vn": "bản báo cáo gắn tiền công cao với tình trạng thiếu lao động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to relate to somebody / something ) có quan hệ, có liên quan, gắn liền với",
+          "list_en_vn": [
+            {
+              "full_en": "wealth is seldom related to happiness",
+              "full_vn": "sự giàu có ít khi gắn liền với hạnh phúc"
+            },
+            {
+              "full_en": "statements relating to his resignation",
+              "full_vn": "những tuyên bốliên quan đến sự từ chức của anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể hiểu và thông cảm với ai/cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "strange to relate /say",
+              "list_im": [
+                {
+                  "im_full_vn": "xem strange"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "some adults can't relate to children",
+              "full_vn": "một số người lớn không thể thông hiểu trẻ em"
+            },
+            {
+              "full_en": "I just can't relate to punk music",
+              "full_vn": "chính tôi cũng không hiểu được nhạc punk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

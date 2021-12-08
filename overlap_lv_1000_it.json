@@ -1,0 +1,33 @@
+{
+  "english": "overlap",
+  "phat_am": "[,ouvə'læp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự gối lên nhau, sự chồng chéo"
+        },
+        {
+          "m_full_vn": "phần đè lên nhau, phần gối lên nhau"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấn lên, gối lên, chồng chéo"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấn lên nhau, gối lên nhau"
+        }
+      ]
+    }
+  ]
+}

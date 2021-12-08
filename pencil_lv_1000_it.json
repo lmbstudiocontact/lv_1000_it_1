@@ -1,0 +1,65 @@
+{
+  "english": "pencil",
+  "phat_am": "['pensl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bút chì"
+        },
+        {
+          "m_full_vn": "vật hình bút chì",
+          "list_en_vn": [
+            {
+              "full_en": "an eyebrow pencil",
+              "full_vn": "bút kẻ lông mày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý); (toán học) hình chùm nhọn, chùm",
+          "list_en_vn": [
+            {
+              "full_en": "pencil of planes",
+              "full_vn": "chùm mặt phẳng"
+            },
+            {
+              "full_en": "pencil of straight lines",
+              "full_vn": "chùm đường thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lối vẽ, nét bút (của một hoạ sĩ)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) bút vẽ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết bằng bút chì, vẽ bằng bút chì, kẻ bằng bút chì, tô bằng bút chì, ghi bằng bút chì",
+          "list_en_vn": [
+            {
+              "full_en": "a pencilled drawing",
+              "full_vn": "bức tranh vẽ bằng bút chì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi (tên ngựa đua) vào sổ đánh cá"
+        },
+        {
+          "m_full_vn": "đánh bóng nhẹ bằng những đường vòng tròn đồng tâm hoặc song song"
+        },
+        {
+          "m_full_vn": "ghi tạm (nhật ký, lịch ghi nhớ)"
+        }
+      ]
+    }
+  ]
+}

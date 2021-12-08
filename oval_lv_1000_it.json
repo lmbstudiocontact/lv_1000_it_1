@@ -1,0 +1,66 @@
+{
+  "english": "oval",
+  "phat_am": "['ouvəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hình trái xoan; có hình bầu dục",
+          "list_en_vn": [
+            {
+              "full_en": "an oval brooch",
+              "full_vn": "một cái trâm hình trái xoan"
+            },
+            {
+              "full_en": "an oval-shaped face",
+              "full_vn": "một khuôn mặt trái xoan"
+            },
+            {
+              "full_en": "the mirror is oval",
+              "full_vn": "cái gương hình bầu dục"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình trái xoan, hình bầu dục",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Oval",
+              "list_im": [
+                {
+                  "im_full_vn": "sân crickê Ô-van (ở nam Luân-đôn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an oval shaped face",
+                      "full_vn": "khuôn mặt hình trái xoan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Oval",
+              "list_im": [
+                {
+                  "im_full_vn": "sân crickê Ô-van (ở nam Luân-đôn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an oval shaped face",
+                      "full_vn": "khuôn mặt hình trái xoan"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

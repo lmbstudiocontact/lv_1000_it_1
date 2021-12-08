@@ -1,0 +1,59 @@
+{
+  "english": "permit",
+  "phat_am": "[pə'mit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấy phép",
+          "list_en_vn": [
+            {
+              "full_en": "to grant a permit",
+              "full_vn": "cấp giấy phép"
+            },
+            {
+              "full_en": "export permit",
+              "full_vn": "giấy phép xuất khẩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cho phép"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho phép, cho cơ hội; thừa nhận (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "permit me to add that ...",
+              "full_vn": "cho phép tôi được nói thêm rằng..."
+            },
+            {
+              "full_en": "permit me to explain",
+              "full_vn": "cho phép tôi được giải thích"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + of ) cho phép, thừa nhận",
+          "list_en_vn": [
+            {
+              "full_en": "the situation does not permit of any delay",
+              "full_vn": "tình thế không cho phép bất kỳ sự trì hoãn nào"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

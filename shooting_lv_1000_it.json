@@ -1,0 +1,29 @@
+{
+  "english": "shooting",
+  "phat_am": "['∫u:tiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bắn, sự phóng đi"
+        },
+        {
+          "m_full_vn": "khu vực săn bắn"
+        },
+        {
+          "m_full_vn": "quyền săn bắn ở các khu vực quy định"
+        },
+        {
+          "m_full_vn": "sự sút (bóng)"
+        },
+        {
+          "m_full_vn": "cơn đau nhói"
+        },
+        {
+          "m_full_vn": "sự chụp ảnh, sự quay phim"
+        }
+      ]
+    }
+  ]
+}

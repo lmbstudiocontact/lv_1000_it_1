@@ -1,0 +1,214 @@
+{
+  "english": "string",
+  "phat_am": "[striη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây; sợi xe; dây bện",
+          "list_en_vn": [
+            {
+              "full_en": "a ball of string",
+              "full_vn": "một cuộn dây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thớ (thịt...); xơ (đậu...)"
+        },
+        {
+          "m_full_vn": "dây đàn"
+        },
+        {
+          "m_full_vn": "( the strings ) ( số nhiều) đàn dây",
+          "list_en_vn": [
+            {
+              "full_en": "to touch the strings",
+              "full_vn": "đánh đàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuỗi, chùm, túm, xâu; đoàn, dãy, loạt (người, vật)",
+          "list_en_vn": [
+            {
+              "full_en": "a string of pearls",
+              "full_vn": "một chuỗi hạt ngọc"
+            },
+            {
+              "full_en": "a string of onions",
+              "full_vn": "một xâu hành"
+            },
+            {
+              "full_en": "a string of horses",
+              "full_vn": "một đoàn ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thớ, xơ, gân (chất liệu cứng có xơ nối liền hai nửa một vỏ đậu..)"
+        },
+        {
+          "m_full_vn": "bảng ghi điểm (bia)"
+        },
+        {
+          "m_full_vn": "đàn ngựa đua (cùng luyện ở một chuồng)"
+        },
+        {
+          "m_full_vn": "vỉa nhỏ (than)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ( số nhiều) điều kiện ràng buộc (kèm theo quà biếu...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the first /second string",
+              "list_im": [
+                {
+                  "im_full_vn": "quân bài chủ/phụ"
+                },
+                {
+                  "im_full_vn": "điểm tựa chính/phụ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the first /second string",
+              "list_im": [
+                {
+                  "im_full_vn": "quân bài chủ/phụ"
+                },
+                {
+                  "im_full_vn": "điểm tựa chính/phụ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have /keep somebody on a string",
+              "list_im": [
+                {
+                  "im_full_vn": "điều khiển; cai quản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to harp on one string",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ chơi mãi một điệu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch a string",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) đụng đến tâm can"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with no strings attached /without strings",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không có điều kiện đặc biệt; không có sự hạn chế đặc biệt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ strung",
+      "list_m": [
+        {
+          "m_full_vn": "buộc bằng dây, treo bằng dây"
+        },
+        {
+          "m_full_vn": "lên (dây đàn); căng (dây)"
+        },
+        {
+          "m_full_vn": "làm căng thẳng, lên dây cót (nghĩa bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "highly strung nerves",
+              "full_vn": "thần kinh quá căng thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tước bỏ xơ (ở vỏ đậu)"
+        },
+        {
+          "m_full_vn": "xâu (hạt cườm...) thành chuỗi"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) chơi khăm, chơi xỏ"
+        },
+        {
+          "m_full_vn": "( + along ) cố tình đánh lừa ai (nhất là về niềm tin của mình)",
+          "list_en_vn": [
+            {
+              "full_en": "she has no intention of marrying him - she's just stringing him along",
+              "full_vn": "cô ta chẳng hề có ý định lấy nó - cô ta chỉ đánh lừa nó thôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + up ) (thông tục) treo cổ ai (nhất là không hợp pháp)"
+        },
+        {
+          "m_full_vn": "( + together ) kết hợp (từ, cụm từ..) tạo nên những lời phát biểu có ý nghĩa"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "căng dây lên (một cái cung, viôlông..)",
+          "list_en_vn": [
+            {
+              "full_en": "loosely strung",
+              "full_vn": "buộc dây lỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kéo dài ra thành dây; chảy thành dây (hồ, keo...)"
+        },
+        {
+          "m_full_vn": "( + along ) lẵng nhẵng",
+          "list_en_vn": [
+            {
+              "full_en": "she decided to string along with the others as she had nothings else to do !",
+              "full_vn": "cô ta quyết định lẽo đẽo đi theo những người khác vì chẳng có việc gì khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh mở đầu (bi a, để (xem) ai được đi trước)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to string along with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đi với ai, đi theo ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to string up somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "treo cổ ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

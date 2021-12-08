@@ -1,0 +1,102 @@
+{
+  "english": "material",
+  "phat_am": "[mə'tiəriəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật chất; hữu hình",
+          "list_en_vn": [
+            {
+              "full_en": "the material world",
+              "full_vn": "thế giới vật chất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về sự thoải mái về cơ thể; về nhu cầu xác thịt",
+          "list_en_vn": [
+            {
+              "full_en": "our material needs",
+              "full_vn": "nhu cầu vật chất của chúng ta (đồ ăn, thức uống)"
+            },
+            {
+              "full_en": "you think too much of material comforts",
+              "full_vn": "anh quá thiên về tiện nghi vật chất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quan trọng, trọng đại, cần thiết",
+          "list_en_vn": [
+            {
+              "full_en": "material evidence",
+              "full_vn": "bằng chứng xác đáng"
+            },
+            {
+              "full_en": "the witness held back material facts",
+              "full_vn": "nhân chứng đã giấu những sự việc quan trọng"
+            },
+            {
+              "full_en": "food is extremely material to man",
+              "full_vn": "thức ăn hết sức cần thiết cho con người"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguyên liệu, vật liệu",
+          "list_en_vn": [
+            {
+              "full_en": "raw materials for industry",
+              "full_vn": "nguyên liệu dùng cho công nghiệp"
+            },
+            {
+              "full_en": "building materials",
+              "full_vn": "vật liệu xây dựng (gạch, gỗ, cát...)"
+            },
+            {
+              "full_en": "writing materials",
+              "full_vn": "văn phòng phẩm (bút, giấy, mực...)"
+            },
+            {
+              "full_en": "he is not officer material",
+              "full_vn": "nó không phải loại người để làm một sĩ quan tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tài liệu",
+          "list_en_vn": [
+            {
+              "full_en": "material for a book",
+              "full_vn": "tài liệu để viết một cuốn sách"
+            },
+            {
+              "full_en": "to collect material for a reportage",
+              "full_vn": "thu thập tài liệu cho một bài phóng sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vải",
+          "list_en_vn": [
+            {
+              "full_en": "enough material to make two dresses",
+              "full_vn": "đủ vải để may hai cái áo"
+            },
+            {
+              "full_en": "we sell the best materials",
+              "full_vn": "chúng tôi bán những loại vải tốt nhất"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

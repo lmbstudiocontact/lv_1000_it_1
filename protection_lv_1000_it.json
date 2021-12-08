@@ -1,0 +1,51 @@
+{
+  "english": "protection",
+  "phat_am": "[prə'tek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bảo vệ, sự bảo hộ, sự che chở; sự bảo trợ",
+          "list_en_vn": [
+            {
+              "full_en": "under someone's protection",
+              "full_vn": "dưới sự che chở của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người bảo vệ, người che chở; vật bảo vệ, vật che chở"
+        },
+        {
+          "m_full_vn": "biện pháp bảo hộ hàng nội địa"
+        },
+        {
+          "m_full_vn": "sự đút lót bọn cướp, sự làm tiền (để khỏi bị quấy phá trong chuyện kinh doanh); tiền đút lót (cho cướp) ( protection money )"
+        },
+        {
+          "m_full_vn": "giấy thông hành"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) giấy chứng nhận quốc tịch (phát cho thuỷ thủ)"
+        },
+        {
+          "m_full_vn": "chế độ bảo vệ nền công nghiệp trong nước"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) tiền trả cho bọn tống tiền; tiền hối lộ (cho chức trách để bao che cho những hành động phạm pháp)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to live under someone's protection",
+              "list_im": [
+                {
+                  "im_full_vn": "được ai bao (đàn bà)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

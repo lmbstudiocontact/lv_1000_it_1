@@ -1,0 +1,56 @@
+{
+  "english": "third",
+  "phat_am": "[θə:d]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thứ ba",
+          "list_en_vn": [
+            {
+              "full_en": "third day",
+              "full_vn": "ngày thứ ba"
+            },
+            {
+              "full_en": "third person",
+              "full_vn": "người thứ ba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một phần ba",
+          "list_en_vn": [
+            {
+              "full_en": "the third of 24 is 8",
+              "full_vn": "một phần ba của 24 là 8"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thứ ba; vật thứ ba; ngày mồng ba",
+          "list_en_vn": [
+            {
+              "full_en": "the third of April",
+              "full_vn": "ngày mồng ba tháng tư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) quãng ba; âm ba"
+        },
+        {
+          "m_full_vn": "hạng thứ ba của bằng cấp đại học"
+        },
+        {
+          "m_full_vn": "(toán học); (thiên văn học) một phần sáu mươi của giây"
+        }
+      ]
+    }
+  ]
+}

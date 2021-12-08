@@ -1,0 +1,46 @@
+{
+  "english": "peacock",
+  "phat_am": "['pi:kɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con công trống",
+          "list_one_mean": [
+            {
+              "id_full_en": "proud as a peacock",
+              "list_im": [
+                {
+                  "im_full_vn": "như proud"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "peacock feathers",
+              "full_vn": "lông công"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vênh vang; đi vênh vang; làm bộ làm tịch, khoe mẽ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to peacock oneself upon ) vênh vang; làm bộ làm tịch về, khoe mẽ (cái gì)"
+        }
+      ]
+    }
+  ]
+}

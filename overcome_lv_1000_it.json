@@ -1,0 +1,50 @@
+{
+  "english": "overcome",
+  "phat_am": "[,ouvə'kʌm]",
+  "list_type": [
+    {
+      "type": "động từ overcame ; overcome",
+      "list_m": [
+        {
+          "m_full_vn": "thắng, chiến thắng",
+          "list_en_vn": [
+            {
+              "full_en": "we shall overcome !",
+              "full_vn": "Chúng ta sẽ chiến thắng!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tìm cách vượt qua"
+        },
+        {
+          "m_full_vn": "khắc phục; đánh bại (khó khăn...)",
+          "list_en_vn": [
+            {
+              "full_en": "overcome a bad habit",
+              "full_vn": "bỏ được thói xấu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động tính từ quá khứ",
+      "list_m": [
+        {
+          "m_full_vn": "kiệt sức, mất tự chủ; mất tinh thần",
+          "list_en_vn": [
+            {
+              "full_en": "overcome by hunger",
+              "full_vn": "đói mèm"
+            },
+            {
+              "full_en": "overcome by (with ) liquor (drink )",
+              "full_vn": "say mèm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

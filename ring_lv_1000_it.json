@@ -1,0 +1,446 @@
+{
+  "english": "ring",
+  "phat_am": "[riη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiếc nhẫn"
+        },
+        {
+          "m_full_vn": "cái đai (thùng...)"
+        },
+        {
+          "m_full_vn": "cái vòng; vòng tròn",
+          "list_en_vn": [
+            {
+              "full_en": "to dance in a ring",
+              "full_vn": "nhảy vòng tròn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the ring ) môn quyền anh"
+        },
+        {
+          "m_full_vn": "vũ đài, nơi biểu diễn xiếc, vòng đua (hình tròn).."
+        },
+        {
+          "m_full_vn": "vòng người vây quanh (để (xem) cái gì...); vòng cây cối (đồ vật) bao quanh, được xếp thành hình tròn"
+        },
+        {
+          "m_full_vn": "quầng (mặt trăng, mắt...)",
+          "list_en_vn": [
+            {
+              "full_en": "the moon lies in the middle of a ring of light",
+              "full_vn": "mặt trăng nằm giữa một quầng sáng"
+            },
+            {
+              "full_en": "to have rings round the eyes",
+              "full_vn": "có quầng mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm con buôn, bọn gián điệp, ổ cướp..",
+          "list_en_vn": [
+            {
+              "full_en": "a ring of dealers at a public auction",
+              "full_vn": "một nhóm con buôn trong một cuộc đấu giá"
+            },
+            {
+              "full_en": "spy ring",
+              "full_vn": "ổ gián điệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghiệp đoàn, cacten (trong kinh doanh)"
+        },
+        {
+          "m_full_vn": "(chính trị) nhóm chính trị, phe phái",
+          "list_en_vn": [
+            {
+              "full_en": "political ring",
+              "full_vn": "nhóm chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the ring ) bọn đánh cá ngựa chuyên nghiệp (chuyên nhận tiền của người khác để đánh thuê)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vòng, vòng đai, vành khung.."
+        },
+        {
+          "m_full_vn": "(thực vật học) vòng gỗ hằng năm (của cây)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to keep (hold ) the ring",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) giữ thái độ trung lập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make (run ) rings round somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy nhanh hơn ai gấp trăm lần, làm nhanh hơn ai gấp trăm lần; hơn hẳn, bỏ xa ai, vượt xa ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đeo nhẫn cho (ai), đeo vòng cho (ai)"
+        },
+        {
+          "m_full_vn": "xỏ vòng mũi cho (trâu, bò)"
+        },
+        {
+          "m_full_vn": "đánh đai (thùng)",
+          "list_en_vn": [
+            {
+              "full_en": "to ring a barrel",
+              "full_vn": "đánh đai một cái thùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + round , in , about ) bao vây, vây quanh; đi vòng quanh, chạy quanh vòng để dồn (súc vật...) vào"
+        },
+        {
+          "m_full_vn": "cắt (hành, khoai...) thành khoanh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ring the round",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bỏ xa, hơn rất nhiều, vượt xa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ chuông, chùm chuông (nhà thờ)"
+        },
+        {
+          "m_full_vn": "tiếng chuông; sự rung chuông",
+          "list_en_vn": [
+            {
+              "full_en": "to give the bell a ring",
+              "full_vn": "rung chuông"
+            },
+            {
+              "full_en": "to hear a ring at the door",
+              "full_vn": "nghe thấy tiếng chuông ở cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng chuông điện thoại; sự gọi dây nói",
+          "list_en_vn": [
+            {
+              "full_en": "to give someone a ring",
+              "full_vn": "gọi dây nói cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng rung, tiếng rung ngân, tiếng leng keng (của kim loại)",
+          "list_en_vn": [
+            {
+              "full_en": "the ring of a coin",
+              "full_vn": "tiếng leng keng của đồng tiền"
+            },
+            {
+              "full_en": "the ring of one's voice",
+              "full_vn": "tiếng ngân của giọng nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẻ",
+          "list_en_vn": [
+            {
+              "full_en": "there is a ring of sincerity in his words",
+              "full_vn": "lời nói của anh ta có vẻ thành thật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ rang , rung",
+      "list_m": [
+        {
+          "m_full_vn": "rung, reo, kêu keng keng (chuông)",
+          "list_en_vn": [
+            {
+              "full_en": "the bell rings",
+              "full_vn": "chuông reo, chuông kêu leng keng"
+            },
+            {
+              "full_en": "the telephone is ringing",
+              "full_vn": "chuông điện thoại đang réo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rung vang, ngân vang, vang lên",
+          "list_en_vn": [
+            {
+              "full_en": "her laughter rang loud and clear",
+              "full_vn": "tiếng cười của cô ta vang lên lanh lảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "văng vẳng (trong tai...)",
+          "list_en_vn": [
+            {
+              "full_en": "his last words still ring in my ears",
+              "full_vn": "lời nói cuối cùng của ông ta còn văng vẳng bên tai tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghe có vẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to ring true",
+              "full_vn": "nghe có vẻ thật"
+            },
+            {
+              "full_en": "to ring false (hollow )",
+              "full_vn": "nghe vó vẻ giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ù lên, kêu o o, kêu vo vo (tai)",
+          "list_en_vn": [
+            {
+              "full_en": "my ears are ringing",
+              "full_vn": "tai tôi cứ ù lên, tai tôi cứ kêu vo vo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rung chuông gọi, rung chuông báo hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "the bell was ringing for dinner",
+              "full_vn": "chuông rung báo giờ ăn cơm"
+            },
+            {
+              "full_en": "to ring at the door",
+              "full_vn": "rung chuông gọi cửa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rung, làm kêu leng keng (chuông...)"
+        },
+        {
+          "m_full_vn": "rung chuông báo hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "to ring the alarm",
+              "full_vn": "rung chuông báo động"
+            },
+            {
+              "full_en": "to ring a burial",
+              "full_vn": "rung chuông báo hiệu giờ làm lễ mai táng"
+            },
+            {
+              "full_en": "to ring down the curtain",
+              "full_vn": "rung chuông hạ màn"
+            },
+            {
+              "full_en": "to up the curtain",
+              "full_vn": "rung chuông mở màn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gõ xem thật hay gỉa, gieo xem thật hay giả (đóng tiền)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ring in",
+              "list_im": [
+                {
+                  "im_full_vn": "rung chuông đón vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ring in the New Year",
+                      "full_vn": "rung chuông đón mừng năm mới"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring in",
+              "list_im": [
+                {
+                  "im_full_vn": "rung chuông đón vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ring in the New Year",
+                      "full_vn": "rung chuông đón mừng năm mới"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngừng nói chuyện bằng điện thoại; mắc ống nói lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring out",
+              "list_im": [
+                {
+                  "im_full_vn": "vang lên"
+                },
+                {
+                  "im_full_vn": "rung chuông tiễn mời ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ring out the old year",
+                      "full_vn": "rung chuông tiễn năm cũ đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring out",
+              "list_im": [
+                {
+                  "im_full_vn": "vang lên"
+                },
+                {
+                  "im_full_vn": "rung chuông tiễn mời ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ring out the old year",
+                      "full_vn": "rung chuông tiễn năm cũ đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring out",
+              "list_im": [
+                {
+                  "im_full_vn": "vang lên"
+                },
+                {
+                  "im_full_vn": "rung chuông tiễn mời ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ring out the old year",
+                      "full_vn": "rung chuông tiễn năm cũ đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring up",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi dây nói",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ring somebody up",
+                      "full_vn": "gọi dây nói cho ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring up",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi dây nói",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ring somebody up",
+                      "full_vn": "gọi dây nói cho ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring the bell",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bell"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring the changes on a subject",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) change"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring the knell of",
+              "list_im": [
+                {
+                  "im_full_vn": "báo hiệu sự kết thúc của, báo hiệu sự sụp đổ của; báo hiệu sự cáo chung của"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ring off !",
+              "list_im": [
+                {
+                  "im_full_vn": "huộc ryến giát im đi!"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to ring a coin",
+              "full_vn": "gõ (gieo) đồng tiền xem thật hay giả"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

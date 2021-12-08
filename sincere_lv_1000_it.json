@@ -1,0 +1,29 @@
+{
+  "english": "sincere",
+  "phat_am": "[sin'siə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành thật, ngay thật, chân thật; thật; không giả vờ (về tình cảm, cách ứng xử)",
+          "list_en_vn": [
+            {
+              "full_en": "It is my sincere belief that ..",
+              "full_vn": "niềm tin chân thành của tôi là..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thật thà, chân thành, thẳng thắn (về người)",
+          "list_en_vn": [
+            {
+              "full_en": "a sincere Christian",
+              "full_vn": "một tính đồ Cơ đốc giáo chân thành"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

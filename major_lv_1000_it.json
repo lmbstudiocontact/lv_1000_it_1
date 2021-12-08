@@ -1,0 +1,81 @@
+{
+  "english": "major",
+  "phat_am": "['meidʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) thiếu tá (lục quân)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) điệu trưởng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) con trai đến tuổi thành niên ( 21 tuổi)"
+        },
+        {
+          "m_full_vn": "môn học chính của một sinh viên; chuyên đề; chuyên ngành",
+          "list_en_vn": [
+            {
+              "full_en": "her major is information technology",
+              "full_vn": "chuyên đề của cô ta là công nghệ thông tin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (cũng) major leagues các liên đoàn thể thao trình độ cao (nhất là môn bóng chày và khúc côn cầu trên băng)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lớn (hơn), nhiều (hơn), trọng đại, chủ yếu",
+          "list_en_vn": [
+            {
+              "full_en": "for the major part",
+              "full_vn": "phần lớn, phần nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguy hiểm, nghiêm trong"
+        },
+        {
+          "m_full_vn": "anh, lớn (dùng trong trường hợp có hai anh em cùng trường)",
+          "list_en_vn": [
+            {
+              "full_en": "Smith major",
+              "full_vn": "Xmít anh, Xmít lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) trưởng"
+        },
+        {
+          "m_full_vn": "đến tuổi trưởng thành"
+        },
+        {
+          "m_full_vn": "(thuộc) chuyên đề (của một sinh viên)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) chuyên về (một môn gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to major in history",
+              "full_vn": "chuyên về môn sử"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

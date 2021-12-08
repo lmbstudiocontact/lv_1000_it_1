@@ -1,0 +1,86 @@
+{
+  "english": "represent",
+  "phat_am": "[,ri:pri'zent]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "miêu tả, hình dung",
+          "list_en_vn": [
+            {
+              "full_en": "this picture represents the Nghe Tinh Soviets insurrection",
+              "full_vn": "bức tranh này miêu tả cuộc khởi nghĩa Xô viết Nghệ Tĩnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trình bày"
+        },
+        {
+          "m_full_vn": "tuyên bố cái gì như lời phản đối, như lời thỉnh cầu"
+        },
+        {
+          "m_full_vn": "đại diện cho, là hình tượng của, tượng trưng cho; biểu trưng",
+          "list_en_vn": [
+            {
+              "full_en": "phonetic symbols represent sounds",
+              "full_vn": "các ký hiệu phiên âm tượng trưng cho các âm"
+            },
+            {
+              "full_en": "the rose represents the loving",
+              "full_vn": "hoa hồng tượng trưng cho tình yêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiêu biểu cho, là mẫu mực, là hiện thân của (cái gì); điển hình của",
+          "list_en_vn": [
+            {
+              "full_en": "he represents the best traditions of his country",
+              "full_vn": "ông ta tiêu biểu cho truyền thống tốt đẹp nhất của đất nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là kết quả của (cái gì); tương ứng với",
+          "list_en_vn": [
+            {
+              "full_en": "this new car represents years of research",
+              "full_vn": "chiếc xe ô tô mới này là kết quả của nhiều năm nghiên cứu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thay mặt, làm người thay thế, đại diện cho; làm phát ngôn viên cho (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to represent the people",
+              "full_vn": "đại diện cho nhân dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng (một vai kịch); diễn (một vở kịch)"
+        },
+        {
+          "m_full_vn": "cho là",
+          "list_en_vn": [
+            {
+              "full_en": "to represent oneself as a write",
+              "full_vn": "tự cho mình là một nhà văn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nộp (hoá đơn..) một lần nữa để thanh toán"
+        }
+      ]
+    }
+  ]
+}

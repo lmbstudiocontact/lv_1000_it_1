@@ -1,0 +1,59 @@
+{
+  "english": "them",
+  "phat_am": "[ðem]",
+  "list_type": [
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "chúng, chúng nó, họ",
+          "list_en_vn": [
+            {
+              "full_en": "there were three of them",
+              "full_vn": "chúng nó cả thảy có ba đứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng một cách thân mật thay cho him hoặc her )",
+          "list_one_mean": [
+            {
+              "id_full_en": "them and us",
+              "list_im": [
+                {
+                  "im_full_vn": "những người giàu có hoặc quyền thế tương phản với những con người bình thường như (những) người đang nói",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we should try to get away from a 'them and us' attitude in industrial relations",
+                      "full_vn": "chúng ta cần phải cố gắng tránh cái thái độ phân biệt 'các ông, các bà và chúng tôi' trong quan hệ chủ thợ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "them and us",
+              "list_im": [
+                {
+                  "im_full_vn": "những người giàu có hoặc quyền thế tương phản với những con người bình thường như (những) người đang nói",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we should try to get away from a 'them and us' attitude in industrial relations",
+                      "full_vn": "chúng ta cần phải cố gắng tránh cái thái độ phân biệt 'các ông, các bà và chúng tôi' trong quan hệ chủ thợ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "If a customer comes in before I get back ask them to wait",
+              "full_vn": "nếu có khách hàng đến trước khi tôi trở về thì bảo họ đợi nhé"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

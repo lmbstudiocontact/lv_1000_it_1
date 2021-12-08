@@ -1,0 +1,77 @@
+{
+  "english": "lively",
+  "phat_am": "['laivli]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sống, sinh động, giống như thật",
+          "list_en_vn": [
+            {
+              "full_en": "a lively portrait",
+              "full_vn": "một bức chân dung giống như thật"
+            },
+            {
+              "full_en": "a lively novel",
+              "full_vn": "một cuốn tiểu thuyết sinh động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vui vẻ; hoạt bát hăng hái, năng nổ, sôi nổi",
+          "list_en_vn": [
+            {
+              "full_en": "a lively youth",
+              "full_vn": "một thanh niên hăng hái hoạt bát"
+            },
+            {
+              "full_en": "a lively discussion",
+              "full_vn": "một cuộc tranh luận sôi nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó khăn, nguy hiểm, thất điên bát đảo",
+          "list_en_vn": [
+            {
+              "full_en": "to make it lively for one's enemy",
+              "full_vn": "làm cho địch thất điên bát đảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắc sảo; tươi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make things lively for sb",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai thất kinh, làm cho ai kinh hồn bạt vía"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a livebirth",
+              "list_im": [
+                {
+                  "im_full_vn": "(pháp lý) trẻ sinh ra còn sống"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "lively colour",
+              "full_vn": "sắc tươi, màu tươi"
+            },
+            {
+              "full_en": "lively look",
+              "full_vn": "cái nhìn sắc sảo, cái nhìn tinh nhanh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

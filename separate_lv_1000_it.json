@@ -1,0 +1,134 @@
+{
+  "english": "separate",
+  "phat_am": "['sepəreit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( separate from somebody / something ) tự nó tạo thành một đơn vị; tồn tại riêng rẽ; riêng biệt",
+          "list_en_vn": [
+            {
+              "full_en": "the children sleep in separate beds",
+              "full_vn": "bọn trẻ ngủ trong từng giừơng riêng (bọn trẻ không ngủ chung giừơng với nhau, vì em nào (cũng) có giừơng riêng)"
+            },
+            {
+              "full_en": "backsliders are kept separate from first offenders",
+              "full_vn": "những kẻ tái phạm được nhốt riêng với những người mới phạm tội lần đầu"
+            },
+            {
+              "full_en": "they lead separate lives",
+              "full_vn": "họ sống riêng biệt với nhau (không sống và làm việc chung với nhau)"
+            },
+            {
+              "full_en": "we can't work together anymore , I think it's time we went our separate ways",
+              "full_vn": "chúng ta không làm việc chung với nhau được nữa, đã đến lùc đường ai nấy đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tách rời nhau; không dính với nhau; khác nhau",
+          "list_en_vn": [
+            {
+              "full_en": "the two questions are essentially separate",
+              "full_vn": "về căn bản, hai vấn đề đó không dính với nhau"
+            },
+            {
+              "full_en": "it happened on three separate occasions",
+              "full_vn": "chuyện đó xảy ra ở ba trường hợp khác nhau"
+            },
+            {
+              "full_en": "separate maintenance",
+              "full_vn": "tiền cấp cho vợ (sau khi đã thoả thuận không ở với nhau nữa)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều separates",
+      "list_m": [
+        {
+          "m_full_vn": "bản in rời (bài trích ở báo...)"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần áo rời; quần, áo lẻ (mặc lại thành những bộ khác nhau)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to separate somebody / something from somebody / something ) ( to separate something into something ) làm rời ra, tách rời ra",
+          "list_en_vn": [
+            {
+              "full_en": "the two parts of the pipe have separated at the joint",
+              "full_vn": "hai phần của ống tẩu đã rời ra ở chỗ nối"
+            },
+            {
+              "full_en": "the branch has separated from the trunk of the tree",
+              "full_vn": "cành đã lìa ra khỏi thân cây"
+            },
+            {
+              "full_en": "the land has been separated (up ) into small plots",
+              "full_vn": "đất đai được phân ra thành từng mảnh nhỏ"
+            },
+            {
+              "full_en": "the children were separated into small groups for the game",
+              "full_vn": "bọn trẻ con được chia thành nhiều nhóm nhỏ để chơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to separate something from something ) (làm cho cái gì) ngưng kết hợp thành một hỗn hợp lỏng",
+          "list_en_vn": [
+            {
+              "full_en": "oil and water always separate out",
+              "full_vn": "dầu và nước luôn tách rời nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to separate something from something ) nằm hoặc đứng giữa (hai nước, khu vực.....) để tách rời hai bên",
+          "list_en_vn": [
+            {
+              "full_en": "a deep gorge separates the two halves of the city",
+              "full_vn": "một hẻm núi sâu chia thành phố làm đôi"
+            },
+            {
+              "full_en": "this range of mountain separates the two countries",
+              "full_vn": "dãy núi này phân cách hai xứ"
+            },
+            {
+              "full_en": "England is separated from France by the Channel",
+              "full_vn": "nước Anh ngăn cách với nước Pháp bởi biển Măng-sơ"
+            },
+            {
+              "full_en": "politics is the only thing which separates us",
+              "full_vn": "chính trị là điều duy nhất ngăn cách chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về người) chia taynhau",
+          "list_en_vn": [
+            {
+              "full_en": "we talked until midnight and then separated",
+              "full_vn": "chúng tôi nói chuyện đến nửa đêm rồi mới chia tay nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không sống với nhau như vợ chồng nữa; chia tay; ly thân",
+          "list_en_vn": [
+            {
+              "full_en": "after ten years of marriage , they decided to separate",
+              "full_vn": "sau mười năm chung sống với nhau, họ quyết định ly thân"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

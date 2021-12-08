@@ -1,0 +1,74 @@
+{
+  "english": "minus",
+  "phat_am": "['mainəs]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừ",
+          "list_en_vn": [
+            {
+              "full_en": "7 minus 3 equals to 4",
+              "full_vn": "7 trừ 3 bằng 4"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dưới số không; âm",
+          "list_en_vn": [
+            {
+              "full_en": "a temperature of minus ten degrees centigrade",
+              "full_vn": "nhiệt độ âm 10 độ C"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiếu; không có",
+          "list_en_vn": [
+            {
+              "full_en": "I am minus my wrist-watch",
+              "full_vn": "hôm nay tôi không có đồng hồ đeo tay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừ; âm",
+          "list_en_vn": [
+            {
+              "full_en": "minus charge",
+              "full_vn": "(vật lý) điện tích âm"
+            },
+            {
+              "full_en": "he got B minus in midyears",
+              "full_vn": "nó được B trừ trong kỳ thi giữa năm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) như minus sign",
+          "list_one_mean": [
+            {
+              "id_full_en": "to consider the pluses and minuses",
+              "list_im": [
+                {
+                  "im_full_vn": "cân nhắc điều lợi và điều hại; cân nhắc lợi hại"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

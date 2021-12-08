@@ -1,0 +1,28 @@
+{
+  "english": "seldom",
+  "phat_am": "['seldəm]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ít khi, hiếm khi; không thường",
+          "list_en_vn": [
+            {
+              "full_en": "seldom or never",
+              "full_vn": "ít khi hoặc không khi nào cả"
+            },
+            {
+              "full_en": "very seldom",
+              "full_vn": "rất ít khi"
+            },
+            {
+              "full_en": "not seldom",
+              "full_vn": "thường thường"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

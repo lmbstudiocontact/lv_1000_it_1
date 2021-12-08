@@ -1,0 +1,36 @@
+{
+  "english": "sometimes",
+  "phat_am": "['sʌmtaimz]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thỉnh thoảng, đôi khi, đôi lúc",
+          "list_en_vn": [
+            {
+              "full_en": "he sometimes writes to me",
+              "full_vn": "thỉnh thoảng nó có viết thư cho tôi"
+            },
+            {
+              "full_en": "I have sometimes thought of it",
+              "full_vn": "đôi khi tôi cũng nghĩ về việc đó"
+            },
+            {
+              "full_en": "Sometimes I go by car",
+              "full_vn": "đôi lúc tôi đi bằng xe hơi"
+            },
+            {
+              "full_en": "it is sometimes hot and sometimes cold",
+              "full_vn": "trời có lúc nóng lúc lạnh"
+            },
+            {
+              "full_en": "sometimes we went to the beach and at other times we sunbathed on the patio",
+              "full_vn": "lúc thì chúng tôi ra bãi biển, lúc thì chúng tôi tắm nắng ở sân trong"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

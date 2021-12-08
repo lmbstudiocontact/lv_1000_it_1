@@ -1,0 +1,60 @@
+{
+  "english": "sphere",
+  "phat_am": "[sfiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình cầu"
+        },
+        {
+          "m_full_vn": "khối cầu, quả cầu; mặt cầu"
+        },
+        {
+          "m_full_vn": "(thơ ca) bầu trời, vũ trụ; thiên thể, thiên cầu"
+        },
+        {
+          "m_full_vn": "lãnh vực hoạt động, phạm vi; tầm ảnh hưởng",
+          "list_en_vn": [
+            {
+              "full_en": "sphere of action",
+              "full_vn": "khu vực ảnh hưởng"
+            },
+            {
+              "full_en": "that does not come withing my sphere",
+              "full_vn": "việc ấy không thuộc phạm vi quyền lực của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giới, vị trí xã hội; chỗ đứng trong xã hội",
+          "list_one_mean": [
+            {
+              "id_full_en": "doctrine of the sphere",
+              "list_im": [
+                {
+                  "im_full_vn": "hình học và lượng giác cầu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho vào trong một quả cầu"
+        },
+        {
+          "m_full_vn": "làm thành hình cầu"
+        },
+        {
+          "m_full_vn": "(thơ ca) tâng bốc lên tận mây xanh"
+        }
+      ]
+    }
+  ]
+}

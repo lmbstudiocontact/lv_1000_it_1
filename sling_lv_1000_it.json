@@ -1,0 +1,68 @@
+{
+  "english": "sling",
+  "phat_am": "[sliη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) rượu mạnh pha đường và nước nóng"
+        },
+        {
+          "m_full_vn": "ná bắn đá"
+        },
+        {
+          "m_full_vn": "súng cao su"
+        },
+        {
+          "m_full_vn": "băng đeo (để đỡ một cánh tay.. gẫy)"
+        },
+        {
+          "m_full_vn": "dây quàng, cái quang đeo (để đỡ, để nâng một cái thùng..)",
+          "list_en_vn": [
+            {
+              "full_en": "rifle sling",
+              "full_vn": "dây đeo súng"
+            },
+            {
+              "full_en": "sling of a knapsack",
+              "full_vn": "dây đeo ba lô"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ slung",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) bắn, quăng, ném mạnh"
+        },
+        {
+          "m_full_vn": "đeo, treo, móc"
+        },
+        {
+          "m_full_vn": "quàng dây (vào vật gì để kéo lên)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sling ink",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) viết báo, viết văn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sling one's hook",
+              "list_im": [
+                {
+                  "im_full_vn": "ra đi; chuồn; cuốn xéo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

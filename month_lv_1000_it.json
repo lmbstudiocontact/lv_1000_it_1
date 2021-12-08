@@ -1,0 +1,86 @@
+{
+  "english": "month",
+  "phat_am": "[mʌnθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(cũng) calendar month một trong mười hai thời kỳ trong một năm; tháng",
+          "list_one_mean": [
+            {
+              "id_full_en": "month's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "lễ cầu kinh một tháng sau khi chết; lễ giỗ ba mươi ngày"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for /in a month of Sundays",
+              "list_im": [
+                {
+                  "im_full_vn": "một thời gian rất dài; lâu lắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've not seen her for /in a month of Sundays",
+                      "full_vn": "đã lâu lắm rồi tôi không thấy cô ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for /in a month of Sundays",
+              "list_im": [
+                {
+                  "im_full_vn": "một thời gian rất dài; lâu lắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've not seen her for /in a month of Sundays",
+                      "full_vn": "đã lâu lắm rồi tôi không thấy cô ấy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "lunar month",
+              "full_vn": "tháng âm lịch"
+            },
+            {
+              "full_en": "solar month",
+              "full_vn": "tháng dương lịch"
+            },
+            {
+              "full_en": "she earns 4000 dollars a month",
+              "full_vn": "cô ấy kiếm được 4000 đô la một tháng (mỗi tháng cô ấy kiếm được 4000 đô la)"
+            },
+            {
+              "full_en": "the baby is three months old",
+              "full_vn": "đứa bé được ba tháng tuổi"
+            },
+            {
+              "full_en": "several months later",
+              "full_vn": "vài tháng sau"
+            },
+            {
+              "full_en": "the first few months of marriage",
+              "full_vn": "vài tháng đầu tiên sau ngày cưới"
+            },
+            {
+              "full_en": "a six-month contract",
+              "full_vn": "một hợp đồng sáu tháng"
+            },
+            {
+              "full_en": "a seven-month-old baby",
+              "full_vn": "đứa bé bảy tháng tuổi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

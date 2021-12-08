@@ -1,0 +1,124 @@
+{
+  "english": "marry",
+  "phat_am": "['mæri]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy (ai) làm vợ làm chồng",
+          "list_en_vn": [
+            {
+              "full_en": "they married when they were young",
+              "full_vn": "họ lấy nhau từ khi còn trẻ"
+            },
+            {
+              "full_en": "she didn't marry until she was over fifty",
+              "full_vn": "mãi ngoài năm mươi tuổi, bà ấy mới lấy chồng"
+            },
+            {
+              "full_en": "he married again six months after the divorce",
+              "full_vn": "sau khi ly hôn được sáu tháng, anh ta lại lấy vợ"
+            },
+            {
+              "full_en": "Jane is going to marry John",
+              "full_vn": "Jane sắp lấy John"
+            },
+            {
+              "full_en": "he insisted on marrying the African beauty queen",
+              "full_vn": "anh ta khăng khăng đòi lấy hoa hậu châu Phi làm vợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm lễ cưới (cho một cặp vợ chồng), làm phép cưới (cho một cặp vợ chồng)",
+          "list_en_vn": [
+            {
+              "full_en": "which priest will marry them ?",
+              "full_vn": "cha nào sẽ làm phép cưới cho họ?"
+            },
+            {
+              "full_en": "to marry somebody off",
+              "full_vn": "tống khứ (một cô con gái) bằng cách tìm cho nó một người chồng; gả bán/gả tống con gái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to marry something with something ) (nghĩa bóng) kết hợp nhuần nhuyễn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to marry above /below oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "kết hôn với người có địa vị cao hơn/thấp hơn mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to marry money",
+              "list_im": [
+                {
+                  "im_full_vn": "kết hôn với người giàu; đào mỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to marry up",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về các bộ phận) khớp với nhau; xứng với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to marry into something",
+              "list_im": [
+                {
+                  "im_full_vn": "do hôn nhân mà trở thành thành viên của một tập thể nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he married into the French aristocracy",
+                      "full_vn": "do hôn nhân mà anh ta đứng vào tầng lớp quý tộc Pháp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to marry into something",
+              "list_im": [
+                {
+                  "im_full_vn": "do hôn nhân mà trở thành thành viên của một tập thể nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he married into the French aristocracy",
+                      "full_vn": "do hôn nhân mà anh ta đứng vào tầng lớp quý tộc Pháp"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "training that marries well with the needs of the job",
+              "full_vn": "sự huấn luyện rất phù hợp với các nhu cầu của công việc"
+            },
+            {
+              "full_en": "she marries wit and /with scholarship in her writing",
+              "full_vn": "bà ta kết hợp nhuần nhuyễn trí thông minh với sự uyên bác trong trước tác của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "ồ!, tuyệt! (biểu lộ sự kinh ngạc)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "english": "piece",
+  "phat_am": "[pi:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mảnh, mẩu, miếng, viên, cục, khúc...",
+          "list_en_vn": [
+            {
+              "full_en": "a piece of paper",
+              "full_vn": "một mảnh giấy"
+            },
+            {
+              "full_en": "a piece of bread",
+              "full_vn": "một mẩu bánh mì"
+            },
+            {
+              "full_en": "a piece of chalk",
+              "full_vn": "một viên phấn"
+            },
+            {
+              "full_en": "to break something to pieces",
+              "full_vn": "đạp vỡ cái gì ra từng mảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận, mảnh rời, phần tách ra",
+          "list_en_vn": [
+            {
+              "full_en": "to take a machine to pieces",
+              "full_vn": "tháo rời máy ra, tháo máy thành từng mảnh rời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thí dụ, vật mẫu; đồ vật, món (hàng..), một khoản",
+          "list_en_vn": [
+            {
+              "full_en": "a piece of advice",
+              "full_vn": "một lời khuyên"
+            },
+            {
+              "full_en": "a piece of news",
+              "full_vn": "một mẩu tin"
+            },
+            {
+              "full_en": "a piece of furniture",
+              "full_vn": "một món đồ gỗ"
+            },
+            {
+              "full_en": "a piece of jewellery",
+              "full_vn": "một món nữ trang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) đơn vị, cái, chiếc, tấm (vải); thùng (rượu...)",
+          "list_en_vn": [
+            {
+              "full_en": "a piece of wine",
+              "full_vn": "một thùng rượu vang"
+            },
+            {
+              "full_en": "a piece of wallpaper",
+              "full_vn": "một cuộn giấy dán tường ( 12 iat)"
+            },
+            {
+              "full_en": "to sell by the piece",
+              "full_vn": "bán cả tấm, bán cả cuộn"
+            },
+            {
+              "full_en": "a tea-service of fourteen pieces",
+              "full_vn": "một bộ trà mười bốn chiếc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bức (tranh); bài (thơ); bản (nhạc); vở (kịch)",
+          "list_en_vn": [
+            {
+              "full_en": "a piece of painting",
+              "full_vn": "một bức tranh"
+            },
+            {
+              "full_en": "a piece of music",
+              "full_vn": "một bản nhạc"
+            },
+            {
+              "full_en": "a piece of poetry",
+              "full_vn": "một bài thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khẩu súng, khẩu pháo; nòng pháo",
+          "list_en_vn": [
+            {
+              "full_en": "a battery of four pieces",
+              "full_vn": "một cụm pháo gồm bốn khẩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quân cờ"
+        },
+        {
+          "m_full_vn": "cái việc, lời, dịp...",
+          "list_en_vn": [
+            {
+              "full_en": "a piece of folly",
+              "full_vn": "một việc làm dại dột"
+            },
+            {
+              "full_en": "a piece of one's mind",
+              "full_vn": "một lời nói thật"
+            },
+            {
+              "full_en": "a piece of impudence",
+              "full_vn": "một hành động láo xược"
+            },
+            {
+              "full_en": "a piece of good luck",
+              "full_vn": "một dịp may"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồng tiền",
+          "list_en_vn": [
+            {
+              "full_en": "crown piece",
+              "full_vn": "đồng cu-ron"
+            },
+            {
+              "full_en": "penny piece",
+              "full_vn": "đồng penni"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhạc khí"
+        },
+        {
+          "m_full_vn": "(từ lóng) con bé, thị mẹt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be of a piece with",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng một loại với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be paid by the piece",
+              "list_im": [
+                {
+                  "im_full_vn": "được trả lương theo sản phẩm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to pieces",
+              "list_im": [
+                {
+                  "im_full_vn": "như go"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in pieces",
+              "list_im": [
+                {
+                  "im_full_vn": "vở từng mảnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull (tear ) something to pieces",
+              "list_im": [
+                {
+                  "im_full_vn": "xé nát vật gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull someone to pieces",
+              "list_im": [
+                {
+                  "im_full_vn": "phê bình ai tơi bời, đập ai tơi bời"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a pretty piece",
+              "full_vn": "con bé kháu, con bé xinh xinh"
+            },
+            {
+              "full_en": "a saucy piece",
+              "full_vn": "con ranh hỗn xược"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chấp lại thành một, hợp lại thành một"
+        },
+        {
+          "m_full_vn": "nối (chỉ) (lúc quay sợi); ráp từng mảnh với nhau",
+          "list_one_mean": [
+            {
+              "id_full_en": "to piece on",
+              "list_im": [
+                {
+                  "im_full_vn": "chắp vào, ráp vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to piece something on to another",
+                      "full_vn": "chắp vật gì vào một vật khác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to piece on",
+              "list_im": [
+                {
+                  "im_full_vn": "chắp vào, ráp vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to piece something on to another",
+                      "full_vn": "chắp vật gì vào một vật khác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to piece out",
+              "list_im": [
+                {
+                  "im_full_vn": "thêm vào"
+                },
+                {
+                  "im_full_vn": "chắp lại thành, đúc kết thành (câu chuyện, lý thuyết)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to piece out",
+              "list_im": [
+                {
+                  "im_full_vn": "thêm vào"
+                },
+                {
+                  "im_full_vn": "chắp lại thành, đúc kết thành (câu chuyện, lý thuyết)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to piece together",
+              "list_im": [
+                {
+                  "im_full_vn": "chắp lại với nhau, ráp lại vào nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to piece up",
+              "list_im": [
+                {
+                  "im_full_vn": "vá"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

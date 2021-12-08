@@ -1,0 +1,103 @@
+{
+  "english": "retire",
+  "phat_am": "[ri'taiə]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to retire to ....; to retire from ...) rút về hoặc ra đi, nhất là để tới một nơi yên tĩnh hoặc riêng tư; ra khỏi; lui về",
+          "list_en_vn": [
+            {
+              "full_en": "to retire from the bathroom",
+              "full_vn": "ra khỏi phòng tắm"
+            },
+            {
+              "full_en": "to retire from the world",
+              "full_vn": "rời bỏ thế tục, sống ẩn dật; đi tu"
+            },
+            {
+              "full_en": "after lunch , he retired to his study",
+              "full_vn": "sau bữa cơm trưa, ông ta lui về phòng làm việc của mình"
+            },
+            {
+              "full_en": "to retire into oneself",
+              "full_vn": "thu vào cái vỏ của mình mà sống"
+            },
+            {
+              "full_en": "to retire (to bed ) early",
+              "full_vn": "đi ngủ sớm"
+            },
+            {
+              "full_en": "our troops retired to prepared positions",
+              "full_vn": "quân ta rút về những vị trí đã chuẩn bị sẵn"
+            },
+            {
+              "full_en": "the boxer retired from the contest with eye injuries",
+              "full_vn": "võ sĩ đã bỏ cuộc với những vết thương ở mắt"
+            },
+            {
+              "full_en": "to retire from the race",
+              "full_vn": "bỏ cuộc đua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thôi việc, nghỉ việc; về hưu",
+          "list_en_vn": [
+            {
+              "full_en": "to retire from business",
+              "full_vn": "thôi không kinh doanh nữa"
+            },
+            {
+              "full_en": "he will retire from the army /his directorship next year",
+              "full_vn": "sang năm ông ta sẽ rời khỏi quân đội/chức vụ giám đốc"
+            },
+            {
+              "full_en": "the retiring union leader",
+              "full_vn": "thủ lĩnh công đoàn sắp hết nhiệm kỳ"
+            },
+            {
+              "full_en": "to retire on a pension",
+              "full_vn": "về nghỉ ăn lương hưu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho về hưu (công chức)",
+          "list_en_vn": [
+            {
+              "full_en": "to be retired on full pay",
+              "full_vn": "về hưu hưởng nguyên lương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) cho rút lui"
+        },
+        {
+          "m_full_vn": "(tài chính) rút về, không cho lưu hành (một loại tiền...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) hiệu lệnh rút lui",
+          "list_en_vn": [
+            {
+              "full_en": "to sound the retire",
+              "full_vn": "thổi kèn ra lệnh rút lui"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "mile",
+  "phat_am": "[mail]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dặm; lý",
+          "list_en_vn": [
+            {
+              "full_en": "nautical mile",
+              "full_vn": "dặm biển; hải lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc chạy đua một dặm",
+          "list_one_mean": [
+            {
+              "id_full_en": "miles from anywhere /nowhere",
+              "list_im": [
+                {
+                  "im_full_vn": "ở nơi xa xôi hẻo lánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a miss is as good as a mile",
+              "list_im": [
+                {
+                  "im_full_vn": "xem miss"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run a mile",
+              "list_im": [
+                {
+                  "im_full_vn": "trốn đi; đào tẩu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand /stick out a mile",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi bật; đáng chú ý"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

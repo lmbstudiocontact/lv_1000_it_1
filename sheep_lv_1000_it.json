@@ -1,0 +1,65 @@
+{
+  "english": "sheep",
+  "phat_am": "[∫i:p]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều sheep",
+      "list_m": [
+        {
+          "m_full_vn": "con cừu"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) (tôn giáo) con chiên"
+        },
+        {
+          "m_full_vn": "da cừu"
+        },
+        {
+          "m_full_vn": "người hay e thẹn, người nhút nhát",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cast sheep's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "liếc mắt đưa tình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow like sheep",
+              "list_im": [
+                {
+                  "im_full_vn": "đi theo một cách mù quáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sheep that have no shepherd",
+              "list_im": [
+                {
+                  "im_full_vn": "quân vô tướng, hổ vô đấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like sheep",
+              "list_im": [
+                {
+                  "im_full_vn": "quá dễ bị ảnh hưởng, quá dễ bị kẻ khác dắt mũi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "make sheep's eyes at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nhìn ai một cách âu yếm nhưng ngượng ngập"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

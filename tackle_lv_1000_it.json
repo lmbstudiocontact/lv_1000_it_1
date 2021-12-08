@@ -1,0 +1,57 @@
+{
+  "english": "tackle",
+  "phat_am": "['tækl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ dùng, dụng cụ (để làm việc hoặc chơi thể thao)"
+        },
+        {
+          "m_full_vn": "dây dợ; hệ pu-li (hệ thống dây và ròng rọc để kéo buồm hoặc nâng vật nặng)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự chặn, sự cản (đối phương đang dắt bóng...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) cột bằng dây dợ"
+        },
+        {
+          "m_full_vn": "xử trí, giải quyết, khắc phục (một vấn đề, một công việc..)"
+        },
+        {
+          "m_full_vn": "( + somebody about/over something ) nói với ai về (một vấn đề khó khăn)"
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) trượt sát vào chân một đối thủ đang giữ bóng để giành bóng với người ấy; chuồi bóng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) vay tiền"
+        },
+        {
+          "m_full_vn": "bàn bạc, thảo luận (thẳng thắn một vấn đề..)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục thể thao) trượt sát vào chân một đối thủ đang giữ bóng để giành bóng với người ấy; chuồi bóng",
+          "list_en_vn": [
+            {
+              "full_en": "he was tackled just outside the penalty area",
+              "full_vn": "nó đã bị chặn lại ngay bên ngoài khu phạt đền"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

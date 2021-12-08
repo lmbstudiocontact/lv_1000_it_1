@@ -1,0 +1,27 @@
+{
+  "english": "noisy",
+  "phat_am": "['nɔizi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ồn ào, om sòm, huyên náo",
+          "list_en_vn": [
+            {
+              "full_en": "a noisy class-room",
+              "full_vn": "một lớp học ồn ào"
+            },
+            {
+              "full_en": "a noisy boy",
+              "full_vn": "một đứa trẻ hay làm ồn ào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) loè loẹt, sặc sỡ (màu sắc...); đao to búa lớn (văn)"
+        }
+      ]
+    }
+  ]
+}

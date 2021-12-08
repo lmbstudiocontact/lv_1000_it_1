@@ -1,0 +1,37 @@
+{
+  "english": "tangent",
+  "phat_am": "['tændʒənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hình học) đường tiếp tuyến (đường thẳng chạm vào bên ngoài một đường cong mà không đi xuyên qua)",
+          "list_en_vn": [
+            {
+              "full_en": "tangent bundle",
+              "full_vn": "chùm tiếp tuyến"
+            },
+            {
+              "full_en": "tangent circles",
+              "full_vn": "vòng tiếp xúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(viết tắt) tan (toán học) tang (tỉ số giữa cạnh đối và cạnh kề của một góc đã cho trong một hình tam giác vuông)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fly /go off at a tangent",
+              "list_im": [
+                {
+                  "im_full_vn": "đi chệch ra ngoài vấn đề đang bàn; đi chệch ra khỏi nếp nghĩ (cách cư xử) hằng ngày"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

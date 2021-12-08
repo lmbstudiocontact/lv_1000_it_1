@@ -1,0 +1,54 @@
+{
+  "english": "retain",
+  "phat_am": "[ri'tein]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữ lại (để sử dụng, để sở hữu)"
+        },
+        {
+          "m_full_vn": "nhớ được",
+          "list_en_vn": [
+            {
+              "full_en": "be able to retain numbers",
+              "full_vn": "nhớ được các con số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngăn, giữ lại",
+          "list_en_vn": [
+            {
+              "full_en": "clay soil retains water",
+              "full_vn": "đất sét giữ nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) thuê (nhất là luật sư)",
+          "list_en_vn": [
+            {
+              "full_en": "a retaining fee",
+              "full_vn": "tiền trả trước để thuê luật sư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẫn có, tiếp tục có, không mất",
+          "list_en_vn": [
+            {
+              "full_en": "to retain one's composure",
+              "full_vn": "vẫn giữ bình tĩnh"
+            },
+            {
+              "full_en": "to retain control of ...",
+              "full_vn": "vẫn nắm quyền kiểm soát..., vẫn làm chủ..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "somewhere",
+  "phat_am": "['sʌmweə]",
+  "list_type": [
+    {
+      "type": "phó từ bất định",
+      "list_m": [
+        {
+          "m_full_vn": "trong một nơi nào đó, ở một nơi nào đó, đến một nơi nào đó; đâu đó (như) someplace",
+          "list_en_vn": [
+            {
+              "full_en": "he lives somewhere near us",
+              "full_vn": "anh ta sống ở một nơi nào đó gần chúng ta"
+            },
+            {
+              "full_en": "we must send him somewhere",
+              "full_vn": "chúng ta phải gửi hắn đến một chỗ nào đó"
+            },
+            {
+              "full_en": "he lost it somewhere between here and the station",
+              "full_vn": "nó đánh mất cái ấy đâu đó từ đây đến nhà ga"
+            },
+            {
+              "full_en": "I'm going somewhere else this evening",
+              "full_vn": "tối nay tôi sẽ đến một nơi khác"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ bất định",
+      "list_m": [
+        {
+          "m_full_vn": "nơi nào đó, đâu đó",
+          "list_en_vn": [
+            {
+              "full_en": "I'll think of somewhere to stay",
+              "full_vn": "tôi sẽ nghĩ đến một nơi nào đó để nghỉ lại"
+            },
+            {
+              "full_en": "I know somewhere /where you can eat Japanese food",
+              "full_vn": "tôi biết có chỗ anh có thể ăn món ăn Nhật Bản"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

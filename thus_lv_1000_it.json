@@ -1,0 +1,42 @@
+{
+  "english": "thus",
+  "phat_am": "[ðʌs]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo cách đó, như vậy, như thế",
+          "list_en_vn": [
+            {
+              "full_en": "to calculate the area of the triangle thus formed",
+              "full_vn": "tính diện tích của hình tam giác đã được tạo như thế"
+            },
+            {
+              "full_en": "hold the wheel in both hands , thus",
+              "full_vn": "dùng hai tay nắm lấy tay lái, vậy đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do đó, theo đó, vì thế, vì vậy",
+          "list_en_vn": [
+            {
+              "full_en": "he's the eldest son and thus heir to the title",
+              "full_vn": "ông ta là con trai cả, vì thế là người thừa kế tước hiệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đến như thế, tới mức đó",
+          "list_en_vn": [
+            {
+              "full_en": "Having come thus far , do you wish to continue ?",
+              "full_vn": "đi xa tới chừng ấy rồi, ông có muốn tiếp tục đi nữa không?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "numeral",
+  "phat_am": "['nju:mərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) số"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số, chữ số",
+          "list_en_vn": [
+            {
+              "full_en": "Arabic numerals",
+              "full_vn": "chữ số A-rập"
+            },
+            {
+              "full_en": "Roman numerals",
+              "full_vn": "chữ số La mã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) số từ"
+        }
+      ]
+    }
+  ]
+}

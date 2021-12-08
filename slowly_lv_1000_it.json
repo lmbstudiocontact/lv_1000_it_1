@@ -1,0 +1,24 @@
+{
+  "english": "slowly",
+  "phat_am": "['slouli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "dần dần, chậm, chậm chạp",
+          "list_one_mean": [
+            {
+              "id_full_en": "slowly but surely",
+              "list_im": [
+                {
+                  "im_full_vn": "chậm mà chắc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

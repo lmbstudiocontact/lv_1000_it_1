@@ -1,0 +1,24 @@
+{
+  "english": "specify",
+  "phat_am": "['spesifai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ specified",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ rõ, ghi rõ, định rõ",
+          "list_en_vn": [
+            {
+              "full_en": "it is specified in the agreement",
+              "full_vn": "điều ấy đã được ghi rõ trong hiệp định"
+            },
+            {
+              "full_en": "the contract specify red tiles , not slates , for the roof",
+              "full_vn": "hợp đồng đã chỉ rõ ngói đỏ để lợp mái, chứ không phải là ngói đá đen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "porter",
+  "phat_am": "['pɔ:tə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người gác cổng (toà nhà lớn) (như) doorman"
+        },
+        {
+          "m_full_vn": "người khuân vác, phu khuân vác (ở chợ, sân bay..)",
+          "list_en_vn": [
+            {
+              "full_en": "a hospital porter",
+              "full_vn": "người đẩy xe trong bệnh viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) người phục vụ ở toa ngủ"
+        },
+        {
+          "m_full_vn": "rượu bia đen"
+        }
+      ]
+    }
+  ]
+}

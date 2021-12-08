@@ -1,0 +1,140 @@
+{
+  "english": "opposite",
+  "phat_am": "['ɔpəzit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( opposite to somebody / something ) đối nhau, ngược nhau, ngược lại",
+          "list_en_vn": [
+            {
+              "full_en": "on the opposite page",
+              "full_vn": "ở trang bên kia"
+            },
+            {
+              "full_en": "they sat at opposite ends of the table (to each other )",
+              "full_vn": "họ ngồi ở hai đầu bàn đối diện nhau"
+            },
+            {
+              "full_en": "this is number six , so number 13 must be on the opposite side of the street",
+              "full_vn": "đây là số 6, ắt số 13 phải nằm bên kia đường"
+            },
+            {
+              "full_en": "to travel in opposite directions",
+              "full_vn": "đi theo những hướng ngược nhau"
+            },
+            {
+              "full_en": "he hesitates to contact with the opposite sex",
+              "full_vn": "anh ta ngại tiếp xúc với người khác giới"
+            },
+            {
+              "full_en": "the opposite approach is to count down in reverse order",
+              "full_vn": "phương pháp ngược lại là đếm ngược trở lại"
+            },
+            {
+              "full_en": "one's opposite number",
+              "full_vn": "người có công việc hoặc địa vị tương tự với ai trong một nhóm khác hoặc một tổ chức khác; người tương nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau danh từ) đối diện, trước mặt",
+          "list_en_vn": [
+            {
+              "full_en": "I can see smoke coming out of the windows of the house opposite",
+              "full_vn": "tôi có thể thấy khói bốc ra từ các cửa sổ của ngôi nhà trước mặt"
+            },
+            {
+              "full_en": "ask the girl opposite what time it is",
+              "full_vn": "hãy hỏi cô gái trước mặt xem mấy giờ rồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( opposite of something ) điều trái ngược; sự đối lập",
+          "list_en_vn": [
+            {
+              "full_en": "hot and cold are opposites",
+              "full_vn": "nóng và lạnh là hai thứ trái ngược nhau"
+            },
+            {
+              "full_en": "black is the opposite of white",
+              "full_vn": "đen ngược lại với trắng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "trước mặt, đối diện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to play opposite",
+              "list_im": [
+                {
+                  "im_full_vn": "(sân khấu) đóng vai nam đối với vai nữ chính; đóng vai nữ đối với vai nam chính"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there's a couple with a dog who live opposite",
+              "full_vn": "có một cặp vợ chồng với một con chó sống ở nhà trước mặt"
+            },
+            {
+              "full_en": "the old man sitting opposite is a retired general",
+              "full_vn": "ông lão ngồi trước mặt là một vị tướng về hưu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "( opposite to somebody / something ) trước mặt, đối diện",
+          "list_en_vn": [
+            {
+              "full_en": "I sat opposite to him during the meal",
+              "full_vn": "tôi ngồi đối diện với hắn trong bữa ăn"
+            },
+            {
+              "full_en": "the drugstore is opposite the hospital",
+              "full_vn": "nhà thuốc ở trước mặt nhà thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về diễn viên) đóng chung/diễn chung với ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "opposite prompter",
+              "list_im": [
+                {
+                  "im_full_vn": "(sân khấu) bên tay phải diễn viên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she had always dreamed of appearing opposite Olivier",
+              "full_vn": "cô ta luôn mơ ước được diễn chung với Olivier"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

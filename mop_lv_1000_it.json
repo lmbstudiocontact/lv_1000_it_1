@@ -1,0 +1,142 @@
+{
+  "english": "mop",
+  "phat_am": "[mɔp]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "túi lau sàn, giẻ lau sàn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lau, chùi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to mop up",
+              "list_im": [
+                {
+                  "im_full_vn": "thu dọn, nhặt nhạnh"
+                },
+                {
+                  "im_full_vn": "(quân sự) càn quét"
+                },
+                {
+                  "im_full_vn": "(từ lóng) vét sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to mop up the beer",
+                      "full_vn": "nốc cạn chỗ bia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mop up",
+              "list_im": [
+                {
+                  "im_full_vn": "thu dọn, nhặt nhạnh"
+                },
+                {
+                  "im_full_vn": "(quân sự) càn quét"
+                },
+                {
+                  "im_full_vn": "(từ lóng) vét sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to mop up the beer",
+                      "full_vn": "nốc cạn chỗ bia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mop up",
+              "list_im": [
+                {
+                  "im_full_vn": "thu dọn, nhặt nhạnh"
+                },
+                {
+                  "im_full_vn": "(quân sự) càn quét"
+                },
+                {
+                  "im_full_vn": "(từ lóng) vét sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to mop up the beer",
+                      "full_vn": "nốc cạn chỗ bia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mop up",
+              "list_im": [
+                {
+                  "im_full_vn": "thu dọn, nhặt nhạnh"
+                },
+                {
+                  "im_full_vn": "(quân sự) càn quét"
+                },
+                {
+                  "im_full_vn": "(từ lóng) vét sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to mop up the beer",
+                      "full_vn": "nốc cạn chỗ bia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mop the floor (ground , earth ) with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) hoàn toàn áp đảo ai, có ưu thế tuyệt đối với ai; đánh bại ai hoàn toàn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to mop the floor",
+              "full_vn": "lau sàn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mops and mow nét mặt nhăn nhó"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "to mop and mow nhăn nhó"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chợ phiên mùa thu (để đến tìm thuê thợ gặt...)"
+        }
+      ]
+    }
+  ]
+}

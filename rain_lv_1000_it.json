@@ -1,0 +1,342 @@
+{
+  "english": "rain",
+  "phat_am": "[rein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mưa; cơn mưa",
+          "list_en_vn": [
+            {
+              "full_en": "heavy /light rain",
+              "full_vn": "cơn mưa nặng hạt/lất phất"
+            },
+            {
+              "full_en": "don't go out in the rain",
+              "full_vn": "đừng đi ra ngoài mưa"
+            },
+            {
+              "full_en": "come in out of the rain",
+              "full_vn": "hãy vào đây tránh mưa"
+            },
+            {
+              "full_en": "it looks like rain",
+              "full_vn": "trời dường như muốn mưa"
+            },
+            {
+              "full_en": "to be caught in the rain",
+              "full_vn": "bị mưa"
+            },
+            {
+              "full_en": "to keep the rain out",
+              "full_vn": "cho khỏi bị mưa, cho mưa khỏi vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trận mưa rào theo một kiểu được nói rõ",
+          "list_en_vn": [
+            {
+              "full_en": "there was a heavy rain during the night",
+              "full_vn": "suốt đêm trời mưa như trút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( rain of something ) (nghĩa bóng) một số lớn đồ vật rơi xuống như mưa",
+          "list_en_vn": [
+            {
+              "full_en": "a rain of arrows /bullets",
+              "full_vn": "một trận mưa tên/đạn"
+            },
+            {
+              "full_en": "a rain of tears",
+              "full_vn": "một trận khóc lóc thảm thiết"
+            },
+            {
+              "full_en": "a rain of ashes",
+              "full_vn": "một trận mưa tro bụi (từ núi lửa phun ra chẳng hạn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the rains ) mùa mưa",
+          "list_en_vn": [
+            {
+              "full_en": "the rains come in September",
+              "full_vn": "đến tháng chín là bắt đầu mùa mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Rains ) ( số nhiều) vùng mưa ở Đại tây dương ( 410 độ vĩ bắc)",
+          "list_one_mean": [
+            {
+              "id_full_en": "after rain comes fair weather (sunshine )",
+              "list_im": [
+                {
+                  "im_full_vn": "hết cơn bĩ cực tới hồi thái lai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get out of the rain",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh được những điều bực mình khó chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to know enough to get out of the rain",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) không biết tính toán, không biết cách làm ăn; xuẩn ngốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "right as rain",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) mạnh giỏi cả; tốt lành cả; đâu vào đó cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "come rain come shine ; come rain or shine",
+              "list_im": [
+                {
+                  "im_full_vn": "dù mưa hay nắng"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) dù có gì xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "come rain come shine ; come rain or shine",
+              "list_im": [
+                {
+                  "im_full_vn": "dù mưa hay nắng"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) dù có gì xảy ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mưa; trút xuống như mưa",
+          "list_one_mean": [
+            {
+              "id_full_en": "it rains buckets /cats and dogs",
+              "list_im": [
+                {
+                  "im_full_vn": "trời mưa như trút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it never rains but it pours",
+              "list_im": [
+                {
+                  "im_full_vn": "hoạ vô đơn chí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to know enough to go in when it rains",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) không biết tính toán, không biết cách làm ăn; xuẩn ngốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rain down something",
+              "list_im": [
+                {
+                  "im_full_vn": "chảy hoặc đổ xuống rất nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "tears rained down her cheeks",
+                      "full_vn": "nước mắt giàn giụa trên má cô ta"
+                    },
+                    {
+                      "full_en": "loose rocks rained down the hillside",
+                      "full_vn": "những tảng đá lở lăn ào ào xuống sườn đồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rain down something",
+              "list_im": [
+                {
+                  "im_full_vn": "chảy hoặc đổ xuống rất nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "tears rained down her cheeks",
+                      "full_vn": "nước mắt giàn giụa trên má cô ta"
+                    },
+                    {
+                      "full_en": "loose rocks rained down the hillside",
+                      "full_vn": "những tảng đá lở lăn ào ào xuống sườn đồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rain down something",
+              "list_im": [
+                {
+                  "im_full_vn": "chảy hoặc đổ xuống rất nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "tears rained down her cheeks",
+                      "full_vn": "nước mắt giàn giụa trên má cô ta"
+                    },
+                    {
+                      "full_en": "loose rocks rained down the hillside",
+                      "full_vn": "những tảng đá lở lăn ào ào xuống sườn đồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rain down on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "trút xuống ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "abuse rained down on the noisy students from the open windows",
+                      "full_vn": "từ những cửa sổ mở ngỏ, tiếng chửi rủa trút xuống đầu những sinh viên gây ồn ào"
+                    },
+                    {
+                      "full_en": "invitations rained down on the visiting writer",
+                      "full_vn": "những lời mời tới tấp như mưa gửi đến nhà văn đang ở thăm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rain down on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "trút xuống ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "abuse rained down on the noisy students from the open windows",
+                      "full_vn": "từ những cửa sổ mở ngỏ, tiếng chửi rủa trút xuống đầu những sinh viên gây ồn ào"
+                    },
+                    {
+                      "full_en": "invitations rained down on the visiting writer",
+                      "full_vn": "những lời mời tới tấp như mưa gửi đến nhà văn đang ở thăm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rain down on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "trút xuống ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "abuse rained down on the noisy students from the open windows",
+                      "full_vn": "từ những cửa sổ mở ngỏ, tiếng chửi rủa trút xuống đầu những sinh viên gây ồn ào"
+                    },
+                    {
+                      "full_en": "invitations rained down on the visiting writer",
+                      "full_vn": "những lời mời tới tấp như mưa gửi đến nhà văn đang ở thăm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is raining in",
+              "list_im": [
+                {
+                  "im_full_vn": "nước mưa đang dột vào (nước mưa đang lọt qua mái, lều...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rain something off ; to rain something out",
+              "list_im": [
+                {
+                  "im_full_vn": "hoãn lại (do trời mưa)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the match was rained off twice",
+                      "full_vn": "trận đấu bị hoãn hai lần vì mưa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rain something off ; to rain something out",
+              "list_im": [
+                {
+                  "im_full_vn": "hoãn lại (do trời mưa)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the match was rained off twice",
+                      "full_vn": "trận đấu bị hoãn hai lần vì mưa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it is raining",
+              "full_vn": "trời đang mưa"
+            },
+            {
+              "full_en": "it rained hard all day",
+              "full_vn": "trời mưa to suốt ngày"
+            },
+            {
+              "full_en": "it has rained itself out",
+              "full_vn": "mưa đã tạnh"
+            },
+            {
+              "full_en": "to rain tears",
+              "full_vn": "khóc như mưa, nước mắt giàn giụa"
+            },
+            {
+              "full_en": "to rain bullets",
+              "full_vn": "bắn tới tấp; bắn như mưa"
+            },
+            {
+              "full_en": "blows rained on the door",
+              "full_vn": "tiếng đấm thình thình liên hồi ở cửa ra vào"
+            },
+            {
+              "full_en": "the suitcase burst open and its contents rained on the floor",
+              "full_vn": "chiếc va li bật tung ra và đồ đạc trong đó rơi lả tả xuống sàn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

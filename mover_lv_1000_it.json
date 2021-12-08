@@ -1,0 +1,23 @@
+{
+  "english": "mover",
+  "phat_am": "['mu:və]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "động cơ, động lực",
+          "list_en_vn": [
+            {
+              "full_en": "prime mover",
+              "full_vn": "động lực đầu tiên; nguồn năng lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đề xuất ý kiến, người đưa ra đề nghị"
+        }
+      ]
+    }
+  ]
+}

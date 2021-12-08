@@ -1,0 +1,46 @@
+{
+  "english": "obtain",
+  "phat_am": "[əb'tein]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đạt được, giành được, thu được",
+          "list_en_vn": [
+            {
+              "full_en": "where can I obtain a copy of her latest book ?",
+              "full_vn": "tôi có thể có được một bản của cuốn sách mới nhất của bà ta ở đâu?"
+            },
+            {
+              "full_en": "he always manages to obtain what he wants",
+              "full_vn": "bao giờ nó cũng tìm cách đạt được những gì nó muốn"
+            },
+            {
+              "full_en": "to obtain a prize",
+              "full_vn": "giành được phần thưởng"
+            },
+            {
+              "full_en": "I obtained this record for you with difficulty",
+              "full_vn": "phải khó khăn lắm tôi mới lấy được cái đĩa này cho anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về các quy tắc, phong tục...) vẫn tồn tại; vẫn được sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "the practice still obtains in some areas of Germany",
+              "full_vn": "tục lệ này vẫn còn tồn tại ở một số vùng của nước Đức"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "scallop",
+  "phat_am": "['skɔləp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con điệp; sò"
+        },
+        {
+          "m_full_vn": "mép vỏ sò"
+        },
+        {
+          "m_full_vn": "nồi vỏ sò, bát vỏ sò (vỏ sò to để nấu và đựng đồ ăn)"
+        },
+        {
+          "m_full_vn": "cái chảo nhỏ"
+        },
+        {
+          "m_full_vn": "( số nhiều) vật trang trí kiểu vỏ sò"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nấu (thức ăn) trong nồi vỏ sò"
+        },
+        {
+          "m_full_vn": "trang trí bằng vật kiểu vỏ sò",
+          "list_en_vn": [
+            {
+              "full_en": "a scalloped hem",
+              "full_vn": "đường viền trang trí kiểu vỏ sò"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

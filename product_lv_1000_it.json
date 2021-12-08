@@ -1,0 +1,62 @@
+{
+  "english": "product",
+  "phat_am": "['prɔdəkt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sản vật, sản phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "pharmaceutical products",
+              "full_vn": "dược phẩm"
+            },
+            {
+              "full_en": "the products of manufacturing industry",
+              "full_vn": "những sản phẩm của ngành công nghiệp chế tạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kinh doanh) sản phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "gross national product",
+              "full_vn": "tổng sản phẩm quốc gia"
+            },
+            {
+              "full_en": "product development",
+              "full_vn": "sự phát triển sản phẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sản phẩm, kết quả (cái sinh ra); người chịu ảnh hưởng của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the products of genius",
+              "full_vn": "những tác phẩm của thiên tài (những tác phẩm (nghệ thuật) lớn)"
+            },
+            {
+              "full_en": "she is the product of a broken home",
+              "full_vn": "cô ta là sản phẩm của một gia đình bị tan vỡ (đứa con bị bỏ rơi)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) tích số",
+          "list_en_vn": [
+            {
+              "full_en": "the product of 4 and 10 is 40",
+              "full_vn": "tích số của 4 và 10 là 40"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) hợp chất hoá học mới do phản ứng hoá học tạo ra; sản phẩm"
+        }
+      ]
+    }
+  ]
+}

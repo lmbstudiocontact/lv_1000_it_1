@@ -1,0 +1,221 @@
+{
+  "english": "mean",
+  "phat_am": "[ment]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều kiện, tính chất... nằm giữa hai cực đoan; trung độ; trung gian",
+          "list_en_vn": [
+            {
+              "full_en": "you must find a mean between frankness and rudeness",
+              "full_vn": "bạn phải tìm ra trung độ giữa tính thẳng thắn và sự khiếm nhã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) số trung bình; giá trị trung bình",
+          "list_one_mean": [
+            {
+              "id_full_en": "the happy /golden mean",
+              "list_im": [
+                {
+                  "im_full_vn": "phương kế hành động ôn hoà"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trung bình",
+          "list_en_vn": [
+            {
+              "full_en": "a man of mean stature",
+              "full_vn": "người tầm vóc trung bình, người tầm thước"
+            },
+            {
+              "full_en": "the mean annual temperature",
+              "full_vn": "nhiệt độ trung bình hằng năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) trung bình",
+          "list_en_vn": [
+            {
+              "full_en": "mean value theorem",
+              "full_vn": "định lý giá trị trung bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấp kém, kém cỏi, tầm thường",
+          "list_en_vn": [
+            {
+              "full_en": "to be no mean scholar",
+              "full_vn": "không phải là một thứ học giả tầm thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tồi tàn, tiều tuỵ, tang thương, khốn khổ",
+          "list_en_vn": [
+            {
+              "full_en": "a mean house in a mean street",
+              "full_vn": "một căn nhà tiều tuỵ trong một khu phố tồi tàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hèn hạ, bần tiện, bủn xỉn",
+          "list_en_vn": [
+            {
+              "full_en": "to be mean over money matters",
+              "full_vn": "bủn xỉn về vấn đề tiền nong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) xấu hổ thầm",
+          "list_en_vn": [
+            {
+              "full_en": "to feel mean",
+              "full_vn": "tự thấy xấu hổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lành nghề; thành thạo",
+          "list_one_mean": [
+            {
+              "id_full_en": "no mean something",
+              "list_im": [
+                {
+                  "im_full_vn": "cừ; chiến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is no mean stuntman",
+                      "full_vn": "anh ta là một cátcađơ tuyệt vời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no mean something",
+              "list_im": [
+                {
+                  "im_full_vn": "cừ; chiến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is no mean stuntman",
+                      "full_vn": "anh ta là một cátcađơ tuyệt vời"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, thì quá khứ và động tính từ quá khứ là meant",
+      "list_m": [
+        {
+          "m_full_vn": "nghĩa là, có nghĩa là",
+          "list_en_vn": [
+            {
+              "full_en": "these words mean nothing",
+              "full_vn": "những chữ này không có nghĩa gì hết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "muốn nói",
+          "list_en_vn": [
+            {
+              "full_en": "what do you mean ?",
+              "full_vn": "ý anh muốn nói gì?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "định, có ý định, muốn, có ý muốn",
+          "list_en_vn": [
+            {
+              "full_en": "I mean to go early tomorrow",
+              "full_vn": "tôi định mai sẽ đi sớm"
+            },
+            {
+              "full_en": "does he really mean to do it ?",
+              "full_vn": "có thật nó có ý định làm cái đó không?"
+            },
+            {
+              "full_en": "I'm sorry I hurt you : I didn't mean to",
+              "full_vn": "Tôi xin lỗi vì đã xúc phạm đến bạn : Tôi không hề có ý định như vậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dự định, để cho, dành cho",
+          "list_en_vn": [
+            {
+              "full_en": "I mean this for my son",
+              "full_vn": "tôi dự định cái này dành cho con trai tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to mean something to somebody ) có ý nghĩa lớn hoặc tầm quan trọng đối với ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "to mean mischief",
+              "list_im": [
+                {
+                  "im_full_vn": "có ác ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mean well (kindly ) by (to , towards ) someone",
+              "list_im": [
+                {
+                  "im_full_vn": "có ý tốt đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mean business",
+              "list_im": [
+                {
+                  "im_full_vn": "có ý định nghiêm túc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "your friendship means a great deal to me",
+              "full_vn": "tình bạn của anh có ý nghĩa rất lớn đối với tôi"
+            },
+            {
+              "full_en": "this sum of money means a lot to a poor person",
+              "full_vn": "số tiền này có giá trị rất lớn đối với một người nghèo"
+            },
+            {
+              "full_en": "money means nothing to me",
+              "full_vn": "tiền bạc không có ý nghĩa gì đối với tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

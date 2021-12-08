@@ -1,0 +1,66 @@
+{
+  "english": "station",
+  "phat_am": "[exalted]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạm, điểm, đồn, đài (phát thanh...)",
+          "list_en_vn": [
+            {
+              "full_en": "coastguard station",
+              "full_vn": "trạm canh gác bờ biển"
+            },
+            {
+              "full_en": "to be assigned a station on the frontier",
+              "full_vn": "được điều về một đồn ở biên giới"
+            },
+            {
+              "full_en": "lifeboat station",
+              "full_vn": "trạm tàu xuống cứu đắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạm, ty (phục vụ (như) cầu địa phương)"
+        },
+        {
+          "m_full_vn": "(viết tắt) Sta nhà ga"
+        },
+        {
+          "m_full_vn": "đồn binh ( Ân độ)"
+        },
+        {
+          "m_full_vn": "điểm gốc (đo đạc); khoảng cách tiêu chuẩn ( 30, 50 m hay 20 m)"
+        },
+        {
+          "m_full_vn": "( Uc) chỗ nuôi cừu"
+        },
+        {
+          "m_full_vn": "địa vị, chức"
+        },
+        {
+          "m_full_vn": "người ở địa vị cao"
+        },
+        {
+          "m_full_vn": "(tôn giáo) sự ăn kiêng (vào ngày thứ tư và thứ sáu)"
+        },
+        {
+          "m_full_vn": "(sinh vật học) hoàn cảnh, môi trường"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) sự đứng lại, tình trạng đứng lại"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt vào vị trí, để vào vị trí; đóng (quân) ở một vị trí"
+        }
+      ]
+    }
+  ]
+}

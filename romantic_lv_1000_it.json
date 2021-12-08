@@ -1,0 +1,62 @@
+{
+  "english": "romantic",
+  "phat_am": "[rou'mæntik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lãng mạn; như tiểu thuyết (về cảm xúc)",
+          "list_en_vn": [
+            {
+              "full_en": "the romantic school",
+              "full_vn": "trường phái lãng mạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viển vông, hão huyền, không thực tế, ảo tưởng (kế hoạch...)"
+        },
+        {
+          "m_full_vn": "bao hàm một câu chuyện yêu đương",
+          "list_en_vn": [
+            {
+              "full_en": "a romantic involvement",
+              "full_vn": "một cuộc dan díu yêu đương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lãng mạn; mơ mộng (về người, về tính cách của họ..)",
+          "list_en_vn": [
+            {
+              "full_en": "a romantic girl",
+              "full_vn": "cô gái mơ mộng"
+            },
+            {
+              "full_en": "a romantic tale",
+              "full_vn": "câu chuyện lãng mạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) (văn học) lãng mạn, trữ tình"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người lãng mạn; nhà thơ lãng mạn, nhà văn lãng mạn"
+        },
+        {
+          "m_full_vn": "( Romantic ) nghệ sĩ lãng mạn"
+        },
+        {
+          "m_full_vn": "( số nhiều) những ý nghĩ lãng mạn viển vông; những lời nói viển vông"
+        }
+      ]
+    }
+  ]
+}

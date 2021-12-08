@@ -1,0 +1,118 @@
+{
+  "english": "shed",
+  "phat_am": "[∫ed]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(trong từ ghép) nhà một tầng dùng để chứa đồ, nơi ở cho gia súc, chỗ để xe cộ hoặc làm nhà xưởng",
+          "list_en_vn": [
+            {
+              "full_en": "a tool-shed",
+              "full_vn": "nhà kho dụng cụ"
+            },
+            {
+              "full_en": "a coal-shed",
+              "full_vn": "nhà kho để than"
+            },
+            {
+              "full_en": "a bicycle-shed",
+              "full_vn": "nhà để xe đạp"
+            },
+            {
+              "full_en": "a cattle-shed",
+              "full_vn": "chuồng gia súc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, động tính từ quá khứ và thì quá khứ là shed",
+      "list_m": [
+        {
+          "m_full_vn": "rụng (lá...), lột (da...)",
+          "list_en_vn": [
+            {
+              "full_en": "trees shed their leaves and flowers shed their petal",
+              "full_vn": "cây rụng lá và hoa rụng cánh"
+            },
+            {
+              "full_en": "the snake sheds its skin regularly",
+              "full_vn": "rắn thường xuyên lột da"
+            },
+            {
+              "full_en": "some kinds of deer shed their horns",
+              "full_vn": "một số loại hươu rụng sừng"
+            },
+            {
+              "full_en": "the lorry has shed its load",
+              "full_vn": "xe tải để rơi hàng xuống đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rơi, trào, chảy (nước mắt..)",
+          "list_en_vn": [
+            {
+              "full_en": "to shed tears",
+              "full_vn": "chảy nước mắt; trào nước mắt"
+            },
+            {
+              "full_en": "to shed blood",
+              "full_vn": "làm cho đổ máu (gây thương tích hoặc tử vong cho người khác)"
+            },
+            {
+              "full_en": "to shed one's blood",
+              "full_vn": "bị đổ máu; chảy máu (bị thương hoặc bị giết)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ rơi, để rơi",
+          "list_en_vn": [
+            {
+              "full_en": "to shed one's colleagues",
+              "full_vn": "bỏ rơi đồng nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tung ra, toả ra; đưa ra",
+          "list_en_vn": [
+            {
+              "full_en": "to shed perfume",
+              "full_vn": "toả hương thơm"
+            },
+            {
+              "full_en": "a fire shedding warmth",
+              "full_vn": "ngọn lửa toả hơi ấm"
+            },
+            {
+              "full_en": "the lamp shed soft light on the desk",
+              "full_vn": "ngọn đèn toả ánh sáng dịu trên bàn"
+            },
+            {
+              "full_en": "to shed love",
+              "full_vn": "toả tình thương yêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy đi, ném đi; chuyển đi",
+          "list_en_vn": [
+            {
+              "full_en": "shedding one's clothes on a hot day",
+              "full_vn": "cởi bỏ quần áo vào một ngày nóng"
+            },
+            {
+              "full_en": "you must learn to shed your inhibitions",
+              "full_vn": "anh phải tập cách vứt bỏ những sự ức chế"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

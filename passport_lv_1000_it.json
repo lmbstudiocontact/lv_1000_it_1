@@ -1,0 +1,23 @@
+{
+  "english": "passport",
+  "phat_am": "['pɑ:spɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hộ chiếu"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cái đảm bảo để thực hiện được (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the only passport to success is hard work",
+              "full_vn": "cái duy nhất đảm bảo cho thành công là lao động tích cực"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

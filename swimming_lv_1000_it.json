@@ -1,0 +1,34 @@
+{
+  "english": "swimming",
+  "phat_am": "['swimiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bơi"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bơi"
+        },
+        {
+          "m_full_vn": "dùng để bơi"
+        },
+        {
+          "m_full_vn": "đẫm nước, ướt đẫm",
+          "list_en_vn": [
+            {
+              "full_en": "swimming eyes",
+              "full_vn": "mắt đẫm lệ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

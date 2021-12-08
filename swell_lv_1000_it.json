@@ -1,0 +1,186 @@
+{
+  "english": "swell",
+  "phat_am": "[swel]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) đặc sắc; hạng nhất; cừ, trội",
+          "list_en_vn": [
+            {
+              "full_en": "a swell pianist",
+              "full_vn": "một người chơi pianô cừ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) diện; bảnh bảo, hợp thời trang",
+          "list_en_vn": [
+            {
+              "full_en": "to look very swell",
+              "full_vn": "trông rất bảnh bao, trông rất diêm dúa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) rất tốt",
+          "list_en_vn": [
+            {
+              "full_en": "a swell guy",
+              "full_vn": "anh chàng rất tốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ lồi ra, chỗ phình ra, chỗ cao lên, chỗ gồ lên, chỗ sưng lên",
+          "list_en_vn": [
+            {
+              "full_en": "the swell of the ground",
+              "full_vn": "chỗ đất cao, chỗ đất gồ lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ lên bổng (trong bài hát)"
+        },
+        {
+          "m_full_vn": "sóng biển động, sóng cồn, sóng nhồi (sau cơn bão)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) mạnh dần"
+        },
+        {
+          "m_full_vn": "(thông tục) người cừ, người giỏi",
+          "list_en_vn": [
+            {
+              "full_en": "a swell in mathematics",
+              "full_vn": "tay cừ toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người ăn mặc sang trọng, người ăn mặc bảnh; kẻ tai to mặt lớn, ông lớn, bà lớn",
+          "list_en_vn": [
+            {
+              "full_en": "what a swell you are !",
+              "full_vn": "cậu ăn mặc bảnh quá!"
+            },
+            {
+              "full_en": "the swells",
+              "full_vn": "những người quần là áo lượt; những kẻ tai to mặt lớn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ swelled ; swelled , swollen",
+      "list_m": [
+        {
+          "m_full_vn": "phồng lên, sưng lên, to lên, căng ra",
+          "list_en_vn": [
+            {
+              "full_en": "injured wrist swells up",
+              "full_vn": "chỗ cổ tay bị thương sưng lên"
+            },
+            {
+              "full_en": "ground swells into an eminence",
+              "full_vn": "đất cao dần lên thành một mô đất"
+            },
+            {
+              "full_en": "heart swells",
+              "full_vn": "trái tim tưởng như vỡ ra vì xúc động"
+            },
+            {
+              "full_en": "the sails swell out",
+              "full_vn": "buồm căng ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm thấy như vỡ ra vì xúc động (về người, trái tim người đó..)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm phình lên, làm to lên, làm sưng lên, làm căng ra, làm nở ra",
+          "list_en_vn": [
+            {
+              "full_en": "wind swells the sails",
+              "full_vn": "gió làm căng buồm"
+            },
+            {
+              "full_en": "items swell the total",
+              "full_vn": "nhiều khoản chi tiêu làm tăng tổng số"
+            },
+            {
+              "full_en": "expenditure swollen by extravagance",
+              "full_vn": "tiền chi phí tăng lên vì phung phí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm phồng lên; làm căng phồng",
+          "list_en_vn": [
+            {
+              "full_en": "the wind swelled (out ) the sails",
+              "full_vn": "gió thổi phồng các cánh buồm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm tăng lên (về cường độ, số lượng, khối lượng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to swell like a turkey-cock",
+              "list_im": [
+                {
+                  "im_full_vn": "vênh vênh váo váo, lên mặt tay đây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swell with indignation",
+              "list_im": [
+                {
+                  "im_full_vn": "tức điên người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swell with pride",
+              "list_im": [
+                {
+                  "im_full_vn": "kiêu căng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have a swelled /swollen head",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) kiêu căng, tự phụ, tự cao tự đại (nhất là vì một thành công bất ngờ)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the river was swollen with flood water",
+              "full_vn": "nước sông lên to vì lũ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

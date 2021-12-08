@@ -1,0 +1,24 @@
+{
+  "english": "tiny",
+  "phat_am": "['taini]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rất nhỏ, nhỏ xíu, bé tí",
+          "list_en_vn": [
+            {
+              "full_en": "I feel a tiny bit better today",
+              "full_vn": "hôm nay tôi cảm thấy khá hơn một chút"
+            },
+            {
+              "full_en": "a tiny baby",
+              "full_vn": "đứa trẻ rất bé"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

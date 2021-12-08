@@ -1,0 +1,60 @@
+{
+  "english": "leak",
+  "phat_am": "[li:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỗ thủng, lỗ rò, khe hở",
+          "list_en_vn": [
+            {
+              "full_en": "to stop a leak",
+              "full_vn": "bịt lỗ rò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ dột (trên mái nhà)"
+        },
+        {
+          "m_full_vn": "sự rò; độ rò"
+        },
+        {
+          "m_full_vn": "sự lộ (bí mật); điều bí mật bị lộ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lọt qua, rỉ ra, rò ra, thoát ra",
+          "list_en_vn": [
+            {
+              "full_en": "boat leaks",
+              "full_vn": "thuyền bị nước rỉ vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lọt ra, lộ ra (điều bí mật)",
+          "list_en_vn": [
+            {
+              "full_en": "the secret has leaked out",
+              "full_vn": "điều bí mật đã lọt ra ngoài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiết lộ (bí mật)"
+        }
+      ]
+    }
+  ]
+}

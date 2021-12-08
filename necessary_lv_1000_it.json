@@ -1,0 +1,89 @@
+{
+  "english": "necessary",
+  "phat_am": "['nesisəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cần thiết, thiết yếu",
+          "list_en_vn": [
+            {
+              "full_en": "sleep is necessary to health",
+              "full_vn": "giấc ngủ cần thiết cho sức khoẻ"
+            },
+            {
+              "full_en": "I haven't got the necessary tools",
+              "full_vn": "tôi không có những dụng cụ cần thiết"
+            },
+            {
+              "full_en": "is it necessary for you to meet /necessary that we meet ?",
+              "full_vn": "có cần thiết chúng ta phải gặp nhau không?"
+            },
+            {
+              "full_en": "she hasn't the experience necessary for the job",
+              "full_vn": "cô ta chẳng có kinh nghiệm cần thiết cho công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tất nhiên, tất yếu",
+          "list_one_mean": [
+            {
+              "id_full_en": "a necessary evil",
+              "list_im": [
+                {
+                  "im_full_vn": "điều không được mong xảy ra và có thể có hại, nhưng vẫn phải chấp nhận vì những lý do thực tế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The loss of jobs is regarded by some as a necessary evil in the fight against inflation",
+                      "full_vn": "Tình hình mất việc làm được một số người coi là điều xấu nhưng tất yều phải làm để chống lạm phát"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a necessary evil",
+              "list_im": [
+                {
+                  "im_full_vn": "điều không được mong xảy ra và có thể có hại, nhưng vẫn phải chấp nhận vì những lý do thực tế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The loss of jobs is regarded by some as a necessary evil in the fight against inflation",
+                      "full_vn": "Tình hình mất việc làm được một số người coi là điều xấu nhưng tất yều phải làm để chống lạm phát"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a necessary consequence",
+              "full_vn": "hậu quả tất nhiên"
+            },
+            {
+              "full_en": "If a = b , and b = c , then the necessary conclusion is that a = c",
+              "full_vn": "Nếu a = b và b = c, kết luận tất yếu sẽ là a = c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( necessaries ) những thứ cần dùng",
+          "list_en_vn": [
+            {
+              "full_en": "the necessaries of life",
+              "full_vn": "những thứ cần dùng cho đời sống"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

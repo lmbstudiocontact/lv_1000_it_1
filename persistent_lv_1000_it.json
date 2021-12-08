@@ -1,0 +1,30 @@
+{
+  "english": "persistent",
+  "phat_am": "[pə'sistənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bền bỉ; kiên trì"
+        },
+        {
+          "m_full_vn": "dai dẳng; liên tục",
+          "list_en_vn": [
+            {
+              "full_en": "persistent rain",
+              "full_vn": "cơn mưa dai dẳng"
+            },
+            {
+              "full_en": "persistent attacks of coughing",
+              "full_vn": "những cơn ho liên tục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) bền; không rụng (lá, sừng, lông)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "scour",
+  "phat_am": "['skauə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cọ rửa",
+          "list_en_vn": [
+            {
+              "full_en": "give the pan a good scour",
+              "full_vn": "cọ cái xoong cho thật sạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xối nước sục sạch bùn (ở lòng sông...)"
+        },
+        {
+          "m_full_vn": "thuốc tẩy vải"
+        },
+        {
+          "m_full_vn": "bệnh ỉa chảy (của động vật)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cọ chùi; chà xát"
+        },
+        {
+          "m_full_vn": "rửa sạch, tạo ra (một con lạch..) do dòng chảy rất mạnh của một con sông.."
+        },
+        {
+          "m_full_vn": "chà sạch (đồ vật)"
+        },
+        {
+          "m_full_vn": "xối nước sục sạch bùn (ở lòng sông, ống dẫn nước...)"
+        },
+        {
+          "m_full_vn": "tẩy, gột (quần áo)"
+        },
+        {
+          "m_full_vn": "tẩy (ruột)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sục sạo, sục tìm; lùng sục",
+          "list_en_vn": [
+            {
+              "full_en": "to scour the coast",
+              "full_vn": "sục sạo ven biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi lướt qua"
+        }
+      ]
+    }
+  ]
+}

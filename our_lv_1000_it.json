@@ -1,0 +1,49 @@
+{
+  "english": "our",
+  "phat_am": "['auə(r)]",
+  "list_type": [
+    {
+      "type": "tính từ sở hữu",
+      "list_m": [
+        {
+          "m_full_vn": "của chúng ta, thuộc chúng ta, của chúng tôi, của chúng mình",
+          "list_en_vn": [
+            {
+              "full_en": "in our opinion",
+              "full_vn": "theo ý kiến chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của trẫm (vua chúa...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "Our Father",
+              "list_im": [
+                {
+                  "im_full_vn": "thượng đế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Our Saviour",
+              "list_im": [
+                {
+                  "im_full_vn": "Đức Chúa Giê-xu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Our Lady",
+              "list_im": [
+                {
+                  "im_full_vn": "Đức Mẹ đồng trinh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

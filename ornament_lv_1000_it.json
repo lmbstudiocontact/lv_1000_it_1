@@ -1,0 +1,49 @@
+{
+  "english": "ornament",
+  "phat_am": "['ɔ:nəment]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ trang hoàng, đồ trang trí, đồ trang sức; sự trang hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "a tower rich in ornament",
+              "full_vn": "cái tháp trang hoàng lộng lẫy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niềm vinh dự",
+          "list_en_vn": [
+            {
+              "full_en": "to be an ornament to one's country",
+              "full_vn": "là niềm vinh dự cho nước mình; làm vẻ vang cho đất nước mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (âm nhạc) nét hoa mỹ"
+        },
+        {
+          "m_full_vn": "( số nhiều) (tôn giáo) đồ thờ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang hoàng, trang trí",
+          "list_en_vn": [
+            {
+              "full_en": "a dress ornament with lace",
+              "full_vn": "một chiếc áo dài tô điểm đăng ten"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

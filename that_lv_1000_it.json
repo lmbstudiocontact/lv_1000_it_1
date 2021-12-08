@@ -1,0 +1,342 @@
+{
+  "english": "that",
+  "phat_am": "[ðæt]",
+  "list_type": [
+    {
+      "type": "từ xác định, số nhiều those",
+      "list_m": [
+        {
+          "m_full_vn": "ấy, đó, kia (dùng để nói rõ một người, một vật ở xa về không gian, thời đối với người viết hoặc người nói)",
+          "list_en_vn": [
+            {
+              "full_en": "that man",
+              "full_vn": "người ấy"
+            },
+            {
+              "full_en": "in those days",
+              "full_vn": "trong thời kỳ đó"
+            },
+            {
+              "full_en": "those books are old",
+              "full_vn": "những quyển sách ấy đã cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đó, ấy (dùng để nói rõ một người, một vật đã được chỉ ra, đã được nêu ra)",
+          "list_en_vn": [
+            {
+              "full_en": "did you see that boy ?",
+              "full_vn": "anh có trông thấy thằng bé đó không?"
+            },
+            {
+              "full_en": "that dress of hers is too short",
+              "full_vn": "chiếc áo đó của cô ta quá ngắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng đứng trước một tiền ngữ của một mệnh đề quan hệ)",
+          "list_en_vn": [
+            {
+              "full_en": "those students who failed the exam will have to take it again",
+              "full_vn": "những học sinh nào thi trượt sẽ phải thi lại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ, số nhiều those",
+      "list_m": [
+        {
+          "m_full_vn": "người ấy, người đó, người kia; vật ấy, vật đó, vật kia",
+          "list_en_vn": [
+            {
+              "full_en": "what is that ?",
+              "full_vn": "cái gì đó?"
+            },
+            {
+              "full_en": "who is that ?",
+              "full_vn": "ai đó?"
+            },
+            {
+              "full_en": "after that",
+              "full_vn": "sau đó"
+            },
+            {
+              "full_en": "before that",
+              "full_vn": "trước đó"
+            },
+            {
+              "full_en": "that is",
+              "full_vn": "nghĩa là, tức là"
+            },
+            {
+              "full_en": "will you help me ? - that I will",
+              "full_vn": "anh có vui lòng giúp tôi không? xin rất sẵn lòng"
+            },
+            {
+              "full_en": "that's right",
+              "full_vn": "phải đó"
+            },
+            {
+              "full_en": "that's it",
+              "full_vn": "tốt lắm"
+            },
+            {
+              "full_en": "what that ?",
+              "full_vn": "sao vậy?, sao thế?"
+            },
+            {
+              "full_en": "and that's that ; so that's that",
+              "full_vn": "đấy, chỉ có thế, chỉ thế thôi"
+            },
+            {
+              "full_en": "to prefer this to that",
+              "full_vn": "thích cái này hơn cái kia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để nói rõ một vật, sự kiện.. đã được chỉ ra hoặc nêu ra)",
+          "list_en_vn": [
+            {
+              "full_en": "look at that !",
+              "full_vn": "nhìn kìa!"
+            },
+            {
+              "full_en": "send her some flowers - that's the easiest thing to do",
+              "full_vn": "hãy gửi cho cô ta vài bông hoa - đó là cái dễ làm nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng làm tiền ngữ của một mệnh đề quan hệ)",
+          "list_en_vn": [
+            {
+              "full_en": "those present were in favour of a change",
+              "full_vn": "những ai có mặt đều ủng hộ sự thay đổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái, cái mà, cái như thế",
+          "list_one_mean": [
+            {
+              "id_full_en": "that is (to say )",
+              "list_im": [
+                {
+                  "im_full_vn": "điều đó có nghĩa là; tức là; nghĩa là"
+                },
+                {
+                  "im_full_vn": "để cho rõ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that is (to say )",
+              "list_im": [
+                {
+                  "im_full_vn": "điều đó có nghĩa là; tức là; nghĩa là"
+                },
+                {
+                  "im_full_vn": "để cho rõ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's that",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để chấm dứt một cuộc thảo luận, tìm kiếm, phát triển....) chỉ có thế; chỉ thế thôi; thế là xong",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I take it that's that - we've heard your final offer",
+                      "full_vn": "Tôi coi như thế là xong - chúng tôi đã nghe đề nghị sau cùng của ông rồi đấy"
+                    },
+                    {
+                      "full_en": "So that's that . At last we're all agreed",
+                      "full_vn": "Đấy, chỉ có thế. Cuối cùng tất cả chúng ta đã đồng ý"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's that",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để chấm dứt một cuộc thảo luận, tìm kiếm, phát triển....) chỉ có thế; chỉ thế thôi; thế là xong",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I take it that's that - we've heard your final offer",
+                      "full_vn": "Tôi coi như thế là xong - chúng tôi đã nghe đề nghị sau cùng của ông rồi đấy"
+                    },
+                    {
+                      "full_en": "So that's that . At last we're all agreed",
+                      "full_vn": "Đấy, chỉ có thế. Cuối cùng tất cả chúng ta đã đồng ý"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's that",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để chấm dứt một cuộc thảo luận, tìm kiếm, phát triển....) chỉ có thế; chỉ thế thôi; thế là xong",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I take it that's that - we've heard your final offer",
+                      "full_vn": "Tôi coi như thế là xong - chúng tôi đã nghe đề nghị sau cùng của ông rồi đấy"
+                    },
+                    {
+                      "full_en": "So that's that . At last we're all agreed",
+                      "full_vn": "Đấy, chỉ có thế. Cuối cùng tất cả chúng ta đã đồng ý"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a house like that described here",
+              "full_vn": "một cái nhà giống như cái tả ở đây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ quan hệ",
+      "list_m": [
+        {
+          "m_full_vn": "người mà, cái mà, mà",
+          "list_en_vn": [
+            {
+              "full_en": "he is the very man that I want to see",
+              "full_vn": "anh ấy đúng là người mà tôi cần gặp"
+            },
+            {
+              "full_en": "he that sows iniquity shall reap sorrows",
+              "full_vn": "ai gieo gió sẽ gặt bão"
+            },
+            {
+              "full_en": "the night that I went to the theatre",
+              "full_vn": "bữa tối mà tôi đi xem hát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "tới mức đó, như thế, đến thế",
+          "list_en_vn": [
+            {
+              "full_en": "I can't walk that far",
+              "full_vn": "tôi không thể đi bộ xa đến thế được"
+            },
+            {
+              "full_en": "they've spent that much",
+              "full_vn": "họ đã tiêu đến ngần ấy tiền"
+            },
+            {
+              "full_en": "I've done only that much",
+              "full_vn": "tôi chỉ làm được đến thế"
+            },
+            {
+              "full_en": "it's about that long",
+              "full_vn": "dài khoảng như thế"
+            },
+            {
+              "full_en": "it isn't all that cold",
+              "full_vn": "không hoàn toàn lạnh đến vậy đâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như thế này",
+          "list_en_vn": [
+            {
+              "full_en": "the boy is that tall",
+              "full_vn": "đứa bé cao như thế này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thân mật) đến nỗi",
+          "list_en_vn": [
+            {
+              "full_en": "I was that tired I couldn't speak",
+              "full_vn": "tôi mệt đến nỗi không thể nói được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "rằng, là",
+          "list_en_vn": [
+            {
+              "full_en": "there's no doubt that communism will be achieved in the world",
+              "full_vn": "chắc chắn rằng chủ nghĩa cộng sản sẽ được thực hiện trên khắp thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để, để mà",
+          "list_en_vn": [
+            {
+              "full_en": "light the lamp that I may read the letter",
+              "full_vn": "thắp đèn lên để tôi có thể đọc bức thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đến nỗi",
+          "list_en_vn": [
+            {
+              "full_en": "the cord was such long that I could not measure it",
+              "full_vn": "sợi dây dài đến nỗi tôi không thể đo được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá mà; giá như",
+          "list_one_mean": [
+            {
+              "id_full_en": "in that",
+              "list_im": [
+                {
+                  "im_full_vn": "bởi vì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is that",
+              "list_im": [
+                {
+                  "im_full_vn": "là vì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "oh , that I knew what was happening !",
+              "full_vn": "ôi! giá mà tôi biết cơ sự như thế này!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

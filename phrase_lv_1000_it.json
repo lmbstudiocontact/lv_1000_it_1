@@ -1,0 +1,106 @@
+{
+  "english": "phrase",
+  "phat_am": "[freiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhóm từ, cụm từ; thành ngữ",
+          "list_en_vn": [
+            {
+              "full_en": "'a half past four' and 'the green car ' are phrases",
+              "full_vn": "'lúc bốn giờ rưỡi ' và 'chiếc ô tô màu xanh' là những cụm từ"
+            },
+            {
+              "full_en": "an apt phrase",
+              "full_vn": "một thành ngữ thích hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lối nói, cách diễn đạt",
+          "list_en_vn": [
+            {
+              "full_en": "in simple phrase",
+              "full_vn": "theo cách nói đơn giản"
+            },
+            {
+              "full_en": "the poet's beauty of phrase",
+              "full_vn": "vẻ đẹp trong phong cách diễn đạt của nhà thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) tiết nhạc, đoản khúc"
+        },
+        {
+          "m_full_vn": "( số nhiều) những lời nói suông",
+          "list_one_mean": [
+            {
+              "id_full_en": "to coin a phrase",
+              "list_im": [
+                {
+                  "im_full_vn": "như coin"
+                }
+              ]
+            },
+            {
+              "id_full_en": "turn a phrase",
+              "list_im": [
+                {
+                  "im_full_vn": "diễn đạt một cách buồn cười, dí dỏm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a turn of phrase",
+              "list_im": [
+                {
+                  "im_full_vn": "cách diễn đạt, cách mô tả",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an interesting turn of phrase",
+                      "full_vn": "một cách diễn đạt thú vị"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a turn of phrase",
+              "list_im": [
+                {
+                  "im_full_vn": "cách diễn đạt, cách mô tả",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an interesting turn of phrase",
+                      "full_vn": "một cách diễn đạt thú vị"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "diễn đạt, nói, phát biểu (bằng lời); tạo thành ngữ",
+          "list_en_vn": [
+            {
+              "full_en": "thus he phrased it",
+              "full_vn": "anh ta đã phát biểu như thế đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) phân tiết, phân câu"
+        }
+      ]
+    }
+  ]
+}

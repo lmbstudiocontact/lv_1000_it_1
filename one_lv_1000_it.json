@@ -1,0 +1,341 @@
+{
+  "english": "one",
+  "phat_am": "[wʌn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con số 1"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng sau this , that , which hoặc như một trợ từ sau một tính từ mà tính từ đó không thể đứng một mình",
+          "list_en_vn": [
+            {
+              "full_en": "I prefer that one",
+              "full_vn": "tôi thích cái đó hơn"
+            },
+            {
+              "full_en": "which ones have you read ?",
+              "full_vn": "anh đã đọc những cuốn sách nào?"
+            },
+            {
+              "full_en": "your plan is a good one",
+              "full_vn": "kế hoạch của anh là một kế hoạch hay đấy"
+            },
+            {
+              "full_en": "I need a bigger one",
+              "full_vn": "tôi cần một cái to hơn"
+            },
+            {
+              "full_en": "These shoes are too small . We must buy some new ones",
+              "full_vn": "Những đôi giày này nhỏ quá. Chúng ta phải mua vài đôi mới"
+            },
+            {
+              "full_en": "the chance was too good a one to miss",
+              "full_vn": "cơ hội này quá tốt, nên không thể bỏ lỡ được"
+            },
+            {
+              "full_en": "her new car goes faster than her old one",
+              "full_vn": "ô tô mới của cô ta chạy nhanh hơn chiếc cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng với một nhóm từ để nhận ra (những) người hoặc (những) cái đang được xem xét",
+          "list_one_mean": [
+            {
+              "id_full_en": "a one",
+              "list_im": [
+                {
+                  "im_full_vn": "(bày tỏ sự ngạc nhiên hay thú vị trước cách ứng xử của ai) hay nhỉ; giỏi nhỉ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You asked your teacher how old she was . You are a one !",
+                      "full_vn": "Anh từng hỏi cô giáo xem cô bao nhiêu tuổi. Anh là người có một không hai đấy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a one",
+              "list_im": [
+                {
+                  "im_full_vn": "(bày tỏ sự ngạc nhiên hay thú vị trước cách ứng xử của ai) hay nhỉ; giỏi nhỉ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You asked your teacher how old she was . You are a one !",
+                      "full_vn": "Anh từng hỏi cô giáo xem cô bao nhiêu tuổi. Anh là người có một không hai đấy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the one about somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "lới nói đùa về ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Do you know /Have you heard the one about the bald policeman ?",
+                      "full_vn": "Anh có biết/đã nghe câu chuyện vui về viên cảnh sát hói đầu chưa?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the one about somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "lới nói đùa về ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Do you know /Have you heard the one about the bald policeman ?",
+                      "full_vn": "Anh có biết/đã nghe câu chuyện vui về viên cảnh sát hói đầu chưa?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "our hotel is the one nearest the beach",
+              "full_vn": "khách sạn của chúng tôi là khách sạn gần bãi biển nhất"
+            },
+            {
+              "full_en": "the boy who threw the stone is the one with curly hair",
+              "full_vn": "đứa bé ném đá là đứa tóc quăn"
+            },
+            {
+              "full_en": "students who do well in examinations are the ones who ask questions in class",
+              "full_vn": "những học sinh thi tốt là những người hay đặt câu hỏi trong lớp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng nhất là ở số nhiều, sau một tính từ để nói đến một hoặc nhiều người không được nói rõ trước)",
+          "list_en_vn": [
+            {
+              "full_en": "it's time the little ones were in bed",
+              "full_vn": "đã đến lúc lũ nhỏ đi ngủ"
+            },
+            {
+              "full_en": "pray to the Holy One for forgiveness",
+              "full_vn": "hãy cầu xin Chúa tha tội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hai trừ một; cái đơn chiếc; một",
+          "list_en_vn": [
+            {
+              "full_en": "I've got two brothers and one sister",
+              "full_vn": "tôi có hai em trai và một em gái"
+            },
+            {
+              "full_en": "there's only one piece of cake left",
+              "full_vn": "chỉ còn lại một mẩu bánh ngọt"
+            },
+            {
+              "full_en": "Chapter One ; Book One",
+              "full_vn": "Chương 1; Quyển 1"
+            },
+            {
+              "full_en": "one day /morning /afternoon /evening /night last week",
+              "full_vn": "một ngày/sáng/chiều/tối/đêm tuần trước"
+            },
+            {
+              "full_en": "one day you'll be glad she left you",
+              "full_vn": "một ngày nào đó anh sẽ mừng là cô ta đã bỏ anh"
+            },
+            {
+              "full_en": "one morning in June ...",
+              "full_vn": "một sáng tháng sáu..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ có một; duy nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the one way to succeed is to work hard and live a healthy life",
+              "full_vn": "cách duy nhất để thành công là làm việc tích cực và sống lành mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với tên ai để cho thấy người nói không biết người đó) một... nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "one Tim Smith called to see you but you were out",
+              "full_vn": "một ông Tim Smith nào đó đã gọi điện thoại để gặp anh nhưng anh đi vắng"
+            },
+            {
+              "full_en": "the author of the anonymous article turned out to be one Stanley Carter",
+              "full_vn": "tác giả bài báo vô danh hoá ra là một ông Stanley Carter nào đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng với the other , another hoặc other ( s ) để trình bày một sự tương phản",
+          "list_en_vn": [
+            {
+              "full_en": "the two girls are so alike that strangers find it difficult to tell (the ) one from the other",
+              "full_vn": "hai cô gái giống nhau đến nỗi người lạ khó mà phân biệt được cô này với cô kia"
+            },
+            {
+              "full_en": "I see you add the egg before the milk . That's one way of doing it",
+              "full_vn": "Tôi thấy bà cho trứng vào trước khi đổ sữa. Đó là một cách làm (nghĩa là còn nhiều cách nữa)"
+            },
+            {
+              "full_en": "I'm sorry I can't help you . For one thing I'm in a hurry and for another I've a bad back",
+              "full_vn": "Tôi xin lỗi không giúp anh được. Một làtôi vội lắm và hai là tôi đau lưng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như nhau",
+          "list_en_vn": [
+            {
+              "full_en": "they all went off in one direction",
+              "full_vn": "tất cả bọn họ ra đi theo cùng một hướng"
+            },
+            {
+              "full_en": "after the union meeting , the workers were all of one mind",
+              "full_vn": "sau cuộc họp công đoàn, tất cả anh em công nhân đều nhất trí với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng thay cho a hoặc an để nhấn mạnh danh từ hoặc cụm từ tiếp theo",
+          "list_en_vn": [
+            {
+              "full_en": "that's one handsome guy",
+              "full_vn": "đó là một anh chàng đẹp trai"
+            },
+            {
+              "full_en": "it was one hell of a match",
+              "full_vn": "đó là một trận đấu cực hay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ"
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng làm bổ ngữ của một động từ hoặc giới từ để tránh a và nhắc lại một danh từ)",
+          "list_en_vn": [
+            {
+              "full_en": "I forgot to bring a pen . Can you lend me one ?",
+              "full_vn": "Tôi quên mang bút theo. Anh cho tôi mượn một cây (bút) được không?"
+            },
+            {
+              "full_en": "I haven't got any stamps . Could you give me one ?",
+              "full_vn": "Tôi chẳng có cái tem nào cả. Anh cho tôi một cái được không?"
+            },
+            {
+              "full_en": "There have been a lot of accidents in the fog . I read about one this morning",
+              "full_vn": "Có rất nhiều tai nạn trong sương mù. Tôi đã đọc thấy một vụ sáng nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một người nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "he worked like one possessed",
+              "full_vn": "nó làm việc như người bị quỷ ám (rất hăng hái)"
+            },
+            {
+              "full_en": "she was never one to gossip",
+              "full_vn": "cô ta chẳng bao giờ là người ngồi lê đôi mách"
+            },
+            {
+              "full_en": "he's not one who is easily frightened",
+              "full_vn": "ông ta không phải là người dễ hoảng sợ"
+            },
+            {
+              "full_en": "John is one who must certainly be invited",
+              "full_vn": "John là người chắc chắn phải được mời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng làm chủ ngữ hoặc bổ ngữ của một động từ hoặc sau một giới từ để chỉ người nói chung, gồm cả người nói hoặc người viết) người ta; ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be one for doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "là người giỏi cái gì, người bỏ ra nhiều thời giờ vào cái gì hoặc thích thú làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's a great one for (solving ) puzzles",
+                      "full_vn": "cô ta là người rất giỏi (giải) câu đố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be one for doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "là người giỏi cái gì, người bỏ ra nhiều thời giờ vào cái gì hoặc thích thú làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's a great one for (solving ) puzzles",
+                      "full_vn": "cô ta là người rất giỏi (giải) câu đố"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in these circumstances one prefers to be alone",
+              "full_vn": "trong hoàn cảnh đó, ai cũng muốn ở một mình"
+            },
+            {
+              "full_en": "a little delay will give one time to prepare",
+              "full_vn": "chậm lại một chút sẽ cho người ta có thời gian chuẩn bị"
+            },
+            {
+              "full_en": "one must be sure of one's facts before making a public accusation",
+              "full_vn": "người ta cần phải biết chắc các sự việc trước khi đưa ra một lời buộc tội công khai"
+            },
+            {
+              "full_en": "one does not like to have his word doubted",
+              "full_vn": "người ta không ai thích lời nói của mình bị nghi ngờ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

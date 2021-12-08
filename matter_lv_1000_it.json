@@ -1,0 +1,215 @@
+{
+  "english": "matter",
+  "phat_am": "['mætə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất, vật chất",
+          "list_en_vn": [
+            {
+              "full_en": "volatile matter",
+              "full_vn": "chất dễ bay hơi"
+            },
+            {
+              "full_en": "suspended matter",
+              "full_vn": "chất huyền phù"
+            },
+            {
+              "full_en": "waste matter",
+              "full_vn": "chất thải"
+            },
+            {
+              "full_en": "to study the properties of matter",
+              "full_vn": "nghiên cứu các thuộc tính của vật chất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chủ đề, nội dung",
+          "list_en_vn": [
+            {
+              "full_en": "the matter of a poem",
+              "full_vn": "chủ đề của bài thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "printed matter",
+              "full_vn": "ấn phẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc, chuyện, điều, sự kiện, vấn đề",
+          "list_en_vn": [
+            {
+              "full_en": "the heart /core of the matter",
+              "full_vn": "trung tâm/cốt lõi của vấn đề"
+            },
+            {
+              "full_en": "the matter in hand /under discussion",
+              "full_vn": "vấn đề đang được đề cập/thảo luận"
+            },
+            {
+              "full_en": "a matter I know little about",
+              "full_vn": "một vấn đề mà tôi biết chút ít thôi"
+            },
+            {
+              "full_en": "it is a very important matter",
+              "full_vn": "đấy là một việc rất quan trọng"
+            },
+            {
+              "full_en": "it is no laughing matter",
+              "full_vn": "đây không phải là chuyện đùa"
+            },
+            {
+              "full_en": "it is only a matter of habit /time",
+              "full_vn": "đó là vấn đề thói quen/thời gian mà thôi"
+            },
+            {
+              "full_en": "a matter of life and death",
+              "full_vn": "một vấn đề sống còn"
+            },
+            {
+              "full_en": "a matter of opinion",
+              "full_vn": "vấn đề còn gây tranh cãi; vấn đề còn phải bàn lại"
+            },
+            {
+              "full_en": "I don't discuss private matters with my colleagues",
+              "full_vn": "tôi không bàn chuyện riêng tư với các đồng nghiệp (của tôi)"
+            },
+            {
+              "full_en": "in the matter of something",
+              "full_vn": "về vấn đề gì đó"
+            },
+            {
+              "full_en": "to be a matter of something /doing something",
+              "full_vn": "chỉ là vấn đề gì đó"
+            },
+            {
+              "full_en": "to let the matter drop ; to let the matter rest",
+              "full_vn": "không bàn đến vấn đề đó nữa"
+            },
+            {
+              "full_en": "what's the matter with you ?",
+              "full_vn": "anh làm sao thế?, anh có vấn đề gì thế?"
+            },
+            {
+              "full_en": "is anything the matter ?",
+              "full_vn": "có chuyện gì không?"
+            },
+            {
+              "full_en": "money matters",
+              "full_vn": "chuyện tiền nong"
+            },
+            {
+              "full_en": "to make matters worse",
+              "full_vn": "làm cho tình hình tồi tệ hơn; đổ dầu vào lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc quan trọng, chuyện quan trọng",
+          "list_en_vn": [
+            {
+              "full_en": "it is no great matter",
+              "full_vn": "cái đó không phải là điều quan trọng ghê gớm"
+            },
+            {
+              "full_en": "no matter",
+              "full_vn": "chẳng sao cả; chẳng hề gì"
+            },
+            {
+              "full_en": "I can't do it - No matter , I'll do it myself",
+              "full_vn": "Tôi không làm được việc đó - Không sao, tôi sẽ tự mình làm lấy"
+            },
+            {
+              "full_en": "it's no matter to me whether you arrive early or late",
+              "full_vn": "anh đến sớm hay muộn, đối với tôi không quan trọng"
+            },
+            {
+              "full_en": "to make no matter to somebody",
+              "full_vn": "chẳng quan trọng gì đối với ai; chẳng đáng cho ai quan tâm"
+            },
+            {
+              "full_en": "no matter who /what /where ...",
+              "full_vn": "bất kể ai/cái gì/ở đâu..."
+            },
+            {
+              "full_en": "don't open the door , no matter who comes",
+              "full_vn": "bất kỳ ai đến cũng không mở cửa"
+            },
+            {
+              "full_en": "I'll be there tomorrow no matter what",
+              "full_vn": "Ngày mai tôi vẫn đến đó, bất kể có gì chăng nữa"
+            },
+            {
+              "full_en": "never trust that blabbermouth , no matter what he says",
+              "full_vn": "đừng bao giờ tin cái thằng khoác lác ấy, bất kể nó nói gì chăng nữa"
+            },
+            {
+              "full_en": "Try to keep in touch with them , no matter where they are",
+              "full_vn": "Hãy cố gắng giữ liên lạc với họ, bất kể họ đang ở đâu"
+            },
+            {
+              "full_en": "I must speak to her , no matter how ill she is",
+              "full_vn": "Tôi phải nói chuyện với cô ấy, dù cô ấy bệnh thế nào chăng nữa"
+            },
+            {
+              "full_en": "to take matters into one's own hands",
+              "full_vn": "tùy nghi hành động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng ước lượng (thời gian, không gian, số lượng...)",
+          "list_en_vn": [
+            {
+              "full_en": "a matter of six kilometers",
+              "full_vn": "khoảng độ sáu kilômét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lý do, nguyên nhân, cớ, lẽ, cơ hội, tình hình",
+          "list_en_vn": [
+            {
+              "full_en": "no matter for complaint",
+              "full_vn": "không có lý do gì để than phiền cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) mủ; nước tiểu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to matter to somebody ) có ý nghĩa, có tính chất quan trọng",
+          "list_en_vn": [
+            {
+              "full_en": "it does not matter to me what you do",
+              "full_vn": "anh làm gì, đối với tôi không quan trọng"
+            },
+            {
+              "full_en": "does it matter if we're a bit late ?",
+              "full_vn": "chúng tôi đến muộn một tí có sao không?"
+            },
+            {
+              "full_en": "this case matters more than others",
+              "full_vn": "trường hợp này quan trọng hơn những trường hợp khác"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

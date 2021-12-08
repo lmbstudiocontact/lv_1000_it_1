@@ -1,0 +1,53 @@
+{
+  "english": "throat",
+  "phat_am": "[θrout]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cổ; cổ họng",
+          "list_en_vn": [
+            {
+              "full_en": "to grab someone by the throat",
+              "full_vn": "bóp cổ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cổ họng, thanh quản, hầu (đường đi ở cổ qua đó thức ăn xuống dạ dày và không khí lọt vào phổi)",
+          "list_en_vn": [
+            {
+              "full_en": "a fish bone has stuck in my throat",
+              "full_vn": "một chiếc xương cá mắc trong họng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lối đi hẹp; lỗ hẹp; cổ (chai); cửa (lò cao)"
+        },
+        {
+          "m_full_vn": "khúc sông hẹp (giữa hai vách đá)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ram something down someone's throat",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai phải thừa nhận cái gì, bắt ai phải nghe cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "words stick in one's throat",
+              "list_im": [
+                {
+                  "im_full_vn": "những lời nói cứ ở cổ khó nói ra được"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

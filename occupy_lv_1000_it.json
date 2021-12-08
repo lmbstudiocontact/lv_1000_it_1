@@ -1,0 +1,80 @@
+{
+  "english": "occupy",
+  "phat_am": "['ɒkjʊpai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiếm đóng, chiếm lĩnh, chiếm cứ",
+          "list_en_vn": [
+            {
+              "full_en": "the army occupied the enemy's capital",
+              "full_vn": "quân đội chiếm lĩnh thủ đô của địch"
+            },
+            {
+              "full_en": "the terrorists have occupied the Embassy",
+              "full_vn": "bọn khủng bố đã chiếm giữ toà đại sứ"
+            },
+            {
+              "full_en": "the striking office workers have occupied the whole building",
+              "full_vn": "nhân viên văn phòng bãi công đã chiếm giữ toàn bộ toà nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ (một địa vị chính thức)",
+          "list_en_vn": [
+            {
+              "full_en": "to occupy an important position in the government",
+              "full_vn": "giữ một địa vị quan trọng trong chính phủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiếm, choán",
+          "list_en_vn": [
+            {
+              "full_en": "many worries occupy his mind",
+              "full_vn": "nhiều nỗi lo lắng choán cả đầu óc hắn"
+            },
+            {
+              "full_en": "the speeches occupied three hours",
+              "full_vn": "các diễn văn chiếm mất ba tiếng đồng hồ"
+            },
+            {
+              "full_en": "a bed occupied the corner of the room",
+              "full_vn": "cái giừơng choán cả góc phòng"
+            },
+            {
+              "full_en": "her time is fully occupied with her three children",
+              "full_vn": "bà ta để hết thời gian vào ba đứa con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cư ngụ",
+          "list_en_vn": [
+            {
+              "full_en": "they occupy the house next door",
+              "full_vn": "họ sống ở nhà bên cạnh"
+            },
+            {
+              "full_en": "the family have occupied the farm for many years",
+              "full_vn": "gia đình đã sống ở trang trại này nhiều năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to occupy oneself in doing something / with something ) bận rộn",
+          "list_en_vn": [
+            {
+              "full_en": "the child occupied himself in playing his flute",
+              "full_vn": "đứa bé bỏ hết thì giờ vào việc thổi sáo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

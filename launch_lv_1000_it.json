@@ -1,0 +1,91 @@
+{
+  "english": "launch",
+  "phat_am": "[lɔ:nt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuồng lớn (lớn nhất trên một tàu chiến)"
+        },
+        {
+          "m_full_vn": "xuồng du lịch"
+        },
+        {
+          "m_full_vn": "sự hạ thuỷ (tàu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hạ thuỷ (tàu)"
+        },
+        {
+          "m_full_vn": "ném, phóng, quăng, liệng (tên lửa; lời đe doạ...); mở (cuộc tấn công); phát động (phong trào...); giáng (quả đấm...); ban bố (sắc lệnh...)"
+        },
+        {
+          "m_full_vn": "khởi đầu, khai trương",
+          "list_en_vn": [
+            {
+              "full_en": "to launch a new enterprise",
+              "full_vn": "khai trương một tổ chức kinh doanh mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa (ai) ra, giới thiệu (ai) ra (cho mọi người biết)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt đầu dấn vào, lao vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to laugh into abuse of someone",
+              "list_im": [
+                {
+                  "im_full_vn": "chửi rủa ai om sòm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to launch into eternity",
+              "list_im": [
+                {
+                  "im_full_vn": "chết, qua đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to launch into strong language",
+              "list_im": [
+                {
+                  "im_full_vn": "chửi rủa một thôi một hồi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to launch out on a long voyage",
+              "full_vn": "bắt đầu một cuộc hành trình dài"
+            },
+            {
+              "full_en": "to launch out into extravagance",
+              "full_vn": "lao vào một cuộc sống phóng túng"
+            },
+            {
+              "full_en": "to launch out into the sea of life",
+              "full_vn": "dấn thân vào đời"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "sensible",
+  "phat_am": "['sensəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có óc xét đoán; biểu lộ óc xét đoán; biết điều",
+          "list_en_vn": [
+            {
+              "full_en": "a sensible person",
+              "full_vn": "một con người biết điều"
+            },
+            {
+              "full_en": "a sensible idea",
+              "full_vn": "một ý nghĩ hợp lý"
+            },
+            {
+              "full_en": "a sensible compromise",
+              "full_vn": "sự nhân nhượng hợp lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( sensible of something ) hiểu; nhận biết được",
+          "list_en_vn": [
+            {
+              "full_en": "he is sensible of your kindness",
+              "full_vn": "anh ấy biết được lòng tốt của bạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể nhận thức được bằng giác quan; có thể nhận ra",
+          "list_en_vn": [
+            {
+              "full_en": "a sensible difference",
+              "full_vn": "sự khác biệt dễ thấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) nhạy",
+          "list_en_vn": [
+            {
+              "full_en": "sensible balance",
+              "full_vn": "cân nhạy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về quần áo) thực tế hơn là thời thượng",
+          "list_en_vn": [
+            {
+              "full_en": "to wear sensible shoes for long walks",
+              "full_vn": "mang giày chắc bền để đi đường dài"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

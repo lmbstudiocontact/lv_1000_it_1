@@ -1,0 +1,58 @@
+{
+  "english": "premium",
+  "phat_am": "['pri:miəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần thưởng, giải thưởng"
+        },
+        {
+          "m_full_vn": "tiền trả thêm, tiền thưởng, tiền lãi"
+        },
+        {
+          "m_full_vn": "phí bảo hiểm, tiền đóng bảo hiểm"
+        },
+        {
+          "m_full_vn": "tiền học việc (trả ngay cho người dạy nghề)"
+        },
+        {
+          "m_full_vn": "tiền các đổi tiền (như) premium on exchange",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a premium",
+              "list_im": [
+                {
+                  "im_full_vn": "cao hơn giá qui định; (nghĩa bóng) được đánh giá cao, hiếm khi có, khó có"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put a premium on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai/cái gì có vẻ quan trọng"
+                },
+                {
+                  "im_full_vn": "dành cho ai/cái gì một vị trí, tầm quan trọng đặc biệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put a premium on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai/cái gì có vẻ quan trọng"
+                },
+                {
+                  "im_full_vn": "dành cho ai/cái gì một vị trí, tầm quan trọng đặc biệt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

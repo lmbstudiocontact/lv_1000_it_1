@@ -1,0 +1,41 @@
+{
+  "english": "thoughtful",
+  "phat_am": "['θɔ:tfl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trầm ngâm; trầm tư; tư lự",
+          "list_en_vn": [
+            {
+              "full_en": "thoughtful look",
+              "full_vn": "vẻ mặt trầm tư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có suy nghĩ, chín chắn, thận trọng"
+        },
+        {
+          "m_full_vn": "thâm trầm; sâu sắc (về cuốn sách, nhà văn, nhận xét..)",
+          "list_en_vn": [
+            {
+              "full_en": "a thoughtful book",
+              "full_vn": "một cuốn sách sâu sắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chu đáo; quan tâm; ân cần",
+          "list_en_vn": [
+            {
+              "full_en": "to be thoughtful of others",
+              "full_vn": "quan tâm đến người khác"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

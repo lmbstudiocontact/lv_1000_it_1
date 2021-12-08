@@ -1,0 +1,143 @@
+{
+  "english": "shine",
+  "phat_am": "[∫ain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ánh sáng; ánh nắng; sự chói sáng, độ sáng",
+          "list_en_vn": [
+            {
+              "full_en": "it's rain and shine together",
+              "full_vn": "trời vừa mưa vừa nắng"
+            },
+            {
+              "full_en": "rain or shine",
+              "full_vn": "dù mưa hay nắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bóng lộn; nước bóng",
+          "list_en_vn": [
+            {
+              "full_en": "to put a good shine on boots",
+              "full_vn": "đánh đôi giày ống bóng lộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự rực rỡ, sự huy hoàng"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự cãi nhau; sự huyên náo; sự chấn động dư luận"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) trò chơi khăm, trò chơi xỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take a shine to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bất chợt thích ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the shine out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mất phấn (mất bóng) một thứ gì"
+                },
+                {
+                  "im_full_vn": "vượt hẳn cái gì, làm lu mờ cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the shine out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mất phấn (mất bóng) một thứ gì"
+                },
+                {
+                  "im_full_vn": "vượt hẳn cái gì, làm lu mờ cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ shone",
+      "list_m": [
+        {
+          "m_full_vn": "chiếu sáng, toả sáng, soi sáng",
+          "list_en_vn": [
+            {
+              "full_en": "the sun shines bright",
+              "full_vn": "mặt trời chiếu sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sáng, bóng (vật); sáng, tươi (người)",
+          "list_en_vn": [
+            {
+              "full_en": "face shines with soap",
+              "full_vn": "mặt bóng nhẫy xà phòng"
+            },
+            {
+              "full_en": "face shines with joy",
+              "full_vn": "mặt vui hớn hở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + at/in ) giỏi, cừ; trội, nổi",
+          "list_en_vn": [
+            {
+              "full_en": "to shine in conversation",
+              "full_vn": "giỏi trong việc giao tiếp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chĩa ánh sáng (đèn pin..) về một hướng nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "the police shone a searchlight on the house",
+              "full_vn": "cảnh sát chĩa đèn pha vào nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đánh bóng (giày..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shine up to",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) làm thân với"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to shine shoes",
+              "full_vn": "đánh bóng giày"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

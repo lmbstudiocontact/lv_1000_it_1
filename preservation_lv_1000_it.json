@@ -1,0 +1,30 @@
+{
+  "english": "preservation",
+  "phat_am": "[,prevə'vei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự gìn giữ, sự bảo quản, sự bảo tồn, sự duy trì",
+          "list_en_vn": [
+            {
+              "full_en": "in an excellent state of preservation ; in a state of fair preservation",
+              "full_vn": "được bảo quản rất tốt"
+            },
+            {
+              "full_en": "a preservation order",
+              "full_vn": "luật về bảo tồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bảo quản (thức ăn, thịt...) (bằng cách đóng hộp, ướp muối, nấu thành mứt...)"
+        },
+        {
+          "m_full_vn": "(hoá học) sự giữ cho khỏi phân huỷ"
+        }
+      ]
+    }
+  ]
+}

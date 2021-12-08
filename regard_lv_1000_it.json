@@ -1,0 +1,259 @@
+{
+  "english": "regard",
+  "phat_am": "[ri'gɑ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( regard to / for somebody / something ) sự quan tâm đến ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to have /pay /show little regard for the feelings of others",
+              "full_vn": "ít quan tâm đến tình cảm của người khác"
+            },
+            {
+              "full_en": "to drive without regard for /to speed limit",
+              "full_vn": "lái xe không để ý gì đến giới hạn tốc độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( regard for somebody / something ) niềm kính mến hoặc quý trọng; sự tôn kính",
+          "list_en_vn": [
+            {
+              "full_en": "to hold somebody in high /low regard",
+              "full_vn": "rất/ít kính trọng ai"
+            },
+            {
+              "full_en": "to have a great regard for somebody's judgement /intelligence /achievements",
+              "full_vn": "rất tôn trọng sự nhận xét/trí thông minh/thành tích của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) lời chúc mừng tốt đẹp; lời chào hỏi (ở cuối bức thư)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in /with regard to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "liên quan đến ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've nothing to say with regard to your complaints",
+                      "full_vn": "Tôi chẳng có gì để nói về những lời than phiền của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in /with regard to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "liên quan đến ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've nothing to say with regard to your complaints",
+                      "full_vn": "Tôi chẳng có gì để nói về những lời than phiền của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in this /that /one regard",
+              "list_im": [
+                {
+                  "im_full_vn": "về mặt này/mặt kia",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He's very sensitive in this regard",
+                      "full_vn": "Anh ta rất nhạy cảm về mặt này"
+                    },
+                    {
+                      "full_en": "We have succeeded in one crucial regard : Making this scandal public",
+                      "full_vn": "Chúng ta đã thành công về một điểm cốt yếu : Đưa vụ bê bối này ra trước công chúng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in this /that /one regard",
+              "list_im": [
+                {
+                  "im_full_vn": "về mặt này/mặt kia",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He's very sensitive in this regard",
+                      "full_vn": "Anh ta rất nhạy cảm về mặt này"
+                    },
+                    {
+                      "full_en": "We have succeeded in one crucial regard : Making this scandal public",
+                      "full_vn": "Chúng ta đã thành công về một điểm cốt yếu : Đưa vụ bê bối này ra trước công chúng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in this /that /one regard",
+              "list_im": [
+                {
+                  "im_full_vn": "về mặt này/mặt kia",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He's very sensitive in this regard",
+                      "full_vn": "Anh ta rất nhạy cảm về mặt này"
+                    },
+                    {
+                      "full_en": "We have succeeded in one crucial regard : Making this scandal public",
+                      "full_vn": "Chúng ta đã thành công về một điểm cốt yếu : Đưa vụ bê bối này ra trước công chúng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "please give /send my best regards to your parents",
+              "full_vn": "mong anh chuyển giùm tới hai cụ nhà những lời chúc tụng tốt đẹp nhất của tôi"
+            },
+            {
+              "full_en": "With kind regards , Yours sincerely ...",
+              "full_vn": "Với những lời chúc mừng chân thành của tôi. Kính thư..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhìn ai một cách chăm chú",
+          "list_en_vn": [
+            {
+              "full_en": "she regarded him closely /intently /curiously",
+              "full_vn": "cô ta nhìn anh ấy một cách thân tình/chằm chằm/tò mò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to regard somebody / something with / as something ) coi như, xem như, đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "How is he regarded locally ?",
+              "full_vn": "Anh ta được đánh giá như thế nào ở địa phương?"
+            },
+            {
+              "full_en": "Your work is highly regarded",
+              "full_vn": "Công việc của anh được đánh giá cao"
+            },
+            {
+              "full_en": "We regard her behaviour with suspicion",
+              "full_vn": "Chúng tôi xem xét hành vi của cô ta một cách hồ nghi"
+            },
+            {
+              "full_en": "To regard somebody unfavourably /with disfavour",
+              "full_vn": "Đánh giá ai một cách thiếu thiện cảm/ác cảm"
+            },
+            {
+              "full_en": "I regard your suggestion as worth considering /as worthy of consideration",
+              "full_vn": "Tôi cho rằng ý kiến của anh thật đáng suy xét"
+            },
+            {
+              "full_en": "We regard your action as a crime /as criminal",
+              "full_vn": "chúng tôi xem hành vi của anh như là tội ác"
+            },
+            {
+              "full_en": "She's generally regarded as a nuisance",
+              "full_vn": "Nói chung, cô ta bị coi là kẻ hay quấy rầy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong câu phủ định hoặc câu hỏi) để ý, lưu ý",
+          "list_en_vn": [
+            {
+              "full_en": "He seldom regards my advice",
+              "full_vn": "Ít khi nó để ý lời khuyên của tôi"
+            },
+            {
+              "full_en": "He booked the holiday without regarding my wishes",
+              "full_vn": "Anh ta cứ mua vé đi nghỉ mà chẳng hề quan tâm đến nguyện vọng của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có liên quan tới, dính dấp đến, dính dáng đến, có quan hệ tới",
+          "list_one_mean": [
+            {
+              "id_full_en": "as regards somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "có liên quan đến ai/cái gì; về phần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I have little information as regards his past",
+                      "full_vn": "Tôi có ít thông tin về quá khứ của anh ta"
+                    },
+                    {
+                      "full_en": "As regards the second point in your letter ........",
+                      "full_vn": "Về điểm thứ nhì trong lá thư của anh........"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as regards somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "có liên quan đến ai/cái gì; về phần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I have little information as regards his past",
+                      "full_vn": "Tôi có ít thông tin về quá khứ của anh ta"
+                    },
+                    {
+                      "full_en": "As regards the second point in your letter ........",
+                      "full_vn": "Về điểm thứ nhì trong lá thư của anh........"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as regards somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "có liên quan đến ai/cái gì; về phần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I have little information as regards his past",
+                      "full_vn": "Tôi có ít thông tin về quá khứ của anh ta"
+                    },
+                    {
+                      "full_en": "As regards the second point in your letter ........",
+                      "full_vn": "Về điểm thứ nhì trong lá thư của anh........"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this matter does not regard me at all",
+              "full_vn": "vấn đề này chẳng dính dáng đến tôi một tí nào cả"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

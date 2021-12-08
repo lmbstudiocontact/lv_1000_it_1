@@ -1,0 +1,116 @@
+{
+  "english": "never",
+  "phat_am": "['nevə]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "không bao giờ, không khi nào",
+          "list_one_mean": [
+            {
+              "id_full_en": "better late than never",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) better"
+                }
+              ]
+            },
+            {
+              "id_full_en": "never too late to mend",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn sửa chữa thì chả lo là muộn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy on the never-never",
+              "list_im": [
+                {
+                  "im_full_vn": "mua cái gì theo cách ban đầu là thuê rồi sau mua hẳn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she never goes to the cinema",
+              "full_vn": "bà ta không bao giờ đi xem phim"
+            },
+            {
+              "full_en": "he has never been abroad",
+              "full_vn": "ông ta chưa bao giờ ra nước ngoài"
+            },
+            {
+              "full_en": "I will never agree to their demands",
+              "full_vn": "tôi sẽ không bao giờ đồng ý với yêu cầu của họ"
+            },
+            {
+              "full_en": "I'm tired of your never-ending complaints",
+              "full_vn": "tôi phát mệt với những lời kêu ca không dứt của anh"
+            },
+            {
+              "full_en": "'Would you do that ? ' - 'Never'",
+              "full_vn": "Anh sẽ làm điều đó chứ? - Không bao giờ"
+            },
+            {
+              "full_en": "never in all my life have I heard such nonsense",
+              "full_vn": "cả đời tôi chưa bao giờ nghe một chuyện vô lý như vậy"
+            },
+            {
+              "full_en": "I shall never come there again",
+              "full_vn": "tôi sẽ không bao giờ đến đó nữa"
+            },
+            {
+              "full_en": "such a display has never been seen before /never before seen",
+              "full_vn": "một cuộc trưng bày như vậy trước đây chưa hề thấy"
+            },
+            {
+              "full_en": "that will never do",
+              "full_vn": "chuyện đó dứt khoát không thể nào xong; chuyện đó không ổn đâu"
+            },
+            {
+              "full_en": "he never so much as smiled",
+              "full_vn": "ông ấy không hề cười lấy một lần"
+            },
+            {
+              "full_en": "never fear !",
+              "full_vn": "đừng sợ!"
+            },
+            {
+              "full_en": "never tell a lie !",
+              "full_vn": "không bao giờ được nói dối!"
+            },
+            {
+              "full_en": "never say die !",
+              "full_vn": "không bao giờ được thất vọng"
+            },
+            {
+              "full_en": "well , I never !; I never did !",
+              "full_vn": "chà!, tôi chưa bao giờ nghe (thấy) (một điều (như)) thế"
+            },
+            {
+              "full_en": "never mind !",
+              "full_vn": "không sao cả!; không hề gì!; đừng bận tâm!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "chắc chắn là không; còn lâu",
+          "list_en_vn": [
+            {
+              "full_en": "'I've got the job' - 'Never !'",
+              "full_vn": "'Tôi có việc làm rồi' - 'Còn lâu! '"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

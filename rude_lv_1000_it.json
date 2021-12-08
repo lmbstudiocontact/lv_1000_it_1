@@ -1,0 +1,101 @@
+{
+  "english": "rude",
+  "phat_am": "[ru:d]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khiếm nhã, bất lịch sự, hỗn láo, vô lễ, láo xược; thô lỗ",
+          "list_en_vn": [
+            {
+              "full_en": "what a rude reply !",
+              "full_vn": "một câu trả lời quá xấc láo!"
+            },
+            {
+              "full_en": "it's rude to interrupt",
+              "full_vn": "ngắt lời là khiếm nhã"
+            },
+            {
+              "full_en": "to be rude to somebody",
+              "full_vn": "thô lỗ đối với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thô sơ, đơn giản",
+          "list_en_vn": [
+            {
+              "full_en": "cotton in its rude state",
+              "full_vn": "bông chưa chế biến"
+            },
+            {
+              "full_en": "rude stone implements",
+              "full_vn": "những công cụ thô sơ bằng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "man rợ, không văn minh, không đứng đắn, suồng sã (một câu chuyện..)",
+          "list_en_vn": [
+            {
+              "full_en": "a rather rude joke",
+              "full_vn": "câu nói đùa có phần suồng sã"
+            },
+            {
+              "full_en": "in a rude state of civilization",
+              "full_vn": "trong trạng thái man rợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dữ dội, làm sửng sốt; đột ngột",
+          "list_one_mean": [
+            {
+              "id_full_en": "in rude health",
+              "list_im": [
+                {
+                  "im_full_vn": "tráng kiện, khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an old man in rude health",
+                      "full_vn": "một ông cụ già tráng kiện"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in rude health",
+              "list_im": [
+                {
+                  "im_full_vn": "tráng kiện, khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an old man in rude health",
+                      "full_vn": "một ông cụ già tráng kiện"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a rude shock",
+              "full_vn": "cái va mạnh đột ngột"
+            },
+            {
+              "full_en": "a rude awakening",
+              "full_vn": "sự thức tỉnh đột ngột"
+            },
+            {
+              "full_en": "a rude reminder of the danger they were in",
+              "full_vn": "một sự nhắc nhở mạnh mẽ về cảnh hiểm nghèo mà họ đang lâm vào"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

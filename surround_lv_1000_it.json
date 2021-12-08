@@ -1,0 +1,40 @@
+{
+  "english": "surround",
+  "phat_am": "[sə'raund]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường viền bao quanh một (để trang trí..)"
+        },
+        {
+          "m_full_vn": "mép sàn nhà (phần giữa thảm và tường)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vây quanh; bao vây (quân địch..)",
+          "list_en_vn": [
+            {
+              "full_en": "the troops have surround the town",
+              "full_vn": "quân sĩ bao vây thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bao quanh",
+          "list_en_vn": [
+            {
+              "full_en": "trees surround the pond",
+              "full_vn": "cây cối bao quanh cái ao"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

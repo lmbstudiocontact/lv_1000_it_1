@@ -1,0 +1,41 @@
+{
+  "english": "overtake",
+  "phat_am": "[,ouvə'teik]",
+  "list_type": [
+    {
+      "type": "ngoại động từ overtook ; overtaken",
+      "list_m": [
+        {
+          "m_full_vn": "bắt kịp, vượt"
+        },
+        {
+          "m_full_vn": "xảy đến bất thình lình cho (ai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vượt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be overtaken in drink",
+              "list_im": [
+                {
+                  "im_full_vn": "say rượu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "never overtake on a curve",
+              "full_vn": "không bao giờ được vượt ở chỗ ngoặc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

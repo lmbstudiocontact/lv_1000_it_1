@@ -1,0 +1,34 @@
+{
+  "english": "times",
+  "phat_am": "['taimz]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhân với",
+          "list_en_vn": [
+            {
+              "full_en": "five times two is /equals ten",
+              "full_vn": "năm lần hai là mười"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "gấp (dùng để chỉ sự nhân lên)",
+          "list_en_vn": [
+            {
+              "full_en": "this book is three times as long as that one ; this book is three times longer than that one ; this book is three times the length of that one",
+              "full_vn": "cuốn sách này dài gấp ba lần cuốn kia"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

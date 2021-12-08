@@ -1,0 +1,37 @@
+{
+  "english": "syllable",
+  "phat_am": "['siləbl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "âm tiết"
+        },
+        {
+          "m_full_vn": "nhóm chữ biểu diễn âm tiết"
+        },
+        {
+          "m_full_vn": "phần nhỏ nhất của lời nói (viết)",
+          "list_en_vn": [
+            {
+              "full_en": "not a syllable !",
+              "full_vn": "không được hé răng!, không được nói tí gì!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đọc rõ từng âm tiết"
+        },
+        {
+          "m_full_vn": "(thơ ca) đọc (từng chữ, từng tên)"
+        }
+      ]
+    }
+  ]
+}

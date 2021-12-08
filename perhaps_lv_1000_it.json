@@ -1,0 +1,24 @@
+{
+  "english": "perhaps",
+  "phat_am": "[pə'hæps]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể, có lẽ",
+          "list_en_vn": [
+            {
+              "full_en": "perhaps the weather will change this evening",
+              "full_vn": "có lẽ tối nay thời tiết sẽ thay đổi"
+            },
+            {
+              "full_en": "perhaps it will , perhaps it won't",
+              "full_vn": "có thể có, có thể không"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

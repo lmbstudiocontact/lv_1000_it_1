@@ -1,0 +1,62 @@
+{
+  "english": "motion",
+  "phat_am": "['mou∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vận động, sự chuyển đông, sự di động",
+          "list_en_vn": [
+            {
+              "full_en": "motion to and from",
+              "full_vn": "sự chuyển động qua lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cử động, cử chỉ, dáng đi",
+          "list_en_vn": [
+            {
+              "full_en": "a very graceful motion",
+              "full_vn": "dáng đi rất duyên dáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản kiến nghị; sự đề nghị",
+          "list_en_vn": [
+            {
+              "full_en": "to table a motion",
+              "full_vn": "đưa ra một đề nghị"
+            },
+            {
+              "full_en": "on the motion of",
+              "full_vn": "theo đề nghị của"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự đi ngoài, sự đi ỉa"
+        },
+        {
+          "m_full_vn": "máy móc"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra hiệu, ra ý",
+          "list_en_vn": [
+            {
+              "full_en": "to motion someone to go out",
+              "full_vn": "ra hiệu cho ai đi ra"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "overdo",
+  "phat_am": "['ouvə'du:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ overdid , overdone",
+      "list_m": [
+        {
+          "m_full_vn": "hành động quá trớn"
+        },
+        {
+          "m_full_vn": "dùng quá mức"
+        },
+        {
+          "m_full_vn": "làm mất tác dụng vì quá cường điệu, cường điệu hoá hỏng",
+          "list_en_vn": [
+            {
+              "full_en": "he overdid his apology",
+              "full_vn": "anh ta quá cường điệu lời biện giải hoá ra hỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm mệt phờ"
+        },
+        {
+          "m_full_vn": "nấu quá nhừ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm quá",
+          "list_one_mean": [
+            {
+              "id_full_en": "overdo it /things",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc, nghiên cứu.. quá sức"
+                },
+                {
+                  "im_full_vn": "cư xử một cách quá cường điệu (nhằm đạt được mục đích của mình)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was trying to be helpful , but he rather overdid it",
+                      "full_vn": "anh ta cố gắng trở nên có ích nhưng có phần cường điệu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "overdo it /things",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc, nghiên cứu.. quá sức"
+                },
+                {
+                  "im_full_vn": "cư xử một cách quá cường điệu (nhằm đạt được mục đích của mình)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was trying to be helpful , but he rather overdid it",
+                      "full_vn": "anh ta cố gắng trở nên có ích nhưng có phần cường điệu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "overdo it /things",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc, nghiên cứu.. quá sức"
+                },
+                {
+                  "im_full_vn": "cư xử một cách quá cường điệu (nhằm đạt được mục đích của mình)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was trying to be helpful , but he rather overdid it",
+                      "full_vn": "anh ta cố gắng trở nên có ích nhưng có phần cường điệu"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

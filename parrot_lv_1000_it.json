@@ -1,0 +1,38 @@
+{
+  "english": "parrot",
+  "phat_am": "['pærət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con vẹt ( (nghĩa đen) & (nghĩa bóng))"
+        },
+        {
+          "m_full_vn": "đồ con vẹt; người bắt chước một cách không suy nghĩ",
+          "list_one_mean": [
+            {
+              "id_full_en": "sick as a parrot",
+              "list_im": [
+                {
+                  "im_full_vn": "như sick"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói như vẹt, làm như vẹt"
+        },
+        {
+          "m_full_vn": "dạy (ai...) nhắc lại như vẹt; dạy (ai...) nói như vẹt"
+        }
+      ]
+    }
+  ]
+}

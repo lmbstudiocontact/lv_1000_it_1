@@ -1,0 +1,103 @@
+{
+  "english": "possible",
+  "phat_am": "['pɔsəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể thực hiện được",
+          "list_en_vn": [
+            {
+              "full_en": "all possible means",
+              "full_vn": "mọi biện pháp có thể"
+            },
+            {
+              "full_en": "it's not humanly possible to lift the weight",
+              "full_vn": "con người không thể nào nâng được trọng lượng đó"
+            },
+            {
+              "full_en": "come as quickly as possible",
+              "full_vn": "hãy đến càng nhanh càng tốt"
+            },
+            {
+              "full_en": "the knife should be as sharp as possible",
+              "full_vn": "dao càng bén càng tốt"
+            },
+            {
+              "full_en": "if possible",
+              "full_vn": "nếu có thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể tồn tại hoặc xảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "frost is possible , although unlikely , at this time of year",
+              "full_vn": "vào quãng này hàng năm có thể có sương giá, tuy vậy cũng không chắc"
+            },
+            {
+              "full_en": "are you insured against all possible risks ?",
+              "full_vn": "anh có được bảo hiểm về mọi khả năng có thể xảy ra không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hợp lý, có khả năng chấp nhận được",
+          "list_en_vn": [
+            {
+              "full_en": "a possible solution to the dispute",
+              "full_vn": "một giải pháp hợp lý cho cuộc tranh chấp"
+            },
+            {
+              "full_en": "there are several possible explanations",
+              "full_vn": "có mấy cách giải thích có thể chấp nhận được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể giao thiệp được, có thể chịu đựng được",
+          "list_en_vn": [
+            {
+              "full_en": "only one possible man among them",
+              "full_vn": "trong cả bọn chỉ có một cậu có thể giao thiệp được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự có thể",
+          "list_en_vn": [
+            {
+              "full_en": "to do one's possible",
+              "full_vn": "làm hết sức mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điểm số cao nhất có thể đạt được (tập bắn...)",
+          "list_en_vn": [
+            {
+              "full_en": "to score a possible at 800 m",
+              "full_vn": "đạt điểm số cao nhất có thể được ở khoảng cách (bắn) 800 m"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ứng cử viên thích hợp, người có thể tuyển chọn; vận động viên có thể được sắp xếp (vào đội...)",
+          "list_en_vn": [
+            {
+              "full_en": "they interviewed 30 people of whom five were possibles",
+              "full_vn": "họ phỏng vấn 30 người, trong đó năm người là có thể tuyển chọn được"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

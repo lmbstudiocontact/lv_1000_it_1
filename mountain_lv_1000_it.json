@@ -1,0 +1,45 @@
+{
+  "english": "mountain",
+  "phat_am": "['mauntin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "núi"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) núi, đống to",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make mountains of molehills",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) molehill"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the mountain has brought forth a mouse",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu voi đuôi chuột"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "mountains of gold",
+              "full_vn": "hàng đống vàng"
+            },
+            {
+              "full_en": "mountains of debts",
+              "full_vn": "hàng đống nợ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

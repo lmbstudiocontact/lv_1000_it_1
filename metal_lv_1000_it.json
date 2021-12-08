@@ -1,0 +1,31 @@
+{
+  "english": "metal",
+  "phat_am": "['metl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kim loại"
+        },
+        {
+          "m_full_vn": "như road-metal"
+        },
+        {
+          "m_full_vn": "( số nhiều) đường sắt, đường ray"
+        },
+        {
+          "m_full_vn": "thuỷ tinh lỏng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rải đá (một con đường) để sửa chữa"
+        }
+      ]
+    }
+  ]
+}

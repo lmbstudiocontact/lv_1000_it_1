@@ -1,0 +1,28 @@
+{
+  "english": "prevent",
+  "phat_am": "[pri'vent]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to prevent somebody / something from doing something ) ngăn cản; ngăn chặn, ngăn ngừa",
+          "list_en_vn": [
+            {
+              "full_en": "your timely action prevented a serious accident",
+              "full_vn": "hành động kịp thời của anh đã ngăn chận được một tai nạn nghiêm trọng"
+            },
+            {
+              "full_en": "to prevent the spread of a disease /a disease from spreading",
+              "full_vn": "ngăn chận bệnh lan ra"
+            },
+            {
+              "full_en": "nobody can prevent us from getting married ; nobody can prevent our getting married",
+              "full_vn": "không ai có thể ngăn cản chúng tôi kết hôn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

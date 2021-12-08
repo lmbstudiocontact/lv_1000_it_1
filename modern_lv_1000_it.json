@@ -1,0 +1,40 @@
+{
+  "english": "modern",
+  "phat_am": "['mɔdən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiện đại",
+          "list_en_vn": [
+            {
+              "full_en": "modern science",
+              "full_vn": "khoa học hiện đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cận đại",
+          "list_en_vn": [
+            {
+              "full_en": "modern history",
+              "full_vn": "lịch sử cận đại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cận đại, người hiện đại"
+        },
+        {
+          "m_full_vn": "người ưa thích cái mới, người có quan điểm mới"
+        }
+      ]
+    }
+  ]
+}

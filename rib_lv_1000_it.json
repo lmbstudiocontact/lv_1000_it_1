@@ -1,0 +1,89 @@
+{
+  "english": "rib",
+  "phat_am": "[rib]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xương sườn (người, động vật)",
+          "list_en_vn": [
+            {
+              "full_en": "floating ribs",
+              "full_vn": "xương sườn cụt"
+            },
+            {
+              "full_en": "to poke someone in the ribs",
+              "full_vn": "thúc vào sườn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miếng thịt cắt từ xương sườn một con vật",
+          "list_en_vn": [
+            {
+              "full_en": "barbecued spare-ribs",
+              "full_vn": "sườn lợn đã lọc gần hết thịt đem nướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gọng; sườn; gân (vật giống (như) xương sườn)",
+          "list_en_vn": [
+            {
+              "full_en": "the ribs of a leaf",
+              "full_vn": "gân lá"
+            },
+            {
+              "full_en": "the ribs of umbrella",
+              "full_vn": "gọng ô"
+            },
+            {
+              "full_en": "the ribs of a fan",
+              "full_vn": "rẻ quạt"
+            },
+            {
+              "full_en": "the ribs of a boat",
+              "full_vn": "sườn thuyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gân; sọc (do mũi đan tạo ra)",
+          "list_en_vn": [
+            {
+              "full_en": "cuffs knitted in rib",
+              "full_vn": "những cổ tay áo đan sọc nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) vợ, đàn bà"
+        },
+        {
+          "m_full_vn": "lá gỗ mỏng (để gò thanh đàn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thêm đường kẻ vào",
+          "list_en_vn": [
+            {
+              "full_en": "to rib bed velvet",
+              "full_vn": "nhung kẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chống đỡ, làm sườn, làm gọng cho (vật gì)"
+        },
+        {
+          "m_full_vn": "(thông tục) đùa bỡn; trêu chọc, chòng ghẹo; chế giễu (ai)"
+        }
+      ]
+    }
+  ]
+}

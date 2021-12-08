@@ -1,0 +1,169 @@
+{
+  "english": "speed",
+  "phat_am": "[spi:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhanh chóng, sự mau lẹ; tính nhanh chóng, tính mau lẹ (của các cử động..)",
+          "list_en_vn": [
+            {
+              "full_en": "he moves with great speed",
+              "full_vn": "anh ấy di chuyển rất mau lẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốc độ; tốc lực, vận tốc",
+          "list_en_vn": [
+            {
+              "full_en": "at full speed",
+              "full_vn": "hết tốc độ"
+            },
+            {
+              "full_en": "at top speed",
+              "full_vn": "với tốc lực cao nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự thành công, sự hưng thịnh, sự thịnh vượng"
+        },
+        {
+          "m_full_vn": "độ bắt ánh sáng nhạy của phim ảnh; thời gian đóng mở của cửa chắn ánh sáng của máy ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "a photograph taken at a speed of 1/250 of a second",
+              "full_vn": "tấm hình chụp ở tốc độ 1 / 250 giây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại amphêtamin làm thuốc uống để tạo cảm giác khoẻ và hứng khởi",
+          "list_en_vn": [
+            {
+              "full_en": "he's hooked on speed",
+              "full_vn": "anh ta nghiện chất (ma túy) amphêtamin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đặc biệt ở từ ghép) hộp số; bánh răng tốc độ",
+          "list_one_mean": [
+            {
+              "id_full_en": "more haste , less speed",
+              "list_im": [
+                {
+                  "im_full_vn": "chậm mà chắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at speed",
+              "list_im": [
+                {
+                  "im_full_vn": "ở tốc độ cao; nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with all speed /haste",
+              "list_im": [
+                {
+                  "im_full_vn": "càng nhanh càng tốt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a ten-speed bicycle",
+              "full_vn": "chiếc xe đạp có mười bánh răng tốc độ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ sped",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho đi mau, làm cho vận động nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "this medicine will help speed her recovery",
+              "full_vn": "thứ thuốc này sẽ giúp cô ấy chóng bình phục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + up ) làm tăng tốc độ, xúc tiến, đẩy mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to speed the collapse of imperialism",
+              "full_vn": "đẩy mạnh quá trình sụp đổ của chủ nghĩa đế quốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều chỉnh tốc độ; làm cho đi theo một tốc độ nhất định",
+          "list_en_vn": [
+            {
+              "full_en": "to speed an engine",
+              "full_vn": "điều chỉnh tốc độ một cái máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) bắn mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to speed an arrow from the bow",
+              "full_vn": "bắn mạnh mũi tên khỏi cung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) giúp (ai) thành công",
+          "list_en_vn": [
+            {
+              "full_en": "God speed you !",
+              "full_vn": "cầu trời giúp anh thành công"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vận động nhanh, đi nhanh, chạy nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "the car speeds along the street",
+              "full_vn": "chiếc xe ô tô lao nhanh trong phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quá tốc độ quy định; lái xe, đi nhanh hơn tốc độ được luật định"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) thành công, thịnh vượng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to speed the parting guest",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ cổ,nghĩa cổ) chúc cho khách ra đi bình yên vô sự"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

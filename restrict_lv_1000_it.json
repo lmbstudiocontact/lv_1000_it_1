@@ -1,0 +1,28 @@
+{
+  "english": "restrict",
+  "phat_am": "[ri'strikt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hạn chế, giới hạn",
+          "list_en_vn": [
+            {
+              "full_en": "Fog restricted visibility",
+              "full_vn": "sương mù hạn chế tầm nhìn"
+            },
+            {
+              "full_en": "to restrict the use of alcohol",
+              "full_vn": "hạn chế việc dùng rượu"
+            },
+            {
+              "full_en": "to be restricted to a diet",
+              "full_vn": "phải ăn kiêng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

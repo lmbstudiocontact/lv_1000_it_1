@@ -1,0 +1,84 @@
+{
+  "english": "million",
+  "phat_am": "['miljən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sau a hoặc one , dùng để chỉ số lượng, không có dạng số nhiều) một nghìn nghìn; triệu ( 1000000)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( số ít sau a hoặc one , nhưng (thường) số nhiều) con số 1000000",
+          "list_one_mean": [
+            {
+              "id_full_en": "one ... in a million",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật có phẩm chất hiếm thấy; hiếm có; trong muôn một",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's a wife in a million",
+                      "full_vn": "bà ấy là một người vợ hiếm có"
+                    },
+                    {
+                      "full_en": "we haven't a chance in a million of winning",
+                      "full_vn": "chúng ta hầu như không có cơ may thắng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "one ... in a million",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật có phẩm chất hiếm thấy; hiếm có; trong muôn một",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's a wife in a million",
+                      "full_vn": "bà ấy là một người vợ hiếm có"
+                    },
+                    {
+                      "full_en": "we haven't a chance in a million of winning",
+                      "full_vn": "chúng ta hầu như không có cơ may thắng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "one ... in a million",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật có phẩm chất hiếm thấy; hiếm có; trong muôn một",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's a wife in a million",
+                      "full_vn": "bà ấy là một người vợ hiếm có"
+                    },
+                    {
+                      "full_en": "we haven't a chance in a million of winning",
+                      "full_vn": "chúng ta hầu như không có cơ may thắng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she made her first million before she was thirty",
+              "full_vn": "cô ấy làm ra được con số triệu (pao hoặc đô la chẳng hạn) đầu tiên trước khi bước vào tuổi ba mươi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

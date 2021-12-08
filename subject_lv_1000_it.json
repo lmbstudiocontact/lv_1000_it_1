@@ -1,0 +1,166 @@
+{
+  "english": "subject",
+  "phat_am": "['sʌbdʒikt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chủ đề; vấn đề; đề tài",
+          "list_en_vn": [
+            {
+              "full_en": "historical subject",
+              "full_vn": "chủ đề lịch sử"
+            },
+            {
+              "full_en": "to change the subject",
+              "full_vn": "lãng sang chuyện (vấn đề) khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dân, thần dân",
+          "list_en_vn": [
+            {
+              "full_en": "the liberty of the subject",
+              "full_vn": "quyền tự do của người dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) chủ ngữ"
+        },
+        {
+          "m_full_vn": "(triết học) chủ thể",
+          "list_en_vn": [
+            {
+              "full_en": "subject and object",
+              "full_vn": "chủ thể và khách thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hoặc cái gì được xử lý theo cách nào đó hoặc đang được đem làm thí nghiệm; đối tượng",
+          "list_en_vn": [
+            {
+              "full_en": "we need some male subjects for a psychology experiment",
+              "full_vn": "chúng tôi cần vài đối tượng nam giới cho một cuộc thí nghiệm tâm lý học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người bị giám sát hoặc quản chế"
+        },
+        {
+          "m_full_vn": "môn học",
+          "list_en_vn": [
+            {
+              "full_en": "mathematics is my favorite subject",
+              "full_vn": "toán là môn học tôi thích nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người (có vấn đề, ốm yếu...)",
+          "list_en_vn": [
+            {
+              "full_en": "bilious subject",
+              "full_vn": "người hay cáu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hoặc cái gì gây ra một cảm giác hoặc hành động như thế nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "a subject for pity , ridicule",
+              "full_vn": "một đối tượng đáng thương xót, để chế giễu"
+            },
+            {
+              "full_en": "a subject for congratulation",
+              "full_vn": "một dịp để chúc mừng"
+            },
+            {
+              "full_en": "his appearance was the subject for some critical comment",
+              "full_vn": "việc nó xuất hiện là dịp cho thiên hạ bình phẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) xác (dùng) để mổ xẻ (như) subject for dissection"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lệ thuộc, ở dưới quyền, bị trị, không độc lập",
+          "list_en_vn": [
+            {
+              "full_en": "the subject nations",
+              "full_vn": "những nước lệ thuộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phải chịu, khó tránh khỏi, dễ bị",
+          "list_en_vn": [
+            {
+              "full_en": "to be subject to damage",
+              "full_vn": "dễ bị hư hại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ), (thơ ca) ở dưới",
+          "list_en_vn": [
+            {
+              "full_en": "the subject plains",
+              "full_vn": "những cánh đồng ở dưới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chinh phục, khuất phục (một nước, một người...)"
+        },
+        {
+          "m_full_vn": "bắt phải chịu, đưa ra (để góp ý...)",
+          "list_en_vn": [
+            {
+              "full_en": "must be subjected to great heat",
+              "full_vn": "phải chịu một độ nhiệt cao"
+            },
+            {
+              "full_en": "I shall subject it to criticism",
+              "full_vn": "tôi sẽ đưa vấn đề đó ra để (các bạn) góp ý"
+            },
+            {
+              "full_en": "to subject someone to an operation",
+              "full_vn": "đưa ai lên bàn mổ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + to ) tùy thuộc vào, với giả thuyết là",
+          "list_en_vn": [
+            {
+              "full_en": "subject to your consent",
+              "full_vn": "tuỳ theo anh có đồng ý hay không"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

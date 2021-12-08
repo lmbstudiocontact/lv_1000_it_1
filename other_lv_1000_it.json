@@ -1,0 +1,244 @@
+{
+  "english": "other",
+  "phat_am": "['ʌðə(r)]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(người hoặc vật) thêm vào cái hoặc những điều đã được nêu lên hoặc ngụ ý trước đó; khác",
+          "list_en_vn": [
+            {
+              "full_en": "Mr Smith and three other teachers came there five years ago",
+              "full_vn": "cách đây 5 năm, ông Smith cùng ba thầy giáo khác từng đến đó"
+            },
+            {
+              "full_en": "other people may disagree but I feel the whole thing has gone far enough",
+              "full_vn": "những người khác có thể không đồng ý, nhưng tôi cảm thấy toàn bộ chuyện này đã đi khá xa"
+            },
+            {
+              "full_en": "did you see any other car ?",
+              "full_vn": "anh có thấy chiếc xe nào khác không?"
+            },
+            {
+              "full_en": "not now , some other time , perhaps",
+              "full_vn": "bây giờ thì không được, có lẽ để lúc nào khác vậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau the , my , your , his .. với danh từ số ít) cái thứ hai trong hai cái; kia",
+          "list_en_vn": [
+            {
+              "full_en": "hold the bottle and pull the cork out with the other hand",
+              "full_vn": "(tay này) giữ cái chai, tay kia mở nút chai"
+            },
+            {
+              "full_en": "those trousers are dirty - you'd better wear your other pair",
+              "full_vn": "quần này bẩn rồi - anh mặc quần khác thì hơn"
+            },
+            {
+              "full_en": "now open the other eye",
+              "full_vn": "bây giờ mở mắt kia ra"
+            },
+            {
+              "full_en": "you may continue on the other side of the paper",
+              "full_vn": "anh có thể viết tiếp ở mặt kia tờ giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau the hoặc một từ sở hữu với một danh từ số nhiều)",
+          "list_one_mean": [
+            {
+              "id_full_en": "every other",
+              "list_im": [
+                {
+                  "im_full_vn": "xem every"
+                }
+              ]
+            },
+            {
+              "id_full_en": "none other than",
+              "list_im": [
+                {
+                  "im_full_vn": "xem none"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one after the other",
+              "list_im": [
+                {
+                  "im_full_vn": "xem one"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the other day /week /month",
+              "list_im": [
+                {
+                  "im_full_vn": "mới đây, gần đây",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I saw him in town the other day",
+                      "full_vn": "mới gần đây tôi trông thấy hắn trong thị trấn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the other day /week /month",
+              "list_im": [
+                {
+                  "im_full_vn": "mới đây, gần đây",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I saw him in town the other day",
+                      "full_vn": "mới gần đây tôi trông thấy hắn trong thị trấn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "somebody /something /somewhere or other",
+              "list_im": [
+                {
+                  "im_full_vn": "xem or"
+                }
+              ]
+            },
+            {
+              "id_full_en": "this , that and the other",
+              "list_im": [
+                {
+                  "im_full_vn": "xem this"
+                }
+              ]
+            },
+            {
+              "id_full_en": "other ...than",
+              "list_im": [
+                {
+                  "im_full_vn": "(người, vật...) khác với...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you'll have time to visit other places than those on the itinerary",
+                      "full_vn": "anh sẽ có thời gian thăm những nơi khác ngoài những nơi đã ghi trên lộ trình"
+                    },
+                    {
+                      "full_en": "other women than Sally would have said nothing",
+                      "full_vn": "những phụ nữ khác ngoài Sally sẽ không nói gì đâu"
+                    },
+                    {
+                      "full_en": "I want to meet other employees than those in the computer room",
+                      "full_vn": "tôi muốn gặp những nhân viên khác ngoài những nhân viên trong phòng máy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "other ...than",
+              "list_im": [
+                {
+                  "im_full_vn": "(người, vật...) khác với...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you'll have time to visit other places than those on the itinerary",
+                      "full_vn": "anh sẽ có thời gian thăm những nơi khác ngoài những nơi đã ghi trên lộ trình"
+                    },
+                    {
+                      "full_en": "other women than Sally would have said nothing",
+                      "full_vn": "những phụ nữ khác ngoài Sally sẽ không nói gì đâu"
+                    },
+                    {
+                      "full_en": "I want to meet other employees than those in the computer room",
+                      "full_vn": "tôi muốn gặp những nhân viên khác ngoài những nhân viên trong phòng máy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "other ...than",
+              "list_im": [
+                {
+                  "im_full_vn": "(người, vật...) khác với...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you'll have time to visit other places than those on the itinerary",
+                      "full_vn": "anh sẽ có thời gian thăm những nơi khác ngoài những nơi đã ghi trên lộ trình"
+                    },
+                    {
+                      "full_en": "other women than Sally would have said nothing",
+                      "full_vn": "những phụ nữ khác ngoài Sally sẽ không nói gì đâu"
+                    },
+                    {
+                      "full_en": "I want to meet other employees than those in the computer room",
+                      "full_vn": "tôi muốn gặp những nhân viên khác ngoài những nhân viên trong phòng máy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "other ...than",
+              "list_im": [
+                {
+                  "im_full_vn": "(người, vật...) khác với...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you'll have time to visit other places than those on the itinerary",
+                      "full_vn": "anh sẽ có thời gian thăm những nơi khác ngoài những nơi đã ghi trên lộ trình"
+                    },
+                    {
+                      "full_en": "other women than Sally would have said nothing",
+                      "full_vn": "những phụ nữ khác ngoài Sally sẽ không nói gì đâu"
+                    },
+                    {
+                      "full_en": "I want to meet other employees than those in the computer room",
+                      "full_vn": "tôi muốn gặp những nhân viên khác ngoài những nhân viên trong phòng máy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the other day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem day"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the other hand",
+              "list_im": [
+                {
+                  "im_full_vn": "mặt khác"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the other students in my class are from Japan",
+              "full_vn": "các sinh viên khác trong lớp là người Nhật"
+            },
+            {
+              "full_en": "Mary is older than me but my other sisters are younger",
+              "full_vn": "Mary lớn tuổi hơn tôi, nhưng các chị gái khác của tôi đều trẻ hơn"
+            },
+            {
+              "full_en": "I haven't read this poem , but I have read all the other poems by Ho Xuan Huong/all Ho Xuan Huong's other poems",
+              "full_vn": "tôi chưa đọc bài thơ này, nhưng tôi đã đọc hết các bài thơ khác của Hồ Xuân Hương"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

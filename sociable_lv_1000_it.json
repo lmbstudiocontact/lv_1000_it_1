@@ -1,0 +1,43 @@
+{
+  "english": "sociable",
+  "phat_am": "['sou∫əbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dễ gần gũi, dễ chan hoà, hoà đồng"
+        },
+        {
+          "m_full_vn": "thích giao du, thích kết bạn",
+          "list_en_vn": [
+            {
+              "full_en": "I'm not in a sociable mood",
+              "full_vn": "tôi đang không muốn tiếp xúc với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thân thiện, thân mật, thoải mái (cuộc họp...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe ngựa không mui có hai hàng ghế ngồi đối nhau"
+        },
+        {
+          "m_full_vn": "xe đạp ba bánh có hai yên sóng đôi"
+        },
+        {
+          "m_full_vn": "ghế trường kỷ hình chữ S (hai người ngồi đối mặt nhau)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) buổi họp mặt thân mật (liên hoan, giải trí); buổi tụ họp (như) social"
+        }
+      ]
+    }
+  ]
+}

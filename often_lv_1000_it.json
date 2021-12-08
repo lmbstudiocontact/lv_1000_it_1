@@ -1,0 +1,123 @@
+{
+  "english": "often",
+  "phat_am": "['ɔfn]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thường, hay, luôn, năng",
+          "list_en_vn": [
+            {
+              "full_en": "I often come to see him",
+              "full_vn": "tôi hay đến thăm anh ấy"
+            },
+            {
+              "full_en": "we have often been there",
+              "full_vn": "chúng tôi đã thường tới đó luôn"
+            },
+            {
+              "full_en": "we've been there quite often",
+              "full_vn": "chúng tôi đã tới đó rất nhiều lần"
+            },
+            {
+              "full_en": "it very often rains here in April",
+              "full_vn": "tháng tư ở đây trời mưa luôn"
+            },
+            {
+              "full_en": "how often do the buses run ?",
+              "full_vn": "cách bao lâu lại có xe búyt?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong nhiều trường hợp",
+          "list_one_mean": [
+            {
+              "id_full_en": "as often as",
+              "list_im": [
+                {
+                  "im_full_vn": "mỗi lần mà, nhiều lần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "as often as I tried to phone him , the line was engaged",
+                      "full_vn": "cứ mỗi lần tôi gọi điện thoại cho nó là đường dây lại bận"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as often as",
+              "list_im": [
+                {
+                  "im_full_vn": "mỗi lần mà, nhiều lần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "as often as I tried to phone him , the line was engaged",
+                      "full_vn": "cứ mỗi lần tôi gọi điện thoại cho nó là đường dây lại bận"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "more often than not",
+              "list_im": [
+                {
+                  "im_full_vn": "luôn luôn, rất hay",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "when it's foggy , the trains are late more often than not",
+                      "full_vn": "khi trời sương mù, tàu hoả hay đến chậm lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "more often than not",
+              "list_im": [
+                {
+                  "im_full_vn": "luôn luôn, rất hay",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "when it's foggy , the trains are late more often than not",
+                      "full_vn": "khi trời sương mù, tàu hoả hay đến chậm lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "every so often",
+              "list_im": [
+                {
+                  "im_full_vn": "thỉnh thoảng, lúc này lúc khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "once too often",
+              "list_im": [
+                {
+                  "im_full_vn": "xem once"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "these types of dog often have eye problems",
+              "full_vn": "các loại chó này thường hay có vấn đề về mắt"
+            },
+            {
+              "full_en": "old houses are often damp",
+              "full_vn": "các ngôi nhà cũ thường hay ẩm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "largely",
+  "phat_am": "['lɑ:dʒli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở mức độ lớn",
+          "list_en_vn": [
+            {
+              "full_en": "achievement is largely due to ...",
+              "full_vn": "thành tích phần lớn là do..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phong phú"
+        },
+        {
+          "m_full_vn": "hào phóng"
+        },
+        {
+          "m_full_vn": "trên quy mô lớn; rộng rãi"
+        }
+      ]
+    }
+  ]
+}

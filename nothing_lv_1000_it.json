@@ -1,0 +1,499 @@
+{
+  "english": "nothing",
+  "phat_am": "['nʌθiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người vô dụng, người bất tài, người tầm thường; chuyện lặt vặt, chuyện tầm thường; vật rất tồi, vật tầm thường",
+          "list_en_vn": [
+            {
+              "full_en": "the little nothings of life",
+              "full_vn": "những chuyện lặt vặt của cuộc sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con số không"
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "không gì, không cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "for nothing",
+              "list_im": [
+                {
+                  "im_full_vn": "không vì mục đích gì, không được gì; miễn phí (khỏi phải trả tiền)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all that preparation was for nothing because the visit was cancelled",
+                      "full_vn": "mọi sự chuẩn bị đều vô ích vì cuộc viếng thăm đã bị hủy bỏ"
+                    },
+                    {
+                      "full_en": "children under five can travel for nothing",
+                      "full_vn": "trẻ em dưới 5 tuổi có thể đi tàu xe không mất tiền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for nothing",
+              "list_im": [
+                {
+                  "im_full_vn": "không vì mục đích gì, không được gì; miễn phí (khỏi phải trả tiền)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all that preparation was for nothing because the visit was cancelled",
+                      "full_vn": "mọi sự chuẩn bị đều vô ích vì cuộc viếng thăm đã bị hủy bỏ"
+                    },
+                    {
+                      "full_en": "children under five can travel for nothing",
+                      "full_vn": "trẻ em dưới 5 tuổi có thể đi tàu xe không mất tiền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for nothing",
+              "list_im": [
+                {
+                  "im_full_vn": "không vì mục đích gì, không được gì; miễn phí (khỏi phải trả tiền)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all that preparation was for nothing because the visit was cancelled",
+                      "full_vn": "mọi sự chuẩn bị đều vô ích vì cuộc viếng thăm đã bị hủy bỏ"
+                    },
+                    {
+                      "full_en": "children under five can travel for nothing",
+                      "full_vn": "trẻ em dưới 5 tuổi có thể đi tàu xe không mất tiền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have nothing on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "không thông minh tài giỏi như ai; (về cảnh sát) không có chứng cứ gì để có thể bắt giữ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing but",
+              "list_im": [
+                {
+                  "im_full_vn": "không có cái gì ngoài; không là cái gì ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "nothing but a miracle can save her now",
+                      "full_vn": "bây giờ chẳng còn cái gì ngoài một phép màu là có thể cứu cô ta"
+                    },
+                    {
+                      "full_en": "I want nothing but the best for my children",
+                      "full_vn": "tôi chẳng muốn gì ngoài những điều tốt lành nhất cho các con tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing but",
+              "list_im": [
+                {
+                  "im_full_vn": "không có cái gì ngoài; không là cái gì ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "nothing but a miracle can save her now",
+                      "full_vn": "bây giờ chẳng còn cái gì ngoài một phép màu là có thể cứu cô ta"
+                    },
+                    {
+                      "full_en": "I want nothing but the best for my children",
+                      "full_vn": "tôi chẳng muốn gì ngoài những điều tốt lành nhất cho các con tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing but",
+              "list_im": [
+                {
+                  "im_full_vn": "không có cái gì ngoài; không là cái gì ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "nothing but a miracle can save her now",
+                      "full_vn": "bây giờ chẳng còn cái gì ngoài một phép màu là có thể cứu cô ta"
+                    },
+                    {
+                      "full_en": "I want nothing but the best for my children",
+                      "full_vn": "tôi chẳng muốn gì ngoài những điều tốt lành nhất cho các con tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is /was nothing for it (but to do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "không còn cách gì khác ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there was nothing else for it but to resign",
+                      "full_vn": "không còn cách gì khác ngoài việc từ chức"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is /was nothing for it (but to do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "không còn cách gì khác ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there was nothing else for it but to resign",
+                      "full_vn": "không còn cách gì khác ngoài việc từ chức"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(there's ) nothing to it",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng có gì (khó khăn, phức tạp)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I did the crossword in half an hour - there was nothing to it",
+                      "full_vn": "tôi đã giải trò chơi ô chữ trong vòng nửa giờ - thật quá đơn giản"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(there's ) nothing to it",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng có gì (khó khăn, phức tạp)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I did the crossword in half an hour - there was nothing to it",
+                      "full_vn": "tôi đã giải trò chơi ô chữ trong vòng nửa giờ - thật quá đơn giản"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing if not",
+              "list_im": [
+                {
+                  "im_full_vn": "vô cùng, rất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the holiday was nothing if not varied",
+                      "full_vn": "kỳ nghỉ rất là phong phú"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing if not",
+              "list_im": [
+                {
+                  "im_full_vn": "vô cùng, rất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the holiday was nothing if not varied",
+                      "full_vn": "kỳ nghỉ rất là phong phú"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing less than",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn, trọn vẹn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his negligence was nothing less than criminal",
+                      "full_vn": "sự cẩu thả của hắn hoàn toàn là tội lỗi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing less than",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn, trọn vẹn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his negligence was nothing less than criminal",
+                      "full_vn": "sự cẩu thả của hắn hoàn toàn là tội lỗi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing like",
+              "list_im": [
+                {
+                  "im_full_vn": "không giống chút nào; tuyệt đối không, hoàn toàn không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it looks nothing like a horse",
+                      "full_vn": "trông nó chẳng giống con ngựa tí nào"
+                    },
+                    {
+                      "full_en": "her cooking is nothing like as good as yours",
+                      "full_vn": "cách nấu nướng của cô ấy hoàn toàn không ngon như cách của chị"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing like",
+              "list_im": [
+                {
+                  "im_full_vn": "không giống chút nào; tuyệt đối không, hoàn toàn không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it looks nothing like a horse",
+                      "full_vn": "trông nó chẳng giống con ngựa tí nào"
+                    },
+                    {
+                      "full_en": "her cooking is nothing like as good as yours",
+                      "full_vn": "cách nấu nướng của cô ấy hoàn toàn không ngon như cách của chị"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing like",
+              "list_im": [
+                {
+                  "im_full_vn": "không giống chút nào; tuyệt đối không, hoàn toàn không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it looks nothing like a horse",
+                      "full_vn": "trông nó chẳng giống con ngựa tí nào"
+                    },
+                    {
+                      "full_en": "her cooking is nothing like as good as yours",
+                      "full_vn": "cách nấu nướng của cô ấy hoàn toàn không ngon như cách của chị"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing more than",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was nothing more than a shower",
+                      "full_vn": "đó chỉ là một trận mưa rào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing more than",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was nothing more than a shower",
+                      "full_vn": "đó chỉ là một trận mưa rào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing much",
+              "list_im": [
+                {
+                  "im_full_vn": "không phải là một số lượng lớn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there's nothing much in the post",
+                      "full_vn": "chẳng có gì nhiều trong thùng thư"
+                    },
+                    {
+                      "full_en": "I got up late and did nothing much all day",
+                      "full_vn": "tôi dậy muộn và suốt ngày không làm được gì mấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing much",
+              "list_im": [
+                {
+                  "im_full_vn": "không phải là một số lượng lớn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there's nothing much in the post",
+                      "full_vn": "chẳng có gì nhiều trong thùng thư"
+                    },
+                    {
+                      "full_en": "I got up late and did nothing much all day",
+                      "full_vn": "tôi dậy muộn và suốt ngày không làm được gì mấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing much",
+              "list_im": [
+                {
+                  "im_full_vn": "không phải là một số lượng lớn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there's nothing much in the post",
+                      "full_vn": "chẳng có gì nhiều trong thùng thư"
+                    },
+                    {
+                      "full_en": "I got up late and did nothing much all day",
+                      "full_vn": "tôi dậy muộn và suốt ngày không làm được gì mấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say nothing of something",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa nói đến; chưa kể",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he had to incur six months' imprisonment , to say nothing of a very heavy fine",
+                      "full_vn": "hắn phải ngồi tù sáu tháng, chưa kể một khoản tiền phạt thật nặng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say nothing of something",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa nói đến; chưa kể",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he had to incur six months' imprisonment , to say nothing of a very heavy fine",
+                      "full_vn": "hắn phải ngồi tù sáu tháng, chưa kể một khoản tiền phạt thật nặng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "nothing venture , nothing have",
+              "full_vn": "không liều thì không được gì hết; không vào hang hổ thì làm sao bắt được hổ con"
+            },
+            {
+              "full_en": "What's the matter ? Nothing serious , I hope",
+              "full_vn": "Có chuyện gì vậy? Tôi mong là không có gì nghiêm trọng"
+            },
+            {
+              "full_en": "there's nothing interesting in the newspaper",
+              "full_vn": "chẳng có gì thú vị trong tờ báo cả (tờ báo chẳng có gì thú vị cả)"
+            },
+            {
+              "full_en": "nothing gives me more pleasure than listening to Mozart",
+              "full_vn": "không gì làm cho tôi thích thú bằng nghe nhạc Mozart"
+            },
+            {
+              "full_en": "nothing is more valuable than independence and freedom",
+              "full_vn": "không có gì quý hơn độc lập tự do"
+            },
+            {
+              "full_en": "there is nothing as refreshing as lemon tea",
+              "full_vn": "không gì giải khát bằng chè tươi uống với chanh"
+            },
+            {
+              "full_en": "I've had nothing to eat since lunchtime",
+              "full_vn": "tôi không có gì để ăn kể từ bữa trưa đến bây giờ"
+            },
+            {
+              "full_en": "he's 5 feet nothing",
+              "full_vn": "cậu ta cao đúng năm bộ"
+            },
+            {
+              "full_en": "it's used to cost nothing to visit a museum",
+              "full_vn": "trước kia đi thăm viện bảo tàng thì không phải trả tiền"
+            },
+            {
+              "full_en": "I had nothing stronger than orange juice to drink",
+              "full_vn": "mình chẳng có thứ gì nặng hơn nước cam để uống cả"
+            },
+            {
+              "full_en": "to come to nothing",
+              "full_vn": "hoàn toàn thất bại; không có kết quả hữu ích hoặc thành công"
+            },
+            {
+              "full_en": "all her plans have come to nothing",
+              "full_vn": "mọi kế hoạch của cô ta đều chẳng đi đến đâu cả"
+            },
+            {
+              "full_en": "how sad that his efforts should come to nothing",
+              "full_vn": "thật buồn biết bao khi các cố gắng của anh ta đều thất bại"
+            },
+            {
+              "full_en": "to have nothing to do with somebody /something",
+              "full_vn": "không có quan hệ gì với ai/cái gì, không dính dáng gì với ai/cái gì"
+            },
+            {
+              "full_en": "to be good for nothing",
+              "full_vn": "không được tích sự gì"
+            },
+            {
+              "full_en": "that is nothing to me",
+              "full_vn": "cái đó không dính gì đến tôi, cái đó không can hệ gì đến tôi"
+            },
+            {
+              "full_en": "he is nothing to me",
+              "full_vn": "hắn ta không là gì cả đối với tôi; hắn ta không phải là họ hàng bè bạn gì với tôi"
+            },
+            {
+              "full_en": "there is nothing in it",
+              "full_vn": "chẳng có cái gì là đúng sự thật trong đó cả, chẳng có cái gì là quan trọng trong đó cả; chẳng có cái gì là giá trị trong đó cả"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

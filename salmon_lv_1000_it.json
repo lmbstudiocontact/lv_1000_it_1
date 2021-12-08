@@ -1,0 +1,31 @@
+{
+  "english": "salmon",
+  "phat_am": "['sæmən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) cá hồi; thịt cá hồi",
+          "list_en_vn": [
+            {
+              "full_en": "smoked salmon",
+              "full_vn": "thịt cá hồi hun khói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màu thịt cá hồi; màu hồng da cam"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có màu thịt cá hồi, có màu hồng da cam (như) salmon-coloured"
+        }
+      ]
+    }
+  ]
+}

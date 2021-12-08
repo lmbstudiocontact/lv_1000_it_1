@@ -1,0 +1,66 @@
+{
+  "english": "lightning",
+  "phat_am": "['laitniη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chớp; sét",
+          "list_one_mean": [
+            {
+              "id_full_en": "lightning never strikes in the same place twice",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) sét chẳng đánh ai hai lần"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be struck by lightning",
+              "full_vn": "bị sét đánh"
+            },
+            {
+              "full_en": "a flash of lightning",
+              "full_vn": "một tia chớp"
+            },
+            {
+              "full_en": "as quick as lightning ,like a streak of lightning ; like (greased ) lightning",
+              "full_vn": "nhanh như chớp, trong nháy mắt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đột ngột, nhanh như cắt",
+          "list_one_mean": [
+            {
+              "id_full_en": "with lightning speed",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhanh, chớp nhoáng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a lightning strike",
+              "full_vn": "cuộc đình công đột ngột (không báo trước)"
+            },
+            {
+              "full_en": "lightning war",
+              "full_vn": "chiến tranh chớp nhoáng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

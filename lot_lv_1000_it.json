@@ -1,0 +1,135 @@
+{
+  "english": "lot",
+  "phat_am": "[lɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thăm, việc rút thăm; sự chọn bằng cách rút thăm",
+          "list_en_vn": [
+            {
+              "full_en": "to cast lots",
+              "full_vn": "rút thăm, bóc thăm"
+            },
+            {
+              "full_en": "to choose by lot",
+              "full_vn": "chọn bằng cách rút thăm"
+            },
+            {
+              "full_en": "the lot fell on him",
+              "full_vn": "rút thăm trúng anh ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần do rút thăm định; phần tham gia",
+          "list_en_vn": [
+            {
+              "full_en": "to have neither part nor lot in",
+              "full_vn": "không dính dáng gì vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số, phận, số phận, số mệnh",
+          "list_en_vn": [
+            {
+              "full_en": "he has thrown (cast ) in his lot with us",
+              "full_vn": "nó muốn cùng chia sẻ số phận với chúng tôi"
+            },
+            {
+              "full_en": "the lot falls to me to do something ; it falls to me as my lot to do something",
+              "full_vn": "cái số tôi phải làm cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mảnh, lô (đất)",
+          "list_en_vn": [
+            {
+              "full_en": "a lot of ground",
+              "full_vn": "một mảnh đất, một lô đất"
+            },
+            {
+              "full_en": "parking lot",
+              "full_vn": "khu đất đỗ xe, chỗ đỗ xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mớ, lô; ( số nhiều) rất nhiều, vô số, hàng đống, hàng đàn",
+          "list_one_mean": [
+            {
+              "id_full_en": "bad lot",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bad"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "lot of woollens",
+              "full_vn": "một lô hàng len"
+            },
+            {
+              "full_en": "the lot",
+              "full_vn": "cả lô, cả mớ, cả bọn"
+            },
+            {
+              "full_en": "lots of friends",
+              "full_vn": "rất nhiều bạn, hàng đống bạn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chia ra làm nhiều phần, chia ra làm nhiều mảnh, chia ra làm nhiều lô (đất, hàng)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) trông mong, trông cậy (ở ai, cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to lot on (upon ) somebody",
+              "full_vn": "trông mong ở ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "a lot , lots số lượng lớn",
+          "list_en_vn": [
+            {
+              "full_en": "how much money have you got ? - A lot",
+              "full_vn": "anh có bao nhiêu tiền? - nhiều lắm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "rất nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "I feel a lot better",
+              "full_vn": "tôi cảm thấy khoẻ hơn rất nhiều"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

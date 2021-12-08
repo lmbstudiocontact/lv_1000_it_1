@@ -1,0 +1,194 @@
+{
+  "english": "thank",
+  "phat_am": "[θæηk]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cám ơn, bày tỏ sự biết ơn ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have somebody to thank for something",
+              "list_im": [
+                {
+                  "im_full_vn": "buộc ai chịu trách nhiệm về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have oneself to thank for something",
+              "list_im": [
+                {
+                  "im_full_vn": "tự mình chịu trách nhiệm về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I'll thank you for something /to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "xin; yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I will thank you for the satchel",
+                      "full_vn": "xin ông vui lòng đưa tôi cái cặp"
+                    },
+                    {
+                      "full_en": "I will thank you to shut the window",
+                      "full_vn": "xin ông vui lòng đóng giúp cái cửa sổ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "I'll thank you for something /to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "xin; yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I will thank you for the satchel",
+                      "full_vn": "xin ông vui lòng đưa tôi cái cặp"
+                    },
+                    {
+                      "full_en": "I will thank you to shut the window",
+                      "full_vn": "xin ông vui lòng đóng giúp cái cửa sổ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "I'll thank you for something /to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "xin; yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I will thank you for the satchel",
+                      "full_vn": "xin ông vui lòng đưa tôi cái cặp"
+                    },
+                    {
+                      "full_en": "I will thank you to shut the window",
+                      "full_vn": "xin ông vui lòng đóng giúp cái cửa sổ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no , thank you",
+              "list_im": [
+                {
+                  "im_full_vn": "không, cám ơn anh (nói để từ chối một đề nghị, một lời mời...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thank God /goodness /heaven (s)",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để bày tỏ sự bớt căng thẳng, giảm lo âu, sự vui mừng) tạ ơn Chúa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "thank God you're safe !",
+                      "full_vn": "nhờ trời, anh đã bình an vô sự!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "thank God /goodness /heaven (s)",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để bày tỏ sự bớt căng thẳng, giảm lo âu, sự vui mừng) tạ ơn Chúa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "thank God you're safe !",
+                      "full_vn": "nhờ trời, anh đã bình an vô sự!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thank one's lucky stars",
+              "list_im": [
+                {
+                  "im_full_vn": "cảm thấy rất may mắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thank you",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để bày tỏ sự biết ơn hoặc chấp nhận một lời mời...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Thank you for giving me a lift",
+                      "full_vn": "cám ơn anh đã cho tôi đi nhờ xe"
+                    },
+                    {
+                      "full_en": "thank you very much indeed",
+                      "full_vn": "thật tình rất cám ơn anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "thank you",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để bày tỏ sự biết ơn hoặc chấp nhận một lời mời...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Thank you for giving me a lift",
+                      "full_vn": "cám ơn anh đã cho tôi đi nhờ xe"
+                    },
+                    {
+                      "full_en": "thank you very much indeed",
+                      "full_vn": "thật tình rất cám ơn anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "thank you",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để bày tỏ sự biết ơn hoặc chấp nhận một lời mời...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Thank you for giving me a lift",
+                      "full_vn": "cám ơn anh đã cho tôi đi nhờ xe"
+                    },
+                    {
+                      "full_en": "thank you very much indeed",
+                      "full_vn": "thật tình rất cám ơn anh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there's no need to thank me - I was only doing my job",
+              "full_vn": "không cần phải cám ơn tôi - tôi chỉ làm công việc của tôi thôi mà"
+            },
+            {
+              "full_en": "we thanked them for all their help",
+              "full_vn": "chúng tôi cám ơn họ về mọi sự giúp đỡ của họ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

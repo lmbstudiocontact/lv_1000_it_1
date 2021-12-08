@@ -1,0 +1,50 @@
+{
+  "english": "prefer",
+  "phat_am": "[pri'fə:(r)]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to prefer something to something ) thích cái gì hơn cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to prefer a charge /charges (against somebody)",
+              "list_im": [
+                {
+                  "im_full_vn": "(luật pháp) buộc tội; kết tội (tại toà, tại sở công an...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "There's coffee or tea . Which do you prefer ?",
+              "full_vn": "Có cà phê hoặc trà. Anh thích thứ nào hơn?"
+            },
+            {
+              "full_en": "to prefer beer to wine",
+              "full_vn": "thích bia rượu hơn rượu vang"
+            },
+            {
+              "full_en": "He prefers swimming to walking",
+              "full_vn": "Nó thích bơi hơn đi bộ"
+            },
+            {
+              "full_en": "to prefer to stay at home ; to prefer staying at home",
+              "full_vn": "thích ở nhà hơn"
+            },
+            {
+              "full_en": "I prefer my coffee black",
+              "full_vn": "Tôi thích cà phê của tôi là cà phê đen"
+            },
+            {
+              "full_en": "Their father prefers them to be home early",
+              "full_vn": "bố chúng thích chúng về nhà sớm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

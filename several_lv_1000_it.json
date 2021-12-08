@@ -1,0 +1,59 @@
+{
+  "english": "several",
+  "phat_am": "['sevrəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhiều hơn ba; vài; dăm ba",
+          "list_en_vn": [
+            {
+              "full_en": "I have read it several times",
+              "full_vn": "tôi đã đọc cái đó vài lần"
+            },
+            {
+              "full_en": "He's written several books about Vietnam",
+              "full_vn": "Ông ấy có viết một số sách về ViệtNam"
+            },
+            {
+              "full_en": "Several more people than usual came to the lunchtime concert",
+              "full_vn": "Có dăm ba người nhiều hơn thường lệ đến dự hoà nhạc vào giờ ăn trưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "riêng; cá nhân; khác nhau",
+          "list_en_vn": [
+            {
+              "full_en": "collective and several responsibility",
+              "full_vn": "trách nhiệm tập thể và cá nhân"
+            },
+            {
+              "full_en": "several estate",
+              "full_vn": "bất động sản riêng tư"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "vài",
+          "list_en_vn": [
+            {
+              "full_en": "several of them need to work harder",
+              "full_vn": "một số người trong bọn họ cần phải làm việc tích cực hơn nữa"
+            },
+            {
+              "full_en": "there was a fire in the art gallery and several of the paintings were destroyed",
+              "full_vn": "đã xảy ra một vụ hoả hoạn trong phòng trưng bày tranh và một vài bức tranh đã bị thiêu hủy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

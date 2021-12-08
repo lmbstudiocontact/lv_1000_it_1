@@ -1,0 +1,37 @@
+{
+  "english": "repay",
+  "phat_am": "[ri:'pei]",
+  "list_type": [
+    {
+      "type": "động từ re-paid",
+      "list_m": [
+        {
+          "m_full_vn": "trả lại, đáp lại, hoàn lại",
+          "list_en_vn": [
+            {
+              "full_en": "to repay a blow",
+              "full_vn": "đánh trả lại"
+            },
+            {
+              "full_en": "to repay a visit",
+              "full_vn": "đi thăm đáp lại"
+            },
+            {
+              "full_en": "to repay money",
+              "full_vn": "hoàn lại tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "báo đáp, đền đáp, đền ơn, báo ứng, quả báo",
+          "list_en_vn": [
+            {
+              "full_en": "to repay someone for his kindness",
+              "full_vn": "đền đáp lại lòng tử tế của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "require",
+  "phat_am": "[ri'kwaiə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phụ thuộc vào ai/cái gì để đạt được kết quả; cần đến",
+          "list_en_vn": [
+            {
+              "full_en": "we require extra help",
+              "full_vn": "chúng tôi cần được giúp đỡ thêm"
+            },
+            {
+              "full_en": "the situation requires that I should be there",
+              "full_vn": "tình hình đòi hỏi tôi phải ở đó"
+            },
+            {
+              "full_en": "the manuscript requires an expert to understand it",
+              "full_vn": "bản thảo đó phải có chuyên gia mới hiểu được"
+            },
+            {
+              "full_en": "all cars require servicing regularly",
+              "full_vn": "mọi xe ô tô đều cần được bảo trì thường xuyên"
+            },
+            {
+              "full_en": "the matter requires careful consideration",
+              "full_vn": "vấn đề cần phải nghiên cứu kỹ lưỡng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi cái gì như một điều bắt buộc; quy định",
+          "list_en_vn": [
+            {
+              "full_en": "I've done all that is required by law",
+              "full_vn": "tôi đã làm mọi cái theo quy định của pháp luật"
+            },
+            {
+              "full_en": "it is required (of me ) that I give evidence",
+              "full_vn": "người ta yêu cầu tôi đưa ra chứng cứ"
+            },
+            {
+              "full_en": "civil servants are required to sign the Official Secrets Act",
+              "full_vn": "các quan chức dân sự phải ký tên vào bản sắc lệnh bảo mật"
+            },
+            {
+              "full_en": "Hamlet is required reading for the course",
+              "full_vn": "đọc Hamlet là yêu cầu bắt buộc trong khoá học"
+            },
+            {
+              "full_en": "you must satisfy the required conditions to get your voucher",
+              "full_vn": "anh thoả mãn các điều kiện bắt buộc mới có được phiếu mua hàng"
+            },
+            {
+              "full_en": "he only did what was required of him",
+              "full_vn": "hắn chỉ làm những gì người ta yêu cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mong muốn có",
+          "list_en_vn": [
+            {
+              "full_en": "will you require tea ?",
+              "full_vn": "anh muốn uống trà hay không?"
+            },
+            {
+              "full_en": "Is that all you require , Sir ?",
+              "full_vn": "đã đủ những thứ ngài cần chưa ạ?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

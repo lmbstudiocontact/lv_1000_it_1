@@ -1,0 +1,112 @@
+{
+  "english": "must",
+  "phat_am": "[məst; mʌst]",
+  "list_type": [
+    {
+      "type": "động từ khiếm khuyết, thể phủ định là must not , rút gọn thành mustn't",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ sự bắt buộc",
+          "list_en_vn": [
+            {
+              "full_en": "I must go to the bank to get some money",
+              "full_vn": "tôi phải đến ngân hàng lấy ít tiền"
+            },
+            {
+              "full_en": "when you enter the building , you must show the guard your pass",
+              "full_vn": "khi vào toà nhà này, anh phải xuất trình giấy phép cho người gác"
+            },
+            {
+              "full_en": "cars must not park in front of the entrance",
+              "full_vn": "xe ô tô không được đỗ trước lối ra vào"
+            },
+            {
+              "full_en": "you mustn't open the oven door before the cake is ready",
+              "full_vn": "bà không được mở cửa lò nướng ra trước khi bánh chín"
+            },
+            {
+              "full_en": "we mustn't be late , must we ?",
+              "full_vn": "chúng ta không được đến chậm, có phải không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ lời khuyên hoặc kiến nghị",
+          "list_en_vn": [
+            {
+              "full_en": "we must see what the authorities have to say",
+              "full_vn": "chúng ta nên xem các nhà chức trách phải nói gì"
+            },
+            {
+              "full_en": "I must ask you not to do that again",
+              "full_vn": "tôi phải yêu cầu anh đừng làm vậy nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rút ra một kết luận lô-gích",
+          "list_en_vn": [
+            {
+              "full_en": "you must be hungry after your long walk",
+              "full_vn": "chắc là anh đã đói sau cuộc đi bộ dài"
+            },
+            {
+              "full_en": "she must be having a lot of problems with the language",
+              "full_vn": "chắc rằng cô ta có nhiều vấn đề về ngôn ngữ"
+            },
+            {
+              "full_en": "you must be Mr . Smith - I was told to expect you",
+              "full_vn": "chắc hẳn ông là ông Smith - người ta bảo tôi đến đón ông"
+            },
+            {
+              "full_en": "they must be twins",
+              "full_vn": "ắt họ là anh em sinh đôi"
+            },
+            {
+              "full_en": "he must have known what she wanted",
+              "full_vn": "chắc anh ta đã biết cô ấy muốn gì"
+            },
+            {
+              "full_en": "we must have read the same report",
+              "full_vn": "hẳn là chúng ta đã đọc cùng một bản báo cáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ sự nhấn mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "you must put your name down for the football team",
+              "full_vn": "anh cần phải ghi tên vào đội bóng"
+            },
+            {
+              "full_en": "you simply must read this book - it's so funny",
+              "full_vn": "anh nên đọc cuốn sách này mà xem - buồn cười lắm"
+            },
+            {
+              "full_en": "must you make so much noise ?",
+              "full_vn": "các anh cứ phải làm ầm ĩ vậy sao?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái cần phải làm, xem, nghe; sự cần thiết",
+          "list_en_vn": [
+            {
+              "full_en": "his new novel is a must for all lovers of crime fiction",
+              "full_vn": "cuốn tiểu thuyết mới của ông ta là cuốn mà tất cả những ai thích truyện hình sự đều phải đọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước nho ép trước khi lên men thành rượu"
+        }
+      ]
+    }
+  ]
+}

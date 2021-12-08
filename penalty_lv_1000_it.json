@@ -1,0 +1,36 @@
+{
+  "english": "penalty",
+  "phat_am": "['penlti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình phạt, tiền phạt",
+          "list_en_vn": [
+            {
+              "full_en": "the dealth penalty",
+              "full_vn": "án tử hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cú phạt đền (bóng đá)",
+          "list_en_vn": [
+            {
+              "full_en": "penalty kick",
+              "full_vn": "cú đá phạt đền"
+            },
+            {
+              "full_en": "penalty area",
+              "full_vn": "vòng cấm địa, vòng phạt đền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bất lợi; tình thế bất lợi"
+        }
+      ]
+    }
+  ]
+}

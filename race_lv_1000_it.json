@@ -1,0 +1,263 @@
+{
+  "english": "race",
+  "phat_am": "[reis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sinh vật học) loài",
+          "list_en_vn": [
+            {
+              "full_en": "The human race",
+              "full_vn": "Loài người"
+            },
+            {
+              "full_en": "To breed a race of cattle that can survive drought",
+              "full_vn": "Nuôi một loài gia súc có khả năng sống được khi thiếu nước"
+            },
+            {
+              "full_en": "The four-footed race",
+              "full_vn": "Loài vật bốn chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chủng tộc",
+          "list_en_vn": [
+            {
+              "full_en": "The Anglo-Saxon /Germanic /Nordic race",
+              "full_vn": "Chủng tộc Ănglô Xắcxong/Giecman/Bắc Âu"
+            },
+            {
+              "full_en": "The British are an island race",
+              "full_vn": "Người Anh là một chủng tộc sống ở đảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổ tiên; dòng giống; dòng dõi",
+          "list_en_vn": [
+            {
+              "full_en": "People of ancient and noble race",
+              "full_vn": "Những kẻ thuộc dòng dõi quý tộc xưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại; giới; hạng (người)",
+          "list_en_vn": [
+            {
+              "full_en": "The race of dandies",
+              "full_vn": "Hạng người ăn diện"
+            },
+            {
+              "full_en": "The race of poets",
+              "full_vn": "Giới thi sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( race against / with somebody / something ) ( race between A and B ) cuộc đua; cuộc chạy đua",
+          "list_en_vn": [
+            {
+              "full_en": "Marathon race",
+              "full_vn": "Cuộc chạy đua Ma-ra-tông"
+            },
+            {
+              "full_en": "Arms race",
+              "full_vn": "Cuộc chạy đua vũ trang"
+            },
+            {
+              "full_en": "Horse-race /boat-race",
+              "full_vn": "Cuộc đua ngựa/đua thuyền"
+            },
+            {
+              "full_en": "To run a race with somebody",
+              "full_vn": "Chạy đua với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cạnh tranh; sự ganh đua",
+          "list_en_vn": [
+            {
+              "full_en": "The race for the Presidency",
+              "full_vn": "Cuộc đua tranh chức tổng thống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the races ) ( số nhiều) ngày đua ngựa, kỳ đua ngựa (như) race-meeting",
+          "list_en_vn": [
+            {
+              "full_en": "A day at the races",
+              "full_vn": "một ngày tham dự cuộc đua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng nước lũ; dòng nước chảy xiết (ở sông, biển..)",
+          "list_en_vn": [
+            {
+              "full_en": "A tidal race",
+              "full_vn": "Một dòng thủy triều"
+            },
+            {
+              "full_en": "A mill race",
+              "full_vn": "Một dòng nước chạy cối xay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sông đào dẫn nước, con kênh"
+        },
+        {
+          "m_full_vn": "cuộc đời; đời người",
+          "list_en_vn": [
+            {
+              "full_en": "His race is nearly over",
+              "full_vn": "đời anh ta đã xế chiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự vận hành (của mặt trăng, mặt trời)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vòng ổ trục, vòng ổ bi",
+          "list_one_mean": [
+            {
+              "id_full_en": "A race against time",
+              "list_im": [
+                {
+                  "im_full_vn": "Sự chạy đua với thời gian; sự tranh thủ thời gian",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It was a race against time to stop drug addiction",
+                      "full_vn": "Ngăn chận tình trạng nghiện ma túy quả là một cuộc chạy đua với thời gian ( Phải ngăn chặn càng sớm càng tốt tình trạng nghiện ma túy)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "A race against time",
+              "list_im": [
+                {
+                  "im_full_vn": "Sự chạy đua với thời gian; sự tranh thủ thời gian",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It was a race against time to stop drug addiction",
+                      "full_vn": "Ngăn chận tình trạng nghiện ma túy quả là một cuộc chạy đua với thời gian ( Phải ngăn chặn càng sớm càng tốt tình trạng nghiện ma túy)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "The rat race",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cuộc đấu tranh quyết liệt (đặc biệt để giữ vị trí của mình trong công việc, trong cuộc sống)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to race against / with somebody / something ) chạy đua",
+          "list_en_vn": [
+            {
+              "full_en": "To race for the prize /to win the prize",
+              "full_vn": "Đua lấy giải thưởng/giành giải thưởng"
+            },
+            {
+              "full_en": "The two lorries were racing against each other",
+              "full_vn": "Hai xe tải đang đua nhau"
+            },
+            {
+              "full_en": "To race pigeons , dogs",
+              "full_vn": "Cho chim bồ câu, chó tham dự cuộc đua; Đua chim bồ câu, chó"
+            },
+            {
+              "full_en": "The filly has been raced twice this season",
+              "full_vn": "Con ngựa cái non này đã dự đua hai lần trong mùa này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ganh đua về tốc độ với ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I'll race you to school",
+              "full_vn": "Tôi sẽ đua với anh đến trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phóng nhanh; phi",
+          "list_en_vn": [
+            {
+              "full_en": "To race along the highway",
+              "full_vn": "Phóng nhanh trên xa lộ"
+            },
+            {
+              "full_en": "The policeman raced after the robber",
+              "full_vn": "Cảnh sát lao theo tên cướp"
+            },
+            {
+              "full_en": "The days seemed to race by /past",
+              "full_vn": "Ngày lại ngày dường như vùn vụt qua nhanh"
+            },
+            {
+              "full_en": "We had to race to catch the train",
+              "full_vn": "Chúng ta phải chạy nhanh cho kịp với xe lửa"
+            },
+            {
+              "full_en": "Don't race your engine !",
+              "full_vn": "Đừng cho máy chạy hết ga!; Đừng cho máy chạy nhanh khi chưa gài số!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lôi; kéo; đẩy",
+          "list_en_vn": [
+            {
+              "full_en": "He raced me along",
+              "full_vn": "Nó lôi tôi chạy"
+            },
+            {
+              "full_en": "To race a patient to hospital",
+              "full_vn": "Cấp tốc đưa bệnh nhân đến bệnh viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vội vã cho thông qua",
+          "list_one_mean": [
+            {
+              "id_full_en": "To race away one's fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "Khánh kiệt vì thua cá ngựa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "To race a bill through the House",
+              "full_vn": "Vội vã cho quốc hội thông qua một dự án"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

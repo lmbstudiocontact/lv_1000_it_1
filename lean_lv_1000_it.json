@@ -1,0 +1,92 @@
+{
+  "english": "lean",
+  "phat_am": "[li:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "độ nghiêng, độ dốc"
+        },
+        {
+          "m_full_vn": "chỗ nạc"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "gầy còm"
+        },
+        {
+          "m_full_vn": "nạc, không dính mỡ (thịt)"
+        },
+        {
+          "m_full_vn": "đói kém, mất mùa",
+          "list_en_vn": [
+            {
+              "full_en": "a lean year",
+              "full_vn": "một năm đói kém, một năm mất mùa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không bổ (thức ăn); gầy (than, quặng...); không lợi lộc gì (việc làm)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ leaned , leant",
+      "list_m": [
+        {
+          "m_full_vn": "dựa, tựa, chống"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiêng đi"
+        },
+        {
+          "m_full_vn": "( + back , forward , out , over ) cúi, ngả người",
+          "list_en_vn": [
+            {
+              "full_en": "to lean forward",
+              "full_vn": "ngả người về phía trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + against , on , upon ) dựa, tựa, chống",
+          "list_en_vn": [
+            {
+              "full_en": "to lean against the wall",
+              "full_vn": "dựa vào tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ỷ vào, dựa vào; (quân sự) dựa vào sự yểm hộ bên sườn của (một đạo quân...)",
+          "list_en_vn": [
+            {
+              "full_en": "to lean on someone's help",
+              "full_vn": "dựa vào sự giúp đỡ của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + to , towards ) nghiêng về, thiên về",
+          "list_en_vn": [
+            {
+              "full_en": "to lean towards communism",
+              "full_vn": "thiên về chủ nghĩa cộng sản"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

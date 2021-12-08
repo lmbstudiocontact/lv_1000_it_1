@@ -1,0 +1,70 @@
+{
+  "english": "recognize",
+  "phat_am": "['rekəgnaiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to recognize somebody / something as something ) công nhận, thừa nhận",
+          "list_en_vn": [
+            {
+              "full_en": "recognized instructors , schools , charities",
+              "full_vn": "thầy giáo/nhà trường/tổ chức cứu tế được thừa nhận"
+            },
+            {
+              "full_en": "to recognize somebody's claim to ownership",
+              "full_vn": "thừa nhận yêu sách của ai về quyền sở hữu"
+            },
+            {
+              "full_en": "Britain has recognized the new regime",
+              "full_vn": "Nước Anh đã công nhận chế độ mới"
+            },
+            {
+              "full_en": "to recognize a government",
+              "full_vn": "công nhận một chính phủ"
+            },
+            {
+              "full_en": "everyone recognized him to be the lawful heir /as the lawful heir",
+              "full_vn": "ai cũng thừa nhận anh ta là người thừa kế hợp pháp"
+            },
+            {
+              "full_en": "he recognized his lack of qualifications /that he was not qualified for the post",
+              "full_vn": "anh ta thừa nhận là mình thiếu trình độ chuyên môn để đảm nhiệm công việc ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to recognize somebody / something by something ) nhận ra",
+          "list_en_vn": [
+            {
+              "full_en": "to recognize an old acquaintance",
+              "full_vn": "nhận ra một người quen cũ"
+            },
+            {
+              "full_en": "to recognize someone by his walk",
+              "full_vn": "nhận ra một người nào nhờ dáng đi của anh ta"
+            },
+            {
+              "full_en": "I recognized her by her red hat",
+              "full_vn": "tôi nhận ra cô ấy nhờ cái mũ đỏ của cô ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỏ lòng biết ơn hoặc đánh giá cao (khản năng, công lao của ai...) bằng cách khen thưởng",
+          "list_en_vn": [
+            {
+              "full_en": "The firm recognized Tom's outstanding work by giving him an extra bonus",
+              "full_vn": "công ty ghi nhậnb công việc nổi bật của Tom bằng cách tặng thêm cho anh ta một khoản tiền thưởng"
+            },
+            {
+              "full_en": "his services to the State were recognized",
+              "full_vn": "sự phục vụ của ông ta đối với Nhà nước đã được đánh giá cao"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

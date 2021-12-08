@@ -1,0 +1,33 @@
+{
+  "english": "pony",
+  "phat_am": "['pouni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngựa Pony (loại ngựa nhỏ)"
+        },
+        {
+          "m_full_vn": "(từ lóng) hai mươi lăm bảng Anh"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) vật nhỏ bé (nhỏ hơn tiêu chuẩn bình (thường))"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) bản dịch quay cóp",
+          "list_one_mean": [
+            {
+              "id_full_en": "on Shanks's pony /mare",
+              "list_im": [
+                {
+                  "im_full_vn": "như shank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

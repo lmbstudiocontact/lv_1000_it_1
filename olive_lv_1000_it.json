@@ -1,0 +1,71 @@
+{
+  "english": "olive",
+  "phat_am": "['ɔliv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây ô-liu"
+        },
+        {
+          "m_full_vn": "quả ô-liu"
+        },
+        {
+          "m_full_vn": "gỗ ô-liu"
+        },
+        {
+          "m_full_vn": "màu xanh ô-liu"
+        },
+        {
+          "m_full_vn": "(như) olive-branch"
+        },
+        {
+          "m_full_vn": "khuy áo hình quả ô-liu"
+        },
+        {
+          "m_full_vn": "( số nhiều) thịt hầm cuốn",
+          "list_one_mean": [
+            {
+              "id_full_en": "crow (wreath ) of wild olive",
+              "list_im": [
+                {
+                  "im_full_vn": "vòng hoa chiến thắng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "beef olive",
+              "full_vn": "bò hầm cuốn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có màu ô-liu",
+          "list_en_vn": [
+            {
+              "full_en": "olive paint",
+              "full_vn": "sơn màu ô-liu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có màu nâu vàng nhạt (da)",
+          "list_en_vn": [
+            {
+              "full_en": "an olive skin",
+              "full_vn": "da màu ô-liu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

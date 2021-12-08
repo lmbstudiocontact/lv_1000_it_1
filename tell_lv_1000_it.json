@@ -1,0 +1,318 @@
+{
+  "english": "tell",
+  "phat_am": "[tel]",
+  "list_type": [
+    {
+      "type": "ngoại động từ told",
+      "list_m": [
+        {
+          "m_full_vn": "nói; nói với; nói lên, nói ra",
+          "list_en_vn": [
+            {
+              "full_en": "to tell jokes",
+              "full_vn": "nói đùa"
+            },
+            {
+              "full_en": "tell me where you live",
+              "full_vn": "anh hãy cho tôi biết anh sống ở đâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói cho biết, thông tin cho (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "we are told that ...",
+              "full_vn": "người ta nói với chúng tôi rằng..., người ta bảo chúng tôi rằng..."
+            },
+            {
+              "full_en": "a book which will tell you all you need to know about personal taxation",
+              "full_vn": "một cuốn sách sẽ nói cho anh biết tất cả những gì anh cần biết về sự đóng thuế của cá nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ cho, cho biết",
+          "list_en_vn": [
+            {
+              "full_en": "to tell the way",
+              "full_vn": "chỉ đường"
+            },
+            {
+              "full_en": "to tell the time",
+              "full_vn": "cho biết giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diễn đạt, phát biểu, nói ra; bày tỏ, biểu lộ",
+          "list_en_vn": [
+            {
+              "full_en": "her face told her joy",
+              "full_vn": "nét mặt cô ta biểu lộ nỗi vui mừng"
+            },
+            {
+              "full_en": "to tell the truth",
+              "full_vn": "nói sự thật"
+            },
+            {
+              "full_en": "to tell one's love",
+              "full_vn": "bày tỏ tình yêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kể lại, thuật lại",
+          "list_en_vn": [
+            {
+              "full_en": "to tell a story",
+              "full_vn": "kể một câu chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khẳng định, cả quyết",
+          "list_en_vn": [
+            {
+              "full_en": "I can tell you it's not easy",
+              "full_vn": "tôi khẳng định với anh cái đó không dễ đâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ra lệnh, bảo",
+          "list_en_vn": [
+            {
+              "full_en": "tell him to come",
+              "full_vn": "bảo nó đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiết lộ, phát giác",
+          "list_en_vn": [
+            {
+              "full_en": "to tell a secret",
+              "full_vn": "tiết lộ một điều bí mật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ, nghĩa cổ) đếm, lần",
+          "list_en_vn": [
+            {
+              "full_en": "to tell the votes",
+              "full_vn": "kiểm phiếu"
+            },
+            {
+              "full_en": "to tell one's beads",
+              "full_vn": "lần tràng hạt (khi tụng kinh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + A from B ) phân biệt A với B (nhất là với can/could/be able to)",
+          "list_en_vn": [
+            {
+              "full_en": "I can't tell the difference between margarine and butter",
+              "full_vn": "tôi không thể phân biệt được sự khác nhau giữa macgarin và bơ"
+            },
+            {
+              "full_en": "to tell right from wrong",
+              "full_vn": "phân biệt phải trái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hiệu quả, có tác dụng, ảnh hưởng đến, có kết quả",
+          "list_en_vn": [
+            {
+              "full_en": "it tells upon his health",
+              "full_vn": "điều đó ảnh hưởng đến sức khoẻ của anh ta"
+            },
+            {
+              "full_en": "every blow told",
+              "full_vn": "cú đánh nào cũng có hiệu lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiết lộ một bí mật",
+          "list_one_mean": [
+            {
+              "id_full_en": "all told",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả, cả thảy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I told you (so )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tôi đã bảo mà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "tell me another !",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bốc phét!; tôi không tin anh!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell against",
+              "list_im": [
+                {
+                  "im_full_vn": "làm chứng chống lại, nói điều chống lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell off",
+              "list_im": [
+                {
+                  "im_full_vn": "định, chọn, lựa; phân công"
+                },
+                {
+                  "im_full_vn": "(thông tục) nói thẳng vào mặt, rầy la, kể tội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell off",
+              "list_im": [
+                {
+                  "im_full_vn": "định, chọn, lựa; phân công"
+                },
+                {
+                  "im_full_vn": "(thông tục) nói thẳng vào mặt, rầy la, kể tội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell on",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mệt, làm kiệt sức"
+                },
+                {
+                  "im_full_vn": "(thông tục) mách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell on",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mệt, làm kiệt sức"
+                },
+                {
+                  "im_full_vn": "(thông tục) mách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell over",
+              "list_im": [
+                {
+                  "im_full_vn": "đếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get told off",
+              "list_im": [
+                {
+                  "im_full_vn": "bị làm nhục, bị mắng nhiếc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell the tale",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) bịa ra một câu chuyện đáng thương để làm động lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "tell that to the marines !",
+              "list_im": [
+                {
+                  "im_full_vn": "nói cho ma nó nghe!; tôi không tin anh!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell the world",
+              "list_im": [
+                {
+                  "im_full_vn": "công bố"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is no telling",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể nào biết được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you can never tell ; you never can tell",
+              "list_im": [
+                {
+                  "im_full_vn": "ai mà biết chắc được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you're telling me !",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tôi hoàn toàn đồng ý với anh!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell somebody off for something /to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "phân công (nhiệm vụ, bổn phận..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) phát giác; mách, tiết lộ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "promise you won't tell",
+              "full_vn": "hãy hứa là anh sẽ không tiết lộ"
+            },
+            {
+              "full_en": "kiss and tell",
+              "full_vn": "(thông tục) tiết lộ chuyện yêu đương của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "english": "may",
+  "phat_am": "[mei]",
+  "list_type": [
+    {
+      "type": "động từ khiếm khuyết; dạng phủ định là may not hoặc mayn't (quá khứ là might ; dạng phủ định là might not hoặc mightn't )",
+      "list_m": [
+        {
+          "m_full_vn": "(chỉ khả năng) có thể",
+          "list_en_vn": [
+            {
+              "full_en": "they may arrive tomorrow",
+              "full_vn": "có thể ngày mai họ đến"
+            },
+            {
+              "full_en": "this coat may be Peter's",
+              "full_vn": "có thể cái áo này của Peter"
+            },
+            {
+              "full_en": "he may have missed his train",
+              "full_vn": "có lẽ nó đã lỡ tàu"
+            },
+            {
+              "full_en": "they may have driven too fast",
+              "full_vn": "có lẽ họ đã lái xe quá nhanh"
+            },
+            {
+              "full_en": "this may or may not be true",
+              "full_vn": "điều này có thể đúng hoặc có thể không đúng"
+            },
+            {
+              "full_en": "he may not recognize me",
+              "full_vn": "có lẽ ông ta không nhận ra tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chỉ sự cho phép) có thể",
+          "list_en_vn": [
+            {
+              "full_en": "may I smoke ?",
+              "full_vn": "tôi có thể hút thuốc được không?"
+            },
+            {
+              "full_en": "you may smoke if you wish",
+              "full_vn": "anh có thể hút thuốc nếu anh muốn"
+            },
+            {
+              "full_en": "passengers may cross by the footbridge",
+              "full_vn": "hành khách có thể đi qua trên cây cầu dành cho người đi bộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể (dùng thay cho cách giả định)",
+          "list_en_vn": [
+            {
+              "full_en": "you must work hard so that you may succeed",
+              "full_vn": "anh phải làm việc chăm chỉ để có thể thành công"
+            },
+            {
+              "full_en": "however clever he may be",
+              "full_vn": "dù nó có thông minh đến đâu chăng nữa"
+            },
+            {
+              "full_en": "we hope he may come again",
+              "full_vn": "chúng tôi mong nó có thể lại đến nữa"
+            },
+            {
+              "full_en": "I write today so that he may know when to expect us",
+              "full_vn": "hôm nay tôi sẽ viết thư để anh ấy biết lúc nào chúng ta đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hỏi thông tin)",
+          "list_en_vn": [
+            {
+              "full_en": "well , who may you be ?",
+              "full_vn": "này, anh có thể là ai nhỉ?"
+            },
+            {
+              "full_en": "how old may she be ?",
+              "full_vn": "cô ấy bao nhiêu tuổi nhỉ?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chúc, cầu mong",
+          "list_en_vn": [
+            {
+              "full_en": "may our friendship last forever !",
+              "full_vn": "chúc tình hữu nghị chúng ta đời đời bền vững!"
+            },
+            {
+              "full_en": "long may he live to enjoy his happiness !",
+              "full_vn": "chúc ông ấy sống lâu để tận hưởng hạnh phúc của mình!"
+            },
+            {
+              "full_en": "may you both be very happy !",
+              "full_vn": "cầu mong hai anh chị thật hạnh phúc!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây táo gai"
+        }
+      ]
+    }
+  ]
+}

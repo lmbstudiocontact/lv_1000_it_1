@@ -1,0 +1,26 @@
+{
+  "english": "pollute",
+  "phat_am": "[pə'lu:t]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ô uế, làm mất thiêng liêng"
+        },
+        {
+          "m_full_vn": "làm ô nhiễm, làm nhơ bẩn (nước...)",
+          "list_en_vn": [
+            {
+              "full_en": "polluted water",
+              "full_vn": "nước bị ô nhiễm (không dùng được)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đầu độc, làm hư hỏng, làm sa đoạ"
+        }
+      ]
+    }
+  ]
+}

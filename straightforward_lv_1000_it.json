@@ -1,0 +1,29 @@
+{
+  "english": "straightforward",
+  "phat_am": "[,streit'fɔ:wəd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trung thực, thẳng thắn, cởi mở, minh bạch; không thoái thác (về người, cung cách của người..)",
+          "list_en_vn": [
+            {
+              "full_en": "straightforward in one's business dealings",
+              "full_vn": "thẳng thắn trong cách giải quyết công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ hiểu, dễ làm; không phức tạp, không rắc rối, không khó khăn (nhiệm vụ...)",
+          "list_en_vn": [
+            {
+              "full_en": "the procedure is quite straightforward",
+              "full_vn": "thủ tục hoàn toàn không phức tạp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

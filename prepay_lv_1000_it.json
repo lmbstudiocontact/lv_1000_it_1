@@ -1,0 +1,20 @@
+{
+  "english": "prepay",
+  "phat_am": "[,pri:'pei]",
+  "list_type": [
+    {
+      "type": "ngoại động từ prepaid",
+      "list_m": [
+        {
+          "m_full_vn": "trả trước, trả tiền (cái gì) trước",
+          "list_en_vn": [
+            {
+              "full_en": "a prepaid envelope",
+              "full_vn": "phong bì đã trả tiền (bưu phí đã được trả trên phong bì)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

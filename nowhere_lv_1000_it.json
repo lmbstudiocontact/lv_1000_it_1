@@ -1,0 +1,74 @@
+{
+  "english": "nowhere",
+  "phat_am": "['nouweə]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "không nơi nào, không ở đâu",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the middle of nowhere",
+              "list_im": [
+                {
+                  "im_full_vn": "xem middle"
+                }
+              ]
+            },
+            {
+              "id_full_en": "nowhere near",
+              "list_im": [
+                {
+                  "im_full_vn": "xem near"
+                }
+              ]
+            },
+            {
+              "id_full_en": "nowhere to be found /seen",
+              "list_im": [
+                {
+                  "im_full_vn": "không tìm thấy ở đâu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the children were nowhere to be seen",
+                      "full_vn": "không thấy bọn trẻ đâu cả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nowhere to be found /seen",
+              "list_im": [
+                {
+                  "im_full_vn": "không tìm thấy ở đâu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the children were nowhere to be seen",
+                      "full_vn": "không thấy bọn trẻ đâu cả"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Where are you going at the weekend ? - Nowhere special",
+              "full_vn": "Anh định đi nghỉ cuối tuần ở đâu? - Không chỗ nào đặc biệt cả"
+            },
+            {
+              "full_en": "he was getting nowhere with his homework until his sister helped him",
+              "full_vn": "nó làm bài tập về nhà chẳng được bao nhiêu cho đến khi chị nó giúp nó"
+            },
+            {
+              "full_en": "one of the horses I backed came second ; the rest were /came nowhere",
+              "full_vn": "một trong những con ngựa mà tôi đánh cá đã về nhì, những con còn lại ở đâu đâu ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

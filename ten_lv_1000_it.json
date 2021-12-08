@@ -1,0 +1,61 @@
+{
+  "english": "ten",
+  "phat_am": "[ten]",
+  "list_type": [
+    {
+      "type": "đại từ & từ xác định",
+      "list_m": [
+        {
+          "m_full_vn": "mười, chục ( 10)",
+          "list_one_mean": [
+            {
+              "id_full_en": "ten to one",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc mười ăn một"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be ten",
+              "full_vn": "lên mười (tuổi)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số mười"
+        },
+        {
+          "m_full_vn": "(trong từ ghép) có mười đơn vị của cái được nói rõ (tờ mười đô la, quân bài mười..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the upper ten",
+              "list_im": [
+                {
+                  "im_full_vn": "tầng lớp quý tộc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a ten-gallon drum",
+              "full_vn": "một thùng mười ga lông"
+            },
+            {
+              "full_en": "in tens",
+              "full_vn": "từng mười, từng bộ mười"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "english": "new",
+  "phat_am": "[nju:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chưa từng có; vừa mới hoặc lần đầu tiên được thấy, giới thiệu, làm ra...; mới",
+          "list_en_vn": [
+            {
+              "full_en": "a new school , idea , play , home",
+              "full_vn": "trường, ý tưởng, vở tuồng, nhà mới"
+            },
+            {
+              "full_en": "a new job , teacher",
+              "full_vn": "công việc, thầy giáo mới"
+            },
+            {
+              "full_en": "to make new friends",
+              "full_vn": "kết bạn mới"
+            },
+            {
+              "full_en": "new clothes , furniture",
+              "full_vn": "áo quần, đồ đạc mới"
+            },
+            {
+              "full_en": "new potatoes",
+              "full_vn": "khoai tây đầu mùa"
+            },
+            {
+              "full_en": "new bread",
+              "full_vn": "bánh mì vừa mới nướng"
+            },
+            {
+              "full_en": "the newest method",
+              "full_vn": "phương pháp mới nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(theo sau the ) hiện đại; có kiểu mới nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the new poor /rich",
+              "full_vn": "người mới nghèo/giàu (mới bị sa sút hoặc mới phất lên)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vừa mới bắt đầu",
+          "list_en_vn": [
+            {
+              "full_en": "a new day /year /era",
+              "full_vn": "một ngày/năm/kỷ nguyên mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt đầu lại; làm mới lại",
+          "list_en_vn": [
+            {
+              "full_en": "to start a new life",
+              "full_vn": "bắt đầu cuộc đời mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( new to somebody ) đã có nhưng chưa thấy hoặc trước đây chưa kinh qua; mới lạ",
+          "list_en_vn": [
+            {
+              "full_en": "are there many new words in this dictionary ?",
+              "full_vn": "từ điển này có nhiều từ mới hay không?"
+            },
+            {
+              "full_en": "a new star",
+              "full_vn": "một ngôi sao mới lạ"
+            },
+            {
+              "full_en": "as an apprentice , everything is very new to me ; I am an apprentice , so everything is very new to me",
+              "full_vn": "tôi là thợ học việc, nên cái gì đối với tôi cũng rất mới lạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( new to something ) chưa quen với cái gì; còn xa lạ với cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I'm a non-resident , so I'm new to this region",
+              "full_vn": "Tôi là khách vãng lai, nên tôi chưa quen vùng này lắm"
+            },
+            {
+              "full_en": "you're new here , aren't you ?",
+              "full_vn": "anh là người mới dọn đến đây ở phải không?"
+            },
+            {
+              "full_en": "new to the work",
+              "full_vn": "chưa quen việc, chưa thạo việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoan khoái về tinh thần hoặc thể xác; khoẻ khoắn",
+          "list_en_vn": [
+            {
+              "full_en": "I feel like a new man",
+              "full_vn": "Tôi cảm thấy như khoẻ lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tạo nên tính từ ghép) mới gần đây",
+          "list_one_mean": [
+            {
+              "id_full_en": "new from something",
+              "list_im": [
+                {
+                  "im_full_vn": "mới từ nơi nào đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a teacher new from school",
+                      "full_vn": "một thầy giáo mới ở trường ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "new from something",
+              "list_im": [
+                {
+                  "im_full_vn": "mới từ nơi nào đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a teacher new from school",
+                      "full_vn": "một thầy giáo mới ở trường ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn over a new leaf",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) leaf"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a brave new world",
+              "list_im": [
+                {
+                  "im_full_vn": "một thời kỳ mới do những sự kiện chính trị quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break new ground",
+              "list_im": [
+                {
+                  "im_full_vn": "đề xuất sáng kiến cải tiến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as clean as a new pin",
+              "list_im": [
+                {
+                  "im_full_vn": "sạch như chùi, rất sạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as good as new",
+              "list_im": [
+                {
+                  "im_full_vn": "tốt như mới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a new broom",
+              "list_im": [
+                {
+                  "im_full_vn": "xem broom"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a new lease on /of life",
+              "list_im": [
+                {
+                  "im_full_vn": "cơ may được hưởng sức khoẻ tốt hơn trước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring out the old year and ring in the new",
+              "list_im": [
+                {
+                  "im_full_vn": "thông báo năm cũ kết thúc và chào mừng năm mới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you can't teach an old dog new tricks",
+              "list_im": [
+                {
+                  "im_full_vn": "tre già khó uốn, khó thuyết phục được người già"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a new-born baby",
+              "full_vn": "trẻ mới chào đời, trẻ sơ sinh"
+            },
+            {
+              "full_en": "new-laid eggs",
+              "full_vn": "trứng mới đẻ"
+            },
+            {
+              "full_en": "new-mown hay",
+              "full_vn": "cỏ mới cắt"
+            },
+            {
+              "full_en": "new-found faith",
+              "full_vn": "niềm tin vừa mới tìm thấy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

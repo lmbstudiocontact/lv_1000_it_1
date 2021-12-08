@@ -1,0 +1,181 @@
+{
+  "english": "should",
+  "phat_am": "[∫ud]",
+  "list_type": [
+    {
+      "type": "thời quá khứ của shall"
+    },
+    {
+      "type": "động từ khiếm khuyết, thể phủ định là should not , rút gọn thành shouldn't",
+      "list_m": [
+        {
+          "m_full_vn": "(chỉ nghĩa vụ)",
+          "list_en_vn": [
+            {
+              "full_en": "you shouldn't drink and drive",
+              "full_vn": "anh không được uống rượu rồi lái xe"
+            },
+            {
+              "full_en": "visitors should inform the receptionist of their arrival",
+              "full_vn": "khách tham quan phải báo cho tiếp viên biết là họ đến"
+            },
+            {
+              "full_en": "we should have bought a new lock for the front door",
+              "full_vn": "đáng lẽ chúng ta phải mua khoá mới cho cửa trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chỉ lời khuyên hoặc lời giới thiệu)",
+          "list_en_vn": [
+            {
+              "full_en": "he should stop smoking",
+              "full_vn": "anh ta nên bỏ thuốc lá"
+            },
+            {
+              "full_en": "you shouldn't leave a baby alone in the house",
+              "full_vn": "ông không nên để đứa bé ở nhà một mình"
+            },
+            {
+              "full_en": "they should have called the police",
+              "full_vn": "đáng lẽ họ nên gọi cảnh sát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đưa ra một kết luận để ướm hỏi)",
+          "list_en_vn": [
+            {
+              "full_en": "we should arrive before dark",
+              "full_vn": "chắc là chúng ta đến trước lúc trời tối"
+            },
+            {
+              "full_en": "the roads should be less crowded today",
+              "full_vn": "chắc là hôm nay đường xá bớt đông đúc hơn"
+            },
+            {
+              "full_en": "I should have finished reading it by Friday",
+              "full_vn": "đúng ra tôi phải đọc xong cuốn đó hôm thứ sáu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để mô tả hậu quả của một sự kiện tưởng tượng ra)",
+          "list_en_vn": [
+            {
+              "full_en": "If I was asked to work on Sundays , I should resign",
+              "full_vn": "nếu tôi bị người ta yêu cầu làm việc chủ nhật thì tôi xin từ chức"
+            },
+            {
+              "full_en": "we should move to a larger house if we had money",
+              "full_vn": "nếu chúng tôi có tiền thì chúng tôi đã chuyển đến một ngôi nhà lớn hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng trong mệnh đề có that sau các tính từ anxious , sorry , concerned , happy , delighted ...)",
+          "list_en_vn": [
+            {
+              "full_en": "I'm anxious that he should be well cared for",
+              "full_vn": "tôi lo sao cho nó được chăm sóc chu đáo"
+            },
+            {
+              "full_en": "we're sorry that you should feel uncomfortable",
+              "full_vn": "chúng tôi lấy làm tiếc là anh đã cảm thấy khó chịu"
+            },
+            {
+              "full_en": "that he should speak to you like that is quite astonishing",
+              "full_vn": "việc anh ta nói với anh như thế thật là đáng kinh ngạc"
+            },
+            {
+              "full_en": "I'm delighted that he should take this view",
+              "full_vn": "tôi rất mừng anh ta đã chấp nhận quan điểm đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau if và in case hoặc với chủ ngữ và động từ đảo nhau, để gợi lên rằng một sự kiện khó có thể xảy ra)",
+          "list_en_vn": [
+            {
+              "full_en": "if you should change your mind , do let me know",
+              "full_vn": "nếu anh có thay đổi ý kiến thì cho tôi biết nhé"
+            },
+            {
+              "full_en": "if he should have forgotten to go to the airport , nobody will be there to meet her",
+              "full_vn": "nếu anh ta quên ra sân bay thì sẽ không có ai ở đó để đón cô ấy"
+            },
+            {
+              "full_en": "should anyone phone , please tell them I'm busy",
+              "full_vn": "nếu có ai điện thoại đến thì nói với họ rằng tôi bận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( dùngsau so that / in order that để diễn tả mục đích)",
+          "list_en_vn": [
+            {
+              "full_en": "he put the cases in the car so that he should be able to make an early start",
+              "full_vn": "ông ấy xếp sẵn va li vào xe ô tô để có thể đi sớm"
+            },
+            {
+              "full_en": "she repeated the instructions slowly in order that he should understand",
+              "full_vn": "cô ta chậm rãi nhắc lại các lời hướng dẫn để anh ta có thể hiểu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để đưa ra lời đề nghị lịch sự)",
+          "list_en_vn": [
+            {
+              "full_en": "I should like to make a phone call , if possible",
+              "full_vn": "tôi muốn gọi điện thoại, nếu được"
+            },
+            {
+              "full_en": "we should be grateful for your help",
+              "full_vn": "chúng tôi sẽ rất biết ơn về sự giúp đỡ của ngài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với imagine , say , think ... để đưa ra ý kiến ướm thử)",
+          "list_en_vn": [
+            {
+              "full_en": "I should imagine it will take about three hours",
+              "full_vn": "tôi hình dung ra là sẽ phải mất khoảng ba giờ đồng hồ"
+            },
+            {
+              "full_en": "I should say she's over forty",
+              "full_vn": "tôi cho rằng bà ấy phải ngoài bốn mươi tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng trong câu hỏi để diễn tả sự thiếu quan tâm, không tin...)",
+          "list_en_vn": [
+            {
+              "full_en": "how should I know ?",
+              "full_vn": "làm sao tôi biết được?"
+            },
+            {
+              "full_en": "why should he think that ?",
+              "full_vn": "tại sao anh ta lại nghĩ như vậy?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với các lời tự sự để diễn tả sự ngạc nhiên)",
+          "list_en_vn": [
+            {
+              "full_en": "I was thinking of going to see John when who should appear but John himself",
+              "full_vn": "tôi đang nghĩ đến việc đi thăm John thì lúc đó không ai khác ngoài John lại xuất hiện"
+            },
+            {
+              "full_en": "I turned round on the bus and who should be sitting behind me but my ex-wife",
+              "full_vn": "tôi quay lại nhìn quanh trong xe búyt và người ngồi đằng sau tôi không ai khác hơn là vợ cũ của tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

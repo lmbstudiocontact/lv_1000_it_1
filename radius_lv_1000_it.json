@@ -1,0 +1,49 @@
+{
+  "english": "radius",
+  "phat_am": "['reidiəs]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều radii",
+      "list_m": [
+        {
+          "m_full_vn": "bán kính (đường tròn, hình cầu)",
+          "list_en_vn": [
+            {
+              "full_en": "radius of a circle",
+              "full_vn": "(toán học) bán kính của một vòng tròn"
+            },
+            {
+              "full_en": "atomic radius",
+              "full_vn": "bán kính nguyên tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hình tia; nan hoa (bánh xe)"
+        },
+        {
+          "m_full_vn": "phạm vi, vòng; khu vực hình tròn đo bằng bán kính của nó",
+          "list_en_vn": [
+            {
+              "full_en": "within a radius of 5 kilometers from Hanoi",
+              "full_vn": "trong phạm vi cách Hà-nội 5 kilômét"
+            },
+            {
+              "full_en": "within the radius of knowlegde",
+              "full_vn": "trong phạm vi hiểu biết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) xương quay"
+        },
+        {
+          "m_full_vn": "(thực vật học) vành ngoài (của cụm hoa đầu); nhánh toả ra (của cụm hoa tán)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) tầm với (của cần trục...)"
+        }
+      ]
+    }
+  ]
+}

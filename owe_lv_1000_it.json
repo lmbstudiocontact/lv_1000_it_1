@@ -1,0 +1,72 @@
+{
+  "english": "owe",
+  "phat_am": "[ou]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to owe somebody for something ; to owe something to somebody ) nợ",
+          "list_en_vn": [
+            {
+              "full_en": "He still owes us for the goods he received last month",
+              "full_vn": "Anh ta còn nợ chúng tôi về số hàng anh ta nhận tháng rồi"
+            },
+            {
+              "full_en": "He owes his father 500 dollars ; He owes 500 dollars to his father",
+              "full_vn": "anh ta nợ bố anh ta 500 đô la"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to owe something to somebody / something ) công nhận ai/cái gì là nguyên nhân hoặc nguồn gốc của cái gì; chịu ơn ai/cái gì về cái gì; nhờ",
+          "list_en_vn": [
+            {
+              "full_en": "we owe the principle of gravitation to Newton",
+              "full_vn": "chúng ta có nguyên lý về trọng lực là nhờ ở Niu-tơn; nhờ Niu-tơn mà chúng ta có nguyên lý về trọng lực"
+            },
+            {
+              "full_en": "He owes his success more to luck than to ability",
+              "full_vn": "Anh ta thành công nhờ may mắn hơn là do khả năng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to owe something to somebody ) có nghĩa vụ đối với ai, giao cái gì cho ai như là một bổn phận; hàm ơn, chịu ơn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to owe somebody a grudge",
+              "list_im": [
+                {
+                  "im_full_vn": "xem grudge"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the world owes one a living",
+              "list_im": [
+                {
+                  "im_full_vn": "như world"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to owe loyalty to a political party , one's union , the company",
+              "full_vn": "trung thành với đảng chính trị, công đoàn, công ty"
+            },
+            {
+              "full_en": "I owe my teachers and parents a great deal",
+              "full_vn": "tôi mang ơn thầy cô và bố mẹ rất nhiều"
+            },
+            {
+              "full_en": "I owe a lot to my wife and children",
+              "full_vn": "tôi chịu ơn vợ con tôi rất nhiều"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

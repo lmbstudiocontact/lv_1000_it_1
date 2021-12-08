@@ -1,0 +1,75 @@
+{
+  "english": "neat",
+  "phat_am": "[ni:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sạch gọn, ngăn nắp",
+          "list_en_vn": [
+            {
+              "full_en": "a neat room",
+              "full_vn": "một căn buồng sạch sẽ gọn gàng"
+            },
+            {
+              "full_en": "as neat as a new pin",
+              "full_vn": "sạch gọn như li như lau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rõ ràng, rành mạch; ngắn gọn",
+          "list_en_vn": [
+            {
+              "full_en": "a neat handwriting",
+              "full_vn": "chữ viết rõ ràng"
+            },
+            {
+              "full_en": "a neat answer",
+              "full_vn": "một câu trả lời ngắn gọn rõ ràng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khéo, tinh xảo (đồ vật)",
+          "list_en_vn": [
+            {
+              "full_en": "a neat piece of handwork",
+              "full_vn": "một đồ thủ công khéo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giản dị và trang nhã (quần áo)",
+          "list_en_vn": [
+            {
+              "full_en": "a neat dress",
+              "full_vn": "bộ quần áo giản dị và trang nhã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về rượu) nguyên chất; không pha",
+          "list_en_vn": [
+            {
+              "full_en": "neat whisky",
+              "full_vn": "rượu uýt-ki không pha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều không đổi",
+      "list_m": [
+        {
+          "m_full_vn": "bò"
+        },
+        {
+          "m_full_vn": "trâu bò, thú nuôi"
+        }
+      ]
+    }
+  ]
+}

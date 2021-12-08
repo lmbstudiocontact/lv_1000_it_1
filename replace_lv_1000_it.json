@@ -1,0 +1,38 @@
+{
+  "english": "replace",
+  "phat_am": "[ri'pleis]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thay thế, thay chỗ của ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "robots are replacing people on assembly lines",
+              "full_vn": "người máy đang thay thế con người ở các dây chuyền lắp ráp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt lại chỗ cũ",
+          "list_en_vn": [
+            {
+              "full_en": "to replace the book on the shelf",
+              "full_vn": "đặt lại quyển sách lên giá sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thay thế cho ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to replace a broken window (with a new one )",
+              "full_vn": "thay cái cửa sổ bị vỡ (bằng một cái mới)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

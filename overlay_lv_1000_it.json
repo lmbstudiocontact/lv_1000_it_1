@@ -1,0 +1,43 @@
+{
+  "english": "overlay",
+  "phat_am": "[,ouvə'lei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật phủ (lên vật khác)"
+        },
+        {
+          "m_full_vn": "khăn trải giường"
+        },
+        {
+          "m_full_vn": "khăn trải bàn nhỏ"
+        },
+        {
+          "m_full_vn": "(ngành in) tấm bìa độn (trên mặt máy in để in cho rõ hơn)"
+        },
+        {
+          "m_full_vn": "( Ê-cốt) cái ca-vát"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ overlaid",
+      "list_m": [
+        {
+          "m_full_vn": "che, phủ; tráng, thếp",
+          "list_en_vn": [
+            {
+              "full_en": "wood overlaid with gold",
+              "full_vn": "gỗ thếp vàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ của overlie"
+    }
+  ]
+}

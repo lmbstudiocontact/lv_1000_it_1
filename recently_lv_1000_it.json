@@ -1,0 +1,48 @@
+{
+  "english": "recently",
+  "phat_am": "['ri:sntli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách đây hoặc trước đây không lâu; gần đây, mới đây",
+          "list_en_vn": [
+            {
+              "full_en": "as recently as yesterday",
+              "full_vn": "mới hôm qua đây thôi, chỉ mới hôm qua"
+            },
+            {
+              "full_en": "until quite recently",
+              "full_vn": "mãi cho đến gần đây"
+            },
+            {
+              "full_en": "have you seen him recently ?",
+              "full_vn": "gần đây anh có gặp hắn không?"
+            },
+            {
+              "full_en": "they haven't written recently",
+              "full_vn": "gần đây họ không viết thư gì cả"
+            },
+            {
+              "full_en": "I've seen a lot of her recently",
+              "full_vn": "gần đây tôi gặp cô ta hoài"
+            },
+            {
+              "full_en": "she's only recently begun working here",
+              "full_vn": "cô ta chỉ mới bắt đầu làm việc ở đây ít lâu nay thôi"
+            },
+            {
+              "full_en": "did she have a party recently ?",
+              "full_vn": "bà ta vừa mới tổ chức liên hoan à?"
+            },
+            {
+              "full_en": "a recently painted house",
+              "full_vn": "một ngôi nhà vừa mới sơn lại"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

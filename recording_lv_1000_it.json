@@ -1,0 +1,37 @@
+{
+  "english": "recording",
+  "phat_am": "[ri'kɔ:diη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ghi, sự thu (âm thanh, hình ảnh trên băng từ..)",
+          "list_en_vn": [
+            {
+              "full_en": "a recording studio",
+              "full_vn": "một phòng thu băng"
+            },
+            {
+              "full_en": "a recording session",
+              "full_vn": "một buổi thu băng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "âm thanh đã được thu, hình ảnh đã được ghi",
+          "list_en_vn": [
+            {
+              "full_en": "to make a video recording of a wedding",
+              "full_vn": "thu băng hình đám cưới"
+            },
+            {
+              "full_en": "a good recording of the opera on tape /video",
+              "full_vn": "một băng/băng hình về bản nhạc kịch thu tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

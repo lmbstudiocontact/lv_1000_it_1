@@ -1,0 +1,24 @@
+{
+  "english": "technology",
+  "phat_am": "[tek'nɔlədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "môn nghiên cứu khoa học và sử dụng các kỹ thuật cơ khí và khoa học ứng dụng; kỹ thuật học; công nghệ học",
+          "list_en_vn": [
+            {
+              "full_en": "recent advances in medical technology",
+              "full_vn": "những tiến bộ gần đây trong kỹ thuật y học"
+            },
+            {
+              "full_en": "the technology of computers",
+              "full_vn": "công nghệ máy tính"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

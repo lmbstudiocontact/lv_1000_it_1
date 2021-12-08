@@ -1,0 +1,77 @@
+{
+  "english": "nine",
+  "phat_am": "[nain]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chín",
+          "list_one_mean": [
+            {
+              "id_full_en": "nine day's wonder",
+              "list_im": [
+                {
+                  "im_full_vn": "cái kỳ lạ nhất thời"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "nine times out of ten",
+              "full_vn": "cứ mười lần thì có đến chín lần; thường thường"
+            },
+            {
+              "full_en": "nine tenths",
+              "full_vn": "chín phần mười, hầu hết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số chín"
+        },
+        {
+          "m_full_vn": "(đánh bài) quân chín"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thể dục,thể thao) đội bóng chín người"
+        },
+        {
+          "m_full_vn": "(the nine ) (thần thoại,thần học) chín nàng thơ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to crack someone up to the nines",
+              "list_im": [
+                {
+                  "im_full_vn": "tâng bốc ai đến tận mây xanh, tán dương ai hết lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be dressed up to the nines",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) dress"
+                }
+              ]
+            },
+            {
+              "id_full_en": "nine to five",
+              "list_im": [
+                {
+                  "im_full_vn": "theo giờ hành chính"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

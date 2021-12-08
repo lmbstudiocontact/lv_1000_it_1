@@ -1,0 +1,103 @@
+{
+  "english": "sponge",
+  "phat_am": "[spʌndʒ]",
+  "list_type": [
+    {
+      "type": "danh từ (như) spunge",
+      "list_m": [
+        {
+          "m_full_vn": "bọt biển (hải miên, sinh vật xốp dưới biển)"
+        },
+        {
+          "m_full_vn": "cao su xốp, miếng bọt biến (để tắm...)"
+        },
+        {
+          "m_full_vn": "vật xốp và hút nước (như) bọt biển, miếng vải thấm nước (gạc dùng trong phẫu thuật..)"
+        },
+        {
+          "m_full_vn": "sự rửa sạch, sự lau chùi bằng bọt biển"
+        },
+        {
+          "m_full_vn": "bánh xốp (như) sponge-cake"
+        },
+        {
+          "m_full_vn": "người uống rượu như uống nước lã"
+        },
+        {
+          "m_full_vn": "người ăn bám, người ăn chực",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pass the sponge over",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ qua, tha thứ (một lỗi lầm)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "throw up the sponge",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chịu thua"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lau chùi, tắm rửa, cọ sạch (bằng bọt biển)"
+        },
+        {
+          "m_full_vn": "(thông tục) lấy được (tiền..); bòn rút (bằng cách nịnh nọt)",
+          "list_en_vn": [
+            {
+              "full_en": "to sponge a dinner",
+              "full_vn": "ăn chực bữa cơm tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + off/out ) tẩy (bằng cách dùng bọt biển cọ rửa)"
+        },
+        {
+          "m_full_vn": "( + on/off ) ăn bám, ăn chực",
+          "list_en_vn": [
+            {
+              "full_en": "to sponge on someone for tobacco",
+              "full_vn": "hút chực thuốc của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + up ) dùng bọt biển để hút hết (chất lỏng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vớt bọt biển"
+        },
+        {
+          "m_full_vn": "hút nước (như) bọt biển",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sponge down",
+              "list_im": [
+                {
+                  "im_full_vn": "xát, cọ (bằng bọt biển)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

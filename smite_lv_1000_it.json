@@ -1,0 +1,106 @@
+{
+  "english": "smite",
+  "phat_am": "[smait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) cái đánh cái đập"
+        },
+        {
+          "m_full_vn": "sự làm thử; sự cố gắng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ smote ; smitten",
+      "list_m": [
+        {
+          "m_full_vn": "đập, vỗ, đánh mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to smite one's hands together",
+              "full_vn": "vỗ tay"
+            },
+            {
+              "full_en": "an idea smote him",
+              "full_vn": "anh ta nảy ra một ý kiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm thất bại, đánh thắng",
+          "list_en_vn": [
+            {
+              "full_en": "to smite somebody hip and thigh",
+              "full_vn": "đánh bại ai hoàn toàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trừng phạt",
+          "list_en_vn": [
+            {
+              "full_en": "his conscience smote him",
+              "full_vn": "lương tâm trừng phạt hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đập mạnh vào (trí óc), gây ấn tượng mạnh mẽ; làm say mê; có tác động lớn đến (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to smite someone with one's charms",
+              "full_vn": "làm ai say mê vì sắc đẹp của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ), (đùa cợt) tát, vả, đánh",
+          "list_en_vn": [
+            {
+              "full_en": "to smite somebody on the check",
+              "full_vn": "vả vào má ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị hoành hành, bị mê hoặc, bị ám ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "a city smitten with plague",
+              "full_vn": "một thành phố bị bệnh dịch hoành hành"
+            },
+            {
+              "full_en": "to be smitten with a desire",
+              "full_vn": "bị một ước vọng ám ảnh"
+            },
+            {
+              "full_en": "to be smitten with dread",
+              "full_vn": "khiếp sợ bàng hoàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đập mạnh, vỗ mạnh, phả vào",
+          "list_en_vn": [
+            {
+              "full_en": "waver smote upon the cliff",
+              "full_vn": "sóng vỗ vào vách đá"
+            },
+            {
+              "full_en": "sun's rays smiting upon him",
+              "full_vn": "ánh nắng phả vào người nó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

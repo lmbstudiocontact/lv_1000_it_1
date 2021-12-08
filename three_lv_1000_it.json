@@ -1,0 +1,35 @@
+{
+  "english": "three",
+  "phat_am": "[θri:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ba",
+          "list_en_vn": [
+            {
+              "full_en": "three times",
+              "full_vn": "ba lần"
+            },
+            {
+              "full_en": "he is three",
+              "full_vn": "nó lên ba (tuổi)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số ba ( 3)"
+        },
+        {
+          "m_full_vn": "con ba (súc sắc); quân ba (quân bài)"
+        }
+      ]
+    }
+  ]
+}

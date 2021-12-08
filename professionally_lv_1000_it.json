@@ -1,0 +1,33 @@
+{
+  "english": "professionally",
+  "phat_am": "[prə'fe∫ənəli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành thạo, một cách đúng nghề nghiệp; bởi một người chuyên nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "a doctor who gives away confidential information about patients is not behaving professionally",
+              "full_vn": "bác sĩ tiết lộ tin tức kín về bệnh nhân là bác sĩ cư xử không đúng với nghề nghiệp của mình"
+            },
+            {
+              "full_en": "her voice should be professionally trained",
+              "full_vn": "giọng cô ta cần được người chuyên nghiệp huấn luyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như một công việc được trả công",
+          "list_en_vn": [
+            {
+              "full_en": "he plays cricket professionally",
+              "full_vn": "nó chơi cricket chuyên nghiệp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

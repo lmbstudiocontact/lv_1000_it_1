@@ -1,0 +1,27 @@
+{
+  "english": "snowy",
+  "phat_am": "['snoui]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "phủ đầy tuyết, nhiều tuyết",
+          "list_en_vn": [
+            {
+              "full_en": "the snowy season",
+              "full_vn": "mùa tuyết rơi"
+            },
+            {
+              "full_en": "snowy hair",
+              "full_vn": "tóc bạc như tuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có tuyết rơi"
+        }
+      ]
+    }
+  ]
+}

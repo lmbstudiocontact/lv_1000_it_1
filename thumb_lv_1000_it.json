@@ -1,0 +1,127 @@
+{
+  "english": "thumb",
+  "phat_am": "[θʌm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngón tay cái"
+        },
+        {
+          "m_full_vn": "phần của găng tay bọc ngón tay cái",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be under somebody's thumb",
+              "list_im": [
+                {
+                  "im_full_vn": "bị ai khống chế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite one's thumb at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "lêu lêu chế nhạo ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "his fingers are all thumbs",
+              "list_im": [
+                {
+                  "im_full_vn": "nó vụng về hậu đậu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thumbs down",
+              "list_im": [
+                {
+                  "im_full_vn": "dấu ra hiệu từ chối (không tán thành)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thumbs up",
+              "list_im": [
+                {
+                  "im_full_vn": "dấu ra hiệu đồng ý (tán thành)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be all (fingers and ) thumbs",
+              "list_im": [
+                {
+                  "im_full_vn": "rất lúng túng, rất vụng về (nhất là khi cầm, điều hành cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thumbs up /down",
+              "list_im": [
+                {
+                  "im_full_vn": "dấu hiệu tán thành/phản đối"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giở, lật (trang sách)"
+        },
+        {
+          "m_full_vn": "làm bẩn, làm mòn (cuốn sách.. vì giở nhiều)",
+          "list_en_vn": [
+            {
+              "full_en": "thumbing through the dictionary",
+              "full_vn": "giở qua các trang tự điển"
+            },
+            {
+              "full_en": "a well-thumbed copy",
+              "full_vn": "một bản đã cũ mòn nhiều vì giở đi giở lại"
+            },
+            {
+              "full_en": "to thumb the pages of a book",
+              "full_vn": "giở qua trang sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vận dụng vụng về, điều khiển vụng về",
+          "list_one_mean": [
+            {
+              "id_full_en": "to thumb one's nose at somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chế nhạo ai, miệt thị ai, lêu lêu ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thumb a lift",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫy xe đi nhờ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to thumb the piano",
+              "full_vn": "đánh pianô vụng về"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

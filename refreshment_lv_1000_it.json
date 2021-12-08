@@ -1,0 +1,41 @@
+{
+  "english": "refreshment",
+  "phat_am": "[ri'fre∫mənt]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều refreshments",
+      "list_m": [
+        {
+          "m_full_vn": "sự nghỉ ngơi, sự tĩnh dưỡng, sự được tĩnh dưỡng"
+        },
+        {
+          "m_full_vn": "sự làm cho khoẻ khoắn, sự làm cho tỉnh táo",
+          "list_en_vn": [
+            {
+              "full_en": "to feel refreshment of mind and body",
+              "full_vn": "cảm thấy trong người và tâm hồn khoan khoái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồ ăn thức uống",
+          "list_en_vn": [
+            {
+              "full_en": "refreshment room",
+              "full_vn": "phòng ăn uống (bán thức ăn và nước giải khát)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) món ăn nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "light refreshments are available during the interval",
+              "full_vn": "có các món ăn nhẹ trong lúc nghỉ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

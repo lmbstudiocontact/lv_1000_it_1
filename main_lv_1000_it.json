@@ -1,0 +1,105 @@
+{
+  "english": "main",
+  "phat_am": "[mein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường trục (chính)"
+        },
+        {
+          "m_full_vn": "đường ống, ống dẫn chính (điện, nước, hơi đốt)"
+        },
+        {
+          "m_full_vn": "phần chính, phần cốt yếu, phần chủ yếu"
+        },
+        {
+          "m_full_vn": "mạng lưới (chính)"
+        },
+        {
+          "m_full_vn": "thể lực; lực lượng"
+        },
+        {
+          "m_full_vn": "(hàng hải) biển cả; cột buồm chính"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chính, chủ yếu, quan trọng nhất, trọng yếu nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the main street of a town",
+              "full_vn": "đường phố chính của thành phố"
+            },
+            {
+              "full_en": "the main body of an arm",
+              "full_vn": "bộ phận chính của đạo quân, quân chủ lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) chính",
+          "list_en_vn": [
+            {
+              "full_en": "main clause",
+              "full_vn": "mệnh đề chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toàn bộ",
+          "list_en_vn": [
+            {
+              "full_en": "to do something by main force",
+              "full_vn": "làm việc hết sức mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc đường trục"
+        },
+        {
+          "m_full_vn": "thuộc đường ống (chính)"
+        },
+        {
+          "m_full_vn": "(hàng hải) thuộc cột buồm chính"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ; (từ lóng)) yêu quý nhất"
+        },
+        {
+          "m_full_vn": "mênh mông",
+          "list_en_vn": [
+            {
+              "full_en": "the main sea",
+              "full_vn": "biển cả mênh mông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mở rộng thành đường chính"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc chọi gà"
+        },
+        {
+          "m_full_vn": "(đánh bài) sự gọi tên con số trước khi ném xúc xắc"
+        }
+      ]
+    }
+  ]
+}

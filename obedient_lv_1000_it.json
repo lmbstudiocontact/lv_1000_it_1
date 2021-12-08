@@ -1,0 +1,24 @@
+{
+  "english": "obedient",
+  "phat_am": "[ə'bi:djənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "biết nghe lời, biết vâng lời, dễ bảo, ngoan ngoãn",
+          "list_one_mean": [
+            {
+              "id_full_en": "your obedient servant",
+              "list_im": [
+                {
+                  "im_full_vn": "kính thư, kính xin (công thức cuối công văn, thư chính thức...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

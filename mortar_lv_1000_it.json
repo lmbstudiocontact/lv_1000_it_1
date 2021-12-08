@@ -1,0 +1,31 @@
+{
+  "english": "mortar",
+  "phat_am": "['mɔ:tə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vữa, hồ"
+        },
+        {
+          "m_full_vn": "cối giã"
+        },
+        {
+          "m_full_vn": "(quân sự) súng cối"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trát vữa vào"
+        },
+        {
+          "m_full_vn": "nã súng cối vào"
+        }
+      ]
+    }
+  ]
+}

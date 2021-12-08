@@ -1,0 +1,188 @@
+{
+  "english": "range",
+  "phat_am": "[reindʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dãy, hàng (núi, đồi..)",
+          "list_en_vn": [
+            {
+              "full_en": "a range of mountains",
+              "full_vn": "dãy núi"
+            },
+            {
+              "full_en": "in range with my house",
+              "full_vn": "cùng một dãy nhà với tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phạm vị, lĩnh vực; trình độ",
+          "list_en_vn": [
+            {
+              "full_en": "range of knowledge",
+              "full_vn": "phạm vi (trình độ) hiểu biết"
+            },
+            {
+              "full_en": "range of action",
+              "full_vn": "phạm vi hoạt động"
+            },
+            {
+              "full_en": "within my range",
+              "full_vn": "vừa với trình độ của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại",
+          "list_en_vn": [
+            {
+              "full_en": "a range of colours",
+              "full_vn": "đủ các màu"
+            },
+            {
+              "full_en": "a wide range of prices",
+              "full_vn": "đủ loại giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầm, tầm (đạn); tầm bay (máy bay); tầm truyền đạt (rađiô)",
+          "list_en_vn": [
+            {
+              "full_en": "within range",
+              "full_vn": "ở trong tầm đạn"
+            },
+            {
+              "full_en": "an airplane out of range",
+              "full_vn": "ngoài tầm bay của máy bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sân tập bắn, bãi tập bắn; trận địa tên lửa"
+        },
+        {
+          "m_full_vn": "bếp có lò nướng và mặt bếp để đun..",
+          "list_en_vn": [
+            {
+              "full_en": "a kitchen range",
+              "full_vn": "lò bếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) vùng, bãi rộng (để thả súc vật, để (săn bắn)..)",
+          "list_en_vn": [
+            {
+              "full_en": "a wide range of meadows",
+              "full_vn": "một vùng đồng cỏ mênh mông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp hàng; sắp xếp có thứ tự"
+        },
+        {
+          "m_full_vn": "xếp loại"
+        },
+        {
+          "m_full_vn": "đứng về phía",
+          "list_en_vn": [
+            {
+              "full_en": "to range onself with someone",
+              "full_vn": "đứng về phía ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi khắp; đi dọc theo (bờ sông)",
+          "list_en_vn": [
+            {
+              "full_en": "to range the woods",
+              "full_vn": "đi khắp rừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) bắn để tính tầm xa (của một mục tiêu)",
+          "list_en_vn": [
+            {
+              "full_en": "to range a gun on an enemy ship",
+              "full_vn": "bắn đại bác để tính tầm xa của một tàu địch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cùng một dãy với, nằm dọc theo",
+          "list_en_vn": [
+            {
+              "full_en": "our house ranges with the next building",
+              "full_vn": "nhà chúng tôi cùng một dãy với toà nhà lớn"
+            },
+            {
+              "full_en": "island that ranges along the mainland",
+              "full_vn": "đảo nằm dọc theo đất liền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi khắp",
+          "list_en_vn": [
+            {
+              "full_en": "to range over the country",
+              "full_vn": "đi khắp nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên xuống giữa hai mức",
+          "list_en_vn": [
+            {
+              "full_en": "prices ranged between 40d and 45d",
+              "full_vn": "giá lên xuống từ 40 đến 45 đồng"
+            },
+            {
+              "full_en": "temperature ranging from ten to thirtythree degrees",
+              "full_vn": "độ nhiệt lên xuống từ mười đến ba mươi ba độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được thấy trong một vùng (cây, thú vật); được xếp vào loại",
+          "list_en_vn": [
+            {
+              "full_en": "Gorki ranges with (among ) the great writers",
+              "full_vn": "Góoc-ki được xếp vào loại các nhà văn lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) bắn xa được (đạn)",
+          "list_en_vn": [
+            {
+              "full_en": "the gun ranges over ten kilometers",
+              "full_vn": "khẩu đại bác ấy bắn xa trên mười kilômet"
+            },
+            {
+              "full_en": "the bullet ranged wide of the objective",
+              "full_vn": "viên đạn đã đi chệch xa mục tiêu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

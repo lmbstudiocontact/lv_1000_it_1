@@ -1,0 +1,42 @@
+{
+  "english": "slink",
+  "phat_am": "[sliηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "súc vật ( (thường) là bò) đẻ non"
+        },
+        {
+          "m_full_vn": "thịt súc vật ( (thường) là bò) đẻ non"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẻ non, đẻ thiếu tháng (súc vật)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ slunk , slinked",
+      "list_m": [
+        {
+          "m_full_vn": "đi; đi lén, lẩn, lẻn vào",
+          "list_en_vn": [
+            {
+              "full_en": "to slink in",
+              "full_vn": "lén vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượn, lượn lờ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "english": "sound",
+  "phat_am": "[saund]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoẻ mạnh, tráng kiện, lành mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "a sound body",
+              "full_vn": "một thân thể tráng kiện"
+            },
+            {
+              "full_en": "a sound mind",
+              "full_vn": "một trí óc lành mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lành lặn, không hỏng, không giập thối; trong tình trạng tốt",
+          "list_en_vn": [
+            {
+              "full_en": "sound fruit",
+              "full_vn": "quả lành lặn (không bị giập thối)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng đắn, có cơ sở, có căn cứ, vững; lôgic, hợp lý",
+          "list_en_vn": [
+            {
+              "full_en": "a sound doctrine",
+              "full_vn": "một học thuyết đứng đắn"
+            },
+            {
+              "full_en": "sound argument",
+              "full_vn": "một lý lẽ có cơ sở"
+            },
+            {
+              "full_en": "sound views",
+              "full_vn": "quan điểm hợp lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầy đủ và hoàn chỉnh; hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "a sound telling-off",
+              "full_vn": "việc nói thẳng vào mặt đến nơi đến chốn"
+            },
+            {
+              "full_en": "a sound thrashing",
+              "full_vn": "một trận đánh ra trò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cẩn thận và chính xác, giỏi; thành thạo",
+          "list_en_vn": [
+            {
+              "full_en": "a sound tennis player",
+              "full_vn": "một người chơi quần vợt thạo"
+            },
+            {
+              "full_en": "a sound piece of writing",
+              "full_vn": "một bài viết chắc tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yên giấc, ngon (về giấc ngủ, người ngủ)",
+          "list_en_vn": [
+            {
+              "full_en": "a sound sleep",
+              "full_vn": "giấc ngủ ngon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vững chãi; có thể trả nợ được",
+          "list_one_mean": [
+            {
+              "id_full_en": "as sound as a bell",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tình trạng tuyệt hảo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sound in wind and limb",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) cơ thể còn sung sức"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a sound financial situation",
+              "full_vn": "một hãng buôn vững chãi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngon lành (ngủ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "be /fall sound asleep",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ ngon lành"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "âm thanh (cảm giác do tai phát hiện, do sự rung động của không khí xung quanh tai gây ra)",
+          "list_en_vn": [
+            {
+              "full_en": "sound travels more slowly than light",
+              "full_vn": "âm thanh truyền đi chậm hơn là ánh sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "âm thanh, tiếng động, tiếng (thứ có thể nghe thấy được)",
+          "list_en_vn": [
+            {
+              "full_en": "the sound of the wind",
+              "full_vn": "tiếng gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) âm",
+          "list_en_vn": [
+            {
+              "full_en": "vowel sound",
+              "full_vn": "âm nguyên âm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giọng",
+          "list_en_vn": [
+            {
+              "full_en": "statement has a cheerful sound in it",
+              "full_vn": "lời phát biểu có giọng vui vẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ấn tượng về tinh thần (do một mẩu tin tức, sự miêu tả... gây ra)",
+          "list_en_vn": [
+            {
+              "full_en": "the news has a sinister sound !",
+              "full_vn": "tín đó có vẻ mang điềm gở!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng cách có thể nghe được cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "like the sound of one's own voice",
+              "list_im": [
+                {
+                  "im_full_vn": "nói huyên thuyên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghe",
+          "list_en_vn": [
+            {
+              "full_en": "that music sounds beautiful",
+              "full_vn": "bản nhạc đó nghe thật hay"
+            },
+            {
+              "full_en": "his excuse sounds unconvincing",
+              "full_vn": "lời xin lỗi của anh ta nghe ra không có sức thuyết phục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát ra tiếng kêu",
+          "list_en_vn": [
+            {
+              "full_en": "the trumpet sounded",
+              "full_vn": "tiếng kèn trom-pét nổi lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghe như, nghe có vẻ",
+          "list_en_vn": [
+            {
+              "full_en": "it sounds as if a tap were running",
+              "full_vn": "nghe như có cái vòi nước đang chảy"
+            },
+            {
+              "full_en": "it sounds very hollow",
+              "full_vn": "nghe có vẻ trống rỗng quá"
+            },
+            {
+              "full_en": "it sounds all right",
+              "full_vn": "nghe có vẻ được lắm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phát ra tiếng động từ (cái máy..); làm cho phát ra âm thanh, làm cho kêu; thổi (kèn); đánh (trống)",
+          "list_en_vn": [
+            {
+              "full_en": "to sound a trumpet",
+              "full_vn": "thổi kèn"
+            },
+            {
+              "full_en": "to sound a horn",
+              "full_vn": "thổi tù và"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gõ để kiểm tra; nghe thử (bánh xe lửa)",
+          "list_en_vn": [
+            {
+              "full_en": "to sound the wheels of a train",
+              "full_vn": "gõ kiểm tra bánh tàu hoả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) gõ để nghe bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to sound a person's chest",
+              "full_vn": "khám nghe ngực của một người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát âm; đọc",
+          "list_en_vn": [
+            {
+              "full_en": "the \"b \" in \"comb \" is not sounded",
+              "full_vn": "chữ \" b\" trong từ \" comb\" không đọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "báo, báo hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "to sound a retreat",
+              "full_vn": "thổi hiệu lệnh rút lui"
+            },
+            {
+              "full_en": "to sound someone's praises far and wide",
+              "full_vn": "ca ngợi ai khắp nơi xa gần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + off ) ( about something ) (thông tục) nói ầm ĩ và khoác lác (về cái gì)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) cái thông"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dò độ sâu; đo độ sâu (đáy sông, đáy biển...)"
+        },
+        {
+          "m_full_vn": "(y học) dò bằng ống thông"
+        },
+        {
+          "m_full_vn": "thăm dò (quyển khí...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) thăm dò (tư tưởng, tình cảm...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lặn xuống đáy (cá voi...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Sound ) eo biển; dải nước hẹp nối hai vùng biển lớn hơn (nhất là trong các địa danh)"
+        },
+        {
+          "m_full_vn": "bong bóng cá"
+        }
+      ]
+    }
+  ]
+}

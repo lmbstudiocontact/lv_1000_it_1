@@ -1,0 +1,81 @@
+{
+  "english": "path",
+  "phat_am": "[pɑ:θ]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều paths",
+      "list_m": [
+        {
+          "m_full_vn": "đường mòn, đường nhỏ, lối đi (như) pathway , footpath",
+          "list_en_vn": [
+            {
+              "full_en": "mountain path",
+              "full_vn": "đường mòn trên núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng đi, đường đi",
+          "list_en_vn": [
+            {
+              "full_en": "the path of a comes",
+              "full_vn": "đường đi của sao chổi"
+            },
+            {
+              "full_en": "on the path of honour",
+              "full_vn": "trên con đường danh vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường lối (chiều hướng hành động)",
+          "list_en_vn": [
+            {
+              "full_en": "I strongly advised him not to take that path",
+              "full_vn": "tôi đã mạnh mẽ khuyên nó không nên đi theo con đường ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con đường để đi tới hoặc thực hiện cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "lead somebody up the garden path",
+              "list_im": [
+                {
+                  "im_full_vn": "như lead"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the primrose path",
+              "list_im": [
+                {
+                  "im_full_vn": "như primrose"
+                }
+              ]
+            },
+            {
+              "id_full_en": "smooth somebody's path",
+              "list_im": [
+                {
+                  "im_full_vn": "như smooth"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the path to success",
+              "full_vn": "con đường đi tới thành công"
+            },
+            {
+              "full_en": "the path to ruin",
+              "full_vn": "con đường dẫn đến thất bại"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

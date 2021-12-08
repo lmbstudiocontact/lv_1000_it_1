@@ -1,0 +1,57 @@
+{
+  "english": "raven",
+  "phat_am": "['reivn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con quạ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đen như qụa, đen nhánh",
+          "list_en_vn": [
+            {
+              "full_en": "raven hair",
+              "full_vn": "tóc đen nhánh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắn xé (mồi); ăn ngấu nghiến, ăn phàm"
+        },
+        {
+          "m_full_vn": "cướp, giật"
+        },
+        {
+          "m_full_vn": "( + after ) tìm kiếm (mồi)",
+          "list_en_vn": [
+            {
+              "full_en": "to raven after prey",
+              "full_vn": "đi kiếm mồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + for ) thèm khát, thèm thuồng",
+          "list_en_vn": [
+            {
+              "full_en": "to raven for something",
+              "full_vn": "thèm khát cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

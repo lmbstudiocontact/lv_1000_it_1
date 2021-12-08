@@ -1,0 +1,34 @@
+{
+  "english": "rethink",
+  "phat_am": "['ri:θiηk]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "suy tính lại, cân nhắc lại",
+          "list_en_vn": [
+            {
+              "full_en": "rethink a policy",
+              "full_vn": "suy tính lại một chính sách"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự suy tính lại, sự cân nhắc lại",
+          "list_en_vn": [
+            {
+              "full_en": "have a quick rethink before deciding",
+              "full_vn": "suy nghĩ lại thật nhanh trước khi quyết định"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

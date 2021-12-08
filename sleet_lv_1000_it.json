@@ -1,0 +1,28 @@
+{
+  "english": "sleet",
+  "phat_am": "[sli:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mưa tuyết, mưa đá"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng với it , thời trong thời tiến hành)",
+          "list_en_vn": [
+            {
+              "full_en": "it's sleeting",
+              "full_vn": "trời đang mưa tuyết"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

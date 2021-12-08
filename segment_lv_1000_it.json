@@ -1,0 +1,48 @@
+{
+  "english": "segment",
+  "phat_am": "['segmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đoạn, khúc, đốt, miếng, múi",
+          "list_en_vn": [
+            {
+              "full_en": "a segment of an orange",
+              "full_vn": "một múi cam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) hình viên phân, hình cầu phân; phần, mảng",
+          "list_en_vn": [
+            {
+              "full_en": "a segment of a straight line",
+              "full_vn": "đoạn đường thẳng (giữa hai điểm)"
+            },
+            {
+              "full_en": "a segment of a circle",
+              "full_vn": "hình viên phân"
+            },
+            {
+              "full_en": "a segment of a sphere",
+              "full_vn": "hình cầu phân"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắt từng đoạn, cắt ra từng khúc, cắt ra từng miếng"
+        },
+        {
+          "m_full_vn": "phân đoạn, phân đốt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "english": "self",
+  "phat_am": "[self]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cùng một màu; đồng màu"
+        },
+        {
+          "m_full_vn": "cùng một loại",
+          "list_en_vn": [
+            {
+              "full_en": "wooden tool with self handle",
+              "full_vn": "dụng cụ bằng gỗ với cán cũng làm bằng gỗ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều selves",
+      "list_m": [
+        {
+          "m_full_vn": "bản chất, những tính chất đặc biệt của ta; cá tính của ta; bản thân; cái tôi; phần đặc biệt trong bản chất ta",
+          "list_en_vn": [
+            {
+              "full_en": "the consciousness of self",
+              "full_vn": "sự nhận thức được về bản thân mình"
+            },
+            {
+              "full_en": "the conscious self",
+              "full_vn": "cái bản thân có ý thức"
+            },
+            {
+              "full_en": "the commitment of the whole self to a relationship",
+              "full_vn": "sự ràng buộc toàn bộ bản thân ta vào một mối quan hệ"
+            },
+            {
+              "full_en": "analysis of the self",
+              "full_vn": "sự phân tích bản thân"
+            },
+            {
+              "full_en": "by doing that , he showed his true self",
+              "full_vn": "hành động như vậy, anh ta đã biểu lộ con người thực của mình"
+            },
+            {
+              "full_en": "one's better self",
+              "full_vn": "bản thân mình với những ý nghĩ, động cơ cao thượng hơn; bản chất cao thượng của ta"
+            },
+            {
+              "full_en": "she's her old self again",
+              "full_vn": "cô ta đã trở lại bản thân cô ta trước đây (đã phục hồi sức khoẻ, cung cách thông (thường)...)"
+            },
+            {
+              "full_en": "one's second self",
+              "full_vn": "người bạn chí thân của mình, người bạn nối khố của mình; cánh tay phải của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi thế hoặc thú vui của bản thân; sự chăm chú vào lợi ích bản thân, sự chăm chú vào thú vui bản thân",
+          "list_en_vn": [
+            {
+              "full_en": "self is a bad guide to happiness",
+              "full_vn": "chỉ chăm chú vào mình thì khó đạt được hạnh phúc"
+            },
+            {
+              "full_en": "you always put self first",
+              "full_vn": "lúc nào anh cũng đặt mình lên trên hết"
+            },
+            {
+              "full_en": "she has no thought of self",
+              "full_vn": "cô ta không nghĩ về mình (quan tâm đến người khác nhiều hơn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kinh doanh) (đùa cợt) bản thân anh, bản thân tôi, bản thân nó..",
+          "list_one_mean": [
+            {
+              "id_full_en": "a shadow of one's /its former self",
+              "list_im": [
+                {
+                  "im_full_vn": "xem shadow"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a cheque payable to self",
+              "full_vn": "một tấm séc có thể trả tiền cho bản thân (cho người có chữ ký ở trên sec)"
+            },
+            {
+              "full_en": "our noble selves",
+              "full_vn": "bọn quý tộc chúng tao"
+            },
+            {
+              "full_en": "Mr Jones, your good self and I",
+              "full_vn": "Ông Jones, bản thân ông và tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "cho mình; tự mình",
+          "list_en_vn": [
+            {
+              "full_en": "self-control",
+              "full_vn": "sự tự chủ"
+            },
+            {
+              "full_en": "self-addressed",
+              "full_vn": "ghi sẵn địa chỉ của mình"
+            },
+            {
+              "full_en": "self-taught",
+              "full_vn": "tự học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự nó; tự động",
+          "list_en_vn": [
+            {
+              "full_en": "self-closing doors",
+              "full_vn": "cửa tự (động) đóng"
+            },
+            {
+              "full_en": "self-winding watch",
+              "full_vn": "đồng hồ tự động"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

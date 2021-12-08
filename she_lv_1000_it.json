@@ -1,0 +1,69 @@
+{
+  "english": "she",
+  "phat_am": "[∫i:]",
+  "list_type": [
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "nó, bà ấy, chị ấy, cô ấy...",
+          "list_en_vn": [
+            {
+              "full_en": "she sings beautifully",
+              "full_vn": "chị ấy hát hay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nó (chỉ tàu, xe... đã được nhân cách hoá), tàu ấy, xe ấy",
+          "list_en_vn": [
+            {
+              "full_en": "she sails tomorrow",
+              "full_vn": "ngày mai chiếc tàu ấy nhổ neo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đàn bà, con gái",
+          "list_en_vn": [
+            {
+              "full_en": "is the child a he or a she ?",
+              "full_vn": "đứa bé là con trai hay con gái?"
+            },
+            {
+              "full_en": "the not impossible she",
+              "full_vn": "người có thể yêu được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "động vật cái",
+          "list_en_vn": [
+            {
+              "full_en": "a litter of two shes and a he",
+              "full_vn": "một ổ hai con cái và một con đực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong từ ghép chỉ động vật) cái",
+          "list_en_vn": [
+            {
+              "full_en": "she-goat",
+              "full_vn": "dê cái"
+            },
+            {
+              "full_en": "she-ass",
+              "full_vn": "lừa cái"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

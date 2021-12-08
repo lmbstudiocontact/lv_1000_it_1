@@ -1,0 +1,45 @@
+{
+  "english": "the",
+  "phat_am": "[ði:, ði, ðə, ð]",
+  "list_type": [
+    {
+      "type": "mạo từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để làm cho danh từ đứng sau nó nói đến một người, vật, sự kiện hoặc nhóm riêng biệt, rõ ràng) cái, con, người...",
+          "list_en_vn": [
+            {
+              "full_en": "the house",
+              "full_vn": "cái nhà"
+            },
+            {
+              "full_en": "the cat",
+              "full_vn": "con mèo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ấy, này (người, cái, con...)",
+          "list_en_vn": [
+            {
+              "full_en": "I dislike the man",
+              "full_vn": "tôi không thích người này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "duy nhất (người, vật...)",
+          "list_en_vn": [
+            {
+              "full_en": "he is the shoemaker here",
+              "full_vn": "ông ta là người thợ giày duy nhất ở đây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ"
+    }
+  ]
+}

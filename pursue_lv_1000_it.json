@@ -1,0 +1,49 @@
+{
+  "english": "pursue",
+  "phat_am": "[pə'sju:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đuổi theo, đuổi bắt, truy nã, truy kích",
+          "list_en_vn": [
+            {
+              "full_en": "the police pursued the stolen vehicle along the motorway",
+              "full_vn": "cảnh sát đuổi bắt chiếc xe bị ăn trộm trên xa lộ"
+            },
+            {
+              "full_en": "to pursue a wild animal",
+              "full_vn": "săn đuổi một con thú"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tiếp tục) bận rộn với cái gì; tiếp tục; đeo đuổi",
+          "list_en_vn": [
+            {
+              "full_en": "to pursue a plan",
+              "full_vn": "đeo đuổi một kế hoạch"
+            },
+            {
+              "full_en": "to pursue one's road",
+              "full_vn": "đi theo con đường của mình"
+            },
+            {
+              "full_en": "to pursue the policy of peace",
+              "full_vn": "tiếp tục chính sách hoà bình"
+            },
+            {
+              "full_en": "she decided to pursue her studies after obtaining her first degree",
+              "full_vn": "cô ấy quyết định học tiếp sau khi giành được học vị thứ nhất"
+            },
+            {
+              "full_en": "I've decided not to pursue the matter any further",
+              "full_vn": "tôi quyết định không bàn thêm về vấn đề này nữa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

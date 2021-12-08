@@ -1,0 +1,323 @@
+{
+  "english": "least",
+  "phat_am": "[li:st]",
+  "list_type": [
+    {
+      "type": "tính từ, cấp so sánh cao nhất của little",
+      "list_m": [
+        {
+          "m_full_vn": "tối thiểu, nhỏ nhất, ít nhất, kém nhất",
+          "list_en_vn": [
+            {
+              "full_en": "he's the best teacher even though he has the least experience",
+              "full_vn": "anh ấy là giáo viên giỏi nhất dù anh ấy ít kinh nghiệm nhất"
+            },
+            {
+              "full_en": "the least worry we have is about the weather",
+              "full_vn": "thời tiết là điều chúng tôi ít lo lắng nhất"
+            },
+            {
+              "full_en": "if you had the least thought for others , you would not have spoken out in that way",
+              "full_vn": "nếu ông chỉ nghĩ đến người khác một chút thôi, ông đã không nói như vậy"
+            },
+            {
+              "full_en": "there is not the least wind today",
+              "full_vn": "hôm nay không có một tí gió nào"
+            },
+            {
+              "full_en": "least common multiple",
+              "full_vn": "(toán học) bội số chung bé nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ"
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ít nhất, chí ít",
+          "list_one_mean": [
+            {
+              "id_full_en": "at least",
+              "list_im": [
+                {
+                  "im_full_vn": "ít ra, ít nhất, chí ít",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to join the army , you have to be at least eighteen years old",
+                      "full_vn": "muốn gia nhập quân đội, ít nhất anh cũng phải được mười tám tuổi"
+                    },
+                    {
+                      "full_en": "she may be slow , but at least she's reliable",
+                      "full_vn": "có thể cô ta chậm chạp, nhưng ít ra cô ta cũng là người đáng tin cậy"
+                    },
+                    {
+                      "full_en": "at least three months , ten inches",
+                      "full_vn": "ít nhất là 3 tháng, 10 insơ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at least",
+              "list_im": [
+                {
+                  "im_full_vn": "ít ra, ít nhất, chí ít",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to join the army , you have to be at least eighteen years old",
+                      "full_vn": "muốn gia nhập quân đội, ít nhất anh cũng phải được mười tám tuổi"
+                    },
+                    {
+                      "full_en": "she may be slow , but at least she's reliable",
+                      "full_vn": "có thể cô ta chậm chạp, nhưng ít ra cô ta cũng là người đáng tin cậy"
+                    },
+                    {
+                      "full_en": "at least three months , ten inches",
+                      "full_vn": "ít nhất là 3 tháng, 10 insơ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at least",
+              "list_im": [
+                {
+                  "im_full_vn": "ít ra, ít nhất, chí ít",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to join the army , you have to be at least eighteen years old",
+                      "full_vn": "muốn gia nhập quân đội, ít nhất anh cũng phải được mười tám tuổi"
+                    },
+                    {
+                      "full_en": "she may be slow , but at least she's reliable",
+                      "full_vn": "có thể cô ta chậm chạp, nhưng ít ra cô ta cũng là người đáng tin cậy"
+                    },
+                    {
+                      "full_en": "at least three months , ten inches",
+                      "full_vn": "ít nhất là 3 tháng, 10 insơ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at least",
+              "list_im": [
+                {
+                  "im_full_vn": "ít ra, ít nhất, chí ít",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to join the army , you have to be at least eighteen years old",
+                      "full_vn": "muốn gia nhập quân đội, ít nhất anh cũng phải được mười tám tuổi"
+                    },
+                    {
+                      "full_en": "she may be slow , but at least she's reliable",
+                      "full_vn": "có thể cô ta chậm chạp, nhưng ít ra cô ta cũng là người đáng tin cậy"
+                    },
+                    {
+                      "full_en": "at least three months , ten inches",
+                      "full_vn": "ít nhất là 3 tháng, 10 insơ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "least of all",
+              "list_im": [
+                {
+                  "im_full_vn": "kém hơn hết, kém hơn cả, chẳng tí nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not in the least",
+              "list_im": [
+                {
+                  "im_full_vn": "không một chút nào, không một tí nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "nobody need worry , you least of all",
+                      "full_vn": "không ai phải lo lắng gì cả, riêng anh thì lại càng không"
+                    },
+                    {
+                      "full_en": "least of all would I lie to you",
+                      "full_vn": "tôi không hề nói dối anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not in the least",
+              "list_im": [
+                {
+                  "im_full_vn": "không một chút nào, không một tí nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "nobody need worry , you least of all",
+                      "full_vn": "không ai phải lo lắng gì cả, riêng anh thì lại càng không"
+                    },
+                    {
+                      "full_en": "least of all would I lie to you",
+                      "full_vn": "tôi không hề nói dối anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not in the least",
+              "list_im": [
+                {
+                  "im_full_vn": "không một chút nào, không một tí nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "nobody need worry , you least of all",
+                      "full_vn": "không ai phải lo lắng gì cả, riêng anh thì lại càng không"
+                    },
+                    {
+                      "full_en": "least of all would I lie to you",
+                      "full_vn": "tôi không hề nói dối anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not in the least",
+              "list_im": [
+                {
+                  "im_full_vn": "tuyệt đối không, hoàn toàn không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it doesn't matter in the least",
+                      "full_vn": "điều đó hoàn toàn không hề gì"
+                    },
+                    {
+                      "full_en": "Would you mind if I put the television on ? - No , not in the least",
+                      "full_vn": "Tôi mở TV có làm phiền anh không? - Không, hoàn toàn không"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not in the least",
+              "list_im": [
+                {
+                  "im_full_vn": "tuyệt đối không, hoàn toàn không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it doesn't matter in the least",
+                      "full_vn": "điều đó hoàn toàn không hề gì"
+                    },
+                    {
+                      "full_en": "Would you mind if I put the television on ? - No , not in the least",
+                      "full_vn": "Tôi mở TV có làm phiền anh không? - Không, hoàn toàn không"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not in the least",
+              "list_im": [
+                {
+                  "im_full_vn": "tuyệt đối không, hoàn toàn không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it doesn't matter in the least",
+                      "full_vn": "điều đó hoàn toàn không hề gì"
+                    },
+                    {
+                      "full_en": "Would you mind if I put the television on ? - No , not in the least",
+                      "full_vn": "Tôi mở TV có làm phiền anh không? - Không, hoàn toàn không"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "last but not least",
+              "list_im": [
+                {
+                  "im_full_vn": "xem last"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not least",
+              "list_im": [
+                {
+                  "im_full_vn": "nhất là, đặc biệt là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the film caused a lot of bad feeling , not least among the workers whose lives it described",
+                      "full_vn": "bộ phim đã gây ra nhiều cảm nghĩ xấu, nhất là tróngđam công nhân có cuộc sống được bộ phim miêu tả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not least",
+              "list_im": [
+                {
+                  "im_full_vn": "nhất là, đặc biệt là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the film caused a lot of bad feeling , not least among the workers whose lives it described",
+                      "full_vn": "bộ phim đã gây ra nhiều cảm nghĩ xấu, nhất là tróngđam công nhân có cuộc sống được bộ phim miêu tả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the least said the better",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) nói ít đỡ hớ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say the least of it",
+              "list_im": [
+                {
+                  "im_full_vn": "nói giảm nhẹ, nói giảm đên mức tối thiểu đi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "just when we least expected it",
+              "full_vn": "đúng vào lúc chúng tôi ít mong đợi điều đó nhất"
+            },
+            {
+              "full_en": "he disliked many of his teachers and Miss Mary he liked (the ) least",
+              "full_vn": "nó không ưa nhiều giáo viên, nhưng cô Mary là người nó không ưa nhất"
+            },
+            {
+              "full_en": "she chose the least expensive of the hotels",
+              "full_vn": "cô ta chọn khách sạn ít đắt tiền nhất (rẻ tiền nhất)"
+            },
+            {
+              "full_en": "one of the least performed of Shakespeare 's plays",
+              "full_vn": "một trong những vở kịch ít được trình diễn nhất của Shakespeare"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

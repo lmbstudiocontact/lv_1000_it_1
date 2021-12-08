@@ -1,0 +1,61 @@
+{
+  "english": "six",
+  "phat_am": "[siks]",
+  "list_type": [
+    {
+      "type": "đại từ & từ xác định",
+      "list_m": [
+        {
+          "m_full_vn": "sáu ( 6)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at sixes and sevens",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hỗn độn lung tung; lộn xộn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "six o'clock",
+              "full_vn": "sáu giờ"
+            },
+            {
+              "full_en": "to be six",
+              "full_vn": "lên sáu (tuổi)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số sáu",
+          "list_en_vn": [
+            {
+              "full_en": "twice six is twelve",
+              "full_vn": "hai lần sáu là mười hai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) con sáu; mặt sáu (súc sắc)",
+          "list_one_mean": [
+            {
+              "id_full_en": "it is six of one and half a dozen of the other",
+              "list_im": [
+                {
+                  "im_full_vn": "bên tám lạng, bên nửa cân"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "english": "optional",
+  "phat_am": "['ɔp∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuỳ ý; nhiệm ý; không bắt buộc",
+          "list_en_vn": [
+            {
+              "full_en": "formal dress is optional",
+              "full_vn": "lễ phục không bắt buộc"
+            },
+            {
+              "full_en": "optional subjects at school",
+              "full_vn": "những môn học tự chọn (nhiệm ý) ở trường"
+            },
+            {
+              "full_en": "the cassette player is an optional extra in this make of car",
+              "full_vn": "cái catxet là tùy ý thêm vào trong kiểu ô tô này"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

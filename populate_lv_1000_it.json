@@ -1,0 +1,23 @@
+{
+  "english": "populate",
+  "phat_am": "['pɔpuleit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở, cư trú (một vùng)",
+          "list_en_vn": [
+            {
+              "full_en": "a densely populated town",
+              "full_vn": "một thành phố đông dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa dân đến ở, đến định cư (một khu vực)"
+        }
+      ]
+    }
+  ]
+}

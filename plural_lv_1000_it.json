@@ -1,0 +1,64 @@
+{
+  "english": "plural",
+  "phat_am": "['pluərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) ở số nhiều, (thuộc) số nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "a plural noun",
+              "full_vn": "danh từ số nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiều, có hơn một",
+          "list_one_mean": [
+            {
+              "id_full_en": "plural vote",
+              "list_im": [
+                {
+                  "im_full_vn": "sự bỏ phiếu của một cử tri ở nhiều khu vực bầu cử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "plural voter",
+              "list_im": [
+                {
+                  "im_full_vn": "cử tri bỏ phiếu ở nhiều khu vực bầu cử"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a plural society",
+              "full_vn": "một xã hội đa tộc (có hai nhóm tộc trở lên)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) số nhiều; dạng số nhiều (của một danh từ...)",
+          "list_en_vn": [
+            {
+              "full_en": "in the plural",
+              "full_vn": "ở số nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "từ ở số nhiều"
+        }
+      ]
+    }
+  ]
+}

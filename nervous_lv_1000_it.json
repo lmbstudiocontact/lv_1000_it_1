@@ -1,0 +1,59 @@
+{
+  "english": "nervous",
+  "phat_am": "['nə:vəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thần kinh",
+          "list_en_vn": [
+            {
+              "full_en": "the nervous system",
+              "full_vn": "hệ thần kinh"
+            },
+            {
+              "full_en": "nervous breakdown (debility , depression , exhaustion , prostration )",
+              "full_vn": "sự suy nhược thần kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ bị kích thích; nóng nảy, bực dọc; hay hoảng sợ; hay lo lắng, hay bồn chồn",
+          "list_en_vn": [
+            {
+              "full_en": "most of the children are nervous in the dark",
+              "full_vn": "hầu hết trẻ con thường hoảng sợ trong bóng tối"
+            },
+            {
+              "full_en": "to feel nervous about something",
+              "full_vn": "cảm thấy bồn chồn lo lắng về việc gì"
+            },
+            {
+              "full_en": "nervous temperament",
+              "full_vn": "tính nóng nảy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có dũng khí, có khí lực, mạnh mẽ",
+          "list_en_vn": [
+            {
+              "full_en": "a man full of nervous energy",
+              "full_vn": "một người đầy nghị lực cương cường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(văn học) hùng mạnh; cô đọng, khúc chiết",
+          "list_en_vn": [
+            {
+              "full_en": "nervous style",
+              "full_vn": "văn hùng mạnh; văn cô đọng khúc chiết"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

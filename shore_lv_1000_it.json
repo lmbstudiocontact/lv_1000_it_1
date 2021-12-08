@@ -1,0 +1,34 @@
+{
+  "english": "shore",
+  "phat_am": "[∫ɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bờ biển, bờ hồ lớn",
+          "list_en_vn": [
+            {
+              "full_en": "this island is two miles off shore",
+              "full_vn": "hòn đảo này cách bờ hai dặm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cột chống tường; trụ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chống bằng cột, đỡ bằng cột"
+        }
+      ]
+    },
+    {
+      "type": "(từ cổ,nghĩa cổ), thời quá khứ của shear"
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "english": "only",
+  "phat_am": "['ounli]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ có một, duy nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the only way is to struggle",
+              "full_vn": "con đường duy nhất là đấu tranh"
+            },
+            {
+              "full_en": "my one and only hope",
+              "full_vn": "hy vọng duy nhất của tôi"
+            },
+            {
+              "full_en": "she was the only person able to do it",
+              "full_vn": "cô ta là người duy nhất làm được việc đó"
+            },
+            {
+              "full_en": "we were the only people there",
+              "full_vn": "chúng tôi là những người duy nhất ở đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốt nhất, đáng xem xét nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "an only child",
+              "list_im": [
+                {
+                  "im_full_vn": "đứa trẻ không có anh chị em; con một",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "only children are sometimes spoilt",
+                      "full_vn": "con một đôi khi hư"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "an only child",
+              "list_im": [
+                {
+                  "im_full_vn": "đứa trẻ không có anh chị em; con một",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "only children are sometimes spoilt",
+                      "full_vn": "con một đôi khi hư"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "one and only",
+              "list_im": [
+                {
+                  "im_full_vn": "xem one"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "plastic raincoats are the only wear in tropical rains",
+              "full_vn": "áo mưa vải nhựa là thứ che mưa tốt nhất ở các nước nhiệt đới"
+            },
+            {
+              "full_en": "she's the only woman for the job",
+              "full_vn": "cô ta là người tốt nhất để làm viêc này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(bổ nghĩa cho một từ hoặc cụm từ và nằm cạnh nó trong cách nói hoặc viết nghiêm túc, trong cách nói thân mật, sự nhấn mạnh có thể cho thấy từ nào được bổ nghĩa, nên only có thể có những vị trí khác nhau) không có ai hoặc không có cái gì khác; chỉ",
+          "list_one_mean": [
+            {
+              "id_full_en": "if only",
+              "list_im": [
+                {
+                  "im_full_vn": "xem if"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not only ... but also",
+              "list_im": [
+                {
+                  "im_full_vn": "không những... mà lại còn...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he not only read the book , but also remembered what he read",
+                      "full_vn": "anh ta không những đọc cuốn sách mà còn nhớ được nhừnggi mình đã đọc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not only ... but also",
+              "list_im": [
+                {
+                  "im_full_vn": "không những... mà lại còn...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he not only read the book , but also remembered what he read",
+                      "full_vn": "anh ta không những đọc cuốn sách mà còn nhớ được nhừnggi mình đã đọc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "only have eyes for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "xem eye"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for X's eyes only",
+              "list_im": [
+                {
+                  "im_full_vn": "xem eye"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for sb's eyes only",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về tài liệu tuyệt mật) chỉ dành cho một người đọc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "only just",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây khônglâu, vừa mới, vừa đủ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we've only just arrived",
+                      "full_vn": "chúng tôi vừa mới đến"
+                    },
+                    {
+                      "full_en": "I've only just moved to London",
+                      "full_vn": "tôi vừa mới dọn về London"
+                    },
+                    {
+                      "full_en": "he only just caught the train",
+                      "full_vn": "nó chỉ vừa kịp lên tàu"
+                    },
+                    {
+                      "full_en": "I've enough milk for the coffee - but only just",
+                      "full_vn": "tôi có đủ sữa để pha cà phê - nhưng chỉ vừa đủ thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "only just",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây khônglâu, vừa mới, vừa đủ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we've only just arrived",
+                      "full_vn": "chúng tôi vừa mới đến"
+                    },
+                    {
+                      "full_en": "I've only just moved to London",
+                      "full_vn": "tôi vừa mới dọn về London"
+                    },
+                    {
+                      "full_en": "he only just caught the train",
+                      "full_vn": "nó chỉ vừa kịp lên tàu"
+                    },
+                    {
+                      "full_en": "I've enough milk for the coffee - but only just",
+                      "full_vn": "tôi có đủ sữa để pha cà phê - nhưng chỉ vừa đủ thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "only just",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây khônglâu, vừa mới, vừa đủ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we've only just arrived",
+                      "full_vn": "chúng tôi vừa mới đến"
+                    },
+                    {
+                      "full_en": "I've only just moved to London",
+                      "full_vn": "tôi vừa mới dọn về London"
+                    },
+                    {
+                      "full_en": "he only just caught the train",
+                      "full_vn": "nó chỉ vừa kịp lên tàu"
+                    },
+                    {
+                      "full_en": "I've enough milk for the coffee - but only just",
+                      "full_vn": "tôi có đủ sữa để pha cà phê - nhưng chỉ vừa đủ thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "only just",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây khônglâu, vừa mới, vừa đủ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we've only just arrived",
+                      "full_vn": "chúng tôi vừa mới đến"
+                    },
+                    {
+                      "full_en": "I've only just moved to London",
+                      "full_vn": "tôi vừa mới dọn về London"
+                    },
+                    {
+                      "full_en": "he only just caught the train",
+                      "full_vn": "nó chỉ vừa kịp lên tàu"
+                    },
+                    {
+                      "full_en": "I've enough milk for the coffee - but only just",
+                      "full_vn": "tôi có đủ sữa để pha cà phê - nhưng chỉ vừa đủ thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "only just",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây khônglâu, vừa mới, vừa đủ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we've only just arrived",
+                      "full_vn": "chúng tôi vừa mới đến"
+                    },
+                    {
+                      "full_en": "I've only just moved to London",
+                      "full_vn": "tôi vừa mới dọn về London"
+                    },
+                    {
+                      "full_en": "he only just caught the train",
+                      "full_vn": "nó chỉ vừa kịp lên tàu"
+                    },
+                    {
+                      "full_en": "I've enough milk for the coffee - but only just",
+                      "full_vn": "tôi có đủ sữa để pha cà phê - nhưng chỉ vừa đủ thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "only to do sth",
+              "list_im": [
+                {
+                  "im_full_vn": "(để chỉ cái gì gây ngạc nhiên, thất vọng, thoải mái..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I arrived at the shop only to find I'd left all my money at home",
+                      "full_vn": "tôi tới cửa hàng mới biết là mình đã để quên tiền ở nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "only to do sth",
+              "list_im": [
+                {
+                  "im_full_vn": "(để chỉ cái gì gây ngạc nhiên, thất vọng, thoải mái..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I arrived at the shop only to find I'd left all my money at home",
+                      "full_vn": "tôi tới cửa hàng mới biết là mình đã để quên tiền ở nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "only too",
+              "list_im": [
+                {
+                  "im_full_vn": "(vói một tính từ hoặc động tính từ quá khứ) quá chừng, không giới hạn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll be only too pleased to get home",
+                      "full_vn": "tôi sẽ mừng biết chừng nào khi về đến nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "only too",
+              "list_im": [
+                {
+                  "im_full_vn": "(vói một tính từ hoặc động tính từ quá khứ) quá chừng, không giới hạn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll be only too pleased to get home",
+                      "full_vn": "tôi sẽ mừng biết chừng nào khi về đến nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "you're only young once",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) đời người chỉ có một lần thanh xuân"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I only saw Mary",
+              "full_vn": "tôi chỉ trông thấy Mary mà thôi"
+            },
+            {
+              "full_en": "only members may use the bar",
+              "full_vn": "chỉ có hội viên mới được dùng quầy rượu"
+            },
+            {
+              "full_en": "only five people were hurt in the accident , the rest were uninjured",
+              "full_vn": "chỉ có năm người bị thương trong vụ tai nạn đó, những người khác vô sự"
+            },
+            {
+              "full_en": "he only lives just round the corner",
+              "full_vn": "anh ta ở ngay góc phố kia thôi"
+            },
+            {
+              "full_en": "we only waited a few minutes but it seemed like hours",
+              "full_vn": "chúng tôi đợi có mấy phút mà cứ tưởng như mấy tiếng đồng hồ"
+            },
+            {
+              "full_en": "women only",
+              "full_vn": "dành riêng cho phụ nữ"
+            },
+            {
+              "full_en": "we can only guess what happened",
+              "full_vn": "chúng tôi chỉ có thể phỏng đoán cái gì đã xảy ra mà thôi"
+            },
+            {
+              "full_en": "he came only yesterday",
+              "full_vn": "ông ta chỉ mới đến hôm qua"
+            },
+            {
+              "full_en": "room for only one passenger",
+              "full_vn": "chỗ dành riêng cho một hành khách mà thôi"
+            },
+            {
+              "full_en": "facts known only to us",
+              "full_vn": "những sự việc mà không ai khác ngoài chúng tôi biết được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhưng; trừ ra; chỉ phải cái là...",
+          "list_en_vn": [
+            {
+              "full_en": "he does well , only he is nervous at the start",
+              "full_vn": "anh ta làm được, chỉ phải cái là lúc đầu hay cuống"
+            },
+            {
+              "full_en": "this film is very interesting , only it's rather pornographic",
+              "full_vn": "phim này hay lắm, chỉ phải cái là hơi khiêu dâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nếu... không",
+          "list_en_vn": [
+            {
+              "full_en": "he would probably pass his examination only he gets too self-confident",
+              "full_vn": "có thể nó đã thi đỗ nếu như nó không quá tự tin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

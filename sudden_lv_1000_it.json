@@ -1,0 +1,34 @@
+{
+  "english": "sudden",
+  "phat_am": "['sʌdn]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thình lình, đột ngột",
+          "list_one_mean": [
+            {
+              "id_full_en": "all of a sudden",
+              "list_im": [
+                {
+                  "im_full_vn": "bất thình lình; một cách bất ngờ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a sudden change",
+              "full_vn": "sự thay đổi đột ngột"
+            },
+            {
+              "full_en": "sudden bend in the road",
+              "full_vn": "chỗ đường rẽ đột ngột"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

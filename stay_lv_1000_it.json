@@ -1,0 +1,238 @@
+{
+  "english": "stay",
+  "phat_am": "[stei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) dây néo (cột buồm...)"
+        },
+        {
+          "m_full_vn": "cái chống, cái hổ trợ"
+        },
+        {
+          "m_full_vn": "( số nhiều) coóc-xê",
+          "list_one_mean": [
+            {
+              "id_full_en": "in stays",
+              "list_im": [
+                {
+                  "im_full_vn": "đang trở buồm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss stays",
+              "list_im": [
+                {
+                  "im_full_vn": "không lợi dụng được chiều gió"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) néo (cột buồm) bằng dây"
+        },
+        {
+          "m_full_vn": "lái theo hướng gió"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trở lại, sự lưu lại",
+          "list_en_vn": [
+            {
+              "full_en": "to make a long stay in Hanoi",
+              "full_vn": "lưu lại lâu ở Hà nội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đình lại, sự hoãn lại",
+          "list_en_vn": [
+            {
+              "full_en": "stay of execution",
+              "full_vn": "sự hoãn thi hành (một bản án)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngăn cản, sự trở ngại",
+          "list_en_vn": [
+            {
+              "full_en": "a stay upon his activity",
+              "full_vn": "một trở ngại cho hoạt động của anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chịu đựng; khả năng chịu đựng; sự bền bỉ, sự dẻo dai"
+        },
+        {
+          "m_full_vn": "chỗ nương tựa, cái chống đỡ",
+          "list_en_vn": [
+            {
+              "full_en": "to be the stay of someone's old age",
+              "full_vn": "là chỗ nương tựa của ai lúc tuổi già"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (như) corset"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chặn, ngăn chặn",
+          "list_en_vn": [
+            {
+              "full_en": "to stay the hands of imperialism",
+              "full_vn": "chặn bàn tay của chủ nghĩa đế quốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đình lại, hoãn lại"
+        },
+        {
+          "m_full_vn": "chống đỡ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở lại, lưu lại",
+          "list_en_vn": [
+            {
+              "full_en": "to stay at home",
+              "full_vn": "ở nhà"
+            },
+            {
+              "full_en": "to stay to dinner",
+              "full_vn": "ở lại ăn cơm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) lời mệnh lệnh) ngừng lại, dừng lại",
+          "list_en_vn": [
+            {
+              "full_en": "get him to stay a minute",
+              "full_vn": "bảo anh ta dừng lại một tí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu đựng, dẻo dai (trong cuộc đua...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stay away from somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ một khoảng cách với ai/cái gì; không can thiệp vào ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "tell him to stay away from my sister !",
+                      "full_vn": "bảo nó đừng đến gần em gái tôi!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stay away from somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ một khoảng cách với ai/cái gì; không can thiệp vào ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "tell him to stay away from my sister !",
+                      "full_vn": "bảo nó đừng đến gần em gái tôi!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stay in",
+              "list_im": [
+                {
+                  "im_full_vn": "không ra ngoài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stay on",
+              "list_im": [
+                {
+                  "im_full_vn": "lưu lại thêm một thời gian nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stay out",
+              "list_im": [
+                {
+                  "im_full_vn": "ở ngoài, không về nhà"
+                },
+                {
+                  "im_full_vn": "ở lại cho đến hết (cuộc biểu diễn...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stay out",
+              "list_im": [
+                {
+                  "im_full_vn": "ở ngoài, không về nhà"
+                },
+                {
+                  "im_full_vn": "ở lại cho đến hết (cuộc biểu diễn...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stay up late",
+              "list_im": [
+                {
+                  "im_full_vn": "thức khuya"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stay one's stomach",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) stomach"
+                }
+              ]
+            },
+            {
+              "id_full_en": "this has come to stay",
+              "list_im": [
+                {
+                  "im_full_vn": "cái này có thể coi là vĩnh viễn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

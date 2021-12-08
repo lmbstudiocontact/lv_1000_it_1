@@ -1,0 +1,28 @@
+{
+  "english": "snooker",
+  "phat_am": "['snu:kə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trò chơi bi-da"
+        },
+        {
+          "m_full_vn": "vị trí không đánh trực tiếp được"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa (đối phương) vào một tình thế khó khăn khi chơi bi-da"
+        },
+        {
+          "m_full_vn": "(thông tục) đặt (ai) vào một tình thế khó khăn; đánh lừa; đánh bại (ai)"
+        }
+      ]
+    }
+  ]
+}

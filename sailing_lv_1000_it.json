@@ -1,0 +1,39 @@
+{
+  "english": "sailing",
+  "phat_am": "['seiliη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đi thuyền",
+          "list_en_vn": [
+            {
+              "full_en": "a sailing club",
+              "full_vn": "câu lạc bộ đua thuyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyến đi xa thường xuyên, sự khởi hành đi xa của một con tàu",
+          "list_one_mean": [
+            {
+              "id_full_en": "sailing boat ; sailing ship",
+              "list_im": [
+                {
+                  "im_full_vn": "thuyền chạy bằng buồm, tàu chạy bằng buồm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "three sailings a day from here to Calais",
+              "full_vn": "mỗi ngày ba chuyến từ đây đi Calais"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

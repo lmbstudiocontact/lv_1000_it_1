@@ -1,0 +1,39 @@
+{
+  "english": "override",
+  "phat_am": "[,ouvə'raid]",
+  "list_type": [
+    {
+      "type": "ngoại động từ overrode , overridden",
+      "list_m": [
+        {
+          "m_full_vn": "cưỡi (ngựa) đến kiệt sức"
+        },
+        {
+          "m_full_vn": "cho quân đội tràn qua (vùng địch đóng quân)"
+        },
+        {
+          "m_full_vn": "giày xéo (ngựa..)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) gạt ra một bên, không thèm đếm xỉa đến"
+        },
+        {
+          "m_full_vn": "là quan trọng hơn (cái gì); cho là mình có quyền cao hơn",
+          "list_en_vn": [
+            {
+              "full_en": "to override someone's pleas",
+              "full_vn": "không chịu nghe những lời biện hộ của ai"
+            },
+            {
+              "full_en": "to override one's commission",
+              "full_vn": "lạm quyền của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) gối lên (xương gãy)"
+        }
+      ]
+    }
+  ]
+}

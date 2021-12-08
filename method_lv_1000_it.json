@@ -1,0 +1,33 @@
+{
+  "english": "method",
+  "phat_am": "['meθəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phương pháp, cách thức"
+        },
+        {
+          "m_full_vn": "thứ tự; sự ngăn nắp",
+          "list_one_mean": [
+            {
+              "id_full_en": "there is method in his madness",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) cứ bán cái điên của nó đi mà ăn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a man of method",
+              "full_vn": "một người làm việc có phương pháp; một người làm việc có ngăn nắp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "operate",
+  "phat_am": "['ɔpəreit]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoạt động; có hoặc đem lại kết quả; đang làm việc",
+          "list_en_vn": [
+            {
+              "full_en": "this machine operates night and day",
+              "full_vn": "máy này chạy suốt ngày đêm"
+            },
+            {
+              "full_en": "the lift was not operating properly",
+              "full_vn": "thang máy chạy không tốt"
+            },
+            {
+              "full_en": "the system operates in five countries",
+              "full_vn": "hệ thống này có tác dụng ở năm nước"
+            },
+            {
+              "full_en": "the new law operates to our advantage",
+              "full_vn": "đạo luật mới có lợi cho chúng ta"
+            },
+            {
+              "full_en": "several causes operated to bring about the war",
+              "full_vn": "nhiều nguyên nhân gộp lại gây ra chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có tác dụng; có hiệu lực",
+          "list_en_vn": [
+            {
+              "full_en": "regulations will operate from Jan 1st",
+              "full_vn": "nội quy sẽ bắt đầu áp dụng từ ngày 1 tháng giêng"
+            },
+            {
+              "full_en": "the medicine did not operate",
+              "full_vn": "thuốc đó không có tác dụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (máy móc...) hoạt động; vận hành; điều khiển",
+          "list_en_vn": [
+            {
+              "full_en": "to operate machinery",
+              "full_vn": "điều khiển máy móc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to operate from something ) làm kinh doanh; quản lý; điều khiển",
+          "list_en_vn": [
+            {
+              "full_en": "the company operates from offices in London",
+              "full_vn": "công ty điều hành từ các văn phòng ở Luân Đôn"
+            },
+            {
+              "full_en": "they operate three factories and a huge warehouse",
+              "full_vn": "họ quản lý ba nhà máy và một nhà kho rất lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to operate on somebody for something ) (y học) mổ",
+          "list_en_vn": [
+            {
+              "full_en": "to operate on a patient",
+              "full_vn": "mổ một người bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) hành quân; tuần tra",
+          "list_en_vn": [
+            {
+              "full_en": "bombers operating from bases in the South",
+              "full_vn": "các oanh tạc cơ xuất kích từ các căn cứ ở miền Nam"
+            },
+            {
+              "full_en": "police speed traps are operating on this freeway",
+              "full_vn": "những cảnh sát kiểm tra tốc độ đang tuần tra trên xa lộ này"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

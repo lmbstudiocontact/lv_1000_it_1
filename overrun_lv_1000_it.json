@@ -1,0 +1,37 @@
+{
+  "english": "overrun",
+  "phat_am": "[,ouvə'rʌn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lan tràn, sự tràn ra"
+        },
+        {
+          "m_full_vn": "sự vượt quá, sự chạy vượt (giờ..)"
+        },
+        {
+          "m_full_vn": "số lượng (in...) thừa"
+        }
+      ]
+    },
+    {
+      "type": "động từ overran ; overrun",
+      "list_m": [
+        {
+          "m_full_vn": "tràn qua, lan qua"
+        },
+        {
+          "m_full_vn": "tàn phá, giày xéo"
+        },
+        {
+          "m_full_vn": "chạy vượt quá, (hàng hải) vượt quá (nơi đỗ, kế hoạch hành trình)"
+        },
+        {
+          "m_full_vn": "(ngành in) in quá nhiều bản của (báo, sách...), in thêm bản của (báo, sách... vì nhu cầu đột xuất)"
+        }
+      ]
+    }
+  ]
+}

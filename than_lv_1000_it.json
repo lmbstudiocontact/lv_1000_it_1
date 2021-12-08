@@ -1,0 +1,79 @@
+{
+  "english": "than",
+  "phat_am": "[ðæn, ðən]",
+  "list_type": [
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "hơn (để diễn đạt sự so sánh)",
+          "list_en_vn": [
+            {
+              "full_en": "he's never more annoying than when he's trying to help",
+              "full_vn": "không bao giờ nó khiến ta bực mình hơn là lúc nó tìm cách giúp đỡ"
+            },
+            {
+              "full_en": "she's a better player than (she was ) last year",
+              "full_vn": "cô ta chơi giỏi hơn năm ngoái"
+            },
+            {
+              "full_en": "he loves me more than you do",
+              "full_vn": "anh ta yêu tôi nhiều hơn anh (yêu tôi)"
+            },
+            {
+              "full_en": "she should know better than to poke the animal with her umbrella",
+              "full_vn": "lẽ ra bà ta phải biết rõ hơn là không nên lấy cái ô chọc con vật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng trước một danh từ hoặc động từ để diễn đạt một sự so sánh)",
+          "list_en_vn": [
+            {
+              "full_en": "you gave me less than him",
+              "full_vn": "anh đã cho tôi ít hơn nó"
+            },
+            {
+              "full_en": "I'm older than her",
+              "full_vn": "tôi nhiều tuổi hơn bà ta"
+            },
+            {
+              "full_en": "nobody understands the situation better than you",
+              "full_vn": "không ai hiểu tình hình hơn anh"
+            },
+            {
+              "full_en": "there was more whisky in it than soda",
+              "full_vn": "trong ly có nhiều uytxki hơn sôđa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau more hoặc less và trước một từ ngữ về thời gian, khoảng cách.. để chỉ cái gì mất bao lâu, ở bao xa..)",
+          "list_en_vn": [
+            {
+              "full_en": "It cost me more than 100 pound",
+              "full_vn": "tôi phải trả cái này hơn 100 pao"
+            },
+            {
+              "full_en": "it never takes more than an hour",
+              "full_vn": "không khi nào phải mất hơn một giờ"
+            },
+            {
+              "full_en": "It's less than a mile to the beach",
+              "full_vn": "ra tới bãi biển không tới một dặm"
+            },
+            {
+              "full_en": "he can't be more than fifteen",
+              "full_vn": "nó không thể quá mười lăm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

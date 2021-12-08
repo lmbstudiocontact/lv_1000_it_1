@@ -1,0 +1,26 @@
+{
+  "english": "pyramid",
+  "phat_am": "['pirəmid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) hình chóp"
+        },
+        {
+          "m_full_vn": "kim tự tháp (của người Ai-cập cổ đại)"
+        },
+        {
+          "m_full_vn": "vật có hình chóp, đống có hình chóp"
+        },
+        {
+          "m_full_vn": "bài thơ hình chóp (câu ngày càng dài ra hoặc càng ngắn đi)"
+        },
+        {
+          "m_full_vn": "cây hình chóp"
+        }
+      ]
+    }
+  ]
+}

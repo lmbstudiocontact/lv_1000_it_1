@@ -1,0 +1,91 @@
+{
+  "english": "shit",
+  "phat_am": "[∫it]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất thải của ruột; cứt, phân",
+          "list_en_vn": [
+            {
+              "full_en": "a pile of dog shit on the pavement",
+              "full_vn": "một bãi cứt chó trên vỉa hè"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thải ra chất thải của ruột; sự ỉa, sự đi ỉa"
+        },
+        {
+          "m_full_vn": "sự nhận xét bậy bạ, sự nhận xét vô nghĩa; bản viết bậy bạ, bản viết vô nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "you do talk a load of shit !",
+              "full_vn": "anh nói toàn chuyện bậy bạ!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kẻ đê tiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the shit",
+              "list_im": [
+                {
+                  "im_full_vn": "bị phiền toái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not give a shit",
+              "list_im": [
+                {
+                  "im_full_vn": "không hề quan tâm, không hề để ý"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that little shit stole my money",
+              "full_vn": "thằng đê tiện đó đã lấy cắp tiền của tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ (thì quá khứ và động tính từ quá khứ là shitted hoặc shat )",
+      "list_m": [
+        {
+          "m_full_vn": "ỉa; đi ỉa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shit oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "ỉa vãi ra; quá khiếp sợ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để biểu lộ sự tức giận)",
+          "list_en_vn": [
+            {
+              "full_en": "shit ! I've missed the train !",
+              "full_vn": "như cứt! tôi đã nhỡ chuyến tàu đó!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "english": "simple",
+  "phat_am": "['simpl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đơn",
+          "list_en_vn": [
+            {
+              "full_en": "a simple leaf",
+              "full_vn": "lá đơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn giản, dễ làm, dễ hiểu, không gây khó khăn",
+          "list_en_vn": [
+            {
+              "full_en": "simple surface",
+              "full_vn": "mặt đơn giản"
+            },
+            {
+              "full_en": "the problem is very simple",
+              "full_vn": "vấn đề đó rất dễ hiểu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giản dị, mộc mạc, xuềnh xoàng, đơn sơ, không trang trí nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "the simple life",
+              "full_vn": "đời sống giản dị; sự muốn trở lại cuộc sống cổ sơ"
+            },
+            {
+              "full_en": "in simple beauty",
+              "full_vn": "trong vẻ đẹp mộc mạc"
+            },
+            {
+              "full_en": "a simple man",
+              "full_vn": "một người giản dị"
+            },
+            {
+              "full_en": "a simple meal",
+              "full_vn": "một bữa cơm xuềnh xoàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn giản, không có nhiều phần, không có nhiều yếu tố",
+          "list_en_vn": [
+            {
+              "full_en": "a simple mixture",
+              "full_vn": "một sự pha trộn đơn giản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn sơ, không phát triển cao, cơ bản về cấu trúc, cơ bản về chức năng",
+          "list_en_vn": [
+            {
+              "full_en": "simple forms of life",
+              "full_vn": "những hình thái đơn sơ của sự sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hồn nhiên, bình dị, không phức tạp, không rắc rối, tự nhiên và thẳng thắn",
+          "list_en_vn": [
+            {
+              "full_en": "as simple as a child",
+              "full_vn": "hồn nhiên như một đứa trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có địa vị cao trong xã hội; bình thuờng",
+          "list_en_vn": [
+            {
+              "full_en": "my father was a simple farm-worker",
+              "full_vn": "cha tôi chỉ là một người làm ruộng bình thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuyệt đối là, chỉ là, không khác gì hơn, không gì nhiều hơn",
+          "list_en_vn": [
+            {
+              "full_en": "to say so is simple madness",
+              "full_vn": "nói như thế thì không khác gì là điên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngu ngốc, khờ dại, dễ bị lừa, không có kinh nghiệm, ngây thơ"
+        },
+        {
+          "m_full_vn": "(thông tục) ngớ ngẩn, không có trí thông minh bình thường"
+        },
+        {
+          "m_full_vn": "đơn sơ, nghèo hèn; nhỏ mọn, không đáng kể"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người ngu dại; người dốt nát"
+        },
+        {
+          "m_full_vn": "(từ cổ, nghĩa cổ) cây thuốc; lá thuốc (chữa bệnh)"
+        }
+      ]
+    }
+  ]
+}

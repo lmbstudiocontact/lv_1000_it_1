@@ -1,0 +1,54 @@
+{
+  "english": "promote",
+  "phat_am": "[prə'mout]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to promote somebody to something ) nâng ai lên địa vị hoặc cấp bậc cao hơn; thăng chức; thăng cấp",
+          "list_en_vn": [
+            {
+              "full_en": "she worked hard and was soon promoted",
+              "full_vn": "cô ta làm việc tích cực và chẳng bao lâu đã được thăng chức"
+            },
+            {
+              "full_en": "his assistant was promoted over his head",
+              "full_vn": "trợ lý của ông ta đã được thăng chức cao hơn ông ta"
+            },
+            {
+              "full_en": "the football team was promoted to the first division",
+              "full_vn": "đội bóng đá được nâng lên hạng nhất"
+            },
+            {
+              "full_en": "he was promoted to sergeant",
+              "full_vn": "anh ta được thăng cấp trung sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xúc tiến, đẩy mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "the organization works to promote friendship between nations",
+              "full_vn": "tổ chức này hoạt động để thúc đẩy tình hữu nghị giữa các dân tộc"
+            },
+            {
+              "full_en": "to promote a bill in Parliament",
+              "full_vn": "vận động cho một dự luật được Nghị viện thông qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quảng cáo (cái gì) để bán",
+          "list_en_vn": [
+            {
+              "full_en": "a publicity campaign to promote her new book",
+              "full_vn": "một chiến dịch quảng cáo để đẩy mạnh việc bán quyển sách của bà ta"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "english": "paragraph",
+  "phat_am": "['pærəgrɑ:f]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đoạn văn"
+        },
+        {
+          "m_full_vn": "dấu mở đầu một đoạn văn; dấu xuống dòng (như) paragraph mark"
+        },
+        {
+          "m_full_vn": "mẫu tin (trên báo, không có tiêu đề, tường thuật ngắn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp xếp (một bài...) thành đoạn; chia thành đoạn"
+        },
+        {
+          "m_full_vn": "viết mẫu tin (về người, vật...)"
+        }
+      ]
+    }
+  ]
+}

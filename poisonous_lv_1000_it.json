@@ -1,0 +1,31 @@
+{
+  "english": "poisonous",
+  "phat_am": "['pɔizənəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "độc, có chất độc, có nọc độc; gây chết, gây bệnh (do chất độc)",
+          "list_en_vn": [
+            {
+              "full_en": "poisonous snakes",
+              "full_vn": "rắn có nọc độc"
+            },
+            {
+              "full_en": "poisonous plants",
+              "full_vn": "cây có chất độc (gây bệnh)"
+            },
+            {
+              "full_en": "poisonous chemicals",
+              "full_vn": "cây có chất độc, hoá chất độc hại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "độc hại, có hại (về tinh thần, đạo đức); đầy thù hằn, hiểm độc"
+        }
+      ]
+    }
+  ]
+}

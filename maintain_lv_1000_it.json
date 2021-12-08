@@ -1,0 +1,69 @@
+{
+  "english": "maintain",
+  "phat_am": "[mein'tein]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữ cho cái gì khỏi gián đoạn; giữ cho cái gì khỏi thay đổi; duy trì",
+          "list_en_vn": [
+            {
+              "full_en": "to maintain contacts /friendly relations",
+              "full_vn": "duy trì những cuộc tiếp xúc/quan hệ hữu nghị"
+            },
+            {
+              "full_en": "enough food to maintain one's strength",
+              "full_vn": "đủ thức ăn để duy trì sức khoẻ của mình"
+            },
+            {
+              "full_en": "to maintain one's opinion",
+              "full_vn": "bảo lưu ý kiến của mình"
+            },
+            {
+              "full_en": "to maintain law and order",
+              "full_vn": "duy trì luật pháp và trật tự"
+            },
+            {
+              "full_en": "to maintain prices",
+              "full_vn": "giữ cho giá cả không tụt xuống"
+            },
+            {
+              "full_en": "maintain your speed at 60 mph",
+              "full_vn": "hãy giữ tốc độ 60 dặm/giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ủng hộ về tài chính; nuôi dưỡng; cưu mang",
+          "list_en_vn": [
+            {
+              "full_en": "to earn enough to maintain a family in comfort",
+              "full_vn": "kiếnm đủ để nuôi một gia đình sống thoải mái"
+            },
+            {
+              "full_en": "this school is maintained by a charity",
+              "full_vn": "trường này được một hội từ thiện cưu mang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bảo dưỡng (máy móc); bảo quản (đường sá, nhà cửa...)"
+        },
+        {
+          "m_full_vn": "xác nhận cái gì là sự thật",
+          "list_en_vn": [
+            {
+              "full_en": "to maintain one's innocence",
+              "full_vn": "xác nhận sự vô tội của mình"
+            },
+            {
+              "full_en": "to maintain that one is innocent of a charge",
+              "full_vn": "xác nhận người nào vô tội"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

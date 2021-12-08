@@ -1,0 +1,80 @@
+{
+  "english": "pattern",
+  "phat_am": "['pæt(ə)n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gương mẫu, mẫu mực",
+          "list_en_vn": [
+            {
+              "full_en": "a pattern of virtues",
+              "full_vn": "một kiểu mẫu về đức hạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu hàng, mẫu vải",
+          "list_en_vn": [
+            {
+              "full_en": "a book of tweed patterns",
+              "full_vn": "một cuốn sách mẫu hàng vải túyt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu hình",
+          "list_en_vn": [
+            {
+              "full_en": "the pattern of economic decline in Britain",
+              "full_vn": "mẫu hình suy thoái kinh tế ở Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu, mô hình, kiểu; khuôn mẫu",
+          "list_en_vn": [
+            {
+              "full_en": "a bicycle of an old pattern",
+              "full_vn": "cái xe đạp kiểu cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoa văn, mẫu vẽ (trên vải, thảm, rèm che cửa...)",
+          "list_en_vn": [
+            {
+              "full_en": "a checked pattern",
+              "full_vn": "mẫu kẻ ô vuông"
+            },
+            {
+              "full_en": "a Paisley pattern",
+              "full_vn": "mẫu kẻ cánh hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) đường hướng dẫn hạ cánh"
+        },
+        {
+          "m_full_vn": "(quân sự) sơ đồ ném bom, sơ đồ bắn phá"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + after , upon ) lấy làm kiểu mẫu"
+        },
+        {
+          "m_full_vn": "trang trí bằng mẫu vẽ, trang trí với hoa văn"
+        },
+        {
+          "m_full_vn": "( + oneself/something on somebody/something ) bắt chước ai/cái gì; lấy cái gì làm mẫu cho ai/cái gì"
+        }
+      ]
+    }
+  ]
+}

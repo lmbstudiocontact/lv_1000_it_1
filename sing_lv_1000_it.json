@@ -1,0 +1,149 @@
+{
+  "english": "sing",
+  "phat_am": "[siη]",
+  "list_type": [
+    {
+      "type": "ngoại động từ sang , sung",
+      "list_m": [
+        {
+          "m_full_vn": "hát, ca hát",
+          "list_en_vn": [
+            {
+              "full_en": "to sing a song",
+              "full_vn": "hát một bài hát"
+            },
+            {
+              "full_en": "to sing someone to sleep",
+              "full_vn": "hát ru ngủ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ca ngợi",
+          "list_en_vn": [
+            {
+              "full_en": "to sing someone's praises",
+              "full_vn": "ca ngợi ai, tán dương ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hát, hót",
+          "list_en_vn": [
+            {
+              "full_en": "birds are singing",
+              "full_vn": "chim đang hót"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "reo (nước sôi...); thổi vù vù (gió)",
+          "list_en_vn": [
+            {
+              "full_en": "the water sings in the kettle",
+              "full_vn": "nước trong ấm reo (sắp sôi)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ù (tai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sing out (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) gọi to, kêu lớn (để lấy cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sing something out",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hét to (một mệnh lệnh..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sing small",
+              "list_im": [
+                {
+                  "im_full_vn": "cụp đuôi, cụp vòi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sing another song",
+              "list_im": [
+                {
+                  "im_full_vn": "cụp đuôi, cụt vòi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sing the New Year in",
+              "list_im": [
+                {
+                  "im_full_vn": "hát đón mừng năm mới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sing the New Year out",
+              "list_im": [
+                {
+                  "im_full_vn": "hát tiễn đưa năm cũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sing up",
+              "list_im": [
+                {
+                  "im_full_vn": "hét to hơn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng reo; tiếng vù vù",
+          "list_one_mean": [
+            {
+              "id_full_en": "the sing of arrows overhead",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếng tên bay vù vù trên đầu"
+                },
+                {
+                  "im_full_vn": "(thông tục) sự hát đồng ca"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the sing of arrows overhead",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếng tên bay vù vù trên đầu"
+                },
+                {
+                  "im_full_vn": "(thông tục) sự hát đồng ca"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1074 @@
+{
+  "english": "pull",
+  "phat_am": "[pul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lôi, sự kéo, sự giật; cái kéo, cái giật",
+          "list_en_vn": [
+            {
+              "full_en": "to give a pull at the belt",
+              "full_vn": "giật chuông một cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kéo, sự đẩy, sự hút; sức kéo, sức đẩy, sức hút",
+          "list_en_vn": [
+            {
+              "full_en": "pull of a magnet",
+              "full_vn": "sức hút của nam châm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sức hút, sức lôi cuốn (của một người)",
+          "list_en_vn": [
+            {
+              "full_en": "the pull of the wandering life",
+              "full_vn": "sức thu hút của cuộc sống lang thang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tay kéo, nút giật (ngăn kéo, chuông...)",
+          "list_en_vn": [
+            {
+              "full_en": "drawer pull",
+              "full_vn": "nút kéo của một ngăn bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chèo thuyền, sự gắng chèo (thuyền); cú bơi chèo",
+          "list_en_vn": [
+            {
+              "full_en": "to go for a pull on the river",
+              "full_vn": "đi chơi chèo thuyền trên sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) tác động, ảnh hưởng đến người khác"
+        },
+        {
+          "m_full_vn": "sự tu một hơi (rượu..), sự hút một hơi (thuốc...)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a pull at a cigarette",
+              "full_vn": "hút một hơi thuốc lá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gắng sức, sự cố gắng liên tục",
+          "list_en_vn": [
+            {
+              "full_en": "a pull to the top of the mountain",
+              "full_vn": "sự cố gắng trèo lên đỉnh núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ghìm (ngựa không cho thắng, trong cuộc đua ngựa)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cú tay bóng sang trái (đánh crickê, gôn...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) thế hơn, thế lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to have the pull of somebody",
+              "full_vn": "được thế lợi hơn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) thân thế, thế lực"
+        },
+        {
+          "m_full_vn": "(ngành in) bản in độc nhất, bản in thử"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lôi, kéo, giật",
+          "list_en_vn": [
+            {
+              "full_en": "to pull the cart",
+              "full_vn": "kéo xe bò"
+            },
+            {
+              "full_en": "to pull the bell",
+              "full_vn": "giật chuông"
+            },
+            {
+              "full_en": "to pull someone by the sleeve",
+              "full_vn": "kéo tay áo ai"
+            },
+            {
+              "full_en": "to pull someone's ear ; to pull someone by the ear",
+              "full_vn": "bẹo tai ai"
+            },
+            {
+              "full_en": "to pull on one's stocking",
+              "full_vn": "kéo bít tất lên"
+            },
+            {
+              "full_en": "to pull one's cap over one's ears",
+              "full_vn": "kéo mũ chụp xuống tai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + up ) nhổ (răng...)"
+        },
+        {
+          "m_full_vn": "ngắt, hái (hoa...)"
+        },
+        {
+          "m_full_vn": "xé toạc ra, căng đến rách ra",
+          "list_en_vn": [
+            {
+              "full_en": "to pull the seam of a dress",
+              "full_vn": "xé toạc đường khâu của chiếc áo"
+            },
+            {
+              "full_en": "to pull one's muscle",
+              "full_vn": "duỗi căng bắp thịt đến sái ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lôi kéo, tranh thủ, thu hút (khách hàng, sự ủng hộ...)"
+        },
+        {
+          "m_full_vn": "chèo (thuyền), được chèo bằng",
+          "list_en_vn": [
+            {
+              "full_en": "this boat pulls four oars",
+              "full_vn": "thuyền này được chèo bằng bốn mái chèo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cố gắng làm, gắng sức làm",
+          "list_en_vn": [
+            {
+              "full_en": "to pull up hill",
+              "full_vn": "gắng sức trèo lên đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ghìm (ngựa không cho thắng, trong cuộc đua); cố ý kìm sức lại",
+          "list_en_vn": [
+            {
+              "full_en": "to pull one's punches",
+              "full_vn": "kìm lại không đấm hết sức (đấu quyền anh); không đấm được hết sức; (nghĩa bóng) chỉ trích dè dặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) tạt (quả bóng) sang trái (chơi crickê, gôn...)"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) moi ruột (chim, gà...)"
+        },
+        {
+          "m_full_vn": "(thông tục) làm, thi hành",
+          "list_en_vn": [
+            {
+              "full_en": "to pull a raid",
+              "full_vn": "làm một cuộc bố ráp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) bắt (ai); mở một cuộc bố ráp ở (nơi nào)"
+        },
+        {
+          "m_full_vn": "(ngành in) in (một bản in thử) (ở máy in tay)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at ) lôi, kéo, giật, cố kéo",
+          "list_en_vn": [
+            {
+              "full_en": "to pull at something",
+              "full_vn": "kéo cái gì"
+            },
+            {
+              "full_en": "the horse pulls well",
+              "full_vn": "con ngựa kéo tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "uống một hơi, hút một hơi (rượu, thuốc lá...)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) tạt bóng sang trái ( crickê, gôn)"
+        },
+        {
+          "m_full_vn": "có ảnh hưởng đối với, có tác dụng đối với",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pull about",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi đi kéo lại, giằng co"
+                },
+                {
+                  "im_full_vn": "ngược đãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull about",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi đi kéo lại, giằng co"
+                },
+                {
+                  "im_full_vn": "ngược đãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull apart",
+              "list_im": [
+                {
+                  "im_full_vn": "xé toạc ra"
+                },
+                {
+                  "im_full_vn": "chê bai, chỉ trích, đả kích tơi bời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull apart",
+              "list_im": [
+                {
+                  "im_full_vn": "xé toạc ra"
+                },
+                {
+                  "im_full_vn": "chê bai, chỉ trích, đả kích tơi bời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull down",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo xuống, lật đổ, phá đổ (một ngôi nhà...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) hạ bệ; làm nhục"
+                },
+                {
+                  "im_full_vn": "làm giảm (sức khoẻ...); giảm (giá...), làm chán nản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull down",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo xuống, lật đổ, phá đổ (một ngôi nhà...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) hạ bệ; làm nhục"
+                },
+                {
+                  "im_full_vn": "làm giảm (sức khoẻ...); giảm (giá...), làm chán nản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull down",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo xuống, lật đổ, phá đổ (một ngôi nhà...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) hạ bệ; làm nhục"
+                },
+                {
+                  "im_full_vn": "làm giảm (sức khoẻ...); giảm (giá...), làm chán nản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull for",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) tích cực, ủng hộ, cổ vũ, động viên"
+                },
+                {
+                  "im_full_vn": "hy vọng ở sự thành công của"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull for",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) tích cực, ủng hộ, cổ vũ, động viên"
+                },
+                {
+                  "im_full_vn": "hy vọng ở sự thành công của"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull in",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo về, lôi vào, kéo vào"
+                },
+                {
+                  "im_full_vn": "vào ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull in",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo về, lôi vào, kéo vào"
+                },
+                {
+                  "im_full_vn": "vào ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull in",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo về, lôi vào, kéo vào"
+                },
+                {
+                  "im_full_vn": "vào ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull off",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo bật ra, nhổ bật ra"
+                },
+                {
+                  "im_full_vn": "thắng (cuộc đấu), đoạt giải"
+                },
+                {
+                  "im_full_vn": "đi xa khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the boat pulled off from the shore",
+                      "full_vn": "con thuyền ra xa bờ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thực hiện, làm xong, làm trọn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull off",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo bật ra, nhổ bật ra"
+                },
+                {
+                  "im_full_vn": "thắng (cuộc đấu), đoạt giải"
+                },
+                {
+                  "im_full_vn": "đi xa khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the boat pulled off from the shore",
+                      "full_vn": "con thuyền ra xa bờ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thực hiện, làm xong, làm trọn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull off",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo bật ra, nhổ bật ra"
+                },
+                {
+                  "im_full_vn": "thắng (cuộc đấu), đoạt giải"
+                },
+                {
+                  "im_full_vn": "đi xa khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the boat pulled off from the shore",
+                      "full_vn": "con thuyền ra xa bờ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thực hiện, làm xong, làm trọn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull off",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo bật ra, nhổ bật ra"
+                },
+                {
+                  "im_full_vn": "thắng (cuộc đấu), đoạt giải"
+                },
+                {
+                  "im_full_vn": "đi xa khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the boat pulled off from the shore",
+                      "full_vn": "con thuyền ra xa bờ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thực hiện, làm xong, làm trọn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull off",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo bật ra, nhổ bật ra"
+                },
+                {
+                  "im_full_vn": "thắng (cuộc đấu), đoạt giải"
+                },
+                {
+                  "im_full_vn": "đi xa khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the boat pulled off from the shore",
+                      "full_vn": "con thuyền ra xa bờ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thực hiện, làm xong, làm trọn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull out",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo ra, lôi ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the drawer won't pull out",
+                      "full_vn": "ngăn kéo không kéo ra được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhổ ra (răng)"
+                },
+                {
+                  "im_full_vn": "bơi chèo ra, chèo ra"
+                },
+                {
+                  "im_full_vn": "ra khỏi ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "rút ra (quân đội); rút khỏi (một hiệp ước...)"
+                },
+                {
+                  "im_full_vn": "(hàng không) lấy lại thăng bằng sau khi bổ nhào (máy bay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull out",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo ra, lôi ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the drawer won't pull out",
+                      "full_vn": "ngăn kéo không kéo ra được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhổ ra (răng)"
+                },
+                {
+                  "im_full_vn": "bơi chèo ra, chèo ra"
+                },
+                {
+                  "im_full_vn": "ra khỏi ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "rút ra (quân đội); rút khỏi (một hiệp ước...)"
+                },
+                {
+                  "im_full_vn": "(hàng không) lấy lại thăng bằng sau khi bổ nhào (máy bay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull out",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo ra, lôi ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the drawer won't pull out",
+                      "full_vn": "ngăn kéo không kéo ra được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhổ ra (răng)"
+                },
+                {
+                  "im_full_vn": "bơi chèo ra, chèo ra"
+                },
+                {
+                  "im_full_vn": "ra khỏi ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "rút ra (quân đội); rút khỏi (một hiệp ước...)"
+                },
+                {
+                  "im_full_vn": "(hàng không) lấy lại thăng bằng sau khi bổ nhào (máy bay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull out",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo ra, lôi ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the drawer won't pull out",
+                      "full_vn": "ngăn kéo không kéo ra được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhổ ra (răng)"
+                },
+                {
+                  "im_full_vn": "bơi chèo ra, chèo ra"
+                },
+                {
+                  "im_full_vn": "ra khỏi ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "rút ra (quân đội); rút khỏi (một hiệp ước...)"
+                },
+                {
+                  "im_full_vn": "(hàng không) lấy lại thăng bằng sau khi bổ nhào (máy bay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull out",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo ra, lôi ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the drawer won't pull out",
+                      "full_vn": "ngăn kéo không kéo ra được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhổ ra (răng)"
+                },
+                {
+                  "im_full_vn": "bơi chèo ra, chèo ra"
+                },
+                {
+                  "im_full_vn": "ra khỏi ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "rút ra (quân đội); rút khỏi (một hiệp ước...)"
+                },
+                {
+                  "im_full_vn": "(hàng không) lấy lại thăng bằng sau khi bổ nhào (máy bay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull out",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo ra, lôi ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the drawer won't pull out",
+                      "full_vn": "ngăn kéo không kéo ra được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhổ ra (răng)"
+                },
+                {
+                  "im_full_vn": "bơi chèo ra, chèo ra"
+                },
+                {
+                  "im_full_vn": "ra khỏi ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "rút ra (quân đội); rút khỏi (một hiệp ước...)"
+                },
+                {
+                  "im_full_vn": "(hàng không) lấy lại thăng bằng sau khi bổ nhào (máy bay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull out",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo ra, lôi ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the drawer won't pull out",
+                      "full_vn": "ngăn kéo không kéo ra được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhổ ra (răng)"
+                },
+                {
+                  "im_full_vn": "bơi chèo ra, chèo ra"
+                },
+                {
+                  "im_full_vn": "ra khỏi ga (xe lửa)"
+                },
+                {
+                  "im_full_vn": "rút ra (quân đội); rút khỏi (một hiệp ước...)"
+                },
+                {
+                  "im_full_vn": "(hàng không) lấy lại thăng bằng sau khi bổ nhào (máy bay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull over",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo sụp xuống; kéo (áo nịt...) qua đầu"
+                },
+                {
+                  "im_full_vn": "lôi kéo về phía mình"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) lái về phía bờ đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull over",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo sụp xuống; kéo (áo nịt...) qua đầu"
+                },
+                {
+                  "im_full_vn": "lôi kéo về phía mình"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) lái về phía bờ đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull over",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo sụp xuống; kéo (áo nịt...) qua đầu"
+                },
+                {
+                  "im_full_vn": "lôi kéo về phía mình"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) lái về phía bờ đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull round",
+              "list_im": [
+                {
+                  "im_full_vn": "bình phục, phục hồi sức khoẻ (sau khi ốm)"
+                },
+                {
+                  "im_full_vn": "chữa khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the doctors tried in vain to pull him round",
+                      "full_vn": "các bác sĩ đã cố gắng hết sức mà không chữa khỏi được cho anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull round",
+              "list_im": [
+                {
+                  "im_full_vn": "bình phục, phục hồi sức khoẻ (sau khi ốm)"
+                },
+                {
+                  "im_full_vn": "chữa khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the doctors tried in vain to pull him round",
+                      "full_vn": "các bác sĩ đã cố gắng hết sức mà không chữa khỏi được cho anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull round",
+              "list_im": [
+                {
+                  "im_full_vn": "bình phục, phục hồi sức khoẻ (sau khi ốm)"
+                },
+                {
+                  "im_full_vn": "chữa khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the doctors tried in vain to pull him round",
+                      "full_vn": "các bác sĩ đã cố gắng hết sức mà không chữa khỏi được cho anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull through",
+              "list_im": [
+                {
+                  "im_full_vn": "qua khỏi được (cơn ốm); thoát khỏi được; xoay sở được thoát (cảnh khó khăn); làm cho qua khỏi được (cơn ốm, cảnh khó khăn...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull together",
+              "list_im": [
+                {
+                  "im_full_vn": "hoà hợp với nhau, ăn ý với nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pull oneself together",
+                      "full_vn": "lấy lại can đảm; bình tĩnh lại, tỉnh trí lại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull together",
+              "list_im": [
+                {
+                  "im_full_vn": "hoà hợp với nhau, ăn ý với nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pull oneself together",
+                      "full_vn": "lấy lại can đảm; bình tĩnh lại, tỉnh trí lại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ lên, lôi lên, kéo lên"
+                },
+                {
+                  "im_full_vn": "dừng lại; làm dừng lại"
+                },
+                {
+                  "im_full_vn": "la mắng, quở trách"
+                },
+                {
+                  "im_full_vn": "ghìm mình lại, nén mình lại"
+                },
+                {
+                  "im_full_vn": "vượt lên trước (trong cuộc đua...)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ lên, lôi lên, kéo lên"
+                },
+                {
+                  "im_full_vn": "dừng lại; làm dừng lại"
+                },
+                {
+                  "im_full_vn": "la mắng, quở trách"
+                },
+                {
+                  "im_full_vn": "ghìm mình lại, nén mình lại"
+                },
+                {
+                  "im_full_vn": "vượt lên trước (trong cuộc đua...)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ lên, lôi lên, kéo lên"
+                },
+                {
+                  "im_full_vn": "dừng lại; làm dừng lại"
+                },
+                {
+                  "im_full_vn": "la mắng, quở trách"
+                },
+                {
+                  "im_full_vn": "ghìm mình lại, nén mình lại"
+                },
+                {
+                  "im_full_vn": "vượt lên trước (trong cuộc đua...)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ lên, lôi lên, kéo lên"
+                },
+                {
+                  "im_full_vn": "dừng lại; làm dừng lại"
+                },
+                {
+                  "im_full_vn": "la mắng, quở trách"
+                },
+                {
+                  "im_full_vn": "ghìm mình lại, nén mình lại"
+                },
+                {
+                  "im_full_vn": "vượt lên trước (trong cuộc đua...)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ lên, lôi lên, kéo lên"
+                },
+                {
+                  "im_full_vn": "dừng lại; làm dừng lại"
+                },
+                {
+                  "im_full_vn": "la mắng, quở trách"
+                },
+                {
+                  "im_full_vn": "ghìm mình lại, nén mình lại"
+                },
+                {
+                  "im_full_vn": "vượt lên trước (trong cuộc đua...)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ lên, lôi lên, kéo lên"
+                },
+                {
+                  "im_full_vn": "dừng lại; làm dừng lại"
+                },
+                {
+                  "im_full_vn": "la mắng, quở trách"
+                },
+                {
+                  "im_full_vn": "ghìm mình lại, nén mình lại"
+                },
+                {
+                  "im_full_vn": "vượt lên trước (trong cuộc đua...)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be pulled",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nhược"
+                },
+                {
+                  "im_full_vn": "chán nản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be pulled",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nhược"
+                },
+                {
+                  "im_full_vn": "chán nản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull caps (wigs )",
+              "list_im": [
+                {
+                  "im_full_vn": "cãi nhau, đánh nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pull devil !, pull baker !",
+              "list_im": [
+                {
+                  "im_full_vn": "như baker"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull faces",
+              "list_im": [
+                {
+                  "im_full_vn": "nhăn mặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull a long face",
+              "list_im": [
+                {
+                  "im_full_vn": "như face"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull someone's leg",
+              "list_im": [
+                {
+                  "im_full_vn": "như leg"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull someone by the nose",
+              "list_im": [
+                {
+                  "im_full_vn": "chửi xỏ ai; làm mất thể siện của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull a good oar",
+              "list_im": [
+                {
+                  "im_full_vn": "là tay chèo giỏi, là tay bơi thuyền giỏi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull out of the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "cứu vãn được tình thế vào lúc nguy ngập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull the strings (ropes , wires )",
+              "list_im": [
+                {
+                  "im_full_vn": "giật dây (bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull one's weight",
+              "list_im": [
+                {
+                  "im_full_vn": "như weight"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "opinions that pull with the public",
+              "full_vn": "những ý kiến có ảnh hưởng đối với quần chúng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

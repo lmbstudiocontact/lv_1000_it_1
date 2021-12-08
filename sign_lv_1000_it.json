@@ -1,0 +1,182 @@
+{
+  "english": "sign",
+  "phat_am": "[sain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dấu, dấu hiệu, ký hiệu; mật hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "sign of the cross",
+              "full_vn": "dấu thánh giá"
+            },
+            {
+              "full_en": "chemical sign",
+              "full_vn": "ký hiệu hoá học"
+            },
+            {
+              "full_en": "to talk by signs",
+              "full_vn": "nói bằng hiệu"
+            },
+            {
+              "full_en": "the signs and the countersigns",
+              "full_vn": "hiệu hỏi và hiệu đáp, mật hiệu (của một tổ chức)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu hiệu biểu hiện, biểu hiện, tượng trưng, điểm",
+          "list_en_vn": [
+            {
+              "full_en": "signs of the times",
+              "full_vn": "dấu hiệu biểu hiện xu hướng của tình hình"
+            },
+            {
+              "full_en": "violence is a signof weakness",
+              "full_vn": "bạo lực là biểu hiến sự yếu"
+            },
+            {
+              "full_en": "to give a book in sign of friendship",
+              "full_vn": "tặng một quyển sách để thể hiện tình hữu nghị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) triệu chứng"
+        },
+        {
+          "m_full_vn": "dấu vết (thú săn...)"
+        },
+        {
+          "m_full_vn": "biển hàng"
+        },
+        {
+          "m_full_vn": "ước hiệu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do signs and wonders",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi gió làm mưa, hô phong hoán vũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make no sign",
+              "list_im": [
+                {
+                  "im_full_vn": "không phản ứng gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "deaf-and-dumb signs",
+              "full_vn": "ước hiệu của người câm điếc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ký tên, viết ký hiệu, viết dấu hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "sign (your name ) here , please",
+              "full_vn": "đề nghị ông ký (tên) vào đây"
+            },
+            {
+              "full_en": "to sign a contract",
+              "full_vn": "ký một hợp đồng"
+            },
+            {
+              "full_en": "he signs as usual with a red star",
+              "full_vn": "anh ấy vẫn thường vẽ một ngôi sao đỏ làm ký hiệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ra hiệu, làm hiệu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sign away",
+              "list_im": [
+                {
+                  "im_full_vn": "nhường (tài sản cho ai) bằng chứng thư"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sign on",
+              "list_im": [
+                {
+                  "im_full_vn": "ký giao kỳ làm gì (cho ai); đưa giao kèo cho (ai) ký nhận làm gì cho mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sign off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngừng (phát thanh)"
+                },
+                {
+                  "im_full_vn": "(thông tục) ngừng nói, thoi nói chuyện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sign off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngừng (phát thanh)"
+                },
+                {
+                  "im_full_vn": "(thông tục) ngừng nói, thoi nói chuyện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sign up",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to sign on"
+                },
+                {
+                  "im_full_vn": "đăng tên nhập ngũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sign up",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to sign on"
+                },
+                {
+                  "im_full_vn": "đăng tên nhập ngũ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sign assent",
+              "full_vn": "ra hiệu đồng ý"
+            },
+            {
+              "full_en": "to sign to someone to do something",
+              "full_vn": "ra hiệu cho ai làm việc gì"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
