@@ -300,20 +300,6 @@
               ]
             },
             {
-              "id_full_en": "to ring in",
-              "list_im": [
-                {
-                  "im_full_vn": "rung chuông đón vào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to ring in the New Year",
-                      "full_vn": "rung chuông đón mừng năm mới"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to ring off",
               "list_im": [
                 {
@@ -333,54 +319,6 @@
                     {
                       "full_en": "to ring out the old year",
                       "full_vn": "rung chuông tiễn năm cũ đi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to ring out",
-              "list_im": [
-                {
-                  "im_full_vn": "vang lên"
-                },
-                {
-                  "im_full_vn": "rung chuông tiễn mời ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to ring out the old year",
-                      "full_vn": "rung chuông tiễn năm cũ đi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to ring out",
-              "list_im": [
-                {
-                  "im_full_vn": "vang lên"
-                },
-                {
-                  "im_full_vn": "rung chuông tiễn mời ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to ring out the old year",
-                      "full_vn": "rung chuông tiễn năm cũ đi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to ring up",
-              "list_im": [
-                {
-                  "im_full_vn": "gọi dây nói",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to ring somebody up",
-                      "full_vn": "gọi dây nói cho ai"
                     }
                   ]
                 }

@@ -143,32 +143,10 @@
               ]
             },
             {
-              "id_full_en": "in /out of step",
-              "list_im": [
-                {
-                  "im_full_vn": "đúng/sai nhịp"
-                },
-                {
-                  "im_full_vn": "hợp/không hợp"
-                }
-              ]
-            },
-            {
               "id_full_en": "keep step (with somebody )",
               "list_im": [
                 {
                   "im_full_vn": "đi đúng bước (nhất là đi diễu hành)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "mind /watch one's step",
-              "list_im": [
-                {
-                  "im_full_vn": "đi cẩn thận"
-                },
-                {
-                  "im_full_vn": "cẩn thận đường đi nước bước"
                 }
               ]
             },
@@ -311,17 +289,6 @@
               ]
             },
             {
-              "id_full_en": "to step in",
-              "list_im": [
-                {
-                  "im_full_vn": "bước vào"
-                },
-                {
-                  "im_full_vn": "can thiệp vào"
-                }
-              ]
-            },
-            {
               "id_full_en": "to step out",
               "list_im": [
                 {
@@ -335,117 +302,6 @@
                 },
                 {
                   "im_full_vn": "đo bằng bước chân"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to step out",
-              "list_im": [
-                {
-                  "im_full_vn": "bước ra một lát (khỏi phòng, nhà...)"
-                },
-                {
-                  "im_full_vn": "( (từ Mỹ,nghĩa Mỹ), (thông tục)) đi đến chỗ hẹn hò với ai"
-                },
-                {
-                  "im_full_vn": "bước dài"
-                },
-                {
-                  "im_full_vn": "đo bằng bước chân"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to step out",
-              "list_im": [
-                {
-                  "im_full_vn": "bước ra một lát (khỏi phòng, nhà...)"
-                },
-                {
-                  "im_full_vn": "( (từ Mỹ,nghĩa Mỹ), (thông tục)) đi đến chỗ hẹn hò với ai"
-                },
-                {
-                  "im_full_vn": "bước dài"
-                },
-                {
-                  "im_full_vn": "đo bằng bước chân"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to step out",
-              "list_im": [
-                {
-                  "im_full_vn": "bước ra một lát (khỏi phòng, nhà...)"
-                },
-                {
-                  "im_full_vn": "( (từ Mỹ,nghĩa Mỹ), (thông tục)) đi đến chỗ hẹn hò với ai"
-                },
-                {
-                  "im_full_vn": "bước dài"
-                },
-                {
-                  "im_full_vn": "đo bằng bước chân"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to step up",
-              "list_im": [
-                {
-                  "im_full_vn": "tới gần, tiến lại gần"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tiến bước, tiến bộ"
-                },
-                {
-                  "im_full_vn": "tăng cường, đẩy mạnh",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to step up production",
-                      "full_vn": "đẩy mạnh sản xuất"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to step up",
-              "list_im": [
-                {
-                  "im_full_vn": "tới gần, tiến lại gần"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tiến bước, tiến bộ"
-                },
-                {
-                  "im_full_vn": "tăng cường, đẩy mạnh",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to step up production",
-                      "full_vn": "đẩy mạnh sản xuất"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to step up",
-              "list_im": [
-                {
-                  "im_full_vn": "tới gần, tiến lại gần"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tiến bước, tiến bộ"
-                },
-                {
-                  "im_full_vn": "tăng cường, đẩy mạnh",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to step up production",
-                      "full_vn": "đẩy mạnh sản xuất"
-                    }
-                  ]
                 }
               ]
             },

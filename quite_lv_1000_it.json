@@ -90,42 +90,6 @@
               ]
             },
             {
-              "id_full_en": "quite a few ; quite a lot (of )",
-              "list_im": [
-                {
-                  "im_full_vn": "kha khá, khá nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "quite a few people came to the lecture",
-                      "full_vn": "có khá nhiều người đến dự buổi thuyết trình"
-                    },
-                    {
-                      "full_en": "we drank quite a lot of wine",
-                      "full_vn": "chúng tôi đã uống khá nhiều rượu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "quite a few ; quite a lot (of )",
-              "list_im": [
-                {
-                  "im_full_vn": "kha khá, khá nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "quite a few people came to the lecture",
-                      "full_vn": "có khá nhiều người đến dự buổi thuyết trình"
-                    },
-                    {
-                      "full_en": "we drank quite a lot of wine",
-                      "full_vn": "chúng tôi đã uống khá nhiều rượu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "quite some time",
               "list_im": [
                 {
@@ -134,56 +98,6 @@
                     {
                       "full_en": "it happened quite some time ago",
                       "full_vn": "chuyện đó xảy ra cách nay khá lâu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "quite some time",
-              "list_im": [
-                {
-                  "im_full_vn": "có độ dài đáng kể về thời gian; khá lâu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it happened quite some time ago",
-                      "full_vn": "chuyện đó xảy ra cách nay khá lâu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "quite a ; quite some",
-              "list_im": [
-                {
-                  "im_full_vn": "(cho biết người hoặc vật nào đó là khác (thường))",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it must be quite some car",
-                      "full_vn": "chắc rằng đó phải là một chiếc ô tô khác thường"
-                    },
-                    {
-                      "full_en": "we had quite a party",
-                      "full_vn": "chúng tôi đã có một buổi liên hoan ra trò"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "quite a ; quite some",
-              "list_im": [
-                {
-                  "im_full_vn": "(cho biết người hoặc vật nào đó là khác (thường))",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it must be quite some car",
-                      "full_vn": "chắc rằng đó phải là một chiếc ô tô khác thường"
-                    },
-                    {
-                      "full_en": "we had quite a party",
-                      "full_vn": "chúng tôi đã có một buổi liên hoan ra trò"
                     }
                   ]
                 }
@@ -223,20 +137,6 @@
         {
           "m_full_vn": "dùng trước a / the + danh từ hoặc trước một tên riêng để nhấn mạnh",
           "list_one_mean": [
-            {
-              "id_full_en": "(not ) quite the (done ) thing",
-              "list_im": [
-                {
-                  "im_full_vn": "(không) được xã hội chấp nhận",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it wasn't quite the done thing for women to drink in pubs in those days",
-                      "full_vn": "thời đó, đàn bà vào quán uống rượu là điều không thể chấp nhận được"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "(not ) quite the (done ) thing",
               "list_im": [

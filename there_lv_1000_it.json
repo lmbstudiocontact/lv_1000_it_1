@@ -95,75 +95,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "id_full_en": "there you are",
-              "list_im": [
-                {
-                  "im_full_vn": "(dùng khi đưa cho ai cái gì anh ta muốn hoặc đã yêu cầu)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there you are . I've brought your newspaper",
-                      "full_vn": "đây, tôi đã đem lại cho anh tờ báo"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "(dùng để đoán chắc khi giải thích, chứng minh hoặc bình luận cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there you are ! I told you it was easy !",
-                      "full_vn": "đấy! tôi đã bảo anh là dễ mà!"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "there you are",
-              "list_im": [
-                {
-                  "im_full_vn": "(dùng khi đưa cho ai cái gì anh ta muốn hoặc đã yêu cầu)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there you are . I've brought your newspaper",
-                      "full_vn": "đây, tôi đã đem lại cho anh tờ báo"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "(dùng để đoán chắc khi giải thích, chứng minh hoặc bình luận cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there you are ! I told you it was easy !",
-                      "full_vn": "đấy! tôi đã bảo anh là dễ mà!"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "there you are",
-              "list_im": [
-                {
-                  "im_full_vn": "(dùng khi đưa cho ai cái gì anh ta muốn hoặc đã yêu cầu)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there you are . I've brought your newspaper",
-                      "full_vn": "đây, tôi đã đem lại cho anh tờ báo"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "(dùng để đoán chắc khi giải thích, chứng minh hoặc bình luận cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there you are ! I told you it was easy !",
-                      "full_vn": "đấy! tôi đã bảo anh là dễ mà!"
-                    }
-                  ]
-                }
-              ]
             }
           ],
           "list_en_vn": [
@@ -189,20 +120,6 @@
         {
           "m_full_vn": "(dùng để bày tỏ sự đắc thắng, sự kinh hoàng, sự khuyến khích..)",
           "list_one_mean": [
-            {
-              "id_full_en": "there , there !",
-              "list_im": [
-                {
-                  "im_full_vn": "(dùng để dỗ một đứa trẻ)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there , there , never mind , you'll soon feel better",
-                      "full_vn": "nào, nào! không sao đâu, rồi cháu sẽ cảm thấy dễ chịu ngay thôi"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "there , there !",
               "list_im": [

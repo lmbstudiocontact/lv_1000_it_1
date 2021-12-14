@@ -65,20 +65,6 @@
               ]
             },
             {
-              "id_full_en": "about /on one's person",
-              "list_im": [
-                {
-                  "im_full_vn": "mang theo mình; trong người",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "a gun was found on his person",
-                      "full_vn": "người ta tìm thấy một khẩu súng trong người hắn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "in person",
               "list_im": [
                 {
@@ -91,78 +77,6 @@
                     {
                       "full_en": "you may communicate with us either in person or by e-mail",
                       "full_vn": "anh có thể trực tiếp liên lạc với chúng tôi hoặc qua thư điện tử"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "in person",
-              "list_im": [
-                {
-                  "im_full_vn": "bản thân có mặt; đích thân",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the winner will be there in person to collect the prize",
-                      "full_vn": "người thắng cuộc sẽ đích thân đến đó lãnh thưởng"
-                    },
-                    {
-                      "full_en": "you may communicate with us either in person or by e-mail",
-                      "full_vn": "anh có thể trực tiếp liên lạc với chúng tôi hoặc qua thư điện tử"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "in person",
-              "list_im": [
-                {
-                  "im_full_vn": "bản thân có mặt; đích thân",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the winner will be there in person to collect the prize",
-                      "full_vn": "người thắng cuộc sẽ đích thân đến đó lãnh thưởng"
-                    },
-                    {
-                      "full_en": "you may communicate with us either in person or by e-mail",
-                      "full_vn": "anh có thể trực tiếp liên lạc với chúng tôi hoặc qua thư điện tử"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "in the person of someone",
-              "list_im": [
-                {
-                  "im_full_vn": "dưới hình thức hay tình trạng của ai; bản thân",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "help arrived in the person of his father",
-                      "full_vn": "bản thân cha nó đã đến giúp nó; chính cha nó đã đến giúp nó"
-                    },
-                    {
-                      "full_en": "the firm has an important asset in the person of the director of research",
-                      "full_vn": "công ty có một nguồn vốn quan trọng là bản thân giám đốc nghiên cứu; bản thân giám đốc nghiên cứu là một nguồn vốn quan trọng của công ty"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "in the person of someone",
-              "list_im": [
-                {
-                  "im_full_vn": "dưới hình thức hay tình trạng của ai; bản thân",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "help arrived in the person of his father",
-                      "full_vn": "bản thân cha nó đã đến giúp nó; chính cha nó đã đến giúp nó"
-                    },
-                    {
-                      "full_en": "the firm has an important asset in the person of the director of research",
-                      "full_vn": "công ty có một nguồn vốn quan trọng là bản thân giám đốc nghiên cứu; bản thân giám đốc nghiên cứu là một nguồn vốn quan trọng của công ty"
                     }
                   ]
                 }

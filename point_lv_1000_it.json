@@ -364,31 +364,6 @@
               ]
             },
             {
-              "id_full_en": "on the point of doing something",
-              "list_im": [
-                {
-                  "im_full_vn": "sắp sửa làm cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I was on the point of going to bed when you rang",
-                      "full_vn": "vừa lúc tôi sắp đi ngủ thì anh điện thoại đến"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "the point of no return",
-              "list_im": [
-                {
-                  "im_full_vn": "điểm (trong một chuyến đi, bay xa...) mà từ đó nguồn nhiên liệu không đủ để trở lại nơi xuất phát nên cứ phải đi tiếp để mà tồn tại; điểm bất khả vãn hồi"
-                },
-                {
-                  "im_full_vn": "điểm mà ở đó mình phải có một hành động hoặc một quyết định không thể đảo ngược được; thế bí"
-                }
-              ]
-            },
-            {
               "id_full_en": "the point of no return",
               "list_im": [
                 {
@@ -462,38 +437,10 @@
               ]
             },
             {
-              "id_full_en": "to the point of something",
-              "list_im": [
-                {
-                  "im_full_vn": "đến mức",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "his manner was abrupt to the point of rudeness",
-                      "full_vn": "cử chỉ của anh ta cộc lốc đến mức thô bạo"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "up to a certain point",
               "list_im": [
                 {
                   "im_full_vn": "đến mức độ nào đó"
-                }
-              ]
-            },
-            {
-              "id_full_en": "at the point of a sword /gun",
-              "list_im": [
-                {
-                  "im_full_vn": "dí gươm/súng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "captured at the point of a sword",
-                      "full_vn": "bị người ta dí gươm bắt sống"
-                    }
-                  ]
                 }
               ]
             },
@@ -612,20 +559,6 @@
               ]
             },
             {
-              "id_full_en": "to point the way to /towards something",
-              "list_im": [
-                {
-                  "im_full_vn": "chỉ ra khả năng phát triển trong tương lai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "large electronics companies developed television , but Baird pointed the way with his experiments",
-                      "full_vn": "các công ty điện tử lớn đã phát triển vô tuyến truyền hình, nhưng bằng thử nghiệm của mình, Baird đã vạch ra con đường phát triển"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to point something out to somebody",
               "list_im": [
                 {
@@ -638,56 +571,6 @@
                     {
                       "full_en": "to point out to somebody the stupidity of his /her behaviour",
                       "full_vn": "lưu ý ai về sự ngu ngốc trong cách ứng xử của họ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to point something out to somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "hướng sự chú ý về cái gì; lưu ý",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to point out a mistake",
-                      "full_vn": "vạch ra một sai lầm"
-                    },
-                    {
-                      "full_en": "to point out to somebody the stupidity of his /her behaviour",
-                      "full_vn": "lưu ý ai về sự ngu ngốc trong cách ứng xử của họ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to point something out to somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "hướng sự chú ý về cái gì; lưu ý",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to point out a mistake",
-                      "full_vn": "vạch ra một sai lầm"
-                    },
-                    {
-                      "full_en": "to point out to somebody the stupidity of his /her behaviour",
-                      "full_vn": "lưu ý ai về sự ngu ngốc trong cách ứng xử của họ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to point something up",
-              "list_im": [
-                {
-                  "im_full_vn": "nhấn mạnh (điều gì); vạch rõ (điều gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the recent disagreement points up the differences between the two sides",
-                      "full_vn": "sự bất đồng gần đây cho thấy rất rõ mâu thuẫn giữa hai bên"
                     }
                   ]
                 }

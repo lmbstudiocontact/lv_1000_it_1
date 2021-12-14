@@ -91,17 +91,6 @@
               ]
             },
             {
-              "id_full_en": "to send away",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đi"
-                },
-                {
-                  "im_full_vn": "đuổi di"
-                }
-              ]
-            },
-            {
               "id_full_en": "to send after",
               "list_im": [
                 {
@@ -121,125 +110,6 @@
               ]
             },
             {
-              "id_full_en": "to send down",
-              "list_im": [
-                {
-                  "im_full_vn": "cho xuống"
-                },
-                {
-                  "im_full_vn": "tạm đuổi, đuổi (khỏi trường)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send for",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đặt mua",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send for something",
-                      "full_vn": "gửi đặt mua cái gì"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "nhắn đến, cho đi tìm đến, cho mời đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send for somebody",
-                      "full_vn": "nhắn ai tìm đến, cho người mời đến"
-                    },
-                    {
-                      "full_en": "to send for somebody",
-                      "full_vn": "nhắn ai đến, cho người mời ai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send for",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đặt mua",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send for something",
-                      "full_vn": "gửi đặt mua cái gì"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "nhắn đến, cho đi tìm đến, cho mời đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send for somebody",
-                      "full_vn": "nhắn ai tìm đến, cho người mời đến"
-                    },
-                    {
-                      "full_en": "to send for somebody",
-                      "full_vn": "nhắn ai đến, cho người mời ai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send for",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đặt mua",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send for something",
-                      "full_vn": "gửi đặt mua cái gì"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "nhắn đến, cho đi tìm đến, cho mời đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send for somebody",
-                      "full_vn": "nhắn ai tìm đến, cho người mời đến"
-                    },
-                    {
-                      "full_en": "to send for somebody",
-                      "full_vn": "nhắn ai đến, cho người mời ai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send for",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đặt mua",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send for something",
-                      "full_vn": "gửi đặt mua cái gì"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "nhắn đến, cho đi tìm đến, cho mời đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send for somebody",
-                      "full_vn": "nhắn ai tìm đến, cho người mời đến"
-                    },
-                    {
-                      "full_en": "to send for somebody",
-                      "full_vn": "nhắn ai đến, cho người mời ai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to send for",
               "list_im": [
                 {
@@ -278,51 +148,6 @@
               ]
             },
             {
-              "id_full_en": "to send forth",
-              "list_im": [
-                {
-                  "im_full_vn": "toả ra, bốc ra (hương thơm, mùi, khói...)"
-                },
-                {
-                  "im_full_vn": "nảy ra (lộc non, lá...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send in",
-              "list_im": [
-                {
-                  "im_full_vn": "nộp, giao (đơn từ...)"
-                },
-                {
-                  "im_full_vn": "ghi, đăng (tên...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send in one's name",
-                      "full_vn": "đăng tên (ở kỳ thi)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send in",
-              "list_im": [
-                {
-                  "im_full_vn": "nộp, giao (đơn từ...)"
-                },
-                {
-                  "im_full_vn": "ghi, đăng (tên...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to send in one's name",
-                      "full_vn": "đăng tên (ở kỳ thi)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to send in",
               "list_im": [
                 {
@@ -350,94 +175,6 @@
                 },
                 {
                   "im_full_vn": "tiễn đưa, hoan tống"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send off",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đi (thư, quà) phái (ai) đi (công tác)"
-                },
-                {
-                  "im_full_vn": "đuổi đi, tống khứ"
-                },
-                {
-                  "im_full_vn": "tiễn đưa, hoan tống"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send off",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đi (thư, quà) phái (ai) đi (công tác)"
-                },
-                {
-                  "im_full_vn": "đuổi đi, tống khứ"
-                },
-                {
-                  "im_full_vn": "tiễn đưa, hoan tống"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send out",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đi, phân phát"
-                },
-                {
-                  "im_full_vn": "toả ra, bốc ra (hương thơm, mùi, khói...)"
-                },
-                {
-                  "im_full_vn": "nảy ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "trees send out young leaves",
-                      "full_vn": "cây ra lá non"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send out",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đi, phân phát"
-                },
-                {
-                  "im_full_vn": "toả ra, bốc ra (hương thơm, mùi, khói...)"
-                },
-                {
-                  "im_full_vn": "nảy ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "trees send out young leaves",
-                      "full_vn": "cây ra lá non"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send out",
-              "list_im": [
-                {
-                  "im_full_vn": "gửi đi, phân phát"
-                },
-                {
-                  "im_full_vn": "toả ra, bốc ra (hương thơm, mùi, khói...)"
-                },
-                {
-                  "im_full_vn": "nảy ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "trees send out young leaves",
-                      "full_vn": "cây ra lá non"
-                    }
-                  ]
                 }
               ]
             },
@@ -481,49 +218,10 @@
               ]
             },
             {
-              "id_full_en": "to send up",
-              "list_im": [
-                {
-                  "im_full_vn": "làm đứng dậy, làm trèo lên"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) kết án tù"
-                }
-              ]
-            },
-            {
               "id_full_en": "to send coals to Newcastle",
               "list_im": [
                 {
                   "im_full_vn": "(xem) coal"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send flying",
-              "list_im": [
-                {
-                  "im_full_vn": "đuổi đi, bắt hối hả ra đi"
-                },
-                {
-                  "im_full_vn": "làm cho lảo đảo, đánh bật ra (bằng một cái đòn)"
-                },
-                {
-                  "im_full_vn": "làm cho chạy tan tác, làm cho tan tác"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to send flying",
-              "list_im": [
-                {
-                  "im_full_vn": "đuổi đi, bắt hối hả ra đi"
-                },
-                {
-                  "im_full_vn": "làm cho lảo đảo, đánh bật ra (bằng một cái đòn)"
-                },
-                {
-                  "im_full_vn": "làm cho chạy tan tác, làm cho tan tác"
                 }
               ]
             },

@@ -161,38 +161,10 @@
               ]
             },
             {
-              "id_full_en": "all (the ) year round",
-              "list_im": [
-                {
-                  "im_full_vn": "quanh năm suốt tháng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he swims in the sea all year round",
-                      "full_vn": "anh ấy tắm biển quanh năm suốt tháng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "donkey's years",
               "list_im": [
                 {
                   "im_full_vn": "một thời gian rất dài"
-                }
-              ]
-            },
-            {
-              "id_full_en": "man /woman /car ... of the year",
-              "list_im": [
-                {
-                  "im_full_vn": "người hoặc vật nổi bật trong năm",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "TV personality of the year",
-                      "full_vn": "nhân vật truyền hình nổi bật trong năm"
-                    }
-                  ]
                 }
               ]
             },
@@ -223,20 +195,6 @@
               "list_im": [
                 {
                   "im_full_vn": "thông báo năm cũ kết thúc và chào mừng năm mới"
-                }
-              ]
-            },
-            {
-              "id_full_en": "the year dot",
-              "list_im": [
-                {
-                  "im_full_vn": "cách đây rất lâu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I've been going there every summer since the year dot",
-                      "full_vn": "cách đây rất lâu, tôi thường đến đó mỗi mùa hè"
-                    }
-                  ]
                 }
               ]
             },

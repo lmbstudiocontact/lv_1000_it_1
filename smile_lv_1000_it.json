@@ -21,20 +21,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "id_full_en": "all smiles",
-              "list_im": [
-                {
-                  "im_full_vn": "trông có vẻ rất sung sướng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she was all smiles at the news of her win",
-                      "full_vn": "cô ta rất vui sướng khi được tin mình đã thắng"
-                    }
-                  ]
-                }
-              ]
             }
           ],
           "list_en_vn": [
@@ -91,56 +77,6 @@
                     {
                       "full_en": "to smile someone's anger away",
                       "full_vn": "cười cho ai hết giận"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to smile away",
-              "list_im": [
-                {
-                  "im_full_vn": "cười để xua tan",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to smile someone's anger away",
-                      "full_vn": "cười cho ai hết giận"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to smile on somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "tán thành, khuyến khích ai/cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "fortune smiles on (upon ) him",
-                      "full_vn": "vận may mỉm cười với hắn; hắn gặp vận may"
-                    },
-                    {
-                      "full_en": "the council did not smile on our plan",
-                      "full_vn": "hội đồng không tán thành kế hoạch của chúng tôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to smile on somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "tán thành, khuyến khích ai/cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "fortune smiles on (upon ) him",
-                      "full_vn": "vận may mỉm cười với hắn; hắn gặp vận may"
-                    },
-                    {
-                      "full_en": "the council did not smile on our plan",
-                      "full_vn": "hội đồng không tán thành kế hoạch của chúng tôi"
                     }
                   ]
                 }

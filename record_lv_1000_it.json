@@ -101,20 +101,6 @@
               ]
             },
             {
-              "id_full_en": "(just ) for the record",
-              "list_im": [
-                {
-                  "im_full_vn": "vì mục đích chính xác; cần phải ghi lại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "just for the record , the minister's statement is wrong on two points",
-                      "full_vn": "để cho thật chính xác thì trong lới phát biểu của ông bộ trưởng có hai điểm sai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "off the record",
               "list_im": [
                 {
@@ -123,120 +109,6 @@
                     {
                       "full_en": "The Prime Minister admitted , (strictly ) off the record , that the talks had failed",
                       "full_vn": "Thủ tướng thú nhận, (tuyệt đối) không được ghi, cuộc thương lượng đã thất bại"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "off the record",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) không được ghi; không chính thức",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "The Prime Minister admitted , (strictly ) off the record , that the talks had failed",
-                      "full_vn": "Thủ tướng thú nhận, (tuyệt đối) không được ghi, cuộc thương lượng đã thất bại"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on record",
-              "list_im": [
-                {
-                  "im_full_vn": "đã được ghi (nhất là một cách chính thức các sự kiện..)"
-                },
-                {
-                  "im_full_vn": "được biết công khai, được chính thức công nhận (về những quan điểm..)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "last summer was the wettest on record for 50 years",
-                      "full_vn": "mùa hè năm ngoái được ghi nhận là ẩm ướt nhất trong 50 năm trở lại đây"
-                    },
-                    {
-                      "full_en": "to be /go on record as saying that the law should be changed",
-                      "full_vn": "đã được ghi như châm ngôn là luật pháp cần phải thay đổi"
-                    },
-                    {
-                      "full_en": "to put one's views /objections on record",
-                      "full_vn": "công khai hoá quan điểm/ý kiến phản bác của mình (bằng văn bản hoặc trên phương tiện truyền thanh)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on record",
-              "list_im": [
-                {
-                  "im_full_vn": "đã được ghi (nhất là một cách chính thức các sự kiện..)"
-                },
-                {
-                  "im_full_vn": "được biết công khai, được chính thức công nhận (về những quan điểm..)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "last summer was the wettest on record for 50 years",
-                      "full_vn": "mùa hè năm ngoái được ghi nhận là ẩm ướt nhất trong 50 năm trở lại đây"
-                    },
-                    {
-                      "full_en": "to be /go on record as saying that the law should be changed",
-                      "full_vn": "đã được ghi như châm ngôn là luật pháp cần phải thay đổi"
-                    },
-                    {
-                      "full_en": "to put one's views /objections on record",
-                      "full_vn": "công khai hoá quan điểm/ý kiến phản bác của mình (bằng văn bản hoặc trên phương tiện truyền thanh)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on record",
-              "list_im": [
-                {
-                  "im_full_vn": "đã được ghi (nhất là một cách chính thức các sự kiện..)"
-                },
-                {
-                  "im_full_vn": "được biết công khai, được chính thức công nhận (về những quan điểm..)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "last summer was the wettest on record for 50 years",
-                      "full_vn": "mùa hè năm ngoái được ghi nhận là ẩm ướt nhất trong 50 năm trở lại đây"
-                    },
-                    {
-                      "full_en": "to be /go on record as saying that the law should be changed",
-                      "full_vn": "đã được ghi như châm ngôn là luật pháp cần phải thay đổi"
-                    },
-                    {
-                      "full_en": "to put one's views /objections on record",
-                      "full_vn": "công khai hoá quan điểm/ý kiến phản bác của mình (bằng văn bản hoặc trên phương tiện truyền thanh)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on record",
-              "list_im": [
-                {
-                  "im_full_vn": "đã được ghi (nhất là một cách chính thức các sự kiện..)"
-                },
-                {
-                  "im_full_vn": "được biết công khai, được chính thức công nhận (về những quan điểm..)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "last summer was the wettest on record for 50 years",
-                      "full_vn": "mùa hè năm ngoái được ghi nhận là ẩm ướt nhất trong 50 năm trở lại đây"
-                    },
-                    {
-                      "full_en": "to be /go on record as saying that the law should be changed",
-                      "full_vn": "đã được ghi như châm ngôn là luật pháp cần phải thay đổi"
-                    },
-                    {
-                      "full_en": "to put one's views /objections on record",
-                      "full_vn": "công khai hoá quan điểm/ý kiến phản bác của mình (bằng văn bản hoặc trên phương tiện truyền thanh)"
                     }
                   ]
                 }
@@ -280,20 +152,6 @@
               "list_im": [
                 {
                   "im_full_vn": "đi ra ngoài đề"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to put /set the record straight",
-              "list_im": [
-                {
-                  "im_full_vn": "báo cáo chính xác các sự việc; đính chính một sự hiểu lầm",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to set the record straight , I must say now that I never supported the idea",
-                      "full_vn": "để nói lại cho đúng, hôm nay tôi xin tuyên bố rằng tôi không hề ủng hộ ý kiến đó"
-                    }
-                  ]
                 }
               ]
             },

@@ -103,17 +103,6 @@
               ]
             },
             {
-              "id_full_en": "to put (have ) one's tail between one's legs",
-              "list_im": [
-                {
-                  "im_full_vn": "sợ cụp đuôi"
-                },
-                {
-                  "im_full_vn": "lấy làm xấu hổ, hổ thẹn"
-                }
-              ]
-            },
-            {
               "id_full_en": "to turn tail",
               "list_im": [
                 {
@@ -201,81 +190,10 @@
               ]
             },
             {
-              "id_full_en": "to tail up",
-              "list_im": [
-                {
-                  "im_full_vn": "cắm mũi xuống (máy bay); nổi đuôi lên (cá)"
-                },
-                {
-                  "im_full_vn": "nối đuôi nhau (đi vào)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to tail to the tide",
               "list_im": [
                 {
                   "im_full_vn": "bập bềnh theo nước thuỷ triều"
-                }
-              ]
-            },
-            {
-              "id_full_en": "tail away ; tail off",
-              "list_im": [
-                {
-                  "im_full_vn": "nhỏ dần đi; ít đi; yếu đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the noise tailed away",
-                      "full_vn": "tiếng động nhỏ dần đi"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "ấp úng (lời nhận xét..)"
-                },
-                {
-                  "im_full_vn": "tụt lại đằng sau; tụt hậu"
-                }
-              ]
-            },
-            {
-              "id_full_en": "tail away ; tail off",
-              "list_im": [
-                {
-                  "im_full_vn": "nhỏ dần đi; ít đi; yếu đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the noise tailed away",
-                      "full_vn": "tiếng động nhỏ dần đi"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "ấp úng (lời nhận xét..)"
-                },
-                {
-                  "im_full_vn": "tụt lại đằng sau; tụt hậu"
-                }
-              ]
-            },
-            {
-              "id_full_en": "tail away ; tail off",
-              "list_im": [
-                {
-                  "im_full_vn": "nhỏ dần đi; ít đi; yếu đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the noise tailed away",
-                      "full_vn": "tiếng động nhỏ dần đi"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "ấp úng (lời nhận xét..)"
-                },
-                {
-                  "im_full_vn": "tụt lại đằng sau; tụt hậu"
                 }
               ]
             },

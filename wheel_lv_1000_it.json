@@ -123,69 +123,6 @@
               ]
             },
             {
-              "id_full_en": "at /behind the wheel (of something )",
-              "list_im": [
-                {
-                  "im_full_vn": "lái (xe cộ, tàu)"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) điều khiển (cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "who was at the wheel when the car crashed ?",
-                      "full_vn": "ai lái xe khi chiếc xe đâm?"
-                    },
-                    {
-                      "full_en": "with her at the wheel , the company began to prosper",
-                      "full_vn": "dưới sự điều khiển của cô ấy, công ty đã bắt đầu phát đạt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at /behind the wheel (of something )",
-              "list_im": [
-                {
-                  "im_full_vn": "lái (xe cộ, tàu)"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) điều khiển (cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "who was at the wheel when the car crashed ?",
-                      "full_vn": "ai lái xe khi chiếc xe đâm?"
-                    },
-                    {
-                      "full_en": "with her at the wheel , the company began to prosper",
-                      "full_vn": "dưới sự điều khiển của cô ấy, công ty đã bắt đầu phát đạt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at /behind the wheel (of something )",
-              "list_im": [
-                {
-                  "im_full_vn": "lái (xe cộ, tàu)"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) điều khiển (cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "who was at the wheel when the car crashed ?",
-                      "full_vn": "ai lái xe khi chiếc xe đâm?"
-                    },
-                    {
-                      "full_en": "with her at the wheel , the company began to prosper",
-                      "full_vn": "dưới sự điều khiển của cô ấy, công ty đã bắt đầu phát đạt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "wheels within wheels",
               "list_im": [
                 {
@@ -260,20 +197,6 @@
         {
           "m_full_vn": "( to wheel round / around ) quay tròn và hướng về đường khác",
           "list_one_mean": [
-            {
-              "id_full_en": "wheel and deal",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) thương lượng cửa sau, mặc cả một cách khôn khéo (thường) là bất lương",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there will be a lot of wheeling and dealing before an agreement is reached",
-                      "full_vn": "sẽ có nhiều cuộc thương lượng cửa sau trước khi đạt được một hợp đồng"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "wheel and deal",
               "list_im": [

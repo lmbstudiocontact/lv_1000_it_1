@@ -219,17 +219,6 @@
               ]
             },
             {
-              "id_full_en": "to roll away",
-              "list_im": [
-                {
-                  "im_full_vn": "lăn đi, lăn ra xa"
-                },
-                {
-                  "im_full_vn": "tan đi (sương mù...)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to roll by",
               "list_im": [
                 {
@@ -249,28 +238,6 @@
               ]
             },
             {
-              "id_full_en": "to roll in",
-              "list_im": [
-                {
-                  "im_full_vn": "lăn vào"
-                },
-                {
-                  "im_full_vn": "đổ dồn tới, đến tới tấp"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to roll by to roll out",
-              "list_im": [
-                {
-                  "im_full_vn": "lăn ra, lăn ra ngoài"
-                },
-                {
-                  "im_full_vn": "đọc sang sảng dõng dạc"
-                }
-              ]
-            },
-            {
               "id_full_en": "to roll by to roll out",
               "list_im": [
                 {
@@ -289,109 +256,6 @@
                 },
                 {
                   "im_full_vn": "đánh (ai) ngã lăn ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to roll over",
-              "list_im": [
-                {
-                  "im_full_vn": "lăn mình, lăn tròn"
-                },
-                {
-                  "im_full_vn": "đánh (ai) ngã lăn ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to roll up",
-              "list_im": [
-                {
-                  "im_full_vn": "cuộn (thuốc lá); cuộn lại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to roll onself up in a blanket",
-                      "full_vn": "cuộn mình trong chăn"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "bọc lại, gói lại, bao lại"
-                },
-                {
-                  "im_full_vn": "tích luỹ (của cải...); chồng chất (nợ nần...)"
-                },
-                {
-                  "im_full_vn": "(thông tục) xuất hiện, xuất hiện bất thình lình (trên (sân khấu))"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to roll up",
-              "list_im": [
-                {
-                  "im_full_vn": "cuộn (thuốc lá); cuộn lại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to roll onself up in a blanket",
-                      "full_vn": "cuộn mình trong chăn"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "bọc lại, gói lại, bao lại"
-                },
-                {
-                  "im_full_vn": "tích luỹ (của cải...); chồng chất (nợ nần...)"
-                },
-                {
-                  "im_full_vn": "(thông tục) xuất hiện, xuất hiện bất thình lình (trên (sân khấu))"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to roll up",
-              "list_im": [
-                {
-                  "im_full_vn": "cuộn (thuốc lá); cuộn lại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to roll onself up in a blanket",
-                      "full_vn": "cuộn mình trong chăn"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "bọc lại, gói lại, bao lại"
-                },
-                {
-                  "im_full_vn": "tích luỹ (của cải...); chồng chất (nợ nần...)"
-                },
-                {
-                  "im_full_vn": "(thông tục) xuất hiện, xuất hiện bất thình lình (trên (sân khấu))"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to roll up",
-              "list_im": [
-                {
-                  "im_full_vn": "cuộn (thuốc lá); cuộn lại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to roll onself up in a blanket",
-                      "full_vn": "cuộn mình trong chăn"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "bọc lại, gói lại, bao lại"
-                },
-                {
-                  "im_full_vn": "tích luỹ (của cải...); chồng chất (nợ nần...)"
-                },
-                {
-                  "im_full_vn": "(thông tục) xuất hiện, xuất hiện bất thình lình (trên (sân khấu))"
                 }
               ]
             },

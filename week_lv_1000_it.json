@@ -98,20 +98,6 @@
               ]
             },
             {
-              "id_full_en": "a week last Monday , yesterday ...",
-              "list_im": [
-                {
-                  "im_full_vn": "bảy ngày trước thứ hai vừa qua, trước hôm qua..",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it was a week yesterday (that ) we heard the news",
-                      "full_vn": "chúng tôi đã được biết tin đó tám hôm nay rồi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "week in , week out",
               "list_im": [
                 {
@@ -120,34 +106,6 @@
                     {
                       "full_en": "Every Sunday , week in , week out , she writes to her parents",
                       "full_vn": "Chủ nhật nào cũng vậy, không trừ tuần nào, cô ấy đều viết thư cho bố mẹ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "week in , week out",
-              "list_im": [
-                {
-                  "im_full_vn": "tất cả các tuần, không trừ tuần nào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Every Sunday , week in , week out , she writes to her parents",
-                      "full_vn": "Chủ nhật nào cũng vậy, không trừ tuần nào, cô ấy đều viết thư cho bố mẹ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "week after week",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) hết tuần này đến tuần khác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "week after week , the drought continued",
-                      "full_vn": "hạn hán kéo dài hết tuần này sang tuần khác"
                     }
                   ]
                 }

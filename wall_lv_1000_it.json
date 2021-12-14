@@ -73,17 +73,6 @@
               ]
             },
             {
-              "id_full_en": "to go to the wall",
-              "list_im": [
-                {
-                  "im_full_vn": "bị gạt bỏ"
-                },
-                {
-                  "im_full_vn": "bị phá sản, khánh kiệt; thất bại"
-                }
-              ]
-            },
-            {
               "id_full_en": "to push (drive ) somebody to the wall",
               "list_im": [
                 {
@@ -136,20 +125,6 @@
               "list_im": [
                 {
                   "im_full_vn": "ngăn bằng một bức tường"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to wall up",
-              "list_im": [
-                {
-                  "im_full_vn": "xây bịt lại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to wall up an aperture",
-                      "full_vn": "xây bịt một lỗ hổng"
-                    }
-                  ]
                 }
               ]
             },

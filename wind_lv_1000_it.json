@@ -185,35 +185,10 @@
               ]
             },
             {
-              "id_full_en": "to get wind of something",
-              "list_im": [
-                {
-                  "im_full_vn": "nghe phong phanh",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to get wind of a plot",
-                      "full_vn": "nghe phong thanh có một âm mưu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to cast (fling , throw ) something to the winds",
               "list_im": [
                 {
                   "im_full_vn": "coi nhẹ cái gì, không để tâm gìn giữ cái gì"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to sail close to (near ) the wind",
-              "list_im": [
-                {
-                  "im_full_vn": "chạy gần như ngược chiều gió"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) làm việc gì hầu như không đoan chính lương thiện lắm"
                 }
               ]
             },
@@ -438,57 +413,6 @@
               "list_im": [
                 {
                   "im_full_vn": "quấn (chỉ) vào (ống chỉ)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to wind up",
-              "list_im": [
-                {
-                  "im_full_vn": "lên dây (đồng hồ, đàn)"
-                },
-                {
-                  "im_full_vn": "quấn (một sợi dây)"
-                },
-                {
-                  "im_full_vn": "giải quyết, thanh toán (công việc...)"
-                },
-                {
-                  "im_full_vn": "kết thúc (cuộc tranh luận); bế mạc (cuộc họp)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to wind up",
-              "list_im": [
-                {
-                  "im_full_vn": "lên dây (đồng hồ, đàn)"
-                },
-                {
-                  "im_full_vn": "quấn (một sợi dây)"
-                },
-                {
-                  "im_full_vn": "giải quyết, thanh toán (công việc...)"
-                },
-                {
-                  "im_full_vn": "kết thúc (cuộc tranh luận); bế mạc (cuộc họp)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to wind up",
-              "list_im": [
-                {
-                  "im_full_vn": "lên dây (đồng hồ, đàn)"
-                },
-                {
-                  "im_full_vn": "quấn (một sợi dây)"
-                },
-                {
-                  "im_full_vn": "giải quyết, thanh toán (công việc...)"
-                },
-                {
-                  "im_full_vn": "kết thúc (cuộc tranh luận); bế mạc (cuộc họp)"
                 }
               ]
             },

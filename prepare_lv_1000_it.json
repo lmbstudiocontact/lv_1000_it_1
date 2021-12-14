@@ -60,20 +60,6 @@
               ]
             },
             {
-              "id_full_en": "to be prepared to do something",
-              "list_im": [
-                {
-                  "im_full_vn": "sẵn sàng làm việc gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'm prepared to help you if you are reasonable",
-                      "full_vn": "Tôi sẵn sàng giúp anh nếu anh biết điều"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to prepare the ground (for something )",
               "list_im": [
                 {
@@ -82,56 +68,6 @@
                     {
                       "full_en": "early experiments with military rockets prepared the ground for space travel",
                       "full_vn": "những cuộc thử nghiệm ban đầu đã đặt nền móng cho công cuộc du hành vũ trụ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to prepare the ground (for something )",
-              "list_im": [
-                {
-                  "im_full_vn": "đặt nền móng cho cái gì; dọn đường",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "early experiments with military rockets prepared the ground for space travel",
-                      "full_vn": "những cuộc thử nghiệm ban đầu đã đặt nền móng cho công cuộc du hành vũ trụ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be prepared for something",
-              "list_im": [
-                {
-                  "im_full_vn": "sẵn sàng cho cái gì (nhất là cái gì khó chịu)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he was hardly prepared for this sad news (to hear this sad news )",
-                      "full_vn": "anh ta hầu như không được chuẩn bị tư tưởng gì để nghe tin buồn này"
-                    },
-                    {
-                      "full_en": "she was prepared for anything to happen",
-                      "full_vn": "cô ta sẵn sàng đón nhận bất cứ điều gì xảy ra"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be prepared for something",
-              "list_im": [
-                {
-                  "im_full_vn": "sẵn sàng cho cái gì (nhất là cái gì khó chịu)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he was hardly prepared for this sad news (to hear this sad news )",
-                      "full_vn": "anh ta hầu như không được chuẩn bị tư tưởng gì để nghe tin buồn này"
-                    },
-                    {
-                      "full_en": "she was prepared for anything to happen",
-                      "full_vn": "cô ta sẵn sàng đón nhận bất cứ điều gì xảy ra"
                     }
                   ]
                 }

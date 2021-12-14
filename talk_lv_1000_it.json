@@ -158,80 +158,10 @@
               ]
             },
             {
-              "id_full_en": "to talk about (of )",
-              "list_im": [
-                {
-                  "im_full_vn": "nói về, bàn về",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we'll talk about that point later",
-                      "full_vn": "chúng ta sẽ bàn về điểm đó sau"
-                    },
-                    {
-                      "full_en": "what are they talking of ?",
-                      "full_vn": "họ đang nói về cái gì thế?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to talk about (of )",
-              "list_im": [
-                {
-                  "im_full_vn": "nói về, bàn về",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we'll talk about that point later",
-                      "full_vn": "chúng ta sẽ bàn về điểm đó sau"
-                    },
-                    {
-                      "full_en": "what are they talking of ?",
-                      "full_vn": "họ đang nói về cái gì thế?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to talk at",
               "list_im": [
                 {
                   "im_full_vn": "nói ám chỉ, nói bóng gió, nói cạnh"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to talk away",
-              "list_im": [
-                {
-                  "im_full_vn": "nói chuyện cho hết (thì giờ); nói suốt",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to talk the afternoon away",
-                      "full_vn": "nói chuyện cho qua buổi chiều; nói chuyện suốt cả buổi chiều"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "nói tiếp, nói mãi, nói dài, nói dứt không ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to talk away",
-              "list_im": [
-                {
-                  "im_full_vn": "nói chuyện cho hết (thì giờ); nói suốt",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to talk the afternoon away",
-                      "full_vn": "nói chuyện cho qua buổi chiều; nói chuyện suốt cả buổi chiều"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "nói tiếp, nói mãi, nói dài, nói dứt không ra"
                 }
               ]
             },
@@ -273,20 +203,6 @@
               "list_im": [
                 {
                   "im_full_vn": "ngăn ai đừng theo một kế hoạch"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to talk to",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) chỉnh, xài, phê bình, quở trách",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the lazy boy wants talking to",
-                      "full_vn": "cần phải xài cho thằng bé trây lười một trận"
-                    }
-                  ]
                 }
               ]
             },
@@ -429,20 +345,6 @@
               "list_im": [
                 {
                   "im_full_vn": "dỗ dành, can"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to talk somebody over /round (to something )",
-              "list_im": [
-                {
-                  "im_full_vn": "dỗ dành",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "talk it over with your parents before you reply",
-                      "full_vn": "hãy bàn kỹ vấn đề đó với thầy mẹ anh đã rồi hãy trả lời"
-                    }
-                  ]
                 }
               ]
             },

@@ -94,20 +94,6 @@
               ]
             },
             {
-              "id_full_en": "by reason of something",
-              "list_im": [
-                {
-                  "im_full_vn": "vì cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he was excused by reason of his age",
-                      "full_vn": "ông ấy được miễn thứ vì tuổi tác"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "for reasons /some reason best known to oneself",
               "list_im": [
                 {
@@ -116,34 +102,6 @@
                     {
                       "full_en": "for reasons best known to himself , he drinks tea from a beer glass",
                       "full_vn": "không thể nào hiểu nổi vì sao nó lại uống trà bằng cốc bia"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "for reasons /some reason best known to oneself",
-              "list_im": [
-                {
-                  "im_full_vn": "không thể nào hiểu nỗi vì sao",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "for reasons best known to himself , he drinks tea from a beer glass",
-                      "full_vn": "không thể nào hiểu nổi vì sao nó lại uống trà bằng cốc bia"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to do anything in /within reason",
-              "list_im": [
-                {
-                  "im_full_vn": "biết phải trái",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'll do anything within reason to earn my living",
-                      "full_vn": "tôi sẽ làm bất cứ việc gì hợp lý để kiếm sống"
                     }
                   ]
                 }
@@ -176,20 +134,6 @@
               "list_im": [
                 {
                   "im_full_vn": "xem rhyme"
-                }
-              ]
-            },
-            {
-              "id_full_en": "it /that stands to reason",
-              "list_im": [
-                {
-                  "im_full_vn": "điều đó là hiển nhiên đối với mọi người",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it stands to reason that nobody will work without pay",
-                      "full_vn": "hiển nhiên là chẳng có ai lại đi làm không công"
-                    }
-                  ]
                 }
               ]
             },
@@ -254,42 +198,6 @@
               ]
             },
             {
-              "id_full_en": "to reason somebody into /out of something",
-              "list_im": [
-                {
-                  "im_full_vn": "thuyết phục ai làm/không làm điều gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to reason somebody out of his fears",
-                      "full_vn": "thuyết phục ai đừng sợ"
-                    },
-                    {
-                      "full_en": "she was reasoned into a sensible course of action",
-                      "full_vn": "cô ấy được thuyết phục để hành động theo một hướng hợp lý"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to reason somebody into /out of something",
-              "list_im": [
-                {
-                  "im_full_vn": "thuyết phục ai làm/không làm điều gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to reason somebody out of his fears",
-                      "full_vn": "thuyết phục ai đừng sợ"
-                    },
-                    {
-                      "full_en": "she was reasoned into a sensible course of action",
-                      "full_vn": "cô ấy được thuyết phục để hành động theo một hướng hợp lý"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to reason something out",
               "list_im": [
                 {
@@ -298,56 +206,6 @@
                     {
                       "full_en": "the detective tried to reason out how the thief had escaped",
                       "full_vn": "người thám tử cố gắng suy ra tên trộm đã trốn thoát bằng cách nào"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to reason something out",
-              "list_im": [
-                {
-                  "im_full_vn": "suy ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the detective tried to reason out how the thief had escaped",
-                      "full_vn": "người thám tử cố gắng suy ra tên trộm đã trốn thoát bằng cách nào"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to reason with somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "tranh luận với ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I reasoned with her for hours about the danger , but she would not change her mind",
-                      "full_vn": "tôi tranh luận với bà ta hàng giờ về mối nguy hiểm, nhưng bà ta không muốnthay đổi ý kiến"
-                    },
-                    {
-                      "full_en": "there's no reasoning with that woman",
-                      "full_vn": "không thể nào tranh luận với người đàn bà đó"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to reason with somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "tranh luận với ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I reasoned with her for hours about the danger , but she would not change her mind",
-                      "full_vn": "tôi tranh luận với bà ta hàng giờ về mối nguy hiểm, nhưng bà ta không muốnthay đổi ý kiến"
-                    },
-                    {
-                      "full_en": "there's no reasoning with that woman",
-                      "full_vn": "không thể nào tranh luận với người đàn bà đó"
                     }
                   ]
                 }

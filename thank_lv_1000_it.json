@@ -43,42 +43,6 @@
               ]
             },
             {
-              "id_full_en": "I'll thank you for something /to do something",
-              "list_im": [
-                {
-                  "im_full_vn": "xin; yêu cầu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I will thank you for the satchel",
-                      "full_vn": "xin ông vui lòng đưa tôi cái cặp"
-                    },
-                    {
-                      "full_en": "I will thank you to shut the window",
-                      "full_vn": "xin ông vui lòng đóng giúp cái cửa sổ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "I'll thank you for something /to do something",
-              "list_im": [
-                {
-                  "im_full_vn": "xin; yêu cầu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I will thank you for the satchel",
-                      "full_vn": "xin ông vui lòng đưa tôi cái cặp"
-                    },
-                    {
-                      "full_en": "I will thank you to shut the window",
-                      "full_vn": "xin ông vui lòng đóng giúp cái cửa sổ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "no , thank you",
               "list_im": [
                 {
@@ -101,60 +65,10 @@
               ]
             },
             {
-              "id_full_en": "thank God /goodness /heaven (s)",
-              "list_im": [
-                {
-                  "im_full_vn": "(dùng để bày tỏ sự bớt căng thẳng, giảm lo âu, sự vui mừng) tạ ơn Chúa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "thank God you're safe !",
-                      "full_vn": "nhờ trời, anh đã bình an vô sự!"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to thank one's lucky stars",
               "list_im": [
                 {
                   "im_full_vn": "cảm thấy rất may mắn"
-                }
-              ]
-            },
-            {
-              "id_full_en": "thank you",
-              "list_im": [
-                {
-                  "im_full_vn": "(dùng để bày tỏ sự biết ơn hoặc chấp nhận một lời mời...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Thank you for giving me a lift",
-                      "full_vn": "cám ơn anh đã cho tôi đi nhờ xe"
-                    },
-                    {
-                      "full_en": "thank you very much indeed",
-                      "full_vn": "thật tình rất cám ơn anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "thank you",
-              "list_im": [
-                {
-                  "im_full_vn": "(dùng để bày tỏ sự biết ơn hoặc chấp nhận một lời mời...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Thank you for giving me a lift",
-                      "full_vn": "cám ơn anh đã cho tôi đi nhờ xe"
-                    },
-                    {
-                      "full_en": "thank you very much indeed",
-                      "full_vn": "thật tình rất cám ơn anh"
-                    }
-                  ]
                 }
               ]
             },

@@ -141,20 +141,6 @@
               ]
             },
             {
-              "id_full_en": "to make ready (for something )",
-              "list_im": [
-                {
-                  "im_full_vn": "chuẩn bị",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to make ready for the Queen's visit",
-                      "full_vn": "chuẩn bị cho cuộc viếng thăm của Nữ hoàng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "ready and waiting",
               "list_im": [
                 {
@@ -200,42 +186,6 @@
         {
           "m_full_vn": "( the ready ) tiền mặt",
           "list_one_mean": [
-            {
-              "id_full_en": "at the ready",
-              "list_im": [
-                {
-                  "im_full_vn": "(về súng trường) ở tư thế sẵn sàng bắn; sẵn sàng hành động tức khắc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "reserve troops held at the ready",
-                      "full_vn": "quân dự bị đang ở tư thế sẵn sàng chiến đấu"
-                    },
-                    {
-                      "full_en": "he had his camera at the ready",
-                      "full_vn": "anh ấy chuẩn bị máy ảnh sẵn sàng chụp"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at the ready",
-              "list_im": [
-                {
-                  "im_full_vn": "(về súng trường) ở tư thế sẵn sàng bắn; sẵn sàng hành động tức khắc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "reserve troops held at the ready",
-                      "full_vn": "quân dự bị đang ở tư thế sẵn sàng chiến đấu"
-                    },
-                    {
-                      "full_en": "he had his camera at the ready",
-                      "full_vn": "anh ấy chuẩn bị máy ảnh sẵn sàng chụp"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "at the ready",
               "list_im": [

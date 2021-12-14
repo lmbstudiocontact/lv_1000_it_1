@@ -200,17 +200,6 @@
               ]
             },
             {
-              "id_full_en": "to see about",
-              "list_im": [
-                {
-                  "im_full_vn": "tìm kiếm, điều tra, xem lại"
-                },
-                {
-                  "im_full_vn": "chăm nom, săn sóc, lo liệu, đảm đương (việc gì)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to see after",
               "list_im": [
                 {
@@ -230,31 +219,6 @@
               ]
             },
             {
-              "id_full_en": "to see into",
-              "list_im": [
-                {
-                  "im_full_vn": "điều tra, nghiên cứu, xem xét kỹ lưỡng"
-                },
-                {
-                  "im_full_vn": "hiểu rõ được, thấy rõ được bản chất (của vấn đề gì)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to see off",
-              "list_im": [
-                {
-                  "im_full_vn": "tiễn (ai...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to see somebody off at the station",
-                      "full_vn": "ra ga tiễn ai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to see off",
               "list_im": [
                 {
@@ -279,62 +243,6 @@
                 },
                 {
                   "im_full_vn": "tiễn (ai) ra tận cửa"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to see out",
-              "list_im": [
-                {
-                  "im_full_vn": "hoàn thành, thực hiện đến cùng, làm đến cùng"
-                },
-                {
-                  "im_full_vn": "sự đến cùng, xem đến hết (một vở kịch...)"
-                },
-                {
-                  "im_full_vn": "tiễn (ai) ra tận cửa"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to see out",
-              "list_im": [
-                {
-                  "im_full_vn": "hoàn thành, thực hiện đến cùng, làm đến cùng"
-                },
-                {
-                  "im_full_vn": "sự đến cùng, xem đến hết (một vở kịch...)"
-                },
-                {
-                  "im_full_vn": "tiễn (ai) ra tận cửa"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to see through",
-              "list_im": [
-                {
-                  "im_full_vn": "nhìn thấy, thấy rõ bản chất (sự việc...)"
-                },
-                {
-                  "im_full_vn": "thực hiện đến cùng, làm đến cùng"
-                },
-                {
-                  "im_full_vn": "giúp ai vượt được (khó khăn...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to see through",
-              "list_im": [
-                {
-                  "im_full_vn": "nhìn thấy, thấy rõ bản chất (sự việc...)"
-                },
-                {
-                  "im_full_vn": "thực hiện đến cùng, làm đến cùng"
-                },
-                {
-                  "im_full_vn": "giúp ai vượt được (khó khăn...)"
                 }
               ]
             },
@@ -384,31 +292,6 @@
                 },
                 {
                   "im_full_vn": "tôi sẽ xem lại vấn đề ấy"
-                }
-              ]
-            },
-            {
-              "id_full_en": "I'll see about",
-              "list_im": [
-                {
-                  "im_full_vn": "tôi sẽ phụ trách (bảo đảm) việc ấy"
-                },
-                {
-                  "im_full_vn": "tôi sẽ xem lại vấn đề ấy"
-                }
-              ]
-            },
-            {
-              "id_full_en": "seeing that",
-              "list_im": [
-                {
-                  "im_full_vn": "xét thấy rằng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "seeing that no other course is open to us ...",
-                      "full_vn": "xét thấy rằng không có con đường nào khác cho chúng ta..."
-                    }
-                  ]
                 }
               ]
             },

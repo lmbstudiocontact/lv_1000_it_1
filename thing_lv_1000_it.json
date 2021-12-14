@@ -151,20 +151,6 @@
               ]
             },
             {
-              "id_full_en": "all things considered",
-              "list_im": [
-                {
-                  "im_full_vn": "sau khi cân nhắc kỹ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "all things considered , we're doing quite well",
-                      "full_vn": "sau khi cân nhắc kỹ thì thấy chúng ta đã làm khá tốt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "as a general thing",
               "list_im": [
                 {
@@ -219,20 +205,6 @@
               ]
             },
             {
-              "id_full_en": "be a good thing (that )..",
-              "list_im": [
-                {
-                  "im_full_vn": "may mắn rằng..",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "It's a good thing we brought the umbrella",
-                      "full_vn": "thật may là chúng ta đã đem theo dù"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "a close /near thing",
               "list_im": [
                 {
@@ -267,31 +239,6 @@
                       "full_vn": "trước hết là tôi không có tiền; sau nữa là tôi quá bận"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "for one thing",
-              "list_im": [
-                {
-                  "im_full_vn": "(dùng để đưa ra một lý do về cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "for one thing , I've no money ; and for another I'm too busy",
-                      "full_vn": "trước hết là tôi không có tiền; sau nữa là tôi quá bận"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to have a thing about somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) bị ai/cái gì ám ảnh"
-                },
-                {
-                  "im_full_vn": "(thông tục) có định kiến với ai/cái gì"
                 }
               ]
             },

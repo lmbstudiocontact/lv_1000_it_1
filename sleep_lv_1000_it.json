@@ -55,17 +55,6 @@
               ]
             },
             {
-              "id_full_en": "go to sleep",
-              "list_im": [
-                {
-                  "im_full_vn": "ngủ"
-                },
-                {
-                  "im_full_vn": "(thông tục) bị tê dại vì không cử động được (chân, tay)"
-                }
-              ]
-            },
-            {
               "id_full_en": "put somebody to sleep",
               "list_im": [
                 {
@@ -153,20 +142,6 @@
               ]
             },
             {
-              "id_full_en": "to sleep away",
-              "list_im": [
-                {
-                  "im_full_vn": "ngủ cho qua (ngày giờ)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to sleep hours away",
-                      "full_vn": "ngủ cho qua giờ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to sleep off",
               "list_im": [
                 {
@@ -182,83 +157,6 @@
                     {
                       "full_en": "to sleep it off",
                       "full_vn": "ngủ cho giã rượu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to sleep off",
-              "list_im": [
-                {
-                  "im_full_vn": "ngủ đã sức"
-                },
-                {
-                  "im_full_vn": "ngủ cho hết (tác dụng của cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to sleep off one's headache",
-                      "full_vn": "ngủ cho hết nhức đầu"
-                    },
-                    {
-                      "full_en": "to sleep it off",
-                      "full_vn": "ngủ cho giã rượu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to sleep off",
-              "list_im": [
-                {
-                  "im_full_vn": "ngủ đã sức"
-                },
-                {
-                  "im_full_vn": "ngủ cho hết (tác dụng của cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to sleep off one's headache",
-                      "full_vn": "ngủ cho hết nhức đầu"
-                    },
-                    {
-                      "full_en": "to sleep it off",
-                      "full_vn": "ngủ cho giã rượu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to sleep off",
-              "list_im": [
-                {
-                  "im_full_vn": "ngủ đã sức"
-                },
-                {
-                  "im_full_vn": "ngủ cho hết (tác dụng của cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to sleep off one's headache",
-                      "full_vn": "ngủ cho hết nhức đầu"
-                    },
-                    {
-                      "full_en": "to sleep it off",
-                      "full_vn": "ngủ cho giã rượu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to sleep on ; to sleep upon ; to sleep over",
-              "list_im": [
-                {
-                  "im_full_vn": "gác đến ngày mai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to sleep on a question",
-                      "full_vn": "gác một vấn đề đến ngày mai"
                     }
                   ]
                 }
@@ -339,17 +237,6 @@
               "list_im": [
                 {
                   "im_full_vn": "không bị đánh thức bởi (một tiếng động..)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "sleep out",
-              "list_im": [
-                {
-                  "im_full_vn": "không ngủ ở nhà, ngủ ngoài trời"
-                },
-                {
-                  "im_full_vn": "không ngủ ở nơi làm việc (đầy tớ, người hầu trước đây)"
                 }
               ]
             },

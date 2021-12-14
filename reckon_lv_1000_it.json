@@ -86,56 +86,6 @@
               ]
             },
             {
-              "id_full_en": "to reckon something in",
-              "list_im": [
-                {
-                  "im_full_vn": "gộp cả cái gì vào trong tính toán",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "when you did your expenses , did you reckon in your taxi fares ?",
-                      "full_vn": "khi tính các món chi tiêu, anh có kể cả tiền tắc xi của anh hay không?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to reckon on somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "lập kế hoạch của mình trên cơ sở ai làm cái gì hoặc cái gì xảy ra, tin cậy vào ai/cái gì; dựa vào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "can I reckon on you to help ?",
-                      "full_vn": "tôi có thể trông cậy anh giúp đỡ được không?"
-                    },
-                    {
-                      "full_en": "we're reckoning on moving house in May",
-                      "full_vn": "chúng tôi dự định đến tháng năm sẽ dọn nhà"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to reckon on somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "lập kế hoạch của mình trên cơ sở ai làm cái gì hoặc cái gì xảy ra, tin cậy vào ai/cái gì; dựa vào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "can I reckon on you to help ?",
-                      "full_vn": "tôi có thể trông cậy anh giúp đỡ được không?"
-                    },
-                    {
-                      "full_en": "we're reckoning on moving house in May",
-                      "full_vn": "chúng tôi dự định đến tháng năm sẽ dọn nhà"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to reckon on somebody /something",
               "list_im": [
                 {
@@ -168,20 +118,6 @@
               ]
             },
             {
-              "id_full_en": "to reckon something up",
-              "list_im": [
-                {
-                  "im_full_vn": "tìm tổng cộng hoặc tổng số cái gì; cộng sổ cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to reckon up bills /accounts /costs",
-                      "full_vn": "tính tổng cộng các hoá đơn/tài khoản/chi phí"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to reckon with somebody /something",
               "list_im": [
                 {
@@ -194,56 +130,6 @@
                     {
                       "full_en": "a force /fact /person to be reckoned with",
                       "full_vn": "một lực lượng/sự việc/con người cần được tính đến"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to reckon with somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "coi ai/cái gì là quan trọng; tính toán đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they had many difficulties to reckon with",
-                      "full_vn": "họ phải tính toán đến nhiều khó khăn"
-                    },
-                    {
-                      "full_en": "a force /fact /person to be reckoned with",
-                      "full_vn": "một lực lượng/sự việc/con người cần được tính đến"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to reckon with somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "coi ai/cái gì là quan trọng; tính toán đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they had many difficulties to reckon with",
-                      "full_vn": "họ phải tính toán đến nhiều khó khăn"
-                    },
-                    {
-                      "full_en": "a force /fact /person to be reckoned with",
-                      "full_vn": "một lực lượng/sự việc/con người cần được tính đến"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to reckon without somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "không coi ai/cái gì là quan trọng; không đếm xỉa đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we wanted a quiet holiday , but we had reckoned without the children",
-                      "full_vn": "chúng tôi muốn có một kỳ nghỉ yên tĩnh, nhưng chúng tôi đã quên kể đến bọn trẻ con"
                     }
                   ]
                 }

@@ -116,17 +116,6 @@
               ]
             },
             {
-              "id_full_en": "to thrust forward",
-              "list_im": [
-                {
-                  "im_full_vn": "đẩy tới trước, xô ra trước"
-                },
-                {
-                  "im_full_vn": "đưa (tay) tới"
-                }
-              ]
-            },
-            {
               "id_full_en": "to thrust in",
               "list_im": [
                 {
@@ -139,17 +128,6 @@
               "list_im": [
                 {
                   "im_full_vn": "lao, xông tới"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to thrust out",
-              "list_im": [
-                {
-                  "im_full_vn": "duỗi (chân); lè (lưỡi); ưỡn (ngực)"
-                },
-                {
-                  "im_full_vn": "đuổi ra, tống ra"
                 }
               ]
             },
@@ -187,35 +165,10 @@
               ]
             },
             {
-              "id_full_en": "to thrust through",
-              "list_im": [
-                {
-                  "im_full_vn": "đâm qua, chọc qua",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to thrust one's way through the crowd",
-                      "full_vn": "len qua đám đông"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to thrust and parry",
               "list_im": [
                 {
                   "im_full_vn": "đấu tài đấu trí, tranh khôn tranh khéo"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to thrust oneself forward",
-              "list_im": [
-                {
-                  "im_full_vn": "len vào, chen để đi"
-                },
-                {
-                  "im_full_vn": "làm cho người ta để ý đến mình"
                 }
               ]
             },

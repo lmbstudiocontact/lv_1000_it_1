@@ -88,20 +88,6 @@
               ]
             },
             {
-              "id_full_en": "on paper",
-              "list_im": [
-                {
-                  "im_full_vn": "trên giấy tờ, trên lý thuyết",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "on paper it looks quite safe",
-                      "full_vn": "trên giấy tờ vấn đề có vẻ rất ổn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "paper profits",
               "list_im": [
                 {
@@ -114,17 +100,6 @@
               "list_im": [
                 {
                   "im_full_vn": "bắt đầu viết"
-                }
-              ]
-            },
-            {
-              "id_full_en": "on paper",
-              "list_im": [
-                {
-                  "im_full_vn": "lên giấy (bằng cách viết)"
-                },
-                {
-                  "im_full_vn": "trên giấy"
                 }
               ]
             },

@@ -116,80 +116,6 @@
               ]
             },
             {
-              "id_full_en": "to speak for",
-              "list_im": [
-                {
-                  "im_full_vn": "biện hộ cho (ai)"
-                },
-                {
-                  "im_full_vn": "là người phát ngôn (của ai)"
-                },
-                {
-                  "im_full_vn": "nói rõ, chứng minh cho",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "that speaks much for your courage",
-                      "full_vn": "điều đó nói rõ lòng can đảm của anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to speak for",
-              "list_im": [
-                {
-                  "im_full_vn": "biện hộ cho (ai)"
-                },
-                {
-                  "im_full_vn": "là người phát ngôn (của ai)"
-                },
-                {
-                  "im_full_vn": "nói rõ, chứng minh cho",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "that speaks much for your courage",
-                      "full_vn": "điều đó nói rõ lòng can đảm của anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to speak for",
-              "list_im": [
-                {
-                  "im_full_vn": "biện hộ cho (ai)"
-                },
-                {
-                  "im_full_vn": "là người phát ngôn (của ai)"
-                },
-                {
-                  "im_full_vn": "nói rõ, chứng minh cho",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "that speaks much for your courage",
-                      "full_vn": "điều đó nói rõ lòng can đảm của anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to speak of",
-              "list_im": [
-                {
-                  "im_full_vn": "nói về, đề cập đến; viết đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "nothing to speak of",
-                      "full_vn": "chẳng có gì đáng nói"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to speak of",
               "list_im": [
                 {
@@ -221,40 +147,6 @@
               ]
             },
             {
-              "id_full_en": "to speak out",
-              "list_im": [
-                {
-                  "im_full_vn": "nói to, nói lớn"
-                },
-                {
-                  "im_full_vn": "nói thẳng, nói toạc ý kiến của mình",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to speak out one's mind",
-                      "full_vn": "nghĩ sao nói vậy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to speak out",
-              "list_im": [
-                {
-                  "im_full_vn": "nói to, nói lớn"
-                },
-                {
-                  "im_full_vn": "nói thẳng, nói toạc ý kiến của mình",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to speak out one's mind",
-                      "full_vn": "nghĩ sao nói vậy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to speak to",
               "list_im": [
                 {
@@ -268,51 +160,6 @@
                       "full_vn": "tôi có thể khẳng định là anh ta có đến đó"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to speak to",
-              "list_im": [
-                {
-                  "im_full_vn": "nói về (điều gì) (với ai)"
-                },
-                {
-                  "im_full_vn": "khẳng định (điều gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I can speak to his having been there",
-                      "full_vn": "tôi có thể khẳng định là anh ta có đến đó"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to speak to",
-              "list_im": [
-                {
-                  "im_full_vn": "nói về (điều gì) (với ai)"
-                },
-                {
-                  "im_full_vn": "khẳng định (điều gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I can speak to his having been there",
-                      "full_vn": "tôi có thể khẳng định là anh ta có đến đó"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to speak up",
-              "list_im": [
-                {
-                  "im_full_vn": "nói to hơn"
-                },
-                {
-                  "im_full_vn": "nói thẳng, nói toạc ý kiến của mình"
                 }
               ]
             },

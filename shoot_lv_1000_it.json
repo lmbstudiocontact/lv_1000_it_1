@@ -188,40 +188,6 @@
               ]
             },
             {
-              "id_full_en": "to shoot away",
-              "list_im": [
-                {
-                  "im_full_vn": "bắn bay đi, bắn văng đi"
-                },
-                {
-                  "im_full_vn": "bắn hết (đạn)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to shoot away all one's ammunition",
-                      "full_vn": "bắn hết đạn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to shoot away",
-              "list_im": [
-                {
-                  "im_full_vn": "bắn bay đi, bắn văng đi"
-                },
-                {
-                  "im_full_vn": "bắn hết (đạn)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to shoot away all one's ammunition",
-                      "full_vn": "bắn hết đạn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to shoot down",
               "list_im": [
                 {
@@ -237,45 +203,6 @@
                 },
                 {
                   "im_full_vn": "đâm chồi (cây)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to shoot forth",
-              "list_im": [
-                {
-                  "im_full_vn": "thoáng qua như chớp, thoảng qua như gió"
-                },
-                {
-                  "im_full_vn": "đâm chồi (cây)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to shoot up",
-              "list_im": [
-                {
-                  "im_full_vn": "lớn mau, lớn nhanh, lớn vọt"
-                },
-                {
-                  "im_full_vn": "bắn trúng nhiều phát"
-                },
-                {
-                  "im_full_vn": "(thông tục) khủng bố; triệt hạ"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to shoot up",
-              "list_im": [
-                {
-                  "im_full_vn": "lớn mau, lớn nhanh, lớn vọt"
-                },
-                {
-                  "im_full_vn": "bắn trúng nhiều phát"
-                },
-                {
-                  "im_full_vn": "(thông tục) khủng bố; triệt hạ"
                 }
               ]
             },

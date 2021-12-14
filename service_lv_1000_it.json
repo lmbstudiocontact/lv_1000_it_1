@@ -270,34 +270,6 @@
               ]
             },
             {
-              "id_full_en": "at somebody's service",
-              "list_im": [
-                {
-                  "im_full_vn": "sẵn sàng giúp ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "if you need advice , I am at your service",
-                      "full_vn": "nếu anh cần lời khuyên, tôi sẵn sàng giúp anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be of service to somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "có ích, giúp ích",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "can I be of service to you in organizing the trip ?",
-                      "full_vn": "liệu tôi có thể giúp gì cho anh trong việc tổ chức chuyến đi?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to be of service to somebody",
               "list_im": [
                 {
@@ -316,72 +288,6 @@
               "list_im": [
                 {
                   "im_full_vn": "xem press"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to see service in something",
-              "list_im": [
-                {
-                  "im_full_vn": "phục vụ trong lực lượng vũ trang; (đồ vật) xài tốt",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he saw service as an infantry officer in the last war",
-                      "full_vn": "anh ấy phục vụ với tư cách là sĩ quan bộ binh trong cuộc chiến vừa qua"
-                    },
-                    {
-                      "full_en": "he has seen service in many different parts of the world",
-                      "full_vn": "ông ấy đã phục vụ trong quân đội ở nhiều nơi trên thế giới"
-                    },
-                    {
-                      "full_en": "these old boots have certainly seen some service",
-                      "full_vn": "đôi giày cũ này chắc chắn đã khá hữu dụng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to see service in something",
-              "list_im": [
-                {
-                  "im_full_vn": "phục vụ trong lực lượng vũ trang; (đồ vật) xài tốt",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he saw service as an infantry officer in the last war",
-                      "full_vn": "anh ấy phục vụ với tư cách là sĩ quan bộ binh trong cuộc chiến vừa qua"
-                    },
-                    {
-                      "full_en": "he has seen service in many different parts of the world",
-                      "full_vn": "ông ấy đã phục vụ trong quân đội ở nhiều nơi trên thế giới"
-                    },
-                    {
-                      "full_en": "these old boots have certainly seen some service",
-                      "full_vn": "đôi giày cũ này chắc chắn đã khá hữu dụng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to see service in something",
-              "list_im": [
-                {
-                  "im_full_vn": "phục vụ trong lực lượng vũ trang; (đồ vật) xài tốt",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he saw service as an infantry officer in the last war",
-                      "full_vn": "anh ấy phục vụ với tư cách là sĩ quan bộ binh trong cuộc chiến vừa qua"
-                    },
-                    {
-                      "full_en": "he has seen service in many different parts of the world",
-                      "full_vn": "ông ấy đã phục vụ trong quân đội ở nhiều nơi trên thế giới"
-                    },
-                    {
-                      "full_en": "these old boots have certainly seen some service",
-                      "full_vn": "đôi giày cũ này chắc chắn đã khá hữu dụng"
-                    }
-                  ]
                 }
               ]
             },

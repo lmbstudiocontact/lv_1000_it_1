@@ -90,20 +90,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "id_full_en": "in train",
-              "list_im": [
-                {
-                  "im_full_vn": "sẵn sàng, đã được chuẩn bị",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "all is now in train",
-                      "full_vn": "tất cả đều đã sẵn sàng"
-                    }
-                  ]
-                }
-              ]
             }
           ]
         }

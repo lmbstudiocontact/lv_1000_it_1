@@ -76,80 +76,10 @@
               ]
             },
             {
-              "id_full_en": "to seek out",
-              "list_im": [
-                {
-                  "im_full_vn": "tìm, nhằm tìm (ai)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to seek out the author of a murder",
-                      "full_vn": "tìm thủ phạm cho vụ giết người"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "tìm thấy"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to seek out",
-              "list_im": [
-                {
-                  "im_full_vn": "tìm, nhằm tìm (ai)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to seek out the author of a murder",
-                      "full_vn": "tìm thủ phạm cho vụ giết người"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "tìm thấy"
-                }
-              ]
-            },
-            {
               "id_full_en": "to seek through",
               "list_im": [
                 {
                   "im_full_vn": "lục tìm, lục soát"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be to seek (much to seek )",
-              "list_im": [
-                {
-                  "im_full_vn": "còn thiếu, còn cần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "good teacher are to seek",
-                      "full_vn": "còn thiếu nhiều giáo viên giỏi"
-                    },
-                    {
-                      "full_en": "to be to seek in grammar",
-                      "full_vn": "cần phải học thêm ngữ pháp"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be to seek (much to seek )",
-              "list_im": [
-                {
-                  "im_full_vn": "còn thiếu, còn cần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "good teacher are to seek",
-                      "full_vn": "còn thiếu nhiều giáo viên giỏi"
-                    },
-                    {
-                      "full_en": "to be to seek in grammar",
-                      "full_vn": "cần phải học thêm ngữ pháp"
-                    }
-                  ]
                 }
               ]
             },

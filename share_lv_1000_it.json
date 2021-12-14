@@ -59,20 +59,6 @@
               ]
             },
             {
-              "id_full_en": "to go shares (with somebody ) (in something )",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) phần chia (lợi nhuận, chi phí...) bằng nhau với người khác; chia đều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "let me go shares with you in the taxi fare",
-                      "full_vn": "cho phép tôi chia đều với anh tiền tắc xi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "the lion's share",
               "list_im": [
                 {
@@ -188,20 +174,6 @@
         {
           "m_full_vn": "( to share something with somebody ) nói với ai về cái gì",
           "list_one_mean": [
-            {
-              "id_full_en": "share and share alike",
-              "list_im": [
-                {
-                  "im_full_vn": "(tục ngữ) chia các thứ một cách đồng đều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Don't be so selfish - it's share and share alike in this house",
-                      "full_vn": "Đừng ích kỷ như thế - trong nhà này mọi thứ chia đều"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "share and share alike",
               "list_im": [

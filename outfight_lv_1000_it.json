@@ -1,0 +1,23 @@
+{
+  "english": "outfight",
+  "phat_am": "[,aut'fait]",
+  "list_type": [
+    {
+      "type": "ngoại động từ outfought",
+      "list_m": [
+        {
+          "m_full_vn": "đánh thắng"
+        },
+        {
+          "m_full_vn": "đánh giỏi hơn",
+          "list_en_vn": [
+            {
+              "full_en": "they were outfought throughout the winter campaign",
+              "full_vn": "họ đã bị đánh bại suốt chiến dịch mùa đông"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -280,31 +280,6 @@
               ]
             },
             {
-              "id_full_en": "to strike at",
-              "list_im": [
-                {
-                  "im_full_vn": "nhằm vào, đánh vào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to strike at the root of something",
-                      "full_vn": "doạ triệt cái gì đến tận gốc"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to strike back",
-              "list_im": [
-                {
-                  "im_full_vn": "đánh trả lại"
-                },
-                {
-                  "im_full_vn": "đi trở lại"
-                }
-              ]
-            },
-            {
               "id_full_en": "to strike back",
               "list_im": [
                 {
@@ -328,98 +303,6 @@
               "list_im": [
                 {
                   "im_full_vn": "chặt đứt, xoá bỏ; bớt đi"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to strike out",
-              "list_im": [
-                {
-                  "im_full_vn": "xoá bỏ, gạch bỏ"
-                },
-                {
-                  "im_full_vn": "( + at ) đấm (ai); vung (tay chân khi bơi)"
-                },
-                {
-                  "im_full_vn": "lao vụt đi (người bơi...)"
-                },
-                {
-                  "im_full_vn": "nghĩ ra, đề ra (kế hoạch...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to strike out a line for oneself",
-                      "full_vn": "nghĩ ra được một đường lối độc đáo; to ra có óc sáng tạo"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to strike out",
-              "list_im": [
-                {
-                  "im_full_vn": "xoá bỏ, gạch bỏ"
-                },
-                {
-                  "im_full_vn": "( + at ) đấm (ai); vung (tay chân khi bơi)"
-                },
-                {
-                  "im_full_vn": "lao vụt đi (người bơi...)"
-                },
-                {
-                  "im_full_vn": "nghĩ ra, đề ra (kế hoạch...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to strike out a line for oneself",
-                      "full_vn": "nghĩ ra được một đường lối độc đáo; to ra có óc sáng tạo"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to strike out",
-              "list_im": [
-                {
-                  "im_full_vn": "xoá bỏ, gạch bỏ"
-                },
-                {
-                  "im_full_vn": "( + at ) đấm (ai); vung (tay chân khi bơi)"
-                },
-                {
-                  "im_full_vn": "lao vụt đi (người bơi...)"
-                },
-                {
-                  "im_full_vn": "nghĩ ra, đề ra (kế hoạch...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to strike out a line for oneself",
-                      "full_vn": "nghĩ ra được một đường lối độc đáo; to ra có óc sáng tạo"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to strike out",
-              "list_im": [
-                {
-                  "im_full_vn": "xoá bỏ, gạch bỏ"
-                },
-                {
-                  "im_full_vn": "( + at ) đấm (ai); vung (tay chân khi bơi)"
-                },
-                {
-                  "im_full_vn": "lao vụt đi (người bơi...)"
-                },
-                {
-                  "im_full_vn": "nghĩ ra, đề ra (kế hoạch...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to strike out a line for oneself",
-                      "full_vn": "nghĩ ra được một đường lối độc đáo; to ra có óc sáng tạo"
-                    }
-                  ]
                 }
               ]
             },
@@ -482,17 +365,6 @@
               ]
             },
             {
-              "id_full_en": "to strike oil",
-              "list_im": [
-                {
-                  "im_full_vn": "đào đúng mạch dầu"
-                },
-                {
-                  "im_full_vn": "làm ăn phát đạt"
-                }
-              ]
-            },
-            {
               "id_full_en": "to strike up an acquaintance",
               "list_im": [
                 {
@@ -528,17 +400,6 @@
               ]
             },
             {
-              "id_full_en": "to strike it rich",
-              "list_im": [
-                {
-                  "im_full_vn": "dò đúng mạch mỏ... có trữ lượng cao"
-                },
-                {
-                  "im_full_vn": "phất"
-                }
-              ]
-            },
-            {
               "id_full_en": "to strike in a talk with a suggestion",
               "list_im": [
                 {
@@ -559,20 +420,6 @@
               "list_im": [
                 {
                   "im_full_vn": "(nói về một băng nhạc...) bắt đầu chơi (một bản nhạc)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to strike up something (with somebody )",
-              "list_im": [
-                {
-                  "im_full_vn": "bắt đầu (tình bạn, sự quen biết, cuộc đàm luận...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to strike up conversations with foreigners",
-                      "full_vn": "bắt chuyện với những người nước ngoài"
-                    }
-                  ]
                 }
               ]
             },

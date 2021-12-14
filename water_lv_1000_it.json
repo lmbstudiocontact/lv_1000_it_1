@@ -186,20 +186,6 @@
               ]
             },
             {
-              "id_full_en": "like a fish out of water",
-              "list_im": [
-                {
-                  "im_full_vn": "như cá trên cạn; lạc lõng bỡ ngỡ trong một môi trường mới lạ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I really feel like a fish out of water among the gang of snobs",
-                      "full_vn": "Tôi thực sự cảm thấy lạc lõng giữa cái đám trưởng giả học làm sang"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to throw cold water on",
               "list_im": [
                 {
@@ -246,38 +232,10 @@
               ]
             },
             {
-              "id_full_en": "like water",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) rất nhiều, một cách lãng phí, một cách vội vã",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to spend money like water",
-                      "full_vn": "tiêu tiền như nước"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "under water",
               "list_im": [
                 {
                   "im_full_vn": "dưới mặt nước bị ngập nước"
-                }
-              ]
-            },
-            {
-              "id_full_en": "(like ) water off a duck's back",
-              "list_im": [
-                {
-                  "im_full_vn": "nước đổ đầu vịt (không có tác dụng đối với ai; nhất là những lời phê bình, chỉ trích..)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Their remarks about his behaviour were (like ) water off a duck's back",
-                      "full_vn": "Những lời nhận xét của họ về hạnh kiểm của hắn chẳng khác nào nước đổ đầu vịt"
-                    }
-                  ]
                 }
               ]
             },
@@ -378,42 +336,6 @@
         {
           "m_full_vn": "chảy nước, ứa nước",
           "list_one_mean": [
-            {
-              "id_full_en": "to water down",
-              "list_im": [
-                {
-                  "im_full_vn": "giảm bớt đi, làm dịu đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to water down the details of a story",
-                      "full_vn": "làm cho chi tiết của câu chuyện bớt đậm nét"
-                    },
-                    {
-                      "full_en": "to water down a blame",
-                      "full_vn": "trách khéo, trách ngọt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to water down",
-              "list_im": [
-                {
-                  "im_full_vn": "giảm bớt đi, làm dịu đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to water down the details of a story",
-                      "full_vn": "làm cho chi tiết của câu chuyện bớt đậm nét"
-                    },
-                    {
-                      "full_en": "to water down a blame",
-                      "full_vn": "trách khéo, trách ngọt"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "to water down",
               "list_im": [

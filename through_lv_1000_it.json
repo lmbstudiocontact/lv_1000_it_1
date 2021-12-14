@@ -160,60 +160,10 @@
               ]
             },
             {
-              "id_full_en": "all through",
-              "list_im": [
-                {
-                  "im_full_vn": "suốt từ đầu đến cuối",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I knew that all through",
-                      "full_vn": "tôi biết cái đó từ đầu đến cuối"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to be through with somebody /something",
               "list_im": [
                 {
                   "im_full_vn": "chấm dứt (tình bạn) với ai; dứt bỏ (thói quen)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "through and through",
-              "list_im": [
-                {
-                  "im_full_vn": "hoàn toàn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "He's an Englishman through and through",
-                      "full_vn": "ông ta là người Anh chính cống"
-                    },
-                    {
-                      "full_en": "we've been friends so long I know you through and through",
-                      "full_vn": "chúng ta thân nhau đã lâu, nên tôi biết anh rất rõ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "through and through",
-              "list_im": [
-                {
-                  "im_full_vn": "hoàn toàn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "He's an Englishman through and through",
-                      "full_vn": "ông ta là người Anh chính cống"
-                    },
-                    {
-                      "full_en": "we've been friends so long I know you through and through",
-                      "full_vn": "chúng ta thân nhau đã lâu, nên tôi biết anh rất rõ"
-                    }
-                  ]
                 }
               ]
             },

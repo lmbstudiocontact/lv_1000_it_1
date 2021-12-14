@@ -168,42 +168,6 @@
               ]
             },
             {
-              "id_full_en": "to make use of something /somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "dùng hoặc được lợi từ cái gì/ai; lợi dụng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "make full use of every chance you have to speak English",
-                      "full_vn": "hãy tận dụng mọi cơ hội có được để nói tiếng Anh"
-                    },
-                    {
-                      "full_en": "we'll make good use of her talents",
-                      "full_vn": "chúng tôi sẽ tận dụng tài năng của cô ta"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to make use of something /somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "dùng hoặc được lợi từ cái gì/ai; lợi dụng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "make full use of every chance you have to speak English",
-                      "full_vn": "hãy tận dụng mọi cơ hội có được để nói tiếng Anh"
-                    },
-                    {
-                      "full_en": "we'll make good use of her talents",
-                      "full_vn": "chúng tôi sẽ tận dụng tài năng của cô ta"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "no earthly use",
               "list_im": [
                 {
@@ -220,34 +184,6 @@
                     {
                       "full_en": "these maps might be of (some ) use to you on your trip",
                       "full_vn": "những bản đồ này có thể sẽ có ích cho anh trong chuyến đi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "of use",
-              "list_im": [
-                {
-                  "im_full_vn": "có ích; hữu ích",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "these maps might be of (some ) use to you on your trip",
-                      "full_vn": "những bản đồ này có thể sẽ có ích cho anh trong chuyến đi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to put something to good use",
-              "list_im": [
-                {
-                  "im_full_vn": "lợi dụng cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he'll be able to put his experience in the new job",
-                      "full_vn": "anh ta sẽ tận dụng được kinh nghiệm bản thân trong công việc mới"
                     }
                   ]
                 }
@@ -378,90 +314,10 @@
               ]
             },
             {
-              "id_full_en": "I could use a drink",
-              "list_im": [
-                {
-                  "im_full_vn": "tôi rất muốn uống một cái gì đó",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "boy , could I use hot bath ?",
-                      "full_vn": "này anh bạn, tôi muốn tắm nước nóng!"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to use one's loaf",
               "list_im": [
                 {
                   "im_full_vn": "suy nghĩ có kết quả, sử dụng trí thông minh"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to use something up",
-              "list_im": [
-                {
-                  "im_full_vn": "dùng (vật liệu...) chjo đến hết không còn gì, tận dụng; dùng hoặc làm cho cái gì mệt đến kiệt sức",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I've used up all the glue",
-                      "full_vn": "tôi đã dùng hết sạch keo dán"
-                    },
-                    {
-                      "full_en": "she used up the chicken bones to make soup",
-                      "full_vn": "cô ta tận dụng xương gà để nấu súp"
-                    },
-                    {
-                      "full_en": "to use up all one's strength /energy",
-                      "full_vn": "dùng hết sức mạnh/nghị lực của mình"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to use something up",
-              "list_im": [
-                {
-                  "im_full_vn": "dùng (vật liệu...) chjo đến hết không còn gì, tận dụng; dùng hoặc làm cho cái gì mệt đến kiệt sức",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I've used up all the glue",
-                      "full_vn": "tôi đã dùng hết sạch keo dán"
-                    },
-                    {
-                      "full_en": "she used up the chicken bones to make soup",
-                      "full_vn": "cô ta tận dụng xương gà để nấu súp"
-                    },
-                    {
-                      "full_en": "to use up all one's strength /energy",
-                      "full_vn": "dùng hết sức mạnh/nghị lực của mình"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to use something up",
-              "list_im": [
-                {
-                  "im_full_vn": "dùng (vật liệu...) chjo đến hết không còn gì, tận dụng; dùng hoặc làm cho cái gì mệt đến kiệt sức",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I've used up all the glue",
-                      "full_vn": "tôi đã dùng hết sạch keo dán"
-                    },
-                    {
-                      "full_en": "she used up the chicken bones to make soup",
-                      "full_vn": "cô ta tận dụng xương gà để nấu súp"
-                    },
-                    {
-                      "full_en": "to use up all one's strength /energy",
-                      "full_vn": "dùng hết sức mạnh/nghị lực của mình"
-                    }
-                  ]
                 }
               ]
             },

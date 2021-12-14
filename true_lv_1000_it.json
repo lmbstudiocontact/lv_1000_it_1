@@ -163,20 +163,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "id_full_en": "out of true",
-              "list_im": [
-                {
-                  "im_full_vn": "lệch",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the door is out of true",
-                      "full_vn": "cửa ra vào bị lệch"
-                    }
-                  ]
-                }
-              ]
             }
           ]
         }

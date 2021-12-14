@@ -30,20 +30,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "id_full_en": "the hard /soft sell",
-              "list_im": [
-                {
-                  "im_full_vn": "bán cái gì một cách nhồi nhét/mời mọc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they're certainly giving the book the hard sell , with advertisements every night on TV",
-                      "full_vn": "tối nào cũng quảng cáo trên ti vi, chắc họ định nhồi nhét để bán cho được quyển sách"
-                    }
-                  ]
-                }
-              ]
             }
           ]
         }
@@ -240,34 +226,6 @@
               ]
             },
             {
-              "id_full_en": "to be sold out (of something )",
-              "list_im": [
-                {
-                  "im_full_vn": "đã bán hết hẳn; bán hết sạch",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we're sold out of Saturday papers",
-                      "full_vn": "báo chủ nhật đã bán sạch rồi (không còn tờ nào nữa)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to sell out",
-              "list_im": [
-                {
-                  "im_full_vn": "được bán hết",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the show has sold out",
-                      "full_vn": "buổi biểu diễn đã bán hết vé"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to sell out",
               "list_im": [
                 {
@@ -313,31 +271,6 @@
                 },
                 {
                   "im_full_vn": "không thừa nhận giá trị thực sự của cái gì/ai; đánh giá thấp"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to sell something /somebody short",
-              "list_im": [
-                {
-                  "im_full_vn": "bán (các cổ phần..) mà ta chưa có trong tay với hy vọng là có thể mua lại ngay những thứ đó với giá hạ hơn"
-                },
-                {
-                  "im_full_vn": "không thừa nhận giá trị thực sự của cái gì/ai; đánh giá thấp"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to sell oneself (to somebody )",
-              "list_im": [
-                {
-                  "im_full_vn": "nhận của đút lót (của ai) để làm điều xấu; bán rẻ mình",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the police had sold themselves to the gang leaders",
-                      "full_vn": "cảnh sát đã tự bán rẻ mình cho bọn trùm băng đảng"
-                    }
-                  ]
                 }
               ]
             },

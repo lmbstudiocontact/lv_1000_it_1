@@ -120,20 +120,6 @@
               ]
             },
             {
-              "id_full_en": "at a touch",
-              "list_im": [
-                {
-                  "im_full_vn": "nếu như động nhẹ vào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the machine stops and starts at a touch",
-                      "full_vn": "chiếc máy đó chỉ cần chạm nhẹ vào là khởi động hoặc tắt ngay"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "in /out of touch (with somebody )",
               "list_im": [
                 {
@@ -370,31 +356,6 @@
               ]
             },
             {
-              "id_full_en": "to touch at",
-              "list_im": [
-                {
-                  "im_full_vn": "(hàng hải) cặp, ghé, đỗ vào (bến...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to touch at a port",
-                      "full_vn": "cặp bến"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to touch down",
-              "list_im": [
-                {
-                  "im_full_vn": "(thể dục,thể thao) chạm đường biên ngang"
-                },
-                {
-                  "im_full_vn": "(hàng không) hạ cánh"
-                }
-              ]
-            },
-            {
               "id_full_en": "to touch down",
               "list_im": [
                 {
@@ -416,71 +377,6 @@
                       "full_vn": "vẽ phác đôi lông mày của bức chân dung"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to touch in",
-              "list_im": [
-                {
-                  "im_full_vn": "vẽ phác, phác hoạ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to touch in the eyebrows of the portrait",
-                      "full_vn": "vẽ phác đôi lông mày của bức chân dung"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to touch off",
-              "list_im": [
-                {
-                  "im_full_vn": "cắt đứt (đường dây điện thoại, sự liên lạc bằng điện thoại)"
-                },
-                {
-                  "im_full_vn": "vẽ phác, phác hoạ"
-                },
-                {
-                  "im_full_vn": "bắn, nổ, xả, nhả (đạn)"
-                },
-                {
-                  "im_full_vn": "gây ra, phát động (phong trào phản đối...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to touch off",
-              "list_im": [
-                {
-                  "im_full_vn": "cắt đứt (đường dây điện thoại, sự liên lạc bằng điện thoại)"
-                },
-                {
-                  "im_full_vn": "vẽ phác, phác hoạ"
-                },
-                {
-                  "im_full_vn": "bắn, nổ, xả, nhả (đạn)"
-                },
-                {
-                  "im_full_vn": "gây ra, phát động (phong trào phản đối...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to touch off",
-              "list_im": [
-                {
-                  "im_full_vn": "cắt đứt (đường dây điện thoại, sự liên lạc bằng điện thoại)"
-                },
-                {
-                  "im_full_vn": "vẽ phác, phác hoạ"
-                },
-                {
-                  "im_full_vn": "bắn, nổ, xả, nhả (đạn)"
-                },
-                {
-                  "im_full_vn": "gây ra, phát động (phong trào phản đối...)"
                 }
               ]
             },
@@ -516,54 +412,6 @@
               ]
             },
             {
-              "id_full_en": "to touch on (upon )",
-              "list_im": [
-                {
-                  "im_full_vn": "bàn đến, đả động đến, nói đến, đề cập đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to touch on (upon ) a subject",
-                      "full_vn": "đề cập đến một vấn đề"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to touch up",
-              "list_im": [
-                {
-                  "im_full_vn": "tô, sửa qua",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to touch up a drawing",
-                      "full_vn": "sửa qua bức vẽ"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "quất roi vào (ngựa...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to touch up",
-              "list_im": [
-                {
-                  "im_full_vn": "tô, sửa qua",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to touch up a drawing",
-                      "full_vn": "sửa qua bức vẽ"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "quất roi vào (ngựa...)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to touch up",
               "list_im": [
                 {
@@ -591,31 +439,6 @@
                       "full_vn": "lời khen ngợi thoáng ngụ ý ghen tuông"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to touch with",
-              "list_im": [
-                {
-                  "im_full_vn": "nhuốm, đượm, ngụ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "praise touched with jealousy",
-                      "full_vn": "lời khen ngợi thoáng ngụ ý ghen tuông"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to touch bottom",
-              "list_im": [
-                {
-                  "im_full_vn": "chạm tới đáy của cái gì chứa nước"
-                },
-                {
-                  "im_full_vn": "xuống đến bùn đen"
                 }
               ]
             },

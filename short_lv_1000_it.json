@@ -186,20 +186,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "id_full_en": "for short",
-              "list_im": [
-                {
-                  "im_full_vn": "viết tắt",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "her name is ' Francis', or ' Fran' for short",
-                      "full_vn": "tên cô ấy là 'Francis', hoặc viết tắt là 'Fran'"
-                    }
-                  ]
-                }
-              ]
             }
           ]
         }

@@ -18,17 +18,6 @@
                   "im_full_vn": "giọt (nhựa...)"
                 }
               ]
-            },
-            {
-              "id_full_en": "in tears",
-              "list_im": [
-                {
-                  "im_full_vn": "đang khóc"
-                },
-                {
-                  "im_full_vn": "giọt (nhựa...)"
-                }
-              ]
             }
           ],
           "list_en_vn": [
@@ -193,32 +182,10 @@
               ]
             },
             {
-              "id_full_en": "to tear away",
-              "list_im": [
-                {
-                  "im_full_vn": "chạy vụt đi, lao đi"
-                },
-                {
-                  "im_full_vn": "giật cướp đi"
-                }
-              ]
-            },
-            {
               "id_full_en": "to tear in and out",
               "list_im": [
                 {
                   "im_full_vn": "ra vào hối hả; lao vào lao ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to tear off",
-              "list_im": [
-                {
-                  "im_full_vn": "nhổ, giật mạnh, giật phăng ra"
-                },
-                {
-                  "im_full_vn": "lao đi"
                 }
               ]
             },

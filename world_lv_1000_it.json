@@ -145,20 +145,6 @@
               ]
             },
             {
-              "id_full_en": "to be all the world to somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "là tất cả đối với ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he was all the world to his mother",
-                      "full_vn": "đối với mẹ nó thì nó là tất cả"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to carry the world before one",
               "list_im": [
                 {
@@ -183,86 +169,6 @@
                     {
                       "full_en": "I would not do it for the world",
                       "full_vn": "không đời nào tôi làm cái đó"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "for the world",
-              "list_im": [
-                {
-                  "im_full_vn": "không vì bất cứ lý do gì, không đời nào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I would not do it for the world",
-                      "full_vn": "không đời nào tôi làm cái đó"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to the world",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ lóng) hết sức, rất mực",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "drunk to the world",
-                      "full_vn": "say bí tỉ"
-                    },
-                    {
-                      "full_en": "tired to the world",
-                      "full_vn": "mệt nhoài"
-                    },
-                    {
-                      "full_en": "dead to the world",
-                      "full_vn": "chết giấc; say bí tỉ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to the world",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ lóng) hết sức, rất mực",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "drunk to the world",
-                      "full_vn": "say bí tỉ"
-                    },
-                    {
-                      "full_en": "tired to the world",
-                      "full_vn": "mệt nhoài"
-                    },
-                    {
-                      "full_en": "dead to the world",
-                      "full_vn": "chết giấc; say bí tỉ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to the world",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ lóng) hết sức, rất mực",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "drunk to the world",
-                      "full_vn": "say bí tỉ"
-                    },
-                    {
-                      "full_en": "tired to the world",
-                      "full_vn": "mệt nhoài"
-                    },
-                    {
-                      "full_en": "dead to the world",
-                      "full_vn": "chết giấc; say bí tỉ"
                     }
                   ]
                 }

@@ -155,20 +155,6 @@
               ]
             },
             {
-              "id_full_en": "to stay away from somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "giữ một khoảng cách với ai/cái gì; không can thiệp vào ai/cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "tell him to stay away from my sister !",
-                      "full_vn": "bảo nó đừng đến gần em gái tôi!"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to stay in",
               "list_im": [
                 {
@@ -181,17 +167,6 @@
               "list_im": [
                 {
                   "im_full_vn": "lưu lại thêm một thời gian nữa"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to stay out",
-              "list_im": [
-                {
-                  "im_full_vn": "ở ngoài, không về nhà"
-                },
-                {
-                  "im_full_vn": "ở lại cho đến hết (cuộc biểu diễn...)"
                 }
               ]
             },

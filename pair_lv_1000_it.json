@@ -84,20 +84,6 @@
               ]
             },
             {
-              "id_full_en": "in pairs",
-              "list_im": [
-                {
-                  "im_full_vn": "từng đôi, từng cặp; cả đôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "cuff-links are only sold in pairs",
-                      "full_vn": "khuy măng sét chỉ bán từng đôi mà thôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "that is another pair of shoes",
               "list_im": [
                 {
@@ -135,42 +121,6 @@
         {
           "m_full_vn": "( to pair A with B ) ( to pair with somebody ) (chính trị) liên minh, liên kết",
           "list_one_mean": [
-            {
-              "id_full_en": "to pair (somebody /something ) off (with somebody )",
-              "list_im": [
-                {
-                  "im_full_vn": "(làm cho ai) hình thành từng đôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "The students had all paired off by the end of term",
-                      "full_vn": "Đến cuối học kỳ, tất cả các sinh viên đều kết thành từng đôi"
-                    },
-                    {
-                      "full_en": "Her parents tried to pair her off with a rich neighbour",
-                      "full_vn": "bố mẹ nàng đã ghép duyên nàng với một người hàng xóm giàu có"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to pair (somebody /something ) off (with somebody )",
-              "list_im": [
-                {
-                  "im_full_vn": "(làm cho ai) hình thành từng đôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "The students had all paired off by the end of term",
-                      "full_vn": "Đến cuối học kỳ, tất cả các sinh viên đều kết thành từng đôi"
-                    },
-                    {
-                      "full_en": "Her parents tried to pair her off with a rich neighbour",
-                      "full_vn": "bố mẹ nàng đã ghép duyên nàng với một người hàng xóm giàu có"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "to pair (somebody /something ) off (with somebody )",
               "list_im": [

@@ -235,28 +235,6 @@
               ]
             },
             {
-              "id_full_en": "to push off",
-              "list_im": [
-                {
-                  "im_full_vn": "chống sào đẩy xa (bờ...) (thuyền)"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) ra đi, đi, khởi hành; chuồn tẩu"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to push on",
-              "list_im": [
-                {
-                  "im_full_vn": "tiếp tục, tiếp tục đi, đi tiếp"
-                },
-                {
-                  "im_full_vn": "đẩy nhanh, thúc gấp (công việc...); vội vàng"
-                }
-              ]
-            },
-            {
               "id_full_en": "to push on",
               "list_im": [
                 {
@@ -275,51 +253,6 @@
                 },
                 {
                   "im_full_vn": "(như) to push forth"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to push out",
-              "list_im": [
-                {
-                  "im_full_vn": "xô đẩy ra, đẩy ra ngoài"
-                },
-                {
-                  "im_full_vn": "(như) to push forth"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to push through",
-              "list_im": [
-                {
-                  "im_full_vn": "xô đẩy qua, xô lấn qua"
-                },
-                {
-                  "im_full_vn": "làm trọn, làm đến cùng, đưa đến chỗ kết thúc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to push the matter through",
-                      "full_vn": "cố gắng đưa vấn đề đến chỗ kết thúc, cố gắng giải quyết vấn đề"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to push through",
-              "list_im": [
-                {
-                  "im_full_vn": "xô đẩy qua, xô lấn qua"
-                },
-                {
-                  "im_full_vn": "làm trọn, làm đến cùng, đưa đến chỗ kết thúc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to push the matter through",
-                      "full_vn": "cố gắng đưa vấn đề đến chỗ kết thúc, cố gắng giải quyết vấn đề"
-                    }
-                  ]
                 }
               ]
             },

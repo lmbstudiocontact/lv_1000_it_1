@@ -181,34 +181,6 @@
               ]
             },
             {
-              "id_full_en": "to pay the penalty for something /doing something",
-              "list_im": [
-                {
-                  "im_full_vn": "đau khổ vì hành động sai trái, bất hạnh hoặc vì một sai lầm; gánh hậu quả tai hại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'm paying the penalty for drinking too much last night ; I've got a splitting headache",
-                      "full_vn": "Tôi đang chịu hậu quả vì uống quá nhiều đêm qua; tôi nhức đầu như búa bổ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to pay a /the price (for something )",
-              "list_im": [
-                {
-                  "im_full_vn": "chịu thua thiệt mất mát để đánh đổi cái gì đã giành được; trả giá",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "our troops recaptured the city , but they paid a heavy price for it",
-                      "full_vn": "quân ta đã chiếm lại thành phố, nhưng đã phải trả một giá nặng nề"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to pay a /the price (for something )",
               "list_im": [
                 {
@@ -327,34 +299,6 @@
                     {
                       "full_en": "to pay off one's debts /a loan /a mortgage",
                       "full_vn": "trả hết nợ/khoản vay/khoản cầm cố"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to pay something off",
-              "list_im": [
-                {
-                  "im_full_vn": "trả đủ (tiền nợ về cái gì); thanh toán",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to pay off one's debts /a loan /a mortgage",
-                      "full_vn": "trả hết nợ/khoản vay/khoản cầm cố"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to pay up",
-              "list_im": [
-                {
-                  "im_full_vn": "trả hết nợ, trang trải",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'll take you to court unless you pay up immediately",
-                      "full_vn": "tôi sẽ đưa anh ra toà nếu anh không trả hết nợ ngay lập tức"
                     }
                   ]
                 }
